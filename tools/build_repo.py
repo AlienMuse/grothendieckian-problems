@@ -26,7 +26,7 @@ GH = "https://github.com/AlienMuse/grothendieckian-problems"
 SITE = "https://alienmuse.github.io"
 # the three papers: Zenodo records reserved in S4 (zenodo-state.json, kept out of the repository)
 _ZS = json.loads((HERE / "zenodo-state.json").read_text(encoding="utf-8")) if (HERE / "zenodo-state.json").exists() else {}
-PAPER_DOI = {k: v["concept_doi"] for k, v in _ZS.items()}
+PAPER_DOI = {k: _ZS[k]["concept_doi"] for k in ("overview", "theses", "problems") if k in _ZS}
 DOI = {"S00": "10.5281/zenodo.23669107", "S01": "10.5281/zenodo.23480696", "S02": "10.5281/zenodo.23538544",
        "S03": "10.5281/zenodo.23564898", "S04": "10.5281/zenodo.23585887", "S05": "10.5281/zenodo.23597954",
        "S06": "10.5281/zenodo.23610034", "S07": "10.5281/zenodo.23629681"}
@@ -143,7 +143,40 @@ def main():
     rows = "\n".join(f"| [{c['num']}](problems/{c['num']:02d}.md) | {c['title']} | {c['work']} | {KIND[c['kind']]} | "
                      f"{c['level']} | {c['thesis']} |" for c in cards)
     claims = "\n".join(f"{t['num']}. **{t['title']}.** {t['claim']}" for t in theses)
-    readme = f"""# The 57 Grothendieckian Problems
+    pdf_size = {k: (HERE / "out" / f).stat().st_size / 1e6 for k, f in (("overview", "overview.pdf"), ("theses", "paper-I.pdf"),
+                                                                       ("problems", "paper-II.pdf"))}
+    d0 = PAPER_DOI.get("overview", "")
+    badge = lambda label, value, colour: (f"https://img.shields.io/badge/{label.replace('-', '--').replace(' ', '%20')}-"
+                                          f"{value.replace('-', '--').replace(' ', '%20')}-{colour}?style=flat")
+    head = f"""<p align="center">
+  <a href="https://doi.org/{d0}"><img src="assets/hero.png" alt="The 57 Grothendieckian Problems — the seven works of the Grothendieckian Programme as a seven-cell honeycomb, each cell with the range of the problems drawn from it: Series 01 problems 1–17, Series 02 18–35, Series 03 36–39, Series 04 40–43, Series 05 44–48, Series 06 49–52, Series 07 53–57" width="100%"></a>
+</p>
+
+<p align="center">
+  <a href="https://doi.org/{PAPER_DOI.get('overview', '')}"><img src="{badge('overview', 'doi ' + PAPER_DOI.get('overview', '').split('.')[-1], '1E5A88')}" alt="The overview: doi:{PAPER_DOI.get('overview', '')}"></a>
+  <a href="https://doi.org/{PAPER_DOI.get('theses', '')}"><img src="{badge('theses', 'doi ' + PAPER_DOI.get('theses', '').split('.')[-1], '1E5A88')}" alt="The theses: doi:{PAPER_DOI.get('theses', '')}"></a>
+  <a href="https://doi.org/{PAPER_DOI.get('problems', '')}"><img src="{badge('problems', 'doi ' + PAPER_DOI.get('problems', '').split('.')[-1], '1E5A88')}" alt="The problems: doi:{PAPER_DOI.get('problems', '')}"></a>
+  <a href="LICENSE"><img src="{badge('license', 'CC BY 4.0', '0A131E')}" alt="License: CC BY 4.0"></a>
+  <a href="LICENSE-CODE"><img src="{badge('code', 'Apache 2.0', '0A131E')}" alt="Code: Apache 2.0"></a>
+  <a href="{GH}/releases/tag/v1.0.0"><img src="{badge('release', '1.0', '1E5A88')}" alt="Release 1.0"></a>
+  <img src="{badge('theses', '12', '536372')}" alt="12 theses">
+  <img src="{badge('problems', '57', '536372')}" alt="57 problems">
+  <img src="{badge('Lean 4', 'Mathlib pinned', '536372')}" alt="Lean 4, Mathlib pinned">
+  <a href="https://orcid.org/0009-0000-8718-222X"><img src="{badge('ORCID', '0009-0000-8718-222X', 'A6CE39')}" alt="ORCID 0009-0000-8718-222X"></a>
+  <a href="papers/VERIFY.md"><img src="{badge('OpenPGP', 'signed', 'B8913B')}" alt="OpenPGP signed"></a>
+</p>
+
+<p align="center">
+  <b><a href="papers/The-Grothendieckian-Programme-An-Overview.pdf">Read the overview</a></b> ({pdf_size['overview']:.1f} MB) ·
+  <a href="papers/The-Rising-Sea-Theses.pdf">The theses</a> ({pdf_size['theses']:.1f} MB) ·
+  <a href="papers/The-57-Grothendieckian-Problems.pdf">The problems</a> ({pdf_size['problems']:.1f} MB) ·
+  <a href="#the-fifty-seven-problems">Problem table</a> ·
+  <a href="#taking-part">Take part</a> ·
+  <a href="{SITE}/grothendieckian-programme/">Website</a>
+</p>
+
+"""
+    readme = head + f"""# The 57 Grothendieckian Problems
 
 **An overview, twelve theses and fifty-seven open problems on mathematics and machine reasoning, drawn from the seven
 works of the [Grothendieckian Programme]({SITE}/grothendieckian-programme/).**
@@ -166,7 +199,10 @@ The thirteen figures of the three papers, with their sources and data, are in [`
 signed: [`papers/SHA256SUMS`](papers/SHA256SUMS) with its OpenPGP signature and timestamps; see
 [`papers/VERIFY.md`](papers/VERIFY.md).
 
-![The 57 Grothendieckian Problems in the seven works](figures/fig-rose.png)
+<p align="center">
+  <a href="figures/fig-rose.png"><img src="figures/fig-rose.png" alt="Figure 1 of The 57 Grothendieckian Problems: the fifty-seven problems in the seven works, in the honeycomb of the Programme; each small cell is a problem, tinted by kind, with its level as one to three dots" width="100%"></a>
+  <br><sub>Figure 1 of <i>The 57 Grothendieckian Problems</i> (600 ppi; the 13 figures of the three papers are in <a href="figures/">figures/</a>).</sub>
+</p>
 
 The seven source works ([@S01; @S02; @S03; @S04; @S05; @S06; @S07]; overview volume [@S00]) comprise 34 volumes and 26,021
 pages, released on Zenodo in October 2026 as first drafts that have not been peer-reviewed. None of them claims a proof
@@ -209,7 +245,23 @@ The fonts and three.js in `figures/web/` keep their own licences. The seven work
 design or endorsement to Alexander Grothendieck; see [NOTICE](NOTICE). Author: Vincent Liu, WiseMotif.ai, ORCID
 [0009-0000-8718-222X](https://orcid.org/0009-0000-8718-222X), <vincent.liu@wisemotif.ai>.
 """
-    w(REPO / "README.md", md_cite(readme, used) + ref_section(used))
+    foot = """
+---
+
+<p align="center"><sub>
+  <a href="https://wisemotif.ai">WiseMotif Monograph of Mathematical Intelligence</a> · Three papers on the Grothendieckian Programme<br>
+  Series 00: <a href="https://github.com/AlienMuse/grothendieckian-programme"><i>The Grothendieckian Programme</i></a> ·
+  Series 01: <a href="https://github.com/AlienMuse/grothendieckian-machine"><i>GAI-MUA: The Grothendieckian Machine</i></a> ·
+  Series 02: <a href="https://github.com/AlienMuse/topos-native-intelligence"><i>GM-Omega-Infinity: Topos-Native Intelligence</i></a> ·
+  Series 03: <a href="https://github.com/AlienMuse/arithmetic-spectral-descent"><i>Arithmetic Spectral Descent</i></a> ·
+  Series 04: <a href="https://github.com/AlienMuse/fractured-adelic-geometry"><i>Fractured Adelic Geometry</i></a> ·
+  Series 05: <a href="https://github.com/AlienMuse/the-archimedean-prism"><i>The Archimedean Prism</i></a> ·
+  Series 06: <a href="https://github.com/AlienMuse/strained-prismatic-geometry"><i>Strained Prismatic Geometry</i></a> ·
+  Series 07: <a href="https://github.com/AlienMuse/the-arithmetic-topos"><i>The Arithmetic Topos</i></a><br>
+  © 2026 Vincent Liu · <a href="https://orcid.org/0009-0000-8718-222X">ORCID 0009-0000-8718-222X</a> · <a href="https://alienmuse.github.io">alienmuse.github.io</a>
+</sub></p>
+"""
+    w(REPO / "README.md", md_cite(readme, used) + ref_section(used) + foot)
 
     # supporting files
     w(REPO / "CONTRIBUTING.md", f"""# Contributing
@@ -240,7 +292,7 @@ Copyright (c) 2026 Vincent Liu, WiseMotif.ai
 
 Licences
   Text, data and figures — the papers (papers/), README.md, THESES.md, problems/, problems.json, src/, data/,
-  figures/*.png and the other Markdown files — are licensed under the Creative Commons Attribution 4.0 International licence
+  figures/*.png, the banner (assets/) and the other Markdown files — are licensed under the Creative Commons Attribution 4.0 International licence
   (CC-BY-4.0, LICENSE).
   Code — formal/ (the Lean files), tools/ (the scripts), styles/ and filters/ (the typesetting files) and figures/web/
   (the source code of the figures) — is licensed under the Apache License, Version 2.0 (Apache-2.0, LICENSE-CODE;
@@ -312,6 +364,12 @@ references:
     w(REPO / ".gitignore", "formal/.lake/\n")
     # papers
     (REPO / "papers").mkdir(exist_ok=True)
+    # the banner of the series (tools/banner.py)
+    hero = HERE / "figures" / "banner" / "hero.png"
+    if not hero.exists():
+        raise SystemExit("figures/banner/hero.png missing: run tools/banner.py")
+    (REPO / "assets").mkdir(exist_ok=True)
+    shutil.copy2(hero, REPO / "assets" / "hero.png")
     dist = HERE / "dist"
     for src, dst_name in (("overview.pdf", "The-Grothendieckian-Programme-An-Overview.pdf"),
                           ("paper-I.pdf", "The-Rising-Sea-Theses.pdf"), ("paper-II.pdf", "The-57-Grothendieckian-Problems.pdf")):
@@ -350,7 +408,7 @@ ots verify SHA256SUMS.ots
     for f in ["portable.py", "extract_candidates.py", "quote_gate.py", "verify_refs.py", "litcheck.py",
               "find_phrases.py", "dump_sections.py", "page_text.py", "refs.py", "render_overview.py", "render_paper1.py", "render_paper2.py",
               "paper_gates.py", "lean_gate.py", "build_repo.py", "complete_refs.py", "build.py", "figures.py",
-              "litcheck_retry.py", "zenodo_facts.py"]:
+              "litcheck_retry.py", "zenodo_facts.py", "banner.py", "figures_png.py", "code_archive.py"]:
         shutil.copy2(HERE / "tools" / f, REPO / "tools" / f)
     shutil.copy2(HERE.parent / "master" / "tools" / "pdf_cache.py", REPO / "tools" / "pdf_cache.py")
     for d in ("styles", "filters"):
@@ -383,8 +441,10 @@ Licence: Apache-2.0 ([`../LICENSE-CODE`](../LICENSE-CODE)), as `styles/`, `filte
     for f in sorted((HERE / "figures").glob("fig-*.pdf")):    # the PDFs are in the papers and are made by figures.py
         (fig / f.name).unlink(missing_ok=True)
         shutil.copy2(f.with_suffix(".tex"), fig / f.with_suffix(".tex").name)
-        with pymupdf.open(f) as d:
-            d[0].get_pixmap(dpi=150).save(fig / f.with_suffix(".png").name)
+        png = HERE / "figures" / "png600" / f.with_suffix(".png").name      # 600 ppi (tools/figures_png.py)
+        if not png.exists():
+            raise SystemExit(f"{png.name} missing: run tools/figures_png.py")
+        shutil.copy2(png, fig / png.name)
     web = HERE / "figures" / "web"
     for f in web.rglob("*"):
         if f.is_file() and not f.name.startswith(("gl-", "hud-")) and ".tmp." not in f.name:
@@ -392,7 +452,8 @@ Licence: Apache-2.0 ([`../LICENSE-CODE`](../LICENSE-CODE)), as `styles/`, `filte
             dst.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(f, dst)
     shutil.copy2(HERE.parent / "master" / "figures" / "web" / "data-programme.json", fig / "web" / "s00-data-programme.json")
-    w(fig / "README.md", "# Figures\n\nThe thirteen figures of the three papers, as PNG at 150 ppi. In the papers each is a PDF "
+    w(fig / "README.md", "# Figures\n\nThe thirteen figures of the three papers, as PNG at 600 ppi (3119 px across the "
+      "132 mm measure of the papers). In the papers each is a PDF "
       "132 mm wide, made by `../tools/figures.py` (`fig-<id>.tex` places the links of the figure over it). Every word and number of a figure "
       "comes from the sources in `../src/` and is checked there and in the PDF text by `../tools/figures.py` "
       "(`../data/FIGURE-GATE.md`).\n\n`web/` holds the sources: one module per figure (`fig-<id>.js`), its data "
@@ -446,7 +507,7 @@ Licence: Apache-2.0 ([`../LICENSE-CODE`](../LICENSE-CODE)), as `styles/`, `filte
                     leaks.append(f"{f.relative_to(REPO)}: {pat}")
     if leaks:
         raise SystemExit("leak scan failed:\n" + "\n".join(leaks[:20]))
-    n = sum(1 for _ in REPO.rglob("*") if _.is_file())
+    n = sum(1 for _ in REPO.rglob("*") if _.is_file() and ".git" not in _.parts)
     print(f"repo: {n} files; {len(data)} problems in problems.json; Lean files {sorted(lean)}")
 
 

@@ -1,3 +1,30 @@
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.23734421"><img src="assets/hero.png" alt="The 57 Grothendieckian Problems — the seven works of the Grothendieckian Programme as a seven-cell honeycomb, each cell with the range of the problems drawn from it: Series 01 problems 1–17, Series 02 18–35, Series 03 36–39, Series 04 40–43, Series 05 44–48, Series 06 49–52, Series 07 53–57" width="100%"></a>
+</p>
+
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.23734421"><img src="https://img.shields.io/badge/overview-doi%2023734421-1E5A88?style=flat" alt="The overview: doi:10.5281/zenodo.23734421"></a>
+  <a href="https://doi.org/10.5281/zenodo.23734423"><img src="https://img.shields.io/badge/theses-doi%2023734423-1E5A88?style=flat" alt="The theses: doi:10.5281/zenodo.23734423"></a>
+  <a href="https://doi.org/10.5281/zenodo.23734426"><img src="https://img.shields.io/badge/problems-doi%2023734426-1E5A88?style=flat" alt="The problems: doi:10.5281/zenodo.23734426"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-0A131E?style=flat" alt="License: CC BY 4.0"></a>
+  <a href="LICENSE-CODE"><img src="https://img.shields.io/badge/code-Apache%202.0-0A131E?style=flat" alt="Code: Apache 2.0"></a>
+  <a href="https://github.com/AlienMuse/grothendieckian-problems/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/release-1.0-1E5A88?style=flat" alt="Release 1.0"></a>
+  <img src="https://img.shields.io/badge/theses-12-536372?style=flat" alt="12 theses">
+  <img src="https://img.shields.io/badge/problems-57-536372?style=flat" alt="57 problems">
+  <img src="https://img.shields.io/badge/Lean%204-Mathlib%20pinned-536372?style=flat" alt="Lean 4, Mathlib pinned">
+  <a href="https://orcid.org/0009-0000-8718-222X"><img src="https://img.shields.io/badge/ORCID-0009--0000--8718--222X-A6CE39?style=flat" alt="ORCID 0009-0000-8718-222X"></a>
+  <a href="papers/VERIFY.md"><img src="https://img.shields.io/badge/OpenPGP-signed-B8913B?style=flat" alt="OpenPGP signed"></a>
+</p>
+
+<p align="center">
+  <b><a href="papers/The-Grothendieckian-Programme-An-Overview.pdf">Read the overview</a></b> (21.6 MB) ·
+  <a href="papers/The-Rising-Sea-Theses.pdf">The theses</a> (36.1 MB) ·
+  <a href="papers/The-57-Grothendieckian-Problems.pdf">The problems</a> (32.2 MB) ·
+  <a href="#the-fifty-seven-problems">Problem table</a> ·
+  <a href="#taking-part">Take part</a> ·
+  <a href="https://alienmuse.github.io/grothendieckian-programme/">Website</a>
+</p>
+
 # The 57 Grothendieckian Problems
 
 **An overview, twelve theses and fifty-seven open problems on mathematics and machine reasoning, drawn from the seven
@@ -21,7 +48,10 @@ The thirteen figures of the three papers, with their sources and data, are in [`
 signed: [`papers/SHA256SUMS`](papers/SHA256SUMS) with its OpenPGP signature and timestamps; see
 [`papers/VERIFY.md`](papers/VERIFY.md).
 
-![The 57 Grothendieckian Problems in the seven works](figures/fig-rose.png)
+<p align="center">
+  <a href="figures/fig-rose.png"><img src="figures/fig-rose.png" alt="Figure 1 of The 57 Grothendieckian Problems: the fifty-seven problems in the seven works, in the honeycomb of the Programme; each small cell is a problem, tinted by kind, with its level as one to three dots" width="100%"></a>
+  <br><sub>Figure 1 of <i>The 57 Grothendieckian Problems</i> (600 ppi; the 13 figures of the three papers are in <a href="figures/">figures/</a>).</sub>
+</p>
 
 The seven source works ([S01; S02; S03; S04; S05; S06; S07]; overview volume [S00]) comprise 34 volumes and 26,021
 pages, released on Zenodo in October 2026 as first drafts that have not been peer-reviewed. None of them claims a proof
@@ -148,3 +178,18 @@ design or endorsement to Alexander Grothendieck; see [NOTICE](NOTICE). Author: V
 [S06] Vincent Liu, *Strained Prismatic Geometry: Deformation over the Absolute Base and the abc Conjecture*, Zenodo, 2026, Series 06; 5 volumes, doi:[10.5281/zenodo.23610034](https://doi.org/10.5281/zenodo.23610034).
 
 [S07] Vincent Liu, *The Arithmetic Topos: Foundations of a Trace-Theoretic Approach to the Langlands Programme*, Zenodo, 2026, Series 07; 5 volumes, doi:[10.5281/zenodo.23629681](https://doi.org/10.5281/zenodo.23629681).
+
+---
+
+<p align="center"><sub>
+  <a href="https://wisemotif.ai">WiseMotif Monograph of Mathematical Intelligence</a> · Three papers on the Grothendieckian Programme<br>
+  Series 00: <a href="https://github.com/AlienMuse/grothendieckian-programme"><i>The Grothendieckian Programme</i></a> ·
+  Series 01: <a href="https://github.com/AlienMuse/grothendieckian-machine"><i>GAI-MUA: The Grothendieckian Machine</i></a> ·
+  Series 02: <a href="https://github.com/AlienMuse/topos-native-intelligence"><i>GM-Omega-Infinity: Topos-Native Intelligence</i></a> ·
+  Series 03: <a href="https://github.com/AlienMuse/arithmetic-spectral-descent"><i>Arithmetic Spectral Descent</i></a> ·
+  Series 04: <a href="https://github.com/AlienMuse/fractured-adelic-geometry"><i>Fractured Adelic Geometry</i></a> ·
+  Series 05: <a href="https://github.com/AlienMuse/the-archimedean-prism"><i>The Archimedean Prism</i></a> ·
+  Series 06: <a href="https://github.com/AlienMuse/strained-prismatic-geometry"><i>Strained Prismatic Geometry</i></a> ·
+  Series 07: <a href="https://github.com/AlienMuse/the-arithmetic-topos"><i>The Arithmetic Topos</i></a><br>
+  © 2026 Vincent Liu · <a href="https://orcid.org/0009-0000-8718-222X">ORCID 0009-0000-8718-222X</a> · <a href="https://alienmuse.github.io">alienmuse.github.io</a>
+</sub></p>

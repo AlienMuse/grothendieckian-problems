@@ -1,0 +1,100 @@
+{
+ "id": "social",
+ "size_mm": [
+  200.0,
+  100.0
+ ],
+ "lift": -176.0,
+ "stars": [
+  [
+   10,
+   6,
+   0.25
+  ],
+  [
+   80,
+   5,
+   0.2
+  ],
+  [
+   96,
+   94,
+   0.22
+  ],
+  [
+   30,
+   95,
+   0.2
+  ],
+  [
+   125,
+   4,
+   0.18
+  ]
+ ],
+ "fill": 0.86,
+ "left": 9.0,
+ "right": 6.0,
+ "gap": 9.0,
+ "title_max": 40.0,
+ "cells": [
+  {
+   "series": "01",
+   "position": "centre",
+   "colour": "cyan",
+   "label": "GAI-MUA",
+   "range": "Problems 1–17"
+  },
+  {
+   "series": "02",
+   "position": "top",
+   "colour": "cyan",
+   "label": "TOPOS-NATIVE",
+   "range": "Problems 18–35"
+  },
+  {
+   "series": "03",
+   "position": "upper-right",
+   "colour": "blue",
+   "label": "RIEMANN · GRH",
+   "range": "Problems 36–39"
+  },
+  {
+   "series": "04",
+   "position": "lower-right",
+   "colour": "violet",
+   "label": "BSD",
+   "range": "Problems 40–43"
+  },
+  {
+   "series": "05",
+   "position": "bottom",
+   "colour": "blue",
+   "label": "HODGE",
+   "range": "Problems 44–48"
+  },
+  {
+   "series": "06",
+   "position": "lower-left",
+   "colour": "violet",
+   "label": "abc",
+   "range": "Problems 49–52"
+  },
+  {
+   "series": "07",
+   "position": "upper-left",
+   "colour": "blue",
+   "label": "LANGLANDS",
+   "range": "Problems 53–57"
+  }
+ ],
+ "kicker": "THE GROTHENDIECKIAN PROGRAMME · THREE PAPERS",
+ "title_lines": [
+  "The 57 Grothendieckian",
+  "Problems"
+ ],
+ "subtitle": "Open Problems for Mathematics and Machine Reasoning",
+ "edition_line": "3 PAPERS · 12 THESES · 57 PROBLEMS · VERSION 1.0",
+ "author": "Vincent Liu",
+ "imprint": "WiseMotif.ai"
+}

@@ -1,6 +1,6 @@
 # Figures
 
-The thirteen figures of the three papers, as PNG at 150 ppi. In the papers each is a PDF 132 mm wide, made by `../tools/figures.py` (`fig-<id>.tex` places the links of the figure over it). Every word and number of a figure comes from the sources in `../src/` and is checked there and in the PDF text by `../tools/figures.py` (`../data/FIGURE-GATE.md`).
+The thirteen figures of the three papers, as PNG at 600 ppi (3119 px across the 132 mm measure of the papers). In the papers each is a PDF 132 mm wide, made by `../tools/figures.py` (`fig-<id>.tex` places the links of the figure over it). Every word and number of a figure comes from the sources in `../src/` and is checked there and in the PDF text by `../tools/figures.py` (`../data/FIGURE-GATE.md`).
 
 `web/` holds the sources: one module per figure (`fig-<id>.js`), its data (`data-<id>.json`), `rs.js`, and the figure library of the overview (Series 00: `lib.js`, `style.css`, the TGP faces with their licences, three.js r186 under the MIT licence), unchanged (`DESIGN-SOURCE.json`). Rendering needs Chrome; the labels are set in Segoe UI, which is not included.
 

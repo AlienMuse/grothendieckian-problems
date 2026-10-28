@@ -3,7 +3,7 @@ Copyright (c) 2026 Vincent Liu, WiseMotif.ai
 
 Licences
   Text, data and figures — the papers (papers/), README.md, THESES.md, problems/, problems.json, src/, data/,
-  figures/*.png and the other Markdown files — are licensed under the Creative Commons Attribution 4.0 International licence
+  figures/*.png, the banner (assets/) and the other Markdown files — are licensed under the Creative Commons Attribution 4.0 International licence
   (CC-BY-4.0, LICENSE).
   Code — formal/ (the Lean files), tools/ (the scripts), styles/ and filters/ (the typesetting files) and figures/web/
   (the source code of the figures) — is licensed under the Apache License, Version 2.0 (Apache-2.0, LICENSE-CODE;
