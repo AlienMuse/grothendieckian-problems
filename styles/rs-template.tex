@@ -1,0 +1,71 @@
+%% The Rising-Sea Theses / The 57 Grothendieckian Problems — Pandoc LaTeX template.
+%% Journal-article form (author 2026-10-28, Q4): the AMS article class, no cover. Second layout (author 2026-10-28):
+%% a title block on the first page (title, subtitle, author, affiliation, ORCID iD, e-mail, abstract, MSC, keywords)
+%% under a line with the version, date, DOI and licence; a 132 mm measure (about 78 characters a line); bold
+%% headings set flush left; figures across the measure.
+%% Faces: the series TeX Gyre Pagella family and Pagella Math (series standard §2.1); A4.
+\PassOptionsToPackage{unicode,bookmarksnumbered}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[11pt,a4paper]{amsart}
+\usepackage[a4paper,textwidth=132mm,hmarginratio=1:1,top=27mm,bottom=30mm,headheight=14pt,headsep=8mm,footskip=11mm]{geometry}
+
+\usepackage{amsmath,amsthm,mathtools}
+\usepackage{fontspec}
+\input{rs-fonts.tex}
+\usepackage{unicode-math}
+\setmathfont{TeX Gyre Pagella Math}
+\setmathfont{STIXTwoMath-Regular.otf}[range={"21E2,"2605,"29C4}]
+
+\usepackage[protrusion=true,expansion=true]{microtype}
+\usepackage{graphicx}
+\usepackage{longtable,booktabs,array,multirow,calc}
+\usepackage{enumitem}
+\usepackage{csquotes}
+\usepackage{xurl}
+\usepackage{xcolor}
+\usepackage{framed}
+\usepackage{needspace}
+\usepackage{fancyhdr}
+\usepackage[font=small,labelfont=sc,labelsep=period,justification=justified,singlelinecheck=true,skip=6pt]{caption}
+\usepackage{hyperref}
+
+%% ---- Pandoc compatibility shims --------------------------------------------------------------------------------
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\providecommand{\passthrough}[1]{#1}
+\providecommand{\LTcaptype}{table}
+\makeatletter
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+%% ---- the paper's metadata (metadata.yaml) ----------------------------------------------------------------------
+\newcommand{\RStitle}{$title$}
+\newcommand{\RSsubtitle}{$subtitle$}
+\newcommand{\RSshorttitle}{$if(shorttitle)$$shorttitle$$else$$title$$endif$}
+\newcommand{\RSauthor}{$author$}
+\newcommand{\RSaffiliation}{$affiliation$}
+\newcommand{\RSaffiliationurl}{$affiliationurl$}
+\newcommand{\RSemail}{$email$}
+\newcommand{\RSorcid}{$orcid$}
+\newcommand{\RSversion}{$version$}
+\newcommand{\RSdate}{$date$}
+\newcommand{\RSlicence}{$licence$}
+\def\RSdoi{$if(doi)$$doi$$endif$}   % \def, not \newcommand: the title block tests it against \@empty
+\newcommand{\RSmsc}{$msc$}
+\newcommand{\RSkeywords}{$keywords$}
+\hypersetup{pdftitle={$if(pdftitle)$$pdftitle$$else$$title$: $subtitle$$endif$},pdfauthor={$author$},pdfkeywords={$keywords$},
+  pdfsubject={$if(pdfsubject)$$pdfsubject$$else$$subtitle$$endif$},pdflang={en-GB}}
+
+%% ---- the house layer: title block, headings, theses, problem cards, figures, references ------------------------
+\input{rs-header.tex}
+
+\begin{document}
+\RSmaketitle{%
+$abstract$
+}
+$if(epigraph)$
+\RSepigraph{$epigraph$}{$epigraphsource$}
+$endif$
+
+$body$
+
+\end{document}

@@ -1,0 +1,429 @@
+{
+ "problem": 56,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "global arithmetic curve Spec Z analytic stack",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "global arithmetic curve Spec Z analytic stack",
+   "status": 200,
+   "results": [
+    {
+     "title": "Holography principle and arithmetic of algebraic curves",
+     "year": 2001,
+     "authors": [
+      "Yuri I. Manin",
+      "Matilde Marcolli"
+     ],
+     "venue": "Advances in Theoretical and Mathematical Physics",
+     "id": "https://doi.org/10.4310/atmp.2001.v5.n3.a6"
+    },
+    {
+     "title": "Analytic de Rham stacks of Fargues-Fontaine curves",
+     "year": 2025,
+     "authors": [
+      "Johannes Anschütz",
+      "Guido Bosco",
+      "Arthur-César Le Bras",
+      "Juan Esteban Rodríguez Camargo",
+      "Peter Scholze"
+     ],
+     "venue": "HAL",
+     "id": "https://doi.org/10.48550/arxiv.2510.15196"
+    },
+    {
+     "title": "Arithmetic volumes of moduli stacks of Shtukas",
+     "year": 2026,
+     "authors": [
+      "Tony Feng",
+      "Zhiwei Yun",
+      "Wei Zhang"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2601.18557"
+    },
+    {
+     "title": "ARITHMETIC ELLIPTIC CURVES IN GENERAL POSITION",
+     "year": 2010,
+     "authors": [
+      "Shinichi Mochizuki"
+     ],
+     "venue": "Institutional Repositories DataBase (IRDB)",
+     "id": "https://doi.org/10.18926/mjou/33503"
+    },
+    {
+     "title": "On the arithmetic of a family of superelliptic curves",
+     "year": 2022,
+     "authors": [
+      "Sarah Arpin",
+      "Richard Griffon",
+      "Libby Taylor",
+      "Nicholas Triantafillou"
+     ],
+     "venue": "manuscripta mathematica",
+     "id": "https://doi.org/10.1007/s00229-022-01424-9"
+    },
+    {
+     "title": "An arithmetic Riemann-Roch theorem for pointed stable curves",
+     "year": 2009,
+     "authors": [
+      "Gerard Freixas i Montplet"
+     ],
+     "venue": "Annales Scientifiques de l École Normale Supérieure",
+     "id": "https://doi.org/10.24033/asens.2098"
+    },
+    {
+     "title": "Co-rank $1$ Arithmetic Siegel--Weil IV: Analytic local-to-global",
+     "year": 2024,
+     "authors": [
+      "Ryan C. Chen"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2405.01429"
+    },
+    {
+     "title": "An arithmetic Hilbert–Samuel theorem for pointed stable curves",
+     "year": 2012,
+     "authors": [
+      "Gerard Freixas i Montplet"
+     ],
+     "venue": "Journal of the European Mathematical Society",
+     "id": "https://doi.org/10.4171/jems/304"
+    },
+    {
+     "title": "Weakly proper moduli stacks of curves",
+     "year": 2010,
+     "authors": [
+      "Jarod Alper",
+      "David Ishii Smyth",
+      "Frederick van der Wyck"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1012.0538"
+    },
+    {
+     "title": "The geometry and arithmetic of bielliptic Picard curves",
+     "year": 2025,
+     "authors": [
+      "Jef Laga",
+      "Ari Shnidman"
+     ],
+     "venue": "Journal of the London Mathematical Society",
+     "id": "https://doi.org/10.1112/jlms.70347"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "global arithmetic curve Spec Z analytic stack",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "global arithmetic curve Spec Z analytic stack",
+   "status": 200,
+   "results": [
+    {
+     "title": "Global arithmetic of Krull monoids",
+     "year": 2006,
+     "authors": [],
+     "venue": "Non-Unique Factorizations",
+     "id": "doi:10.1201/9781420003208-12"
+    },
+    {
+     "title": "Chapter 6 Formal-analytic arithmetic surfaces and arithmetic intersection numbers",
+     "year": 2026,
+     "authors": [],
+     "venue": "Quasi-Projective and Formal-Analytic Arithmetic Surfaces",
+     "id": "doi:10.1515/9780691287898-007"
+    },
+    {
+     "title": "Chapter 7 Maps from formal-analytic arithmetic surfaces to arithmetic schemes",
+     "year": 2026,
+     "authors": [],
+     "venue": "Quasi-Projective and Formal-Analytic Arithmetic Surfaces",
+     "id": "doi:10.1515/9780691287898-008"
+    },
+    {
+     "title": "Cohomology of the moduli stack of coherent sheaves on a curve",
+     "year": 2012,
+     "authors": [
+      "Jochen Heinloth"
+     ],
+     "venue": "EMS Series of Congress Reports Geometry and Arithmetic",
+     "id": "doi:10.4171/119-1/11"
+    },
+    {
+     "title": "Chapter 9 Pseudoconcave formal-analytic arithmetic surfaces II: The algebra O(V);  fundamental groups of arithmetic surfaces",
+     "year": 2026,
+     "authors": [],
+     "venue": "Quasi-Projective and Formal-Analytic Arithmetic Surfaces",
+     "id": "doi:10.1515/9780691287898-010"
+    },
+    {
+     "title": "The moduli stack of rank-two Gieseker bundles with fixed determinant on a nodal curve",
+     "year": null,
+     "authors": [
+      "Takeshi Abe"
+     ],
+     "venue": "Advanced Studies in Pure Mathematics Moduli Spaces and Arithmetic Geometry (Kyoto, 2004)",
+     "id": "doi:10.2969/aspm/04510117"
+    },
+    {
+     "title": "The global behavior of arithmetic functions",
+     "year": 2012,
+     "authors": [],
+     "venue": "Graduate Studies in Mathematics Analytic Number Theory",
+     "id": "doi:10.1090/gsm/134/06"
+    },
+    {
+     "title": "Elliptic Curve Arithmetic",
+     "year": null,
+     "authors": [],
+     "venue": "Springer Professional Computing Guide to Elliptic Curve Cryptography",
+     "id": "doi:10.1007/0-387-21846-7_3"
+    },
+    {
+     "title": "Chapter 8 Pseudoconcave formal-analytic arithmetic surfaces I: Degree bounds, algebraicity, and the field M(V)",
+     "year": 2026,
+     "authors": [],
+     "venue": "Quasi-Projective and Formal-Analytic Arithmetic Surfaces",
+     "id": "doi:10.1515/9780691287898-009"
+    },
+    {
+     "title": "Shimura Varieties and Arithmetic Geometry over Spec(Z)",
+     "year": 2025,
+     "authors": [
+      "Rahul Kundnani"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.5451155"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "Fargues-Fontaine curve global analogue Spec Z",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "Fargues-Fontaine curve global analogue Spec Z",
+   "status": 200,
+   "results": [
+    {
+     "title": "Simple connectivity of Fargues–Fontaine curves",
+     "year": 2021,
+     "authors": [
+      "Kiran Sridhara Kedlaya"
+     ],
+     "venue": "Annales Henri Lebesgue",
+     "id": "https://doi.org/10.5802/ahl.101"
+    },
+    {
+     "title": "Higgs bundles on the Fargues-Fontaine curve",
+     "year": 2026,
+     "authors": [
+      "Ho Leung Fong"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.06092"
+    },
+    {
+     "title": "A symplectic look at the Fargues–Fontaine curve",
+     "year": 2022,
+     "authors": [
+      "Yankı Lekili",
+      "David Treumann"
+     ],
+     "venue": "Forum of Mathematics Sigma",
+     "id": "https://doi.org/10.1017/fms.2021.83"
+    },
+    {
+     "title": "Analytic geometry over F1 and the Fargues-Fontaine curve",
+     "year": 2019,
+     "authors": [
+      "Federico Bambozzi",
+      "Oren Ben-Bassat",
+      "Kobi Kremnizer"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "https://doi.org/10.1016/j.aim.2019.106815"
+    },
+    {
+     "title": "Studies in automorphic representations and the Fargues-Fontaine curve",
+     "year": 2026,
+     "authors": [
+      "Ho Leung Fong"
+     ],
+     "venue": "White Rose eTheses Online (University of Leeds, The University of Sheffield, University of York)",
+     "id": "https://openalex.org/W7165499343"
+    },
+    {
+     "title": "Meromorphic vector bundles on the Fargues–Fontaine curve",
+     "year": 2026,
+     "authors": [
+      "Ian Gleason",
+      "Alexander B. Ivanov",
+      "Felix Zillinger"
+     ],
+     "venue": "Journal of the European Mathematical Society",
+     "id": "https://doi.org/10.4171/jems/1789"
+    },
+    {
+     "title": "Analytic de Rham stacks of Fargues-Fontaine curves",
+     "year": 2025,
+     "authors": [
+      "Johannes Anschütz",
+      "Guido Bosco",
+      "Arthur-César Le Bras",
+      "Juan Esteban Rodríguez Camargo",
+      "Peter Scholze"
+     ],
+     "venue": "HAL",
+     "id": "https://doi.org/10.48550/arxiv.2510.15196"
+    },
+    {
+     "title": "A 6-functor formalism for solid quasi-coherent sheaves on the Fargues-Fontaine curve",
+     "year": 2024,
+     "authors": [
+      "Johannes Anschütz",
+      "Arthur-César Le Bras",
+      "Lucas Mann"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2412.20968"
+    },
+    {
+     "title": "Sur la cohomologie étale de la courbe de Fargues-Fontaine",
+     "year": 2022,
+     "authors": [
+      "Sebastian Bartling"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2206.14253"
+    },
+    {
+     "title": "The extended Fargues--Scholze spectral action",
+     "year": 2026,
+     "authors": [
+      "Peter Dillery",
+      "Arnaud Eteve"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.02708"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "Fargues-Fontaine curve global analogue Spec Z",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "Fargues-Fontaine curve global analogue Spec Z",
+   "status": 200,
+   "results": [
+    {
+     "title": "The Fargues-Fontaine curve and diamonds",
+     "year": 2019,
+     "authors": [
+      "Matthew MORROW"
+     ],
+     "venue": "Astérisque",
+     "id": "doi:10.24033/ast.1094"
+    },
+    {
+     "title": "Vector bundles and G-torsors on the relative Fargues-Fontaine curve",
+     "year": 2020,
+     "authors": [
+      "Peter Scholze",
+      "Jared Weinstein"
+     ],
+     "venue": "Berkeley Lectures on p-adic Geometry",
+     "id": "doi:10.23943/princeton/9780691202082.003.0022"
+    },
+    {
+     "title": "Universal norms and the Fargues–Fontaine curve",
+     "year": 2025,
+     "authors": [
+      "Gautier Ponsinet"
+     ],
+     "venue": "Mathematische Annalen",
+     "id": "doi:10.1007/s00208-025-03131-8"
+    },
+    {
+     "title": "$G$-bundles on the absolute Fargues–Fontaine curve",
+     "year": 2023,
+     "authors": [
+      "Johannes Anschütz"
+     ],
+     "venue": "Acta Arithmetica",
+     "id": "doi:10.4064/aa221222-21-2"
+    },
+    {
+     "title": "Classification of quotient bundles on the Fargues–Fontaine curve",
+     "year": 2023,
+     "authors": [
+      "Serin Hong"
+     ],
+     "venue": "Selecta Mathematica",
+     "id": "doi:10.1007/s00029-022-00819-6"
+    },
+    {
+     "title": "Reductive group schemes over the Fargues–Fontaine curve",
+     "year": 2018,
+     "authors": [
+      "Johannes Anschütz"
+     ],
+     "venue": "Mathematische Annalen",
+     "id": "doi:10.1007/s00208-018-1785-6"
+    },
+    {
+     "title": "Vector bundles and G-torsors on the relative Fargues-Fontaine curve",
+     "year": 2020,
+     "authors": [],
+     "venue": "Berkeley Lectures on p-adic Geometry",
+     "id": "doi:10.2307/j.ctvs32rc9.25"
+    },
+    {
+     "title": "A symplectic look at the Fargues–Fontaine curve",
+     "year": 2022,
+     "authors": [
+      "Yankı Lekili",
+      "David Treumann"
+     ],
+     "venue": "Forum of Mathematics, Sigma",
+     "id": "doi:10.1017/fms.2021.83"
+    },
+    {
+     "title": "Lecture 22. Vector bundles and G-torsors on the relative Fargues-Fontaine curve",
+     "year": 2020,
+     "authors": [],
+     "venue": "Berkeley Lectures on p-adic Geometry",
+     "id": "doi:10.1515/9780691202150-023"
+    },
+    {
+     "title": "Classification of subbundles on the\nFargues–Fontaine curve",
+     "year": 2021,
+     "authors": [
+      "Serin Hong"
+     ],
+     "venue": "Algebra &amp; Number Theory",
+     "id": "doi:10.2140/ant.2021.15.1127"
+    }
+   ]
+  }
+ ]
+}

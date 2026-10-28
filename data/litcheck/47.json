@@ -1,0 +1,413 @@
+{
+ "problem": 47,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "descent non-polarizable mixed Hodge structures",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "descent non-polarizable mixed Hodge structures",
+   "status": 200,
+   "results": [
+    {
+     "title": "Variation Of Mixed Hodge Structures",
+     "year": 2013,
+     "authors": [
+      "Patrick Brosnan",
+      "Fouad El Zein"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1302.5814"
+    },
+    {
+     "title": "On the distribution of mixed Hodge loci",
+     "year": 2026,
+     "authors": [
+      "Nazim Khelifa"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2603.20272"
+    },
+    {
+     "title": "Formal Hodge Structures",
+     "year": 2009,
+     "authors": [
+      "Nicola Mazzari"
+     ],
+     "venue": "Archivio Istituzionale della Ricerca (Universita Degli Studi Di Milano)",
+     "id": "https://doi.org/10.13130/mazzari-nicola_phd2009-02-11"
+    },
+    {
+     "title": "Functional Transcendence in Mixed Hodge Theory",
+     "year": 2022,
+     "authors": [
+      "Kenneth Chung Tak Chiu"
+     ],
+     "venue": "TSpace (University of Toronto)",
+     "id": "https://openalex.org/W7133089259"
+    },
+    {
+     "title": "On mixed Hodge structures of Shimura varieties attached to inner forms of the symplectic group of degree two",
+     "year": 2009,
+     "authors": [
+      "Takayuki Oda",
+      "Joachim Schwermer"
+     ],
+     "venue": "Tohoku Mathematical Journal",
+     "id": "https://doi.org/10.2748/tmj/1238764548"
+    },
+    {
+     "title": "Schematic homotopy types and non-abelian Hodge theory",
+     "year": 2008,
+     "authors": [
+      "Ludmil Vasilev Katzarkov",
+      "Tony Pantev",
+      "Bertrand Toën"
+     ],
+     "venue": "Compositio Mathematica",
+     "id": "https://doi.org/10.1112/s0010437x07003351"
+    },
+    {
+     "title": "On extensions of PVMHS and mixed hodge modules",
+     "year": 2015,
+     "authors": [
+      "Mohammad Reza Rahmati"
+     ],
+     "venue": "Journal of Prime Research in Mathematics",
+     "id": "https://openalex.org/W7220589486"
+    },
+    {
+     "title": "Mixed Lefschetz Theorems and Hodge-Riemann Bilinear Relations",
+     "year": 2008,
+     "authors": [
+      "Eduardo H. Cattani"
+     ],
+     "venue": "International Mathematics Research Notices",
+     "id": "https://doi.org/10.1093/imrn/rnn025"
+    },
+    {
+     "title": "Formal Hodge Theory",
+     "year": 2007,
+     "authors": [
+      "Luca Barbieri-Viale"
+     ],
+     "venue": "Mathematical Research Letters",
+     "id": "https://doi.org/10.4310/mrl.2007.v14.n3.a3"
+    },
+    {
+     "title": "Non-abelian Hodge theory for non-proper varieties and the linear Shafarevich conjecture",
+     "year": 2026,
+     "authors": [
+      "Benjamin Bakker"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W7140954275"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "descent non-polarizable mixed Hodge structures",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "descent non-polarizable mixed Hodge structures",
+   "status": 200,
+   "results": [
+    {
+     "title": "Abstract Aspects of Mixed Hodge Structures",
+     "year": null,
+     "authors": [],
+     "venue": "Ergebnisse der Mathematik und ihrer Grenzgebiete. 3. Folge / A Series of Modern Surveys in Mathematics Mixed Hodge Structures",
+     "id": "doi:10.1007/978-3-540-77017-6_4"
+    },
+    {
+     "title": "Limit mixed Hodge structure on the vanishing cohomology of an isolated hypersurface singularity",
+     "year": 1998,
+     "authors": [],
+     "venue": "Mixed Hodge Structures and Singularities",
+     "id": "doi:10.1017/cbo9780511758928.003"
+    },
+    {
+     "title": "Introduction",
+     "year": 1998,
+     "authors": [],
+     "venue": "Mixed Hodge Structures and Singularities",
+     "id": "doi:10.1017/cbo9780511758928.001"
+    },
+    {
+     "title": "References",
+     "year": 1998,
+     "authors": [],
+     "venue": "Mixed Hodge Structures and Singularities",
+     "id": "doi:10.1017/cbo9780511758928.005"
+    },
+    {
+     "title": "Mixed Hodge Structures",
+     "year": 2017,
+     "authors": [
+      "Fouad El Zein",
+      "Lˆe D˜ung Tr ´ang"
+     ],
+     "venue": "Princeton University Press",
+     "id": "doi:10.23943/princeton/9780691161341.003.0003"
+    },
+    {
+     "title": "Chapter Three. Mixed Hodge Structures",
+     "year": 2014,
+     "authors": [
+      "Fouad El Zein",
+      "Lê Dũng Tráng"
+     ],
+     "venue": "Hodge Theory",
+     "id": "doi:10.1515/9781400851478.123"
+    },
+    {
+     "title": "Mixed Hodge Modules",
+     "year": null,
+     "authors": [],
+     "venue": "Ergebnisse der Mathematik und ihrer Grenzgebiete. 3. Folge / A Series of Modern Surveys in Mathematics Mixed Hodge Structures",
+     "id": "doi:10.1007/978-3-540-77017-6_15"
+    },
+    {
+     "title": "Mixed Hodge structures, semi-simplicity and approximability",
+     "year": 2007,
+     "authors": [],
+     "venue": "The Hodge Theory of Projective Manifolds",
+     "id": "doi:10.1142/9781860948657_0008"
+    },
+    {
+     "title": "Pure Hodge Structures",
+     "year": null,
+     "authors": [],
+     "venue": "Ergebnisse der Mathematik und ihrer Grenzgebiete. 3. Folge / A Series of Modern Surveys in Mathematics Mixed Hodge Structures",
+     "id": "doi:10.1007/978-3-540-77017-6_3"
+    },
+    {
+     "title": "Degenerations of Hodge Structures",
+     "year": null,
+     "authors": [],
+     "venue": "Ergebnisse der Mathematik und ihrer Grenzgebiete. 3. Folge / A Series of Modern Surveys in Mathematics Mixed Hodge Structures",
+     "id": "doi:10.1007/978-3-540-77017-6_12"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "descent along Rees construction mixed Hodge structure obstruction",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "descent along Rees construction mixed Hodge structure obstruction",
+   "status": 200,
+   "results": [
+    {
+     "title": "Formality and splitting of real non-abelian mixed Hodge structures",
+     "year": 2009,
+     "authors": [
+      "J. P. Pridham"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.0902.0770"
+    },
+    {
+     "title": "Real Non-Abelian Mixed Hodge Structures for Quasi-Projective Varieties: Formality and Splitting",
+     "year": 2016,
+     "authors": [
+      "J. P. Pridham"
+     ],
+     "venue": "Memoirs of the American Mathematical Society",
+     "id": "https://doi.org/10.1090/memo/1150"
+    },
+    {
+     "title": "Cogroupoid structures on the circle and the Hodge degeneration",
+     "year": 2024,
+     "authors": [
+      "Tasos Moulinos"
+     ],
+     "venue": "Forum of Mathematics Sigma",
+     "id": "https://doi.org/10.1017/fms.2023.122"
+    },
+    {
+     "title": "Hodge theoretic aspects of mirror symmetry",
+     "year": 2008,
+     "authors": [
+      "Ludmil Vasilev Katzarkov",
+      "Maxim Kontsevich",
+      "Tony Pantev"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.0806.0107"
+    },
+    {
+     "title": "Non-abelian Hodge theory for non-proper varieties and the linear Shafarevich conjecture",
+     "year": 2026,
+     "authors": [
+      "Benjamin Bakker"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W7140954275"
+    },
+    {
+     "title": "Meromorphic Hodge Moduli Spaces for Reductive Groups in Arbitrary Characteristic",
+     "year": 2026,
+     "authors": [
+      "Andres Fernandez Herrero",
+      "Siqing Zhang"
+     ],
+     "venue": "The Michigan Mathematical Journal",
+     "id": "https://doi.org/10.1307/mmj/20246514"
+    },
+    {
+     "title": "Rational $p$-adic Hodge theory for rigid-analytic varieties",
+     "year": 2023,
+     "authors": [
+      "Guido Bosco"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2306.06100"
+    },
+    {
+     "title": "Graded loospaces in mixed characteristics and de Rham-Witt algebra",
+     "year": 2022,
+     "authors": [
+      "Ludovic Monier"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.70675/0b520392z9e95z4fb4zb921zd8486478bcbf"
+    },
+    {
+     "title": "A singular analogue of Gersten's conjecture and applications to K-theoretic adeles",
+     "year": 2012,
+     "authors": [
+      "Matthew Morrow"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1208.0931"
+    },
+    {
+     "title": "Deforming Fourier–Mukai transforms",
+     "year": 2024,
+     "authors": [
+      "Wouter Rienks"
+     ],
+     "venue": "UvA-DARE (University of Amsterdam)",
+     "id": "https://openalex.org/W7135558031"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "descent along Rees construction mixed Hodge structure obstruction",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "descent along Rees construction mixed Hodge structure obstruction",
+   "status": 200,
+   "results": [
+    {
+     "title": "Limit mixed Hodge structure on the vanishing cohomology of an isolated hypersurface singularity",
+     "year": 1998,
+     "authors": [],
+     "venue": "Mixed Hodge Structures and Singularities",
+     "id": "doi:10.1017/cbo9780511758928.003"
+    },
+    {
+     "title": "Chapter Eight. Variations of Mixed Hodge Structure",
+     "year": 2014,
+     "authors": [
+      "Patrick Brosnan",
+      "Fouad El Zein"
+     ],
+     "venue": "Hodge Theory",
+     "id": "doi:10.1515/9781400851478.333"
+    },
+    {
+     "title": "Variations of Mixed Hodge Structure",
+     "year": 2017,
+     "authors": [
+      "Patrick Brosnan",
+      "Fouad El Zein"
+     ],
+     "venue": "Princeton University Press",
+     "id": "doi:10.23943/princeton/9780691161341.003.0008"
+    },
+    {
+     "title": "Descent in p-adic Hodge theory and applications",
+     "year": null,
+     "authors": [
+      "Tongmu He"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/2be762a8z073bz44e0z921azff6c0ffa85c7"
+    },
+    {
+     "title": "Variations of Hodge Structure",
+     "year": null,
+     "authors": [],
+     "venue": "Ergebnisse der Mathematik und ihrer Grenzgebiete. 3. Folge / A Series of Modern Surveys in Mathematics Mixed Hodge Structures",
+     "id": "doi:10.1007/978-3-540-77017-6_11"
+    },
+    {
+     "title": "Patrilineal Descent and the Construction of Identities",
+     "year": 2007,
+     "authors": [
+      "Caroline Johnson Hodge"
+     ],
+     "venue": "If Sons, Then Heirs",
+     "id": "doi:10.1093/acprof:oso/9780195182163.003.0002"
+    },
+    {
+     "title": "Mixed Hodge Structures on Cohomologies with Coefficients in a Polarized Variation of Hodge Structure",
+     "year": null,
+     "authors": [
+      "Yuji Shimizu"
+     ],
+     "venue": "Advanced Studies in Pure Mathematics Algebraic Geometry, Sendai, 1985",
+     "id": "doi:10.2969/aspm/01010695"
+    },
+    {
+     "title": "Mixed Hodge structure of affine hypersurfaces",
+     "year": 2007,
+     "authors": [
+      "Hossein Movasati"
+     ],
+     "venue": "Annales de l'Institut Fourier",
+     "id": "doi:10.5802/aif.2276"
+    },
+    {
+     "title": "A guide to unipotent variations of mixed hodge structure",
+     "year": 1987,
+     "authors": [
+      "Richard M. Hain",
+      "Steven Zucker"
+     ],
+     "venue": "Lecture Notes in Mathematics Hodge Theory",
+     "id": "doi:10.1007/bfb0077532"
+    },
+    {
+     "title": "Polarized mixed Hodge structures and the local monodromy of a variation of Hodge structure",
+     "year": 1982,
+     "authors": [
+      "Eduardo Cattani",
+      "Aroldo Kaplan"
+     ],
+     "venue": "Inventiones Mathematicae",
+     "id": "doi:10.1007/bf01393374"
+    }
+   ]
+  }
+ ]
+}

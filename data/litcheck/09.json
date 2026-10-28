@@ -1,0 +1,435 @@
+{
+ "problem": 9,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "noninterference proof workflow orchestration",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "noninterference proof workflow orchestration",
+   "status": 200,
+   "results": [
+    {
+     "title": "Orchestration for Secure Multi-party Communications in Web-Services ✩",
+     "year": 2017,
+     "authors": [
+      "Najah Ben Said",
+      "Takoua Abdellatif",
+      "Marius Dorel Bozga",
+      "Saddek Bensalem",
+      "Axel Legay"
+     ],
+     "venue": "HAL",
+     "id": "https://openalex.org/W2890040320"
+    },
+    {
+     "title": "Integrated Verification of Cryptographic Security Proofs and Implementations",
+     "year": 2020,
+     "authors": [
+      "Vítor Pereira"
+     ],
+     "venue": "Open Repository of the University of Porto (University of Porto)",
+     "id": "https://doi.org/10.34626/wfm1-3g93"
+    },
+    {
+     "title": "Mnemosyne: Agentic Transaction Processing for Validating and Repairing AI-generated Workflows",
+     "year": 2026,
+     "authors": [
+      "Edward Y. Chang",
+      "Longling Geng"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.00269"
+    },
+    {
+     "title": "Selection-Invariant Communication Compilers for Privacy-Aware Multi-Agent LLM Workflows",
+     "year": 2026,
+     "authors": [
+      "Jinghan Xu",
+      "Longze Fan",
+      "Zeyuan Wang",
+      "Xinjin Li",
+      "Hankai Liu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.26076"
+    },
+    {
+     "title": "If Agents Were Angels, No Governance Would Be Necessary: Out-of-Band Policy Enforcement at a Trusted Tool Boundary",
+     "year": 2026,
+     "authors": [
+      "Marc Millstone",
+      "Tyler Akidau",
+      "Johannes Brüderl",
+      "Marat Pekker"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.27646"
+    },
+    {
+     "title": "INTCC: A Framework for Interactive Confidential Computing",
+     "year": 2026,
+     "authors": [
+      "Qingzhe Bing",
+      "Kaiyuan Zhang",
+      "Yinqian Zhang"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.35552"
+    },
+    {
+     "title": "Authorization Propagation in Multi-Agent AI Systems: Identity Governance as Infrastructure",
+     "year": 2026,
+     "authors": [
+      "Krti Tallam"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.05440"
+    },
+    {
+     "title": "Abstraction Refinement for the Analysis of Software Product Lines",
+     "year": 2017,
+     "authors": [
+      "Ferruccio Damiani",
+      "Reiner Hähnle",
+      "Michaël Lienhardt"
+     ],
+     "venue": "Lecture notes in computer science",
+     "id": "https://doi.org/10.1007/978-3-319-61467-0_1"
+    },
+    {
+     "title": "Information Flow Security in Tree-Manipulating Processes",
+     "year": 2014,
+     "authors": [
+      "Máté Amadé Kovács"
+     ],
+     "venue": "mediaTUM – the media and publications repository of the Technical University Munich (Technical University Munich)",
+     "id": "https://openalex.org/W2755263983"
+    },
+    {
+     "title": "Human-Certified Module Repositories for the AI Age",
+     "year": 2026,
+     "authors": [
+      "Szilárd Enyedi"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W7133570618"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "noninterference proof workflow orchestration",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "noninterference proof workflow orchestration",
+   "status": 200,
+   "results": [
+    {
+     "title": "oxo-flow: compiled, memory-safe bioinformatics workflow orchestration",
+     "year": 2026,
+     "authors": [
+      "Shixiang Wang"
+     ],
+     "venue": "",
+     "id": "doi:10.64898/2026.06.11.731578"
+    },
+    {
+     "title": "Towards a Blackboard-based Scientific Workflow Orchestration: A Proof-of-Concept Implementation (Poster Paper)",
+     "year": 2026,
+     "authors": [
+      "David Linke",
+      "Lorenz Gruber",
+      "David Dingel",
+      "Nicola Ferger",
+      "Nikolas Herbst",
+      "Samuel Kounev"
+     ],
+     "venue": "Companion of the 17th ACM/SPEC International Conference on Performance Engineering",
+     "id": "doi:10.1145/3777911.3799731"
+    },
+    {
+     "title": "A Taxonomy and Evaluation of Workflow Orchestration Patterns in Enterprise Distributed Systems",
+     "year": 2025,
+     "authors": [
+      "Akash Verma"
+     ],
+     "venue": "International Journal of Science and Research (IJSR)",
+     "id": "doi:10.21275/sr25629180438"
+    },
+    {
+     "title": "Proving Information Flow Noninterference by Reusing a Machine-Checked Correctness Proof for Slicing",
+     "year": null,
+     "authors": [
+      "Daniel Wasserrab",
+      "Denis Lohner"
+     ],
+     "venue": "EPiC Series in Computing",
+     "id": "doi:10.29007/nnzj"
+    },
+    {
+     "title": "Decidability and proof systems for language-based noninterference relations",
+     "year": 2006,
+     "authors": [
+      "Mads Dam"
+     ],
+     "venue": "ACM SIGPLAN Notices",
+     "id": "doi:10.1145/1111320.1111044"
+    },
+    {
+     "title": "Proof-Carrying Streamed Workflow Graphs",
+     "year": 2026,
+     "authors": [
+      "Phillip Kingston",
+      "Théo Fagnoni"
+     ],
+     "venue": "",
+     "id": "doi:10.68273/opus.atlas.99999"
+    },
+    {
+     "title": "LLM-Assisted Workflow Orchestration for Decadal Prediction Analysis",
+     "year": 2026,
+     "authors": [
+      "Alexander Fischer",
+      "Gizem Ekinci",
+      "Sebastian Willmann",
+      "Christopher Kadow"
+     ],
+     "venue": "",
+     "id": "doi:10.5194/egusphere-egu26-21781"
+    },
+    {
+     "title": "A Review Of Airflow-Based And Cloud-Native Approaches For Workflow Orchestration In Devops",
+     "year": 2026,
+     "authors": [
+      "Basheer Ahmedu Basha"
+     ],
+     "venue": "The American Journal of Interdisciplinary Innovations and Research",
+     "id": "doi:10.37547/tajiir/volume08issue10-06"
+    },
+    {
+     "title": "Decidability and proof systems for language-based noninterference relations",
+     "year": 2006,
+     "authors": [
+      "Mads Dam"
+     ],
+     "venue": "Conference record of the 33rd ACM SIGPLAN-SIGACT symposium on Principles of programming languages",
+     "id": "doi:10.1145/1111037.1111044"
+    },
+    {
+     "title": "Evolution of Computational Workflow Orchestration Models",
+     "year": 2026,
+     "authors": [
+      "Daniil A. Pushkarev"
+     ],
+     "venue": "2026 International Russian Smart Industry Conference (SmartIndustryCon)",
+     "id": "doi:10.1109/smartindustrycon68821.2026.11492988"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "replay convergence event log formal proof idempotent at-least-once",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "replay convergence event log formal proof idempotent at-least-once",
+   "status": 200,
+   "results": [
+    {
+     "title": "Deterministic Payroll Computation Engines in Distributed Cloud Systems: Designing Idempotent and Replay-Safe Processing Pipelines",
+     "year": 2025,
+     "authors": [
+      "Sefa Teyek"
+     ],
+     "venue": "Iconic Research and Engineering Journals",
+     "id": "https://doi.org/10.64388/irev8i10-1714641"
+    },
+    {
+     "title": "Deterministic Payroll Computation Engines in Distributed Cloud Systems: Designing Idempotent and Replay-Safe Processing Pipelines",
+     "year": 2026,
+     "authors": [
+      "Sefa Teyek"
+     ],
+     "venue": "International Journal of Research Publications",
+     "id": "https://doi.org/10.47119/ijrp1002001720269575"
+    },
+    {
+     "title": "Semantic Idempotency for Exactly-Once Business Effects in At-Least-Once Distributed Messaging Systems",
+     "year": 2023,
+     "authors": [
+      "Karthik Juluri",
+      "Srinivas Nune"
+     ],
+     "venue": "The Eastasouth Journal of Information System and Computer Science",
+     "id": "https://doi.org/10.58812/esiscs.v1i01.1223"
+    },
+    {
+     "title": "Efficient Fault Tolerance for Stateful Serverless Computing with Asymmetric Logging",
+     "year": 2025,
+     "authors": [
+      "Sheng Qi",
+      "Haoyu Feng",
+      "Xuanzhe Liu",
+      "Xin Jin"
+     ],
+     "venue": "ACM Transactions on Computer Systems",
+     "id": "https://doi.org/10.1145/3725985"
+    },
+    {
+     "title": "Proof Architecture in the OpenAI Lean Library: Representation, Locality, and Semantic Transport",
+     "year": 2026,
+     "authors": [
+      "Robin Gounder"
+     ],
+     "venue": "SSRN Electronic Journal",
+     "id": "https://doi.org/10.2139/ssrn.7589458"
+    },
+    {
+     "title": "Leveraging formal specification to implement a database backend",
+     "year": 2023,
+     "authors": [
+      "Saalik Hatia"
+     ],
+     "venue": "theses.fr (ABES)",
+     "id": "https://doi.org/10.70675/9223a426zbfcfz4aaez81b0z8870c6e8a121"
+    },
+    {
+     "title": "Reliable and Scalable Mobile Technology Architecture: A Formal Model, Synchronization Protocol, and Reference Design",
+     "year": 2021,
+     "authors": [
+      "Srikanth Puram"
+     ],
+     "venue": "The American Journal of Engineering And Technology",
+     "id": "https://openalex.org/W7217765696"
+    },
+    {
+     "title": "Governance-by-Design in Regulated Enterprise Data Integration: A Formally Proved Compliance-Enforcing Architecture for Human Capital Management Data Synchronisation",
+     "year": 2026,
+     "authors": [
+      "Thompson Ikechukwu",
+      "Solomon Oluwaseun Obanla"
+     ],
+     "venue": "Research Square",
+     "id": "https://doi.org/10.21203/rs.3.rs-9915515/v1"
+    },
+    {
+     "title": "Self-Sovereign Identity Architecture for National Use with Wallet Proofs Zero-Knowledge and the VWR Framework",
+     "year": 2025,
+     "authors": [
+      "Md Abul Mansur"
+     ],
+     "venue": "European Scientific Journal ESJ",
+     "id": "https://doi.org/10.19044/esipreprint.12.2025.p28"
+    },
+    {
+     "title": "Scalable message-logging techniques for effective fault tolerance in HPC applications",
+     "year": 2013,
+     "authors": [
+      "Esteban Meneses Rojas"
+     ],
+     "venue": "Illinois Digital Environment for Access to Learning and Scholarship (University of Illinois at Urbana-Champaign)",
+     "id": "https://openalex.org/W7220780469"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "replay convergence event log formal proof idempotent at-least-once",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "replay convergence event log formal proof idempotent at-least-once",
+   "status": 200,
+   "results": [
+    {
+     "title": "Appendix B: Proof of Global Quadratic Convergence of the QR Algorithm",
+     "year": 1995,
+     "authors": [],
+     "venue": "Solving Least Squares Problems",
+     "id": "doi:10.1137/1.9781611971217.appb"
+    },
+    {
+     "title": "A formal proof of Gödel's theorem",
+     "year": 1939,
+     "authors": [
+      "L. Chwistek"
+     ],
+     "venue": "Journal of Symbolic Logic",
+     "id": "doi:10.2307/2269060"
+    },
+    {
+     "title": "ANALYTICAL MODEL OF THE IMPACT OF PARALLELISM ON THE PERFORMANCE OF AN ORDERED EVENT DELIVERY SYSTEM WITH AT-LEAST-ONCE SEMANTICS",
+     "year": 2026,
+     "authors": [],
+     "venue": "Modern Information Security",
+     "id": "doi:10.31673/2409-7292.2026.011987"
+    },
+    {
+     "title": "From Expected Goals to Scoring at Least Once: An Event-Specific Summary of Aggregated Bernoulli Risk",
+     "year": 2026,
+     "authors": [
+      "Tomasz Górecki"
+     ],
+     "venue": "Entropy",
+     "id": "doi:10.3390/e28050527"
+    },
+    {
+     "title": "Population victimised at least once",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1787/222330804167"
+    },
+    {
+     "title": "Population victimised at least once",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1787/718818238777"
+    },
+    {
+     "title": "Population victimised at least once",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1787/387846521047"
+    },
+    {
+     "title": "Large deviation convergence",
+     "year": 2001,
+     "authors": [],
+     "venue": "Large Deviations and Idempotent Probability",
+     "id": "doi:10.1201/9781420035803-6"
+    },
+    {
+     "title": "The proof-theoretic analysis of transfinitely iterated quasi least fixed points",
+     "year": 2006,
+     "authors": [
+      "Dieter Probst"
+     ],
+     "venue": "Journal of Symbolic Logic",
+     "id": "doi:10.2178/jsl/1154698573"
+    },
+    {
+     "title": "Figure 2. Log-likelihoods and derivatives for the hyperbolic discounting model.",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7554/elife.42607.003"
+    }
+   ]
+  }
+ ]
+}

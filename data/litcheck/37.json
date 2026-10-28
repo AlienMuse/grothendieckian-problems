@@ -1,0 +1,350 @@
+{
+ "problem": 37,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "syntomic stack operator Sen operator regularized determinant zeta function",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "syntomic stack operator Sen operator regularized determinant zeta function",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "syntomic stack operator Sen operator regularized determinant zeta function",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "syntomic stack operator Sen operator regularized determinant zeta function",
+   "status": 200,
+   "results": [
+    {
+     "title": "A Nonlocal Spectral Operator Model Reflecting Zeta Function Structure",
+     "year": 2025,
+     "authors": [
+      "Mehardeep Singh"
+     ],
+     "venue": "",
+     "id": "doi:10.21203/rs.3.rs-7193647/v1"
+    },
+    {
+     "title": "Zeta function determinant of the Laplace operator on theD-dimensional ball",
+     "year": 1996,
+     "authors": [
+      "M. Bordag",
+      "B. Geyer",
+      "K. Kirsten",
+      "E. Elizalde"
+     ],
+     "venue": "Communications in Mathematical Physics",
+     "id": "doi:10.1007/bf02103720"
+    },
+    {
+     "title": "The\n$ \\zeta $-determinant and Quillen determinant for a Dirac operator on a manifold with boundary",
+     "year": 2000,
+     "authors": [
+      "S.G. Scott",
+      "K.P. Wojciechowski"
+     ],
+     "venue": "Geometric and Functional Analysis",
+     "id": "doi:10.1007/pl00001651"
+    },
+    {
+     "title": "Spectral Realization of the Nontrivial Zeros of the Riemann Zeta Function via a Hermitian Operator Framework",
+     "year": 2025,
+     "authors": [
+      "Antonios Valamontes",
+      "Ioannis Adamopoulos"
+     ],
+     "venue": "",
+     "id": "doi:10.36227/techrxiv.174671959.94352616/v1"
+    },
+    {
+     "title": "Spectral zeta function of a sub-Laplacian on product sub-Riemannian manifolds and zeta-regularized determinant",
+     "year": 2010,
+     "authors": [
+      "Wolfram Bauer",
+      "Kenro Furutani"
+     ],
+     "venue": "Journal of Geometry and Physics",
+     "id": "doi:10.1016/j.geomphys.2010.04.009"
+    },
+    {
+     "title": "Prolate wave operator and Zeta",
+     "year": 2022,
+     "authors": [
+      "Alain Connes"
+     ],
+     "venue": "",
+     "id": "doi:10.52843/cassyni.lp3fx0"
+    },
+    {
+     "title": "Regularized Traces of Differential Operators",
+     "year": 2004,
+     "authors": [
+      "A.S. Pechentsov"
+     ],
+     "venue": "Recent Advances in Operator Theory, Operator Algebras, and their Applications",
+     "id": "doi:10.1007/3-7643-7314-8_13"
+    },
+    {
+     "title": "The zeta-determinant of the Dirichlet-to-Neumann operator on forms",
+     "year": 2024,
+     "authors": [
+      "Klaus Kirsten",
+      "Yoonweon Lee"
+     ],
+     "venue": "Annals of Global Analysis and Geometry",
+     "id": "doi:10.1007/s10455-024-09975-8"
+    },
+    {
+     "title": "On Min's zeta-function and Hermite elliptic operator",
+     "year": 2007,
+     "authors": [
+      "Xiaqi Ding",
+      "Yi Ding"
+     ],
+     "venue": "Acta Mathematica Scientia",
+     "id": "doi:10.1016/s0252-9602(07)60045-9"
+    },
+    {
+     "title": "Zeta function and regularized determinant on a disc and on a cone",
+     "year": 2005,
+     "authors": [
+      "M. Spreafico"
+     ],
+     "venue": "Journal of Geometry and Physics",
+     "id": "doi:10.1016/j.geomphys.2004.10.005"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "F-gauges complex linear operator Frobenius logarithm",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "F-gauges complex linear operator Frobenius logarithm",
+   "status": 200,
+   "results": [
+    {
+     "title": "Symplectic geometry of Frobenius structures",
+     "year": 2004,
+     "authors": [
+      "Alexander B. Givental"
+     ],
+     "venue": "Aspects of mathematics. E",
+     "id": "https://doi.org/10.1007/978-3-322-80236-1_4"
+    },
+    {
+     "title": "Frobenius manifolds in critical and non-critical strings",
+     "year": 2019,
+     "authors": [
+      "Konstantin Aleshkin"
+     ],
+     "venue": "SDL",
+     "id": "https://openalex.org/W2996291264"
+    },
+    {
+     "title": "Supersymmetric Gauge Theories and the AdS/CFT Correspondence",
+     "year": 2002,
+     "authors": [
+      "Eric D’hoker A",
+      "Daniel Z. Freedman"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.hep-th/0201253"
+    },
+    {
+     "title": "Isomonodromic Deformations Along the Caustic of a Dubrovin-Frobenius Manifold",
+     "year": 2023,
+     "authors": [
+      "SISSA, Italy",
+      "Felipe Reyes"
+     ],
+     "venue": "Symmetry Integrability and Geometry Methods and Applications",
+     "id": "https://doi.org/10.3842/sigma.2023.092"
+    },
+    {
+     "title": "Solutions of the Loop Equations of a Class of Generalized Frobenius Manifolds",
+     "year": 2024,
+     "authors": [
+      "Siqi Liu",
+      "Haonan Qu",
+      "Yuewei Wang",
+      "Youjin Zhang"
+     ],
+     "venue": "Communications in Mathematical Physics",
+     "id": "https://doi.org/10.1007/s00220-024-05083-7"
+    },
+    {
+     "title": "Alternating descent method for gauge cooling of complex Langevin simulations",
+     "year": 2020,
+     "authors": [
+      "Xiaoyu Dong",
+      "Zhenning Cai",
+      "Yana Di"
+     ],
+     "venue": "Physical review. D/Physical review. D.",
+     "id": "https://doi.org/10.1103/physrevd.102.054518"
+    },
+    {
+     "title": "Integrable systems, Frobenius manifolds and cohomological field theories",
+     "year": 2022,
+     "authors": [
+      "Francisco Hernández Iglesias"
+     ],
+     "venue": "HAL",
+     "id": "https://doi.org/10.70675/ec4417caz2cabz477bz9d6dz1ca10f80871b"
+    },
+    {
+     "title": "Annular Frobenius Classification of p-adic Stieltjes--Schwarzian Equations",
+     "year": 2026,
+     "authors": [
+      "Mohammadreza Mohajer",
+      "Abdellah Sebbar"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.21213"
+    },
+    {
+     "title": "The minimization of matrix logarithms: On a fundamental property of the unitary polar factor",
+     "year": 2014,
+     "authors": [
+      "Johannes Lankeit",
+      "Patrizio Neff",
+      "Yuji Nakatsukasa"
+     ],
+     "venue": "Linear Algebra and its Applications",
+     "id": "https://doi.org/10.1016/j.laa.2014.02.012"
+    },
+    {
+     "title": "Principal hierarchies of infinite-dimensional Frobenius manifolds: The extended 2D Toda lattice",
+     "year": 2015,
+     "authors": [
+      "Guido Carlet",
+      "Luca Philippe Mertens"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "https://doi.org/10.1016/j.aim.2015.04.001"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "F-gauges complex linear operator Frobenius logarithm",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "F-gauges complex linear operator Frobenius logarithm",
+   "status": 200,
+   "results": [
+    {
+     "title": "Cones and gauges in complex spaces: Spectral gaps and complex Perron-Frobenius theory",
+     "year": 2010,
+     "authors": [
+      "Hans Rugh"
+     ],
+     "venue": "Annals of Mathematics",
+     "id": "doi:10.4007/annals.2010.171.1707"
+    },
+    {
+     "title": "Operator trigonometry of Hotelling correlation, Frobenius condition, Penrose twistor",
+     "year": 2009,
+     "authors": [
+      "Karl Gustafson"
+     ],
+     "venue": "Linear Algebra and its Applications",
+     "id": "doi:10.1016/j.laa.2008.12.013"
+    },
+    {
+     "title": "Perron–Frobenius theory for complex matrices",
+     "year": 2003,
+     "authors": [
+      "Siegfried M. Rump"
+     ],
+     "venue": "Linear Algebra and its Applications",
+     "id": "doi:10.1016/s0024-3795(02)00329-4"
+    },
+    {
+     "title": "On the Logarithm of the q-Derivative operator and the Fractional q-Derivative operator",
+     "year": 2023,
+     "authors": [
+      "Ryan Mahendra Wilis"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.4650409"
+    },
+    {
+     "title": "Zeta Function and Perron-Frobenius Operator of Piecewise Linear Transformations on $\\mathbf{R}^k$",
+     "year": 1995,
+     "authors": [
+      "Makoto MORI"
+     ],
+     "venue": "Tokyo Journal of Mathematics",
+     "id": "doi:10.3836/tjm/1270043471"
+    },
+    {
+     "title": "Periodic points of positive linear operators and Perron-Frobenius operators",
+     "year": 2001,
+     "authors": [
+      "Roger Nussbaum"
+     ],
+     "venue": "Integral Equations and Operator Theory",
+     "id": "doi:10.1007/bf01192149"
+    },
+    {
+     "title": "Sur Deux Formules De Frobenius et Stickelberger et Inversion De Lagrange",
+     "year": 2015,
+     "authors": [
+      "Roger Gay",
+      "Marcel Grangé",
+      "Ahmed Sebbar"
+     ],
+     "venue": "Complex Analysis and Operator Theory",
+     "id": "doi:10.1007/s11785-015-0504-5"
+    },
+    {
+     "title": "On the Perron–Frobenius theory for complex matrices",
+     "year": 2012,
+     "authors": [
+      "Dimitrios Noutsos",
+      "Richard S. Varga"
+     ],
+     "venue": "Linear Algebra and its Applications",
+     "id": "doi:10.1016/j.laa.2012.03.025"
+    },
+    {
+     "title": "Logarithm of Operator and Variational Methods for Linear Inverse Problems",
+     "year": 2020,
+     "authors": [
+      "S.A. Drozdovskiy"
+     ],
+     "venue": "Proceedings of the International Conference \"Mathematical Biology and Bioinformatics\"",
+     "id": "doi:10.17537/icmbb20.14"
+    },
+    {
+     "title": "Beziehungen zwischen qualitativen dynamischen Modellen und dem Frobenius-Perron-Operator (Connections between Qualitative Dynamical Models and the Frobenius-Perron Operator)",
+     "year": 2003,
+     "authors": [
+      "Jan Lunze",
+      "Jochen Schröder"
+     ],
+     "venue": "at - Automatisierungstechnik",
+     "id": "doi:10.1524/auto.51.10.471.19577"
+    }
+   ]
+  }
+ ]
+}

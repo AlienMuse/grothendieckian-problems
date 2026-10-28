@@ -1,0 +1,382 @@
+{
+ "problem": 51,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "archimedean place gauge analytic stack Arakelov",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "archimedean place gauge analytic stack Arakelov",
+   "status": 200,
+   "results": [
+    {
+     "title": "Holography principle and arithmetic of algebraic curves",
+     "year": 2001,
+     "authors": [
+      "Yuri I. Manin",
+      "Matilde Marcolli"
+     ],
+     "venue": "Advances in Theoretical and Mathematical Physics",
+     "id": "https://doi.org/10.4310/atmp.2001.v5.n3.a6"
+    },
+    {
+     "title": "Canonical Kähler metrics and arithmetics: Generalizing Faltings heights",
+     "year": 2018,
+     "authors": [
+      "Yuji Odaka"
+     ],
+     "venue": "Kyoto journal of mathematics",
+     "id": "https://doi.org/10.1215/21562261-2017-0023"
+    },
+    {
+     "title": "Symmetries in algebra and number theory (SANT)",
+     "year": 2009,
+     "authors": [
+      "Ina Kersten",
+      "Ralf Meyer"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.17875/gup2009-63"
+    },
+    {
+     "title": "Campana points of bounded height on vector group compactifications",
+     "year": 2020,
+     "authors": [
+      "Marta Pieropan",
+      "Arne Smeets",
+      "Sho Tanimoto",
+      "Anthony Várilly‐Alvarado"
+     ],
+     "venue": "Proceedings of the London Mathematical Society",
+     "id": "https://doi.org/10.1112/plms.12391"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "archimedean place gauge analytic stack Arakelov",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "archimedean place gauge analytic stack Arakelov",
+   "status": 200,
+   "results": [
+    {
+     "title": "Tropicalization is a non-Archimedean analytic stack quotient",
+     "year": 2017,
+     "authors": [
+      "Martin Ulirsch"
+     ],
+     "venue": "Mathematical Research Letters",
+     "id": "doi:10.4310/mrl.2017.v24.n4.a12"
+    },
+    {
+     "title": "Direct images in non-archimedean Arakelov theory",
+     "year": 2000,
+     "authors": [
+      "Henri Gillet",
+      "Christophe Soulé"
+     ],
+     "venue": "Annales de l'Institut Fourier",
+     "id": "doi:10.5802/aif.1758"
+    },
+    {
+     "title": "Non-archimedean analytic stacks and their applications",
+     "year": null,
+     "authors": [
+      "Qixiang Wang"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/8b13982cz60c7z47b0za832z2b425489217e"
+    },
+    {
+     "title": "Equivariant non-archimedean Arakelov theory of toric varieties",
+     "year": 2026,
+     "authors": [
+      "Ana María Botero"
+     ],
+     "venue": "Journal of Algebraic Geometry",
+     "id": "doi:10.1090/jag/856"
+    },
+    {
+     "title": "Non-archimedean analytic continuation of unobstructedness",
+     "year": 2025,
+     "authors": [
+      "Hang Yuan"
+     ],
+     "venue": "Quantum Topology",
+     "id": "doi:10.4171/qt/237"
+    },
+    {
+     "title": "David Lewis’s Place in Analytic Philosophy",
+     "year": 2014,
+     "authors": [
+      "Scott Soames"
+     ],
+     "venue": "Analytic Philosophy in America",
+     "id": "doi:10.23943/princeton/9780691160726.003.0006"
+    },
+    {
+     "title": "Analytic curves",
+     "year": 2012,
+     "authors": [
+      "Vladimir Berkovich"
+     ],
+     "venue": "Mathematical Surveys and Monographs Spectral Theory and Analytic Geometry over Non-Archimedean Fields",
+     "id": "doi:10.1090/surv/033/05"
+    },
+    {
+     "title": "On the structure of non-archimedean analytic curves",
+     "year": 2013,
+     "authors": [
+      "Matthew Baker",
+      "Sam Payne",
+      "Joseph Rabinoff"
+     ],
+     "venue": "Contemporary Mathematics Tropical and Non-Archimedean Geometry",
+     "id": "doi:10.1090/conm/605/12113"
+    },
+    {
+     "title": "Analytic spaces",
+     "year": 2012,
+     "authors": [
+      "Vladimir Berkovich"
+     ],
+     "venue": "Mathematical Surveys and Monographs Spectral Theory and Analytic Geometry over Non-Archimedean Fields",
+     "id": "doi:10.1090/surv/033/04"
+    },
+    {
+     "title": "Non-Archimedean analytic functions, measures and distributions",
+     "year": 1991,
+     "authors": [
+      "Alexey A. Panchishkin"
+     ],
+     "venue": "Lecture Notes in Mathematics Non-Archimedean L-Functions of Siegel and Hilbert Modular Forms",
+     "id": "doi:10.1007/978-3-662-21541-8_3"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "real place F-gauge analogue Hodge structure",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "real place F-gauge analogue Hodge structure",
+   "status": 200,
+   "results": [
+    {
+     "title": "Formality and splitting of real non-abelian mixed Hodge structures",
+     "year": 2009,
+     "authors": [
+      "J. P. Pridham"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.0902.0770"
+    },
+    {
+     "title": "Variations of mixed Hodge structure attached to the deformation theory of a complex variation of Hodge structures",
+     "year": 2011,
+     "authors": [
+      "Philippe Eyssidieux",
+      "Carlos Simpson"
+     ],
+     "venue": "Journal of the European Mathematical Society",
+     "id": "https://doi.org/10.4171/jems/293"
+    },
+    {
+     "title": "Gauge transformations of spectral triples with twisted real structures",
+     "year": 2021,
+     "authors": [
+      "Adam M. Magee",
+      "Ludwik D൅browski"
+     ],
+     "venue": "Journal of Mathematical Physics",
+     "id": "https://doi.org/10.1063/5.0038601"
+    },
+    {
+     "title": "Real Non-Abelian Mixed Hodge Structures for Quasi-Projective Varieties: Formality and Splitting",
+     "year": 2016,
+     "authors": [
+      "J. P. Pridham"
+     ],
+     "venue": "Memoirs of the American Mathematical Society",
+     "id": "https://doi.org/10.1090/memo/1150"
+    },
+    {
+     "title": "Massive Abelian gauge symmetries and fluxes in F-theory",
+     "year": 2011,
+     "authors": [
+      "Thomas W. Grimm",
+      "Max Kerstan",
+      "Eran Palti",
+      "Timo Weigand"
+     ],
+     "venue": "Journal of High Energy Physics",
+     "id": "https://doi.org/10.1007/jhep12(2011)004"
+    },
+    {
+     "title": "Degrees of Hodge Loci",
+     "year": 2024,
+     "authors": [
+      "David Urbanik"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2412.08924"
+    },
+    {
+     "title": "Gauge Theories of Gravitation",
+     "year": 2011,
+     "authors": [
+      "M. Blagojević",
+      "Friedrich W. Hehl",
+      "T. W. B. Kibble"
+     ],
+     "venue": "IMPERIAL COLLEGE PRESS eBooks",
+     "id": "https://doi.org/10.1142/p781"
+    },
+    {
+     "title": "Gauge theory in higher dimensions, II",
+     "year": 2011,
+     "authors": [
+      "Simon K Donaldson",
+      "Ed Segal"
+     ],
+     "venue": "Surveys in Differential Geometry",
+     "id": "https://doi.org/10.4310/sdg.2011.v16.n1.a1"
+    },
+    {
+     "title": "Lagrangian correspondences of nonabelian Hodge type and shifted twistor structures",
+     "year": 2026,
+     "authors": [
+      "Jacob Kryczka",
+      "Yuuji Tanaka",
+      "Shing–Tung Yau"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.30637"
+    },
+    {
+     "title": "Gauge theory and symplectic structures",
+     "year": 2026,
+     "authors": [
+      "Ghosh, Partha"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W7208794451"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "real place F-gauge analogue Hodge structure",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "real place F-gauge analogue Hodge structure",
+   "status": 200,
+   "results": [
+    {
+     "title": "A real analogue of the Hodge conjecture",
+     "year": null,
+     "authors": [
+      "Samuel Lerbet"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/b5eabab4zdfeaz4ccfza9bbz79a42b964ae3"
+    },
+    {
+     "title": "Higher-dimensional analogue of the Blau–Thompson model and NT=8, D=2 Hodge-type cohomological gauge theories",
+     "year": 2003,
+     "authors": [
+      "B. Geyer",
+      "D. Mülsch"
+     ],
+     "venue": "Nuclear Physics B",
+     "id": "doi:10.1016/s0550-3213(03)00260-8"
+    },
+    {
+     "title": "Real-time analogue gauge transcription on mobile phone",
+     "year": 2021,
+     "authors": [
+      "Ben Howells",
+      "James Charles",
+      "Roberto Cipolla"
+     ],
+     "venue": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+     "id": "doi:10.1109/cvprw53098.2021.00269"
+    },
+    {
+     "title": "Hodge Dual Gauge Symmetry in Minimal Einstein-Aether Theory",
+     "year": 2025,
+     "authors": [
+      "Kamal Hajian"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.5221702"
+    },
+    {
+     "title": "Real time lattice gauge theory actions",
+     "year": 2021,
+     "authors": [
+      "Michael Wagman"
+     ],
+     "venue": "Real time lattice gauge theory actions",
+     "id": "doi:10.2172/1827848"
+    },
+    {
+     "title": "Mixed Hodge Structure on the Vanishing Cohomology",
+     "year": 1977,
+     "authors": [
+      "J. H. M. Steenbrink"
+     ],
+     "venue": "Real and complex singularities, Oslo 1976",
+     "id": "doi:10.1007/978-94-010-1289-8_15"
+    },
+    {
+     "title": "Algebraic Cycles, Hodge Structure, and the Hodge Conjecture",
+     "year": 2025,
+     "authors": [
+      "Prabin Kumar Prabin"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.5371902"
+    },
+    {
+     "title": "+ E One now needs an analogue",
+     "year": 1993,
+     "authors": [],
+     "venue": "Noncommutative Distributions",
+     "id": "doi:10.1201/9781482277579-43"
+    },
+    {
+     "title": "Variations of Hodge Structure",
+     "year": 2002,
+     "authors": [],
+     "venue": "Hodge Theory and Complex Algebraic Geometry I",
+     "id": "doi:10.1017/cbo9780511615344.011"
+    },
+    {
+     "title": "Chapter Seven. Introduction to Variations of Hodge Structure",
+     "year": 2014,
+     "authors": [
+      "Eduardo Cattani"
+     ],
+     "venue": "Hodge Theory",
+     "id": "doi:10.1515/9781400851478.297"
+    }
+   ]
+  }
+ ]
+}

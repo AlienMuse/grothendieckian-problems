@@ -1,0 +1,329 @@
+{
+ "problem": 40,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "fractured adelic geometry construction flow BSD",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "fractured adelic geometry construction flow BSD",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "fractured adelic geometry construction flow BSD",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "fractured adelic geometry construction flow BSD",
+   "status": 200,
+   "results": [
+    {
+     "title": "Adelic curves",
+     "year": 2020,
+     "authors": [
+      "Huayi Chen",
+      "Atsushi Moriwaki"
+     ],
+     "venue": "Lecture Notes in Mathematics Arakelov Geometry over Adelic Curves",
+     "id": "doi:10.1007/978-981-15-1728-0_3"
+    },
+    {
+     "title": "Correction to: Positivity in Arakelov Geometry over Adelic Curves",
+     "year": 2024,
+     "authors": [
+      "Huayi Chen",
+      "Atsushi Moriwaki"
+     ],
+     "venue": "Progress in Mathematics Positivity in Arakelov Geometry over Adelic Curves",
+     "id": "doi:10.1007/978-3-031-61668-6_10"
+    },
+    {
+     "title": "NON-ARCHIMEDEAN GEOMETRY AND PHYSICS ON ADELIC SPACES",
+     "year": 2004,
+     "authors": [
+      "BRANKO DRAGOVICH"
+     ],
+     "venue": "Contemporary Geometry And Related Topics",
+     "id": "doi:10.1142/9789812703088_0007"
+    },
+    {
+     "title": "Adelic line bundles on arithmetic varieties",
+     "year": 2020,
+     "authors": [
+      "Huayi Chen",
+      "Atsushi Moriwaki"
+     ],
+     "venue": "Lecture Notes in Mathematics Arakelov Geometry over Adelic Curves",
+     "id": "doi:10.1007/978-981-15-1728-0_6"
+    },
+    {
+     "title": "Remarks on Adelic Geometry of Numbers",
+     "year": 2023,
+     "authors": [
+      "Jeffrey Lin Thunder"
+     ],
+     "venue": "Number Theory for the Millennium III",
+     "id": "doi:10.1201/9780138747022-16"
+    },
+    {
+     "title": "Adelic geometry on arithmetic surfaces, I: Idelic and adelic interpretation of the Deligne pairing",
+     "year": 2022,
+     "authors": [
+      "Paolo Dolce"
+     ],
+     "venue": "Kyoto Journal of Mathematics",
+     "id": "doi:10.1215/21562261-2022-0009"
+    },
+    {
+     "title": "Vector bundles on adelic curves: global theory",
+     "year": 2020,
+     "authors": [
+      "Huayi Chen",
+      "Atsushi Moriwaki"
+     ],
+     "venue": "Lecture Notes in Mathematics Arakelov Geometry over Adelic Curves",
+     "id": "doi:10.1007/978-981-15-1728-0_4"
+    },
+    {
+     "title": "On Adelic Zeta Functions of Prehomogeneous Vector Spaces with a Finitely Many Adelic Open Orbits",
+     "year": null,
+     "authors": [
+      "Tatsuo Kimura",
+      "Takeyoshi Kogiso"
+     ],
+     "venue": "Advanced Studies in Pure Mathematics Zeta Functions in Geometry",
+     "id": "doi:10.2969/aspm/02110021"
+    },
+    {
+     "title": "Parametric Resonance, Arithmetic Geometry, and Adelic Topology of Microtubules: A Bridge to Orch OR Theory",
+     "year": 2025,
+     "authors": [
+      "Michel Planat"
+     ],
+     "venue": "",
+     "id": "doi:10.20944/preprints202511.0257.v1"
+    },
+    {
+     "title": "Arithmetic Volumes over a General Adelic Curve",
+     "year": 2024,
+     "authors": [
+      "Huayi Chen",
+      "Atsushi Moriwaki"
+     ],
+     "venue": "Progress in Mathematics Positivity in Arakelov Geometry over Adelic Curves",
+     "id": "doi:10.1007/978-3-031-61668-6_4"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "cohomology Spec Z flow regularized determinant elliptic curve L-function",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "cohomology Spec Z flow regularized determinant elliptic curve L-function",
+   "status": 200,
+   "results": [
+    {
+     "title": "There is no “Weil-”cohomology theory with real coefficients for arithmetic curves",
+     "year": 2023,
+     "authors": [
+      "Christopher Deninger"
+     ],
+     "venue": "ANNALI SCUOLA NORMALE SUPERIORE - CLASSE DI SCIENZE",
+     "id": "https://doi.org/10.2422/2036-2145.202204_005"
+    },
+    {
+     "title": "On the Cohomology Classes of Certain Eisenstein-Kronecker Forms",
+     "year": 2026,
+     "authors": [
+      "Zhixuan Sheng",
+      "Jie Zhou"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.13581"
+    },
+    {
+     "title": "Anosov Flows and Dynamical Zeta Functions",
+     "year": 2012,
+     "authors": [
+      "Paolo Giulietti",
+      "Carlangelo Liverani",
+      "Mark Pollicott"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1203.0904"
+    },
+    {
+     "title": "The determinant of the Lax–Phillips scattering operator",
+     "year": 2020,
+     "authors": [
+      "Joshua S. Friedman",
+      "Jay A. Jorgenson",
+      "Lejla Smajlović"
+     ],
+     "venue": "Annales de l’institut Fourier",
+     "id": "https://doi.org/10.5802/aif.3327"
+    },
+    {
+     "title": "The eta-invariant, Maslov index, and spectral flow for Dirac-type operators on manifolds with boundary",
+     "year": 2000,
+     "authors": [
+      "Paul Kirk",
+      "Matthias Lesch"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.math/0012123"
+    },
+    {
+     "title": "The Action Potential Of Principia Mathematica & Gedanc: An Analytic–Geometric Framework Bridging Hodge Theory and the Riemann ζ-Function.",
+     "year": 2025,
+     "authors": [
+      "Hassan Rabbani"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.33774/coe-2025-nt32q"
+    },
+    {
+     "title": "The Action Potential Of Principia Mathematica & Gedanke: An Analytic–Geometric Framework Bridging Hodge Theory and the Riemann ζ-Function.",
+     "year": 2025,
+     "authors": [
+      "Hassan Rabbani"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.33774/coe-2025-nt32q-v2"
+    },
+    {
+     "title": "TWISTED RUELLE ZETA FUNCTION ON HYPERBOLIC MANIFOLDS AND COMPLEX-VALUED ANALYTIC TORSION",
+     "year": 2025,
+     "authors": [
+      "Polyxeni Spilioti"
+     ],
+     "venue": "Journal of the Institute of Mathematics of Jussieu",
+     "id": "https://doi.org/10.1017/s1474748024000586"
+    },
+    {
+     "title": "Homological mirror symmetry for the genus 2 curve in an abelian variety and its generalized Strominger-Yau-Zaslow mirror",
+     "year": 2019,
+     "authors": [
+      "Catherine Cannizzo"
+     ],
+     "venue": "eScholarship (California Digital Library)",
+     "id": "https://openalex.org/W2968085651"
+    },
+    {
+     "title": "Noncommutative geometry and motives: The thermodynamics of endomotives",
+     "year": 2007,
+     "authors": [
+      "Alain Connes A",
+      "Caterina Consani B",
+      "Matilde Marcolli"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "https://doi.org/10.1016/j.aim.2007.03.006"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "cohomology Spec Z flow regularized determinant elliptic curve L-function",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "cohomology Spec Z flow regularized determinant elliptic curve L-function",
+   "status": 200,
+   "results": [
+    {
+     "title": "L FUNCTION OF AN ELLIPTIC CURVE",
+     "year": null,
+     "authors": [],
+     "venue": "Elliptic Curves. (MN-40), Volume 40",
+     "id": "doi:10.2307/j.ctv346st5.16"
+    },
+    {
+     "title": "X. L Function of an Elliptic Curve",
+     "year": 1993,
+     "authors": [],
+     "venue": "Elliptic Curves. (MN-40), Volume 40",
+     "id": "doi:10.1515/9780691186900-015"
+    },
+    {
+     "title": "Variants of Elliptic Cohomology",
+     "year": null,
+     "authors": [],
+     "venue": "The University Series in Mathematics Elliptic Cohomology",
+     "id": "doi:10.1007/0-306-46969-3_10"
+    },
+    {
+     "title": "L-Function of an Elliptic Curve and Its Analytic Continuation",
+     "year": null,
+     "authors": [],
+     "venue": "Graduate Texts in Mathematics Elliptic Curves",
+     "id": "doi:10.1007/0-387-21577-8_17"
+    },
+    {
+     "title": "Quasi-quadratic elliptic curve point counting using rigid cohomology",
+     "year": 2009,
+     "authors": [
+      "Hendrik Hubrechts"
+     ],
+     "venue": "Journal of Symbolic Computation",
+     "id": "doi:10.1016/j.jsc.2008.02.015"
+    },
+    {
+     "title": "K3-Cohomology",
+     "year": null,
+     "authors": [],
+     "venue": "The University Series in Mathematics Elliptic Cohomology",
+     "id": "doi:10.1007/0-306-46969-3_11"
+    },
+    {
+     "title": "Period determinant of an irregular connection over an elliptic curve",
+     "year": 2005,
+     "authors": [
+      "Byungheup Jun"
+     ],
+     "venue": "Journal of Algebra",
+     "id": "doi:10.1016/j.jalgebra.2005.04.029"
+    },
+    {
+     "title": "Quaternionic elliptic objects and K3-cohomology",
+     "year": 2007,
+     "authors": [
+      "Jorge A. Devoto"
+     ],
+     "venue": "Elliptic Cohomology",
+     "id": "doi:10.1017/cbo9780511721489.004"
+    },
+    {
+     "title": "Toward higher chromatic analogs of elliptic cohomology",
+     "year": 2007,
+     "authors": [
+      "Douglas C. Ravenel"
+     ],
+     "venue": "Elliptic Cohomology",
+     "id": "doi:10.1017/cbo9780511721489.015"
+    },
+    {
+     "title": "Elliptic Genera",
+     "year": null,
+     "authors": [],
+     "venue": "The University Series in Mathematics Elliptic Cohomology",
+     "id": "doi:10.1007/0-306-46969-3_2"
+    }
+   ]
+  }
+ ]
+}

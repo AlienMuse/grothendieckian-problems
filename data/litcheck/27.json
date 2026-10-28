@@ -1,0 +1,459 @@
+{
+ "problem": 27,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "Stiefel manifold training dynamics invariant manifold stability",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "Stiefel manifold training dynamics invariant manifold stability",
+   "status": 200,
+   "results": [
+    {
+     "title": "Stiefel Manifold Dynamical Systems for Tracking Representational Drift",
+     "year": 2026,
+     "authors": [
+      "Hyun Dong Lee",
+      "Aditi Jha",
+      "Stephen E Clarke",
+      "Michael P. Silvernagel",
+      "Paul Nuyujukian",
+      "Scott W. Linderman"
+     ],
+     "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+     "id": "https://doi.org/10.64898/2026.03.07.710319"
+    },
+    {
+     "title": "Optimized Weight Initialization on the Stiefel Manifold for Deep ReLU Neural Networks",
+     "year": 2025,
+     "authors": [
+      "Hyungu Lee",
+      "Tae-Hyeong Kim",
+      "Hayoung Choi"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2509.00362"
+    },
+    {
+     "title": "Stiefel manifold interpolation for non-intrusive model reduction of parameterized fluid flow problems",
+     "year": 2024,
+     "authors": [
+      "Achraf El Omari",
+      "Mohamed El Khlifi",
+      "Laurent Cordier"
+     ],
+     "venue": "Journal of Computational Physics",
+     "id": "https://doi.org/10.1016/j.jcp.2024.113564"
+    },
+    {
+     "title": "Demystifying Manifold Constraints in LLM Pre-training",
+     "year": 2026,
+     "authors": [
+      "Kang An",
+      "Jiaxiang Li",
+      "Donald Goldfarb",
+      "Shiqian Ma"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.04418"
+    },
+    {
+     "title": "Variational Bayes on manifolds",
+     "year": 2021,
+     "authors": [
+      "Minh‐Ngoc Tran",
+      "Dang H. Nguyen",
+      "Duy Nguyen"
+     ],
+     "venue": "Statistics and Computing",
+     "id": "https://doi.org/10.1007/s11222-021-10047-1"
+    },
+    {
+     "title": "Manifold constrained steepest descent for smooth and closed-set optimization",
+     "year": 2026,
+     "authors": [
+      "Kaiwei Yang",
+      "Lexiao Lai"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2601.21487"
+    },
+    {
+     "title": "Logit Distillation on Manifolds: Mapping by Learning",
+     "year": 2026,
+     "authors": [
+      "Yiru Yang",
+      "Junling Wang",
+      "Singh, Nishant Kumar",
+      "Luohong Wu",
+      "Haoran Yan"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.00771"
+    },
+    {
+     "title": "Application of manifold optimization in quantum state reconstruction",
+     "year": 2024,
+     "authors": [
+      "Chao Zhang"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.14711/thesis-991013319958203412"
+    },
+    {
+     "title": "Stiefel Flow Matching for Moment-Constrained Structure Elucidation",
+     "year": 2024,
+     "authors": [
+      "Austin Cheng",
+      "Alston Lo",
+      "Kin Long Kelvin Lee",
+      "Santiago Miret",
+      "Alán Aspuru‐Guzik"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2412.12540"
+    },
+    {
+     "title": "Model reduction of dynamical systems on nonlinear manifolds using deep convolutional autoencoders",
+     "year": 2019,
+     "authors": [
+      "Kookjin Lee",
+      "Kevin Carlberg"
+     ],
+     "venue": "Journal of Computational Physics",
+     "id": "https://doi.org/10.1016/j.jcp.2019.108973"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "Stiefel manifold training dynamics invariant manifold stability",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "Stiefel manifold training dynamics invariant manifold stability",
+   "status": 200,
+   "results": [
+    {
+     "title": "Three-Body Invariant Manifold Transition with Electric Propulsion",
+     "year": 2009,
+     "authors": [
+      "Pierpaolo Pergola",
+      "Koen Geurts",
+      "Cosmo Casaregola",
+      "Mariano Andrenucci"
+     ],
+     "venue": "Space Manifold Dynamics",
+     "id": "doi:10.1007/978-1-4419-0348-8_9"
+    },
+    {
+     "title": "Coordinate descent on the Stiefel manifold for deep neural network training",
+     "year": 2023,
+     "authors": [
+      "Estelle Massart",
+      "Vinayak Abrol"
+     ],
+     "venue": "ESANN 2023 proceesdings",
+     "id": "doi:10.14428/esann/2023.es2023-143"
+    },
+    {
+     "title": "Theory of Invariant Manifold and Foliation and Uniqueness of Center Manifold Dynamics",
+     "year": 2023,
+     "authors": [
+      "Bo Deng"
+     ],
+     "venue": "Journal of Dynamics and Differential Equations",
+     "id": "doi:10.1007/s10884-023-10265-3"
+    },
+    {
+     "title": "Invariant Submanifold of Structure Manifold",
+     "year": 2015,
+     "authors": [],
+     "venue": "International Journal of Science and Research (IJSR)",
+     "id": "doi:10.21275/v4i12.nov152227"
+    },
+    {
+     "title": "Unitarily invariant geometry on Grassmann manifold",
+     "year": null,
+     "authors": [
+      "Hongrui Shen"
+     ],
+     "venue": "",
+     "id": "doi:10.14711/thesis-b931397"
+    },
+    {
+     "title": "Stability to Deformations of Manifold Filters and Manifold Neural Networks_supp1-3378379.pdf",
+     "year": null,
+     "authors": [
+      "Zhiyang Wang"
+     ],
+     "venue": "",
+     "id": "doi:10.1109/tsp.2024.3378379/mm1"
+    },
+    {
+     "title": "The Unstable Manifold of an Overflowing Invariant Manifold",
+     "year": 1994,
+     "authors": [
+      "Stephen Wiggins"
+     ],
+     "venue": "Applied Mathematical Sciences Normally Hyperbolic Invariant Manifolds in Dynamical Systems",
+     "id": "doi:10.1007/978-1-4612-4312-0_4"
+    },
+    {
+     "title": "Retraction-Free Optimization over the Stiefel Manifold for the LoRA Fine-Tuning_supp1-3711595.pdf",
+     "year": null,
+     "authors": [
+      "Jiang Hu"
+     ],
+     "venue": "",
+     "id": "doi:10.1109/tpami.2026.3711595/mm1"
+    },
+    {
+     "title": "Finite-time invariant manifold detection from experimental phase space trajectories",
+     "year": null,
+     "authors": [
+      "",
+      "Joseph Kuehl"
+     ],
+     "venue": "",
+     "id": "doi:10.23860/diss-2309"
+    },
+    {
+     "title": "SMFilter: Filtering Algorithms for the State Space Models on the Stiefel Manifold",
+     "year": 2018,
+     "authors": [
+      "Yukai Yang"
+     ],
+     "venue": "CRAN: Contributed Packages",
+     "id": "doi:10.32614/cran.package.smfilter"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "centre manifold stability frame dynamics neural network",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "centre manifold stability frame dynamics neural network",
+   "status": 200,
+   "results": [
+    {
+     "title": "Constitutive manifold neural networks",
+     "year": 2026,
+     "authors": [
+      "Wouter J. Schuttert",
+      "Mohammed Iqbal Abdul Rasheed",
+      "Bojana Rosić"
+     ],
+     "venue": "Journal of Computational Physics",
+     "id": "https://doi.org/10.1016/j.jcp.2026.114912"
+    },
+    {
+     "title": "Emergence of universal computations through neural manifold dynamics",
+     "year": 2023,
+     "authors": [
+      "Joan Gort Vicente"
+     ],
+     "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+     "id": "https://doi.org/10.1101/2023.02.21.529079"
+    },
+    {
+     "title": "Understanding the dynamics of biological and neural oscillator networks through exact mean-field reductions: a review",
+     "year": 2020,
+     "authors": [
+      "Christian Bick",
+      "Marc Goodfellow",
+      "Carlo R. Laing",
+      "Erik A. Martens"
+     ],
+     "venue": "The Journal of Mathematical Neuroscience",
+     "id": "https://doi.org/10.1186/s13408-020-00086-9"
+    },
+    {
+     "title": "Topology & Dynamics in higher-order systems and neural networks",
+     "year": 2026,
+     "authors": [
+      "Marco Nurisso"
+     ],
+     "venue": "PORTO@Iris",
+     "id": "https://openalex.org/W7217593283"
+    },
+    {
+     "title": "Spatiotemporal neural correlations and network dynamics",
+     "year": 2020,
+     "authors": [
+      "Yaoke Shi",
+      "Roxana Zeraati",
+      "Anna Levina",
+      "Tatiana A. Engel"
+     ],
+     "venue": "MPG.PuRe (Max Planck Society)",
+     "id": "https://openalex.org/W3014837519"
+    },
+    {
+     "title": "Centre manifold theorem for maps along manifolds of fixed points",
+     "year": 2026,
+     "authors": [
+      "Lachlan Ewen MacDonald"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2604.18202"
+    },
+    {
+     "title": "Neural network modelling",
+     "year": 1991,
+     "authors": [
+      "J. W. Clark"
+     ],
+     "venue": "Physics in Medicine and Biology",
+     "id": "https://doi.org/10.1088/0031-9155/36/10/001"
+    },
+    {
+     "title": "Optimal control for quadrotors UAV based on deep neural network approximations of stable manifold of HJB equation",
+     "year": 2025,
+     "authors": [
+      "Yuhuan Yue"
+     ],
+     "venue": "Automatika",
+     "id": "https://doi.org/10.1080/00051144.2025.2461827"
+    },
+    {
+     "title": "Center Manifold Dynamics in Randomly Coupled Oscillators and in Cochlea",
+     "year": 2025,
+     "authors": [
+      "Dimitrios Moirogiannis"
+     ],
+     "venue": "Digital Commons - RU (Rockefeller University)",
+     "id": "https://doi.org/10.48496/f6vn-e769"
+    },
+    {
+     "title": "Methods for image denoising using convolutional neural network: a review",
+     "year": 2021,
+     "authors": [
+      "Ademola Enitan Ilesanmi",
+      "Taiwo O. Ilesanmi"
+     ],
+     "venue": "Complex & Intelligent Systems",
+     "id": "https://doi.org/10.1007/s40747-021-00428-4"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "centre manifold stability frame dynamics neural network",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "centre manifold stability frame dynamics neural network",
+   "status": 200,
+   "results": [
+    {
+     "title": "Stability to Deformations of Manifold Filters and Manifold Neural Networks_supp1-3378379.pdf",
+     "year": null,
+     "authors": [
+      "Zhiyang Wang"
+     ],
+     "venue": "",
+     "id": "doi:10.1109/tsp.2024.3378379/mm1"
+    },
+    {
+     "title": "Centre Manifold Analysis of 3-D nonlinear system and Kinetic stability of Protein Assembly",
+     "year": 2022,
+     "authors": [
+      "Souma Mazumdar",
+      "Gautam Gangopadhyay"
+     ],
+     "venue": "Journal of Applied Nonlinear Dynamics",
+     "id": "doi:10.5890/jand.2022.03.008"
+    },
+    {
+     "title": "Dynamics of neural populations: Stability and synchrony",
+     "year": 2006,
+     "authors": [
+      "Lawrence Sirovich",
+      "Ahmet Omurtag",
+      "Kip Lubliner"
+     ],
+     "venue": "Network: Computation in Neural Systems",
+     "id": "doi:10.1080/09548980500421154"
+    },
+    {
+     "title": "Emergence of universal computations through neural manifold dynamics",
+     "year": 2023,
+     "authors": [
+      "Joan Gort Vicente"
+     ],
+     "venue": "",
+     "id": "doi:10.1101/2023.02.21.529079"
+    },
+    {
+     "title": "Semi-Active Control of MRE Base Isolation Frame Structure Utilizing Online Learning Deep Neural Network Fuzzy Control",
+     "year": 2025,
+     "authors": [
+      "Fan-Xing Zhang",
+      "Yang Lv",
+      "Bing-Chen Li"
+     ],
+     "venue": "International Journal of Structural Stability and Dynamics",
+     "id": "doi:10.1142/s0219455426502822"
+    },
+    {
+     "title": "Convolutional Neural Network-Based Numerical Stability Prediction in Computational Fluid Dynamics Using Multi-Channel Spatial Inputs",
+     "year": 2026,
+     "authors": [
+      "Arjun Taware"
+     ],
+     "venue": "",
+     "id": "doi:10.31224/7571"
+    },
+    {
+     "title": "ManifoldNet: A Deep Neural Network for Manifold-Valued Data With Applications_supp1-3003846.pdf",
+     "year": null,
+     "authors": [
+      "Baba Vemuri"
+     ],
+     "venue": "",
+     "id": "doi:10.1109/tpami.2020.3003846/mm1"
+    },
+    {
+     "title": "Frame-PINN: A Moving-Frame Physics-Informed Neural Network for PDEs on Unknown Embedded Surfaces",
+     "year": 2026,
+     "authors": [
+      "Shuhuan Li"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6723407"
+    },
+    {
+     "title": "Emergence of Universal Computations Through Neural Manifold Dynamics",
+     "year": 2024,
+     "authors": [
+      "Joan Gort"
+     ],
+     "venue": "Neural Computation",
+     "id": "doi:10.1162/neco_a_01631"
+    },
+    {
+     "title": "Generic multiparameter bifurcation from a manifold",
+     "year": 2000,
+     "authors": [
+      "D. R. J. Chillingworth"
+     ],
+     "venue": "Dynamics and Stability of Systems",
+     "id": "doi:10.1080/02681110050032119"
+    }
+   ]
+  }
+ ]
+}

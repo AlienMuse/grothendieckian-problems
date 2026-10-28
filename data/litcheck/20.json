@@ -1,0 +1,481 @@
+{
+ "problem": 20,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "GRPO advantage graph Laplacian baseline",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "GRPO advantage graph Laplacian baseline",
+   "status": 200,
+   "results": [
+    {
+     "title": "Representation-Aware Advantage Estimation: Your Reward Model Provides More Than A Scalar Output",
+     "year": 2026,
+     "authors": [
+      "Guozheng Li",
+      "Xiyan Fu",
+      "Yiwen Guo"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.10528"
+    },
+    {
+     "title": "Voting with the Graph: Stable RLAIF via Topological Consistency Maximization",
+     "year": 2025,
+     "authors": [
+      "Boyin Liu",
+      "Zhuo Zhang",
+      "Sen Huang",
+      "Xie, Lipeng",
+      "Qingxu Fu",
+      "Chen, Haoran"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2510.15514"
+    },
+    {
+     "title": "Generalization in Graph Reasoning: A Systematic Comparison of LLM Training Approaches",
+     "year": 2026,
+     "authors": [
+      "Sola Shirai",
+      "Kavitha Srinivas",
+      "Julian Dolby",
+      "Michael Katz",
+      "Shirin Sohrabi",
+      "Horst Samulowitz"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.18653/v1/2026.surgellm-1.18"
+    },
+    {
+     "title": "SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory",
+     "year": 2026,
+     "authors": [
+      "Juntong Wang",
+      "Haoyue Zhao",
+      "Guanghui Pan",
+      "Xiyuan Wang",
+      "Yanbo Wang",
+      "Qiyan Deng"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.12061"
+    },
+    {
+     "title": "Chain of thought driven reinforcement alignment with KAN for multimodal sentiment analysis of tourist reviews",
+     "year": 2026,
+     "authors": [
+      "Teng Wang",
+      "Yin Zhang",
+      "Rui Cheng",
+      "Qi Pan"
+     ],
+     "venue": "Scientific Reports",
+     "id": "https://doi.org/10.1038/s41598-026-71097-x"
+    },
+    {
+     "title": "APO: Unsupervised Atomic Policy Optimization for 3D Structure Prediction of Atomic Systems",
+     "year": 2026,
+     "authors": [
+      "Shentong Mo",
+      "Yatao Bian"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.28553"
+    },
+    {
+     "title": "Confidence-Aware Tool Orchestration for Robust Video Understanding",
+     "year": 2026,
+     "authors": [
+      "Y He",
+      "Yujin Choi",
+      "Jaehong Yoon"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.26904"
+    },
+    {
+     "title": "Robots as Tokens: Unified Diffusion Transformer for Coordinated Multi-Robot Trajectory Generation",
+     "year": 2026,
+     "authors": [
+      "Ruofei Bai",
+      "Jie Chen",
+      "Yuxin Cai",
+      "Jun Li",
+      "Wei‐Yun Yau",
+      "Lihua Xie"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.15550"
+    },
+    {
+     "title": "CogniVerse: Revolutionizing Multi-Modal Retrieval-Augmented Generation with Cognitive Reflection and Geometric Reasoning",
+     "year": 2026,
+     "authors": [
+      "Xiang Fang",
+      "Wanlong Fang",
+      "Changshuo Wang"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.29602"
+    },
+    {
+     "title": "$\\nabla$-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space",
+     "year": 2026,
+     "authors": [
+      "Peihao Wang",
+      "Ruisi Cai",
+      "Zhen Wang",
+      "Hongyuan Mei",
+      "Qiang Liu",
+      "Pan Li"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2603.04948"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "GRPO advantage graph Laplacian baseline",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "GRPO advantage graph Laplacian baseline",
+   "status": 200,
+   "results": [
+    {
+     "title": "GRAPH-GRPO-LEX: Contract Graph Modeling and Reinforcement Learning with Group Relative Policy Optimization",
+     "year": 2025,
+     "authors": [
+      "Moriya Dechtiar",
+      "Daniel Martin Katz",
+      "Mari Sundaresan",
+      "Sylvain Jaume",
+      "Hongming Wang"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.5566538"
+    },
+    {
+     "title": "Equivalence of Graph Signal Processing Using a Hermitian Graph Laplacian and its Corresponding Graph Laplacian with Duplicated Nodes",
+     "year": 2025,
+     "authors": [
+      "Akira Tanaka"
+     ],
+     "venue": "2025 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)",
+     "id": "doi:10.1109/apsipaasc65261.2025.11249376"
+    },
+    {
+     "title": "Laplacian eigenvalues",
+     "year": 2015,
+     "authors": [],
+     "venue": "Inequalities for Graph Eigenvalues",
+     "id": "doi:10.1017/cbo9781316341308.007"
+    },
+    {
+     "title": "GRAPH-GRPO-LEX: Contract Graph Modeling and Reinforcement Learning With Group Relative Policy Optimization",
+     "year": 2025,
+     "authors": [
+      "Moriya Dechtiar",
+      "Daniel Martin Katz",
+      "Mari Sundaresan",
+      "Sylvain Jaume",
+      "Hongming Wang"
+     ],
+     "venue": "2025 IEEE International Conference on Data Mining Workshops (ICDMW)",
+     "id": "doi:10.1109/icdmw69685.2025.00092"
+    },
+    {
+     "title": "Color Laplacian and Color Signless Laplacian Energy of Complement of Subgroup Graph of Dihedral Group",
+     "year": 2018,
+     "authors": [
+      ". Abdussakir",
+      "Mohammad Nafie Jauhari",
+      "Nabila Umar",
+      "Lila Aryani Puspitasari"
+     ],
+     "venue": "Proceedings of the 1st International Conference on Recent Innovations",
+     "id": "doi:10.5220/0009926112651269"
+    },
+    {
+     "title": "Signless Laplacian eigenvalues",
+     "year": 2015,
+     "authors": [],
+     "venue": "Inequalities for Graph Eigenvalues",
+     "id": "doi:10.1017/cbo9781316341308.008"
+    },
+    {
+     "title": "Laplacian Powers for Graph-Based Semi-Supervised Learning",
+     "year": null,
+     "authors": [
+      "Esteban Bautista Ruiz"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/3544ca3ez14c1z4750z82eaz781dc4646030"
+    },
+    {
+     "title": "Fast Graph Laplacian Estimation using Effective Resistance_supp1-3737400.pdf",
+     "year": null,
+     "authors": [
+      "Christoffer Kjellson"
+     ],
+     "venue": "",
+     "id": "doi:10.1109/lsp.2026.3737400/mm1"
+    },
+    {
+     "title": "Figure 5: Sorted eigen values of graph Laplacian using K-NN.",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7717/peerj-cs.692/fig-5"
+    },
+    {
+     "title": "On Laplacian and distance Laplacian spectra of generalized fan graph and a new graph class",
+     "year": 2025,
+     "authors": [
+      "Subarsha Banerjee",
+      "Soumya Ganguly"
+     ],
+     "venue": "International Journal of Mathematics and Computer in Engineering",
+     "id": "doi:10.2478/ijmce-2025-0021"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "leave-one-out baseline RLOO GRPO variance reduction",
+   "status": 200,
+   "results": [
+    {
+     "title": "Branching Policy Optimization: Sandbox-Native Language Agent Reinforcement Learning",
+     "year": "2026",
+     "authors": [
+      "Bowei He",
+      "Yankai Chen",
+      "Xiaokun Zhang",
+      "Xue Liu"
+     ],
+     "id": "arXiv:2607.14171v1"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "leave-one-out baseline RLOO GRPO variance reduction",
+   "status": 200,
+   "results": [
+    {
+     "title": "Why GRPO Needs Normalization: A Local-Curvature Perspective on Adaptive Gradients",
+     "year": 2026,
+     "authors": [
+      "Cheng Ge",
+      "Caitlyn Heqi Yin",
+      "Liang, Hao",
+      "Jiawei Zhang"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2601.23135"
+    },
+    {
+     "title": "FGRPO: Federated GRPO with Adaptive Aggregation on Non-IID Data",
+     "year": 2026,
+     "authors": [
+      "Pengyu Chen",
+      "Shaowei Li",
+      "Kai Wang",
+      "Yunsheng Yuan",
+      "Kai Han",
+      "Jun Luo"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.03094"
+    },
+    {
+     "title": "Shrinking the Variance: Shrinkage Baselines for Reinforcement Learning with Verifiable Rewards",
+     "year": 2025,
+     "authors": [
+      "Guanning Zeng",
+      "Zhaoyi Zhou",
+      "Daman Arora",
+      "Andrea Zanette"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2511.03710"
+    },
+    {
+     "title": "Branching Policy Optimization: Sandbox-Native Language Agent Reinforcement Learning",
+     "year": 2026,
+     "authors": [
+      "Bowei He",
+      "Yankai Chen",
+      "Xiaokun Zhang",
+      "Xue Liu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.14171"
+    },
+    {
+     "title": "Variance-Aware Baselines and Adaptive Learning Rates for Reinforcement Learning with Verifiable Rewards",
+     "year": 2025,
+     "authors": [
+      "Huang, Zixun",
+      "Sheng, Jiayi",
+      "Zeyu Zheng"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2511.23310"
+    },
+    {
+     "title": "Follow the Winners: Conservative Policy Improvement with the Cross-Entropy Method for Critic-Free RFT",
+     "year": 2026,
+     "authors": [
+      "Joery Ariën de Vries",
+      "Neil David Lawrence",
+      "Zhenwen Dai"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.03361"
+    },
+    {
+     "title": "A Unified Framework for Rethinking Policy Divergence Measures in GRPO",
+     "year": 2026,
+     "authors": [
+      "Qingyuan Wu",
+      "Yuhui Wang",
+      "Simon Sinong Zhan",
+      "Yanning Dai",
+      "S. Deng",
+      "Sarra Habchi"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2602.05494"
+    },
+    {
+     "title": "VGAS: Variance-Reduced Guidance and Adaptive Selection for Training-Free Reward Alignment in Discrete Diffusion",
+     "year": 2026,
+     "authors": [
+      "Kwanyoung Kim"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.26585"
+    },
+    {
+     "title": "Bellman-Consistent Trajectory RL for LLM Arithmetic Reasoning",
+     "year": 2026,
+     "authors": [
+      "Lianfa Li"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.21060"
+    },
+    {
+     "title": "Baselines and Score Centering in Policy Gradient Estimation",
+     "year": 2026,
+     "authors": [
+      "Shuo Han",
+      "Ziqing Hu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.22263"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "leave-one-out baseline RLOO GRPO variance reduction",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "leave-one-out baseline RLOO GRPO variance reduction",
+   "status": 200,
+   "results": [
+    {
+     "title": "Table 8: Leave-one-subject-out experimental design for baseline (SI-ID) and balanced class–subject (SIB-BD) models.",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7717/peerj-cs.3784/table-8"
+    },
+    {
+     "title": "Source code 1. Leave-one-out ‘Leave-one-out’ script in R.",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7554/elife.20470.020"
+    },
+    {
+     "title": "fevc: Leave-Out Bias-Corrected Variance Decompositions in Stata",
+     "year": 2026,
+     "authors": [
+      "Johannes Schmieder"
+     ],
+     "venue": "",
+     "id": "doi:10.3386/w35948"
+    },
+    {
+     "title": "Leave-one-tissue-out",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1088/1758-5090/aeb162/data7"
+    },
+    {
+     "title": "Leave-out Estimation of Variance Components",
+     "year": 2019,
+     "authors": [
+      "Patrick Kline",
+      "Raffaele Saggio",
+      "Mikkel Sølvsten"
+     ],
+     "venue": "",
+     "id": "doi:10.3386/w26244"
+    },
+    {
+     "title": "Table 10: Leave-one-out (LOO) feature domain analysis: impact of removing each domain from the full pipeline (baseline: 97.12 ± 0.63%, 10-fold CV,\n                      <i>n</i>\n                      = 7,023).",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7717/peerj-cs.4106/table-10"
+    },
+    {
+     "title": "Supplemental Information 5: Leave-one-out sensitivity analyses",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7717/peerj.21062/supp-5"
+    },
+    {
+     "title": "File S2: Results of leave-one-out analysis",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7717/peerj.15085/supp-2"
+    },
+    {
+     "title": "Table 14: Leave-one-out training performance results.",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7717/peerj-cs.1188/table-14"
+    },
+    {
+     "title": "Supplemental Information 5: The leave-one-out analysis",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7717/peerj.21047/supp-5"
+    }
+   ]
+  }
+ ]
+}

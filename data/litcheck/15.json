@@ -1,0 +1,439 @@
+{
+ "problem": 15,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "typed base change errors formal diagrams study",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "typed base change errors formal diagrams study",
+   "status": 200,
+   "results": [
+    {
+     "title": "Formal notations are diagrams: Evidence from a production task",
+     "year": 2007,
+     "authors": [
+      "David H. Landy",
+      "Robert L. Goldstone"
+     ],
+     "venue": "Memory & Cognition",
+     "id": "https://doi.org/10.3758/bf03192935"
+    },
+    {
+     "title": "A comparative study of linear and region based diagrams",
+     "year": 2015,
+     "authors": [
+      "Björn Gottfried"
+     ],
+     "venue": "Journal of Spatial Information Science",
+     "id": "https://doi.org/10.5311/josis.2015.10.187"
+    },
+    {
+     "title": "An Integration of UML Sequence Diagram with Formal Specification Methods—A Formal Solution Based on Z",
+     "year": 2015,
+     "authors": [
+      "Nasir Mehmood Minhas",
+      "Asad Masood Qazi",
+      "Sidra Shahzadi",
+      "Shumaila Ghafoor"
+     ],
+     "venue": "Journal of Software Engineering and Applications",
+     "id": "https://doi.org/10.4236/jsea.2015.88037"
+    },
+    {
+     "title": "A Case Study of a Slicing-Based Approach for Locating Type Errors",
+     "year": 1997,
+     "authors": [
+      "T. B. Dinesh",
+      "Frank Tip"
+     ],
+     "venue": "Electronic workshops in computing",
+     "id": "https://doi.org/10.14236/ewic/al1997.8"
+    },
+    {
+     "title": "Evaluating formal properties of feature diagram languages",
+     "year": 2008,
+     "authors": [
+      "Patrick Heymans",
+      "Pierre‐Yves Schobbens",
+      "Jean-Christophe Trigaux",
+      "Yves Bontemps",
+      "Raimundas Matulevičius",
+      "Andreas Claßen"
+     ],
+     "venue": "IET Software",
+     "id": "https://doi.org/10.1049/iet-sen:20070055"
+    },
+    {
+     "title": "State Based Static and Dynamic Formal Analysis of UML State Diagrams",
+     "year": 2012,
+     "authors": [
+      "Fahad Alhumaidan"
+     ],
+     "venue": "Journal of Software Engineering and Applications",
+     "id": "https://doi.org/10.4236/jsea.2012.57056"
+    },
+    {
+     "title": "TBFV-M : Testing-Based Formal Verification for SysML Activity Diagrams",
+     "year": null,
+     "authors": [
+      "Yufei Yin"
+     ],
+     "venue": "Institutional Repositories DataBase (IRDB)",
+     "id": "https://doi.org/10.15002/00021922"
+    },
+    {
+     "title": "TBFV-M: Testing Based Formal Verification for Sysml Activity Diagrams",
+     "year": 2018,
+     "authors": [
+      "Yufei Yin",
+      "Shaoying Liu",
+      "Yixiang Chen"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.5121/csit.2018.80904"
+    },
+    {
+     "title": "Grounding Symbol Structures in Space: Formal Notations as Diagrams",
+     "year": 2007,
+     "authors": [
+      "David H. Landy",
+      "Robert L. Goldstone"
+     ],
+     "venue": "eScholarship (California Digital Library)",
+     "id": "https://openalex.org/W2592016249"
+    },
+    {
+     "title": "Errors and Artefacts in Agent-Based Modelling",
+     "year": 2009,
+     "authors": [
+      "José Manuel Galán",
+      "Luis R. Izquierdo",
+      "Segismundo S. Izquierdo",
+      "José Ignacio Santos",
+      "Ricardo del Olmo",
+      "Adolfo López‐Paredes"
+     ],
+     "venue": "RePEc: Research Papers in Economics",
+     "id": "https://openalex.org/W2141720252"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "typed base change errors formal diagrams study",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "typed base change errors formal diagrams study",
+   "status": 200,
+   "results": [
+    {
+     "title": "Titration Errors",
+     "year": 2013,
+     "authors": [
+      "Heike Kahlert",
+      "Fritz Scholz"
+     ],
+     "venue": "Acid-Base Diagrams",
+     "id": "doi:10.1007/978-3-642-37902-4_6"
+    },
+    {
+     "title": "Logarithmic diagrams in acid—base titrations and estimation of titration errors",
+     "year": 1980,
+     "authors": [
+      "E Wänninen"
+     ],
+     "venue": "Talanta",
+     "id": "doi:10.1016/0039-9140(80)80007-5"
+    },
+    {
+     "title": "Simply typed lambda calculus",
+     "year": 2014,
+     "authors": [],
+     "venue": "Type Theory and Formal Proof",
+     "id": "doi:10.1017/cbo9781139567725.005"
+    },
+    {
+     "title": "Second order typed lambda calculus",
+     "year": 2014,
+     "authors": [],
+     "venue": "Type Theory and Formal Proof",
+     "id": "doi:10.1017/cbo9781139567725.006"
+    },
+    {
+     "title": "Improving Knowledge Base with Network Architecture Diagrams",
+     "year": 2023,
+     "authors": [
+      "Ethan Blum",
+      "Angela Correa",
+      "Jeny Teheran"
+     ],
+     "venue": "Improving Knowledge Base with Network Architecture Diagrams",
+     "id": "doi:10.2172/1995248"
+    },
+    {
+     "title": "THE EFFECT OF PHASE ERRORS IN TIME‐BASE INDICATOR DIAGRAMS.",
+     "year": 1949,
+     "authors": [],
+     "venue": "Journal of the American Society for Naval Engineers",
+     "id": "doi:10.1111/j.1559-3584.1949.tb02671.x"
+    },
+    {
+     "title": "Formal Results on Case-Base Consistency: A COMPAS Case Study",
+     "year": 2026,
+     "authors": [
+      "Wijnand van Woerkom"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6359519"
+    },
+    {
+     "title": "A Formal Category-Theoretic Model of TRIZ: Su-Field Systems as Typed Hypergraph Rewriting",
+     "year": 2026,
+     "authors": [
+      "Paul Alexander Bilokon"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6535318"
+    },
+    {
+     "title": "Flat Base Change",
+     "year": 2009,
+     "authors": [
+      "Joseph Lipman",
+      "Mitsuyasu Hashimoto"
+     ],
+     "venue": "Lecture Notes in Mathematics Foundations of Grothendieck Duality for Diagrams of Schemes",
+     "id": "doi:10.1007/978-3-540-85420-3_27"
+    },
+    {
+     "title": "Open Immersion Base Change",
+     "year": 2009,
+     "authors": [
+      "Joseph Lipman",
+      "Mitsuyasu Hashimoto"
+     ],
+     "venue": "Lecture Notes in Mathematics Foundations of Grothendieck Duality for Diagrams of Schemes",
+     "id": "doi:10.1007/978-3-540-85420-3_25"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "controlled experiment typed diagrams category theory proof errors",
+   "status": 200,
+   "results": [],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "OpenAlex",
+   "query": "controlled experiment typed diagrams category theory proof errors",
+   "status": 200,
+   "results": [
+    {
+     "title": "Peirce’s Notion of Diagram Experiment Corrollarial and Theorematical Experiments With Diagrams",
+     "year": 2013,
+     "authors": [
+      "Frederik Stjernfelt"
+     ],
+     "venue": "De Gruyter eBooks",
+     "id": "https://doi.org/10.1515/9783110330496.305"
+    },
+    {
+     "title": "Mathematics of General Intelligence With Homotopy Type Theory and Category Theory",
+     "year": 2025,
+     "authors": [
+      "Prabhakar Balakrishnan"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.36227/techrxiv.173152226.66190538/v8"
+    },
+    {
+     "title": "Controlling unfolding in type theory",
+     "year": 2025,
+     "authors": [
+      "Daniel Gratzer",
+      "Jonathan Sterling",
+      "Carlo Angiuli",
+      "Thierry Coquand",
+      "Lars Birkedal"
+     ],
+     "venue": "Mathematical Structures in Computer Science",
+     "id": "https://doi.org/10.1017/s0960129525100327"
+    },
+    {
+     "title": "Theory and Experiment in the Study of Technological Change",
+     "year": 1987,
+     "authors": [
+      "Michael Brian Schiffer",
+      "James M. Skibo"
+     ],
+     "venue": "Current Anthropology",
+     "id": "https://doi.org/10.1086/203601"
+    },
+    {
+     "title": "Proof automation and type synthesis for set theory in the context of TLA+",
+     "year": 2014,
+     "authors": [
+      "Hernán Vanzetto"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.70675/78824a85z2a36z456dzb08bzf59de2412ece"
+    },
+    {
+     "title": "Data visualization from a category theory perspective",
+     "year": 2025,
+     "authors": [
+      "Davi Sales Barreira"
+     ],
+     "venue": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+     "id": "https://openalex.org/W7120603549"
+    },
+    {
+     "title": "Applications of Category Theory to Programming and Program Specification",
+     "year": 1982,
+     "authors": [
+      "David E. Rydeheard"
+     ],
+     "venue": "ERA",
+     "id": "https://openalex.org/W1574009799"
+    },
+    {
+     "title": "Tensor Neyman-Pearson Classification: Theory, Algorithms, and Error Control",
+     "year": 2025,
+     "authors": [
+      "Lingchong Liu",
+      "Elynn Chen",
+      "Yuefeng Han",
+      "Xia, Lucy"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2512.04583"
+    },
+    {
+     "title": "Categories of Conceptions of Proofs by Students of Computer Science",
+     "year": 2016,
+     "authors": [
+      "Thérèse Smith"
+     ],
+     "venue": "OpenCommons at University of Connecticut (University of Connecticut)",
+     "id": "https://openalex.org/W2526173464"
+    },
+    {
+     "title": "Classical vibrational modes in phononic lattices: theory and experiment",
+     "year": 2005,
+     "authors": [
+      "Mihail M. Sigalas",
+      "M. S. Kushwaha",
+      "Eleftherios N. Economou",
+      "Maria Kafesaki",
+      "Ioannis E. Psarobas",
+      "Walter Steurer"
+     ],
+     "venue": "Zeitschrift für Kristallographie - Crystalline Materials",
+     "id": "https://doi.org/10.1524/zkri.2005.220.9-10.765"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "controlled experiment typed diagrams category theory proof errors",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "controlled experiment typed diagrams category theory proof errors",
+   "status": 200,
+   "results": [
+    {
+     "title": "Category Theory",
+     "year": 2023,
+     "authors": [],
+     "venue": "Introducing String Diagrams",
+     "id": "doi:10.1017/9781009317825.002"
+    },
+    {
+     "title": "String Diagrams",
+     "year": 2023,
+     "authors": [],
+     "venue": "Introducing String Diagrams",
+     "id": "doi:10.1017/9781009317825.003"
+    },
+    {
+     "title": "Simply typed lambda calculus",
+     "year": 2014,
+     "authors": [],
+     "venue": "Type Theory and Formal Proof",
+     "id": "doi:10.1017/cbo9781139567725.005"
+    },
+    {
+     "title": "Second order typed lambda calculus",
+     "year": 2014,
+     "authors": [],
+     "venue": "Type Theory and Formal Proof",
+     "id": "doi:10.1017/cbo9781139567725.006"
+    },
+    {
+     "title": "CATEGORIES OF DIAGRAMS",
+     "year": 2006,
+     "authors": [
+      "Steve Awodey"
+     ],
+     "venue": "Category Theory",
+     "id": "doi:10.1093/acprof:oso/9780198568612.003.0008"
+    },
+    {
+     "title": "2-CATEGORY AND PROOF THEORY",
+     "year": null,
+     "authors": [
+      "CECILIA REIS ENGLANDER LUSTOSA"
+     ],
+     "venue": "",
+     "id": "doi:10.17771/pucrio.acad.15181"
+    },
+    {
+     "title": "Aspects of category theory in proof assistants",
+     "year": null,
+     "authors": [
+      "Luc Chabassier"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/7cb71c11zb3f6z46b3za54az197c9329ed14"
+    },
+    {
+     "title": "Composition of UML class diagrams using category theory and external constraints",
+     "year": null,
+     "authors": [
+      "Alexey Tazin"
+     ],
+     "venue": "",
+     "id": "doi:10.17760/d20474687"
+    },
+    {
+     "title": "String diagram rewriting : applications in category and proof theory",
+     "year": null,
+     "authors": [
+      "Matteo Acclavio"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/83f48b85zdd67z4e09zba83zb54adcaaaa6e"
+    },
+    {
+     "title": "Notation",
+     "year": 2023,
+     "authors": [],
+     "venue": "Introducing String Diagrams",
+     "id": "doi:10.1017/9781009317825.008"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,509 @@
+{
+ "problem": 44,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "Hodge decomposition formalization Lean Kähler",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "Hodge decomposition formalization Lean Kähler",
+   "status": 200,
+   "results": [
+    {
+     "title": "Kähler thresholds",
+     "year": 2026,
+     "authors": [
+      "Gabriella Clemente",
+      "Carlos Simpson"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.08224"
+    },
+    {
+     "title": "The Lebrun--Salamon conjecture is true in dimension up to 56",
+     "year": 2026,
+     "authors": [
+      "Jordi Daura Serrano",
+      "Aron Gohr",
+      "Marie-Amélie Lawn",
+      "Travis Schedler"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.06336"
+    },
+    {
+     "title": "Solver Agent: an Agentic AI Framework for Theoretical Physics Computations Applied to F-theory Uplifts of O3-planes and S-folds",
+     "year": 2026,
+     "authors": [
+      "Eliott Morgensztern",
+      "Cesar Fierro Cota",
+      "Alessandro Mininno"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.35958"
+    },
+    {
+     "title": "Machine-learning mathematical structures",
+     "year": 2022,
+     "authors": [
+      "Yang‐Hui He"
+     ],
+     "venue": "International Journal of Data Science in the Mathematical Sciences",
+     "id": "https://doi.org/10.1142/s2810939222500010"
+    },
+    {
+     "title": "WITHDRAWN",
+     "year": 2025,
+     "authors": [
+      "Dongqi Liu",
+      "shifa liu"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.22541/au.176176530.01094563/v1"
+    },
+    {
+     "title": "Aspects of string universality",
+     "year": 2026,
+     "authors": [
+      "Georgina Staudt"
+     ],
+     "venue": "Electronic Theses of LMU Munich (Ludwig-Maximilians-Universität München)",
+     "id": "https://doi.org/10.5282/edoc.37481"
+    },
+    {
+     "title": "Pre-Strings Lectures on Artificial Intelligence",
+     "year": 2026,
+     "authors": [
+      "James Halverson"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.02905"
+    },
+    {
+     "title": "WITHDRAWN",
+     "year": 2025,
+     "authors": [
+      "Dongqi Liu",
+      "shifa liu"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.22541/au.176159471.18695620/v1"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "Hodge decomposition formalization Lean Kähler",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "Hodge decomposition formalization Lean Kähler",
+   "status": 200,
+   "results": [
+    {
+     "title": "Hodge symmetry and decomposition on non-Kähler solvmanifolds",
+     "year": 2014,
+     "authors": [
+      "Hisashi Kasuya"
+     ],
+     "venue": "Journal of Geometry and Physics",
+     "id": "doi:10.1016/j.geomphys.2013.10.012"
+    },
+    {
+     "title": "Examples of Non-Kähler Solvmanifolds Admitting Hodge Decomposition",
+     "year": 2014,
+     "authors": [
+      "Hisashi Kasuya"
+     ],
+     "venue": "Springer Proceedings in Mathematics &amp; Statistics Real and Complex Submanifolds",
+     "id": "doi:10.1007/978-4-431-55215-4_20"
+    },
+    {
+     "title": "Hodge Theory, Algebraic Cycles of Hyper-Kähler Manifolds",
+     "year": null,
+     "authors": [
+      "Chenyu Bai"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/8d769e2azf999z476ez82dczc3ab1ed51171"
+    },
+    {
+     "title": "Hodge decomposition theorem on strongly Kähler Finsler manifolds",
+     "year": 2006,
+     "authors": [
+      "Chunping Zhong",
+      "Tongde Zhong"
+     ],
+     "venue": "Science in China Series A: Mathematics",
+     "id": "doi:10.1007/s11425-006-2055-8"
+    },
+    {
+     "title": "Chapter One. Introduction to Kähler Manifolds",
+     "year": 2014,
+     "authors": [
+      "Eduardo Cattani"
+     ],
+     "venue": "Hodge Theory",
+     "id": "doi:10.1515/9781400851478.1"
+    },
+    {
+     "title": "Kähler and Hodge manifolds",
+     "year": 2014,
+     "authors": [],
+     "venue": "Supersymmetric Field Theories",
+     "id": "doi:10.1017/cbo9781107284203.010"
+    },
+    {
+     "title": "Hodge and Dolbeault theories",
+     "year": 2007,
+     "authors": [],
+     "venue": "Lectures on Kähler Geometry",
+     "id": "doi:10.1017/cbo9780511618666.016"
+    },
+    {
+     "title": "Kähler manifolds",
+     "year": 2007,
+     "authors": [],
+     "venue": "The Hodge Theory of Projective Manifolds",
+     "id": "doi:10.1142/9781860948657_0006"
+    },
+    {
+     "title": "",
+     "year": 2026,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.3030/101224275"
+    },
+    {
+     "title": "Kähler Metrics",
+     "year": 2002,
+     "authors": [],
+     "venue": "Hodge Theory and Complex Algebraic Geometry I",
+     "id": "doi:10.1017/cbo9780511615344.004"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "Kähler manifold formalized mathlib",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "Kähler manifold formalized mathlib",
+   "status": 200,
+   "results": [
+    {
+     "title": "A Falsifiable Topological Correspondence for the Standard Model Parameters from a G₂-Holonomy Manifold",
+     "year": 2026,
+     "authors": [
+      "Brieuc de La Fournière"
+     ],
+     "venue": "Research Square",
+     "id": "https://doi.org/10.21203/rs.3.rs-11059128/v1"
+    },
+    {
+     "title": "The Lebrun--Salamon conjecture is true in dimension up to 56",
+     "year": 2026,
+     "authors": [
+      "Jordi Daura Serrano",
+      "Aron Gohr",
+      "Marie-Amélie Lawn",
+      "Travis Schedler"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.06336"
+    },
+    {
+     "title": "A dataset of formalised theorem statements from the Annals of Mathematics",
+     "year": 2026,
+     "authors": [
+      "Thomas Browning",
+      "Katerina Hristova",
+      "David Ledvinka",
+      "Justus Springer",
+      "Hang Su",
+      "Jack McKoen"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.18301"
+    },
+    {
+     "title": "A complete classification of left-invariant Einstein metrics on $S^3\\times S^3$",
+     "year": 2026,
+     "authors": [
+      "Sixuan Gu",
+      "Wei Qi"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.06425"
+    },
+    {
+     "title": "Constructing Rational Curves via Jets on Projective Varieties with Non-Nef Canonical Bundle",
+     "year": 2026,
+     "authors": [
+      "Bin Dong",
+      "Guoxiong Gao",
+      "Bin Guo",
+      "Zeming Sun",
+      "Bin Wu",
+      "Song-Yan Xie"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.28465"
+    },
+    {
+     "title": "To Count a Stone with Six Birds: A Mathematics is A Theory",
+     "year": 2026,
+     "authors": [
+      "Ioannis Tsiokos"
+     ],
+     "venue": "Qeios",
+     "id": "https://doi.org/10.32388/jabwng"
+    },
+    {
+     "title": "Physics as Code: From Scans to Theorems with ITP APIs in $SU(5)$ Model Building",
+     "year": 2026,
+     "authors": [
+      "Sven Krippendorf",
+      "Joseph Tooby‐Smith"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2603.28406"
+    },
+    {
+     "title": "Categorizing Mathematical Concepts with LLM Voting Ensembles in Mathswitch",
+     "year": 2026,
+     "authors": [
+      "Katja Berčič",
+      "Slobodan Stanojevikj"
+     ],
+     "venue": "Lecture notes in computer science",
+     "id": "https://doi.org/10.1007/978-3-032-38214-6_3"
+    },
+    {
+     "title": "SolutionsX: supergravity theories/solutions as code, with an agentic workflow for machine-verifiable physics",
+     "year": 2026,
+     "authors": [
+      "Vasil Dimitrov"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.07826"
+    },
+    {
+     "title": "Solver Agent: an Agentic AI Framework for Theoretical Physics Computations Applied to F-theory Uplifts of O3-planes and S-folds",
+     "year": 2026,
+     "authors": [
+      "Eliott Morgensztern",
+      "Cesar Fierro Cota",
+      "Alessandro Mininno"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.35958"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "Kähler manifold formalized mathlib",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "Kähler manifold formalized mathlib",
+   "status": 200,
+   "results": [
+    {
+     "title": "Formalization of derived categories in Lean/mathlib",
+     "year": 2025,
+     "authors": [
+      "Joël Riou"
+     ],
+     "venue": "Annals of Formalized Mathematics",
+     "id": "doi:10.46298/afm.13609"
+    },
+    {
+     "title": "Convergence of the Kähler–Ricci Flow on a Kähler–Einstein Fano Manifold",
+     "year": 2013,
+     "authors": [
+      "Vincent Guedj"
+     ],
+     "venue": "Lecture Notes in Mathematics An Introduction to the Kähler-Ricci Flow",
+     "id": "doi:10.1007/978-3-319-00819-6_6"
+    },
+    {
+     "title": "Numerical characterization of the Kähler cone of a compact Kähler manifold",
+     "year": 2004,
+     "authors": [
+      "Jean-Pierre Demailly",
+      "Mihai Paun"
+     ],
+     "venue": "Annals of Mathematics",
+     "id": "doi:10.4007/annals.2004.159.1247"
+    },
+    {
+     "title": "Relations between the Kähler cone and the balanced cone of a Kähler manifold",
+     "year": 2014,
+     "authors": [
+      "Jixiang Fu",
+      "Jian Xiao"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "doi:10.1016/j.aim.2014.06.018"
+    },
+    {
+     "title": "(Para-)Hermitian and (para-)Kähler submanifolds of a para-quaternionic Kähler manifold",
+     "year": 2012,
+     "authors": [
+      "Massimo Vaccaro"
+     ],
+     "venue": "Differential Geometry and its Applications",
+     "id": "doi:10.1016/j.difgeo.2012.05.001"
+    },
+    {
+     "title": "Distributions on a g.H. manifold",
+     "year": 1998,
+     "authors": [
+      "Sorin Dragomir",
+      "Liviu Ornea"
+     ],
+     "venue": "Locally Conformal Kähler Geometry",
+     "id": "doi:10.1007/978-1-4612-2026-8_5"
+    },
+    {
+     "title": "The Injectivity Theorem on a Non-Compact Kähler Manifold",
+     "year": 2021,
+     "authors": [
+      "Jingcao Wu"
+     ],
+     "venue": "Symmetry",
+     "id": "doi:10.3390/sym13112222"
+    },
+    {
+     "title": "Schwarz lemma from a Kähler manifold into a complex Finsler manifold",
+     "year": 2021,
+     "authors": [
+      "Jun Nie",
+      "Chunping Zhong"
+     ],
+     "venue": "Science China Mathematics",
+     "id": "doi:10.1007/s11425-021-1878-9"
+    },
+    {
+     "title": "Quarter-symmetric connection on an almost Hermitian manifold and on a Kähler manifold",
+     "year": 2024,
+     "authors": [
+      "Milan Lj Zlatanovic",
+      "Miroslav Maksimovic"
+     ],
+     "venue": "Hacettepe Journal of Mathematics and Statistics",
+     "id": "doi:10.15672/hujms.1219762"
+    },
+    {
+     "title": "Another Natural Lift of a Kähler Submanifold of a Quaternionic Kähler Manifold to the Twistor Space",
+     "year": 2005,
+     "authors": [
+      "Norio EJIRI",
+      "Kazumi TSUKADA"
+     ],
+     "venue": "Tokyo Journal of Mathematics",
+     "id": "doi:10.3836/tjm/1244208280"
+    }
+   ]
+  },
+  {
+   "source": "GitHub code search leanprover-community/mathlib4",
+   "query": "Kahler",
+   "status": 200,
+   "results": [
+    {
+     "path": "Mathlib/Geometry/Euclidean/Angle/Oriented/Rotation.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/Geometry/Euclidean/Angle/Oriented/Rotation.lean"
+    },
+    {
+     "path": "Mathlib/Analysis/InnerProductSpace/TwoDim.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/Analysis/InnerProductSpace/TwoDim.lean"
+    },
+    {
+     "path": "scripts/nolints_prime_decls.txt",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/scripts/nolints_prime_decls.txt"
+    },
+    {
+     "path": "Mathlib/Geometry/Euclidean/Angle/Oriented/Basic.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/Geometry/Euclidean/Angle/Oriented/Basic.lean"
+    },
+    {
+     "path": "Mathlib/RingTheory/Kaehler/Basic.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/RingTheory/Kaehler/Basic.lean"
+    }
+   ]
+  },
+  {
+   "source": "GitHub code search leanprover-community/mathlib4",
+   "query": "HodgeDecomposition",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "GitHub code search leanprover-community/mathlib4",
+   "query": "Hodge",
+   "status": 200,
+   "results": [
+    {
+     "path": "Mathlib/LinearAlgebra/ExteriorPower/HodgeStar.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/LinearAlgebra/ExteriorPower/HodgeStar.lean"
+    },
+    {
+     "path": "Mathlib/RingTheory/Perfectoid/BDeRham.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/RingTheory/Perfectoid/BDeRham.lean"
+    },
+    {
+     "path": "Mathlib/CategoryTheory/Filtration/Basic.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/CategoryTheory/Filtration/Basic.lean"
+    },
+    {
+     "path": "docs/references.bib",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/docs/references.bib"
+    },
+    {
+     "path": "Mathlib/RingTheory/Perfectoid/FontaineTheta.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/RingTheory/Perfectoid/FontaineTheta.lean"
+    },
+    {
+     "path": "docs/1000.yaml",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/docs/1000.yaml"
+    },
+    {
+     "path": "Mathlib/ModelTheory/Fraisse.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/ModelTheory/Fraisse.lean"
+    }
+   ]
+  },
+  {
+   "source": "GitHub code search google-deepmind/formal-conjectures",
+   "query": "Kahler",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "GitHub code search google-deepmind/formal-conjectures",
+   "query": "HodgeDecomposition",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "GitHub code search google-deepmind/formal-conjectures",
+   "query": "Hodge",
+   "status": 200,
+   "results": []
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "id": "card",
+ "number": 3,
+ "size_mm": [
+  132.0,
+  144.0
+ ],
+ "footer": "The 57 Grothendieckian Problems · Vincent Liu · doi:10.5281/zenodo.23734427 · CC BY 4.0",
+ "title": "WHAT A CARD CONTAINS",
+ "right": "PROBLEM 49 AS AN EXAMPLE",
+ "rows": [
+  {
+   "label": "Thesis",
+   "text": "Thesis 9 (State what is not established).",
+   "what": "names the thesis of The Rising-Sea Theses to which the problem belongs"
+  },
+  {
+   "label": "Source",
+   "text": "Strained Prismatic Geometry [S06], Problem 62.1.5 (rank 2 of the critical path), p. 1275.",
+   "what": "names the work, the place in it and the page of the sealed PDF"
+  },
+  {
+   "label": "Status in the source",
+   "text": "OPEN.",
+   "what": "is the status that the source assigns, in its own notation"
+  },
+  {
+   "label": "Statement",
+   "text": "With pinned Lean and Mathlib versions, “Discharge PO-090 with definitions whose types separate a p-derivation from an ordinary derivation, proofs of the sum and product identities including p = 2, compatibility with the induced Frobenius lift, executable regression examples, no admitted declarations, and an axiom report containing only the approved logical foundations.”",
+   "what": "states the problem"
+  },
+  {
+   "label": "What the source establishes",
+   "text": "“This ranks second because the mathematics is known and the acceptance test is finite.” Failures of tooling do not count against the mathematics: “A library or elaboration failure is an engineering result, not a refutation.” The repository gives the statements in Lean (formal/GrothendieckianProblems/P49.lean).",
+   "what": "records what has been proved or specified"
+  },
+  {
+   "label": "Proposed by",
+   "text": "[S06].",
+   "what": "names the source of the problem"
+  },
+  {
+   "label": "Background",
+   "text": "[Joy85]; [Bui05]; [BS22]; [mC20].",
+   "what": "cites the standard literature on which the problem rests"
+  },
+  {
+   "label": "Solved when",
+   "text": "Proofs of the statements in formal/GrothendieckianProblems/P49.lean, with no sorry, no new axioms, and the regression examples of PO-090, checked at the pinned toolchain.",
+   "what": "states the decision criterion"
+  },
+  {
+   "label": "Literature check (28 October 2026)",
+   "text": "GitHub code search (2026-10-28) found no δ-ring or p-derivation in mathlib.",
+   "what": "records what the check of 28 October 2026 found"
+  },
+  {
+   "label": "Discussion",
+   "text": "Issue 49 of the repository.",
+   "what": "each problem has its own discussion thread"
+  }
+ ],
+ "heading": {
+  "num": 49,
+  "title": "Close the formal algebra leaf",
+  "tags": "FORMALIZATION · ENTRY LEVEL"
+ },
+ "checks": [
+  "The words between quotation marks in a card are those of the source, on the pages named; this has been checked by machine for every quotation.",
+  "The searches, their dates and their first results are published with the paper."
+ ],
+ "lean": "The repository gives the statements in Lean (P49.lean)"
+}

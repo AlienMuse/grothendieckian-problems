@@ -1,0 +1,278 @@
+{
+ "id": "programme",
+ "number": 1,
+ "size_mm": [
+  150.0,
+  200.0
+ ],
+ "palette": {
+  "paper": "#071017",
+  "ink": "#f4f1e9",
+  "muted": [
+   "#d7dce0",
+   "#9eabb6"
+  ],
+  "cyan": "#58ded4",
+  "blue": "#82a4ff",
+  "violet": "#cf8df6",
+  "gold": "#dfc174"
+ },
+ "cells": [
+  {
+   "series": "01",
+   "position": "centre",
+   "colour": "cyan",
+   "name": [
+    "The Grothendieckian",
+    "Machine"
+   ],
+   "role": "the core",
+   "formula": "Desc(Φ₁,…,Φ₆)"
+  },
+  {
+   "series": "02",
+   "position": "top",
+   "colour": "cyan",
+   "name": [
+    "Topos-Native",
+    "Intelligence"
+   ],
+   "role": "the meta-reasoning kernel",
+   "formula": "Sub(X) ≅ Hom(X, Ω)"
+  },
+  {
+   "series": "03",
+   "position": "upper-right",
+   "colour": "blue",
+   "name": [
+    "Arithmetic Spectral",
+    "Descent"
+   ],
+   "role": "Riemann Hypothesis · GRH",
+   "formula": "#{Re λ > ½} ≤ min(n₊, n₋)"
+  },
+  {
+   "series": "04",
+   "position": "lower-right",
+   "colour": "violet",
+   "name": [
+    "Fractured Adelic",
+    "Geometry"
+   ],
+   "role": "Birch–Swinnerton-Dyer",
+   "formula": "Δ(X_{E})"
+  },
+  {
+   "series": "05",
+   "position": "bottom",
+   "colour": "blue",
+   "name": [
+    "The Archimedean",
+    "Prism"
+   ],
+   "role": "Hodge conjecture",
+   "formula": "Δ(X)"
+  },
+  {
+   "series": "06",
+   "position": "lower-left",
+   "colour": "violet",
+   "name": [
+    "Strained Prismatic",
+    "Geometry"
+   ],
+   "role": "abc conjecture",
+   "formula": "Spec ℤ → 𝔖"
+  },
+  {
+   "series": "07",
+   "position": "upper-left",
+   "colour": "blue",
+   "name": [
+    "The Arithmetic",
+    "Topos"
+   ],
+   "role": "Langlands programme",
+   "formula": "𝔛_{𝐙}"
+  }
+ ],
+ "stats_line": "7 WORKS · 34 VOLUMES · 26,021 PAGES",
+ "shared_edge": [
+  "META-REASONING",
+  "OVER THE CORE"
+ ],
+ "panel_title": [
+  "THE CORE, DECOMPOSED",
+  "SERIES 01 · VOLUME III"
+ ],
+ "gmus": {
+  "code": "GMUS",
+  "name": "Grothendieck Mathematical Universe System",
+  "slots": {
+   "centre": "MUE",
+   "top": "TRE",
+   "upper-left": "TNCA",
+   "upper-right": "TNRA",
+   "lower-right": "MUF-H",
+   "lower-left": "GRA",
+   "bottom": "GCL"
+  }
+ },
+ "gmls": {
+  "code": "GMLS",
+  "name": "Grothendieckian Mathematical Language System",
+  "slots": {
+   "centre": "FORGE",
+   "top": "GCA",
+   "upper-right": "GDRA",
+   "lower-right": "DDA",
+   "bottom": "AURORA",
+   "upper-left": "CYCLE1",
+   "lower-left": "CYCLE2"
+  }
+ },
+ "chips": {
+  "MUE": {
+   "lines": [
+    "non-vectorial",
+    "latent space"
+   ],
+   "chapters": "15–21"
+  },
+  "GCL": {
+   "lines": [
+    "semantic",
+    "floor"
+   ],
+   "chapters": "15"
+  },
+  "MUF-H": {
+   "lines": [
+    "factorization",
+    "backend"
+   ],
+   "chapters": "18"
+  },
+  "TRE": {
+   "lines": [
+    "twin",
+    "engine"
+   ],
+   "chapters": "22–23"
+  },
+  "TNCA": {
+   "lines": [
+    "world",
+    "creation"
+   ],
+   "chapters": "24–27"
+  },
+  "TNRA": {
+   "lines": [
+    "world-scoped",
+    "reasoning"
+   ],
+   "chapters": "28–32"
+  },
+  "GRA": {
+   "lines": [
+    "research",
+    "lane"
+   ],
+   "chapters": "34–40"
+  },
+  "FORGE": {
+   "lines": [
+    "language",
+    "forge"
+   ],
+   "chapters": "41–48"
+  },
+  "GCA": {
+   "lines": [
+    "contexts,",
+    "covers"
+   ],
+   "chapters": "49–55"
+  },
+  "GDRA": {
+   "lines": [
+    "descent",
+    "workflow"
+   ],
+   "chapters": "56–63"
+  },
+  "DDA": {
+   "lines": [
+    "descent",
+    "agents"
+   ],
+   "chapters": "56–63"
+  },
+  "AURORA": {
+   "lines": [
+    "experimental",
+    "boundary"
+   ],
+   "chapters": "64–70"
+  },
+  "CYCLE1": {
+   "lines": [
+    "collect",
+    "mine",
+    "name",
+    "notate",
+    "ground"
+   ]
+  },
+  "CYCLE2": {
+   "lines": [
+    "reconstruct",
+    "axiomatize",
+    "grow",
+    "re-encode",
+    "validate"
+   ]
+  }
+ },
+ "coupling": {
+  "title": [
+   "COUPLED",
+   "RISING-SEA CYCLE"
+  ],
+  "chapters": "71–78",
+  "upper": "structure → language",
+  "lower": "language → world",
+  "rule": [
+   "data may cycle;",
+   "authority stays acyclic"
+  ]
+ },
+ "planes": {
+  "title": "THE FIVE PLANES OF AUTHORITY · CH. 3",
+  "names": [
+   "mathematical meaning",
+   "proposal and discovery",
+   "certified computation",
+   "evidence and governance",
+   "operations"
+  ],
+  "rule": "operational completion ⇏ mathematical validity ⇏ epistemic promotion ⇏ publication"
+ },
+ "legend": [
+  "worlds and transport",
+  "descent reasoning and verification",
+  "obstructions · new structures · | new conjectures",
+  "port: an interface, not a proof"
+ ],
+ "images": [
+  [
+   "AURORA · THE RISING SEA",
+   "the waves around the honeycomb"
+  ],
+  [
+   "D₆ HONEYCOMB",
+   "one cell for each work"
+  ]
+ ]
+}

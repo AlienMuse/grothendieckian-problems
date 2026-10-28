@@ -1,0 +1,391 @@
+{
+ "problem": 54,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "Altug beyond endoscopy Poisson summation GL2",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "Altug beyond endoscopy Poisson summation GL2",
+   "status": 200,
+   "results": [
+    {
+     "title": "Beyond Endoscopy via Poisson Summation for GL(2,K)",
+     "year": 2024,
+     "authors": [
+      "Melissa Emory",
+      "Malors Espinosa-Lara",
+      "Debanjana Kundu",
+      "Tian An Wong"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2404.10139"
+    },
+    {
+     "title": "Beyond Endoscopy for $\\mathrm{GL}(3, \\mathbb{Q})$: Isolation of the residual spectrum via Poisson Summation",
+     "year": 2026,
+     "authors": [
+      "Taiwang Deng",
+      "Malors Espinos"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2603.21506"
+    },
+    {
+     "title": "Jacquet-Zagier treatment of the beyond endoscopy trace formula for $\\mathrm{GL}_2$",
+     "year": 2026,
+     "authors": [
+      "Pranjal Pandurang Warade"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.01990"
+    },
+    {
+     "title": "Beyond Endoscopy: Poisson Summation Formula and Kuznetsov Trace Formula on $\\mathrm{GL}_2$",
+     "year": 2024,
+     "authors": [
+      "Zhaolin Li"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2410.15627"
+    },
+    {
+     "title": "A note on Poisson summation for GL(2)",
+     "year": 2025,
+     "authors": [
+      "Tian An Wong"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2510.02273"
+    },
+    {
+     "title": "Refinements of the trace formula for GL(2)",
+     "year": 2019,
+     "authors": [
+      "Tian An Wong"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1910.03733"
+    },
+    {
+     "title": "The multiplicative formula of Langlands for orbital integrals in GL(2)",
+     "year": 2025,
+     "authors": [
+      "Malors Espinosa"
+     ],
+     "venue": "Annales mathématiques du Québec",
+     "id": "https://doi.org/10.1007/s40316-025-00259-6"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "Altug beyond endoscopy Poisson summation GL2",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "Altug beyond endoscopy Poisson summation GL2",
+   "status": 200,
+   "results": [
+    {
+     "title": "Beyond endoscopy via the trace formula: 1. Poisson summation and isolation of special representations",
+     "year": 2015,
+     "authors": [
+      "Salim Ali Altuğ"
+     ],
+     "venue": "Compositio Mathematica",
+     "id": "doi:10.1112/s0010437x15007320"
+    },
+    {
+     "title": "Poisson-Mehler summation formula Around Poisson-Mehler summation formula",
+     "year": 2016,
+     "authors": [
+      "Pawel J. Szablowski"
+     ],
+     "venue": "Hacettepe Journal of Mathematics and Statistics",
+     "id": "doi:10.15672/hjms.20164515997"
+    },
+    {
+     "title": "On double poisson summation formula",
+     "year": null,
+     "authors": [
+      "Kwok Pang Wong"
+     ],
+     "venue": "",
+     "id": "doi:10.14711/thesis-b1190189"
+    },
+    {
+     "title": "Poisson summation",
+     "year": 2022,
+     "authors": [],
+     "venue": "Fourier Analysis",
+     "id": "doi:10.1017/9781009230063.031"
+    },
+    {
+     "title": "Poisson summation",
+     "year": 1988,
+     "authors": [],
+     "venue": "Fourier Analysis",
+     "id": "doi:10.1017/cbo9781107049949.029"
+    },
+    {
+     "title": "The Poisson Summation Formula",
+     "year": 2019,
+     "authors": [],
+     "venue": "Modern Condensed Matter Physics",
+     "id": "doi:10.1017/9781316480649.023"
+    },
+    {
+     "title": "Poisson summation",
+     "year": 1993,
+     "authors": [],
+     "venue": "Exercises in Fourier Analysis",
+     "id": "doi:10.1017/cbo9780511608711.023"
+    },
+    {
+     "title": "Poisson Summation on Regular Regions",
+     "year": 2011,
+     "authors": [],
+     "venue": "Metaharmonic Lattice Point Theory",
+     "id": "doi:10.1201/b10876-18"
+    },
+    {
+     "title": "Calculation by the Poisson summation formula",
+     "year": 1984,
+     "authors": [],
+     "venue": "Magnetic Oscillations in Metals",
+     "id": "doi:10.1017/cbo9780511897870.013"
+    },
+    {
+     "title": "An extension of the poisson summation formula to a semi-direct product",
+     "year": null,
+     "authors": [
+      "Jason Lind"
+     ],
+     "venue": "",
+     "id": "doi:10.22215/etd/2011-06944"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "beyond endoscopy boundary terms trace formula GL2",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "beyond endoscopy boundary terms trace formula GL2",
+   "status": 200,
+   "results": [
+    {
+     "title": "Relative Functoriality and Functional Equations via Trace Formulas",
+     "year": 2019,
+     "authors": [
+      "Yiannis Sakellaridis"
+     ],
+     "venue": "Acta Mathematica Vietnamica",
+     "id": "https://doi.org/10.1007/s40306-018-0295-7"
+    },
+    {
+     "title": "Beyond Endoscopy for $\\mathrm{GL}(3, \\mathbb{Q})$: Isolation of the residual spectrum via Poisson Summation",
+     "year": 2026,
+     "authors": [
+      "Taiwang Deng",
+      "Malors Espinos"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2603.21506"
+    },
+    {
+     "title": "Kuznetsov’s trace formula and the Hecke eigenvalues of Maass forms",
+     "year": 2012,
+     "authors": [
+      "Andrew H. Knightly",
+      "C. Li"
+     ],
+     "venue": "Memoirs of the American Mathematical Society",
+     "id": "https://doi.org/10.1090/s0065-9266-2012-00673-3"
+    },
+    {
+     "title": "Kuznetsov's trace formula and the Hecke eigenvalues of Maass forms",
+     "year": 2012,
+     "authors": [
+      "Charles H. Li",
+      "Andrew H. Knightly"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1202.0189"
+    },
+    {
+     "title": "Beyond Endoscopy: Poisson Summation Formula and Kuznetsov Trace Formula on $\\mathrm{GL}_2$",
+     "year": 2024,
+     "authors": [
+      "Zhaolin Li"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2410.15627"
+    },
+    {
+     "title": "The stabilization of the Frobenius--Hecke traces on the intersection cohomology of orthogonal Shimura varieties",
+     "year": 2018,
+     "authors": [
+      "Yihang Zhu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1801.09404"
+    },
+    {
+     "title": "A $\\mathrm{GL}_3$ level analog of Selberg's result for $S(t)$",
+     "year": 2026,
+     "authors": [
+      "Qingfeng Sun",
+      "Hui Wang"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.23201"
+    },
+    {
+     "title": "Reciprocity and symmetric power functoriality",
+     "year": 2021,
+     "authors": [
+      "Jack A. Thorne"
+     ],
+     "venue": "Current Developments in Mathematics",
+     "id": "https://doi.org/10.4310/cdm.2021.v2021.n1.a3"
+    },
+    {
+     "title": "Betti Geometric Langlands",
+     "year": 2016,
+     "authors": [
+      "Ben-Zvi, David",
+      "Nadler, David"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1606.08523"
+    },
+    {
+     "title": "Impacted Buildings for GL(2)",
+     "year": 2026,
+     "authors": [
+      "Malors Espinosa",
+      "Zander Karaganis"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2601.08365"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "beyond endoscopy boundary terms trace formula GL2",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "beyond endoscopy boundary terms trace formula GL2",
+   "status": 200,
+   "results": [
+    {
+     "title": "Beyond Endoscopy and the Trace Formula",
+     "year": 2024,
+     "authors": [
+      "S. Ali Altuğ"
+     ],
+     "venue": "Lecture Notes Series, Institute for Mathematical Sciences, National University of Singapore On the Langlands Program",
+     "id": "doi:10.1142/9789811285820_0006"
+    },
+    {
+     "title": "Beyond endoscopy via the trace formula: 1. Poisson summation and isolation of special representations",
+     "year": 2015,
+     "authors": [
+      "Salim Ali Altuğ"
+     ],
+     "venue": "Compositio Mathematica",
+     "id": "doi:10.1112/s0010437x15007320"
+    },
+    {
+     "title": "BEYOND ENDOSCOPY FOR THE RELATIVE TRACE FORMULA II: GLOBAL THEORY",
+     "year": 2017,
+     "authors": [
+      "Yiannis Sakellaridis"
+     ],
+     "venue": "Journal of the Institute of Mathematics of Jussieu",
+     "id": "doi:10.1017/s1474748017000032"
+    },
+    {
+     "title": "BEYOND ENDOSCOPY VIA THE TRACE FORMULA – III THE STANDARD REPRESENTATION",
+     "year": 2018,
+     "authors": [
+      "S. Ali Altuğ"
+     ],
+     "venue": "Journal of the Institute of Mathematics of Jussieu",
+     "id": "doi:10.1017/s1474748018000427"
+    },
+    {
+     "title": "The Invariant Trace Formula for <i>SL</i>(2)",
+     "year": 2024,
+     "authors": [
+      "Abhishek Parab"
+     ],
+     "venue": "Lecture Notes Series, Institute for Mathematical Sciences, National University of Singapore On the Langlands Program",
+     "id": "doi:10.1142/9789811285820_0001"
+    },
+    {
+     "title": "Beyond Endoscopy via the trace formula, II: Asymptotic expansions of Fourier transforms and bounds towards the Ramanujan conjecture",
+     "year": 2017,
+     "authors": [
+      "S. Ali Altuğ"
+     ],
+     "venue": "American Journal of Mathematics",
+     "id": "doi:10.1353/ajm.2017.0023"
+    },
+    {
+     "title": "Semi-classical formula beyond the Ehrenfest time in quantum chaos. (I) Trace formula",
+     "year": 2007,
+     "authors": [
+      "Frédéric Faure"
+     ],
+     "venue": "Annales de l'Institut Fourier",
+     "id": "doi:10.5802/aif.2341"
+    },
+    {
+     "title": "Lectures on the Stable Trace Formula with Emphasis on SL<sub>2</sub>",
+     "year": 2024,
+     "authors": [
+      "Tasho Kaletha"
+     ],
+     "venue": "Lecture Notes Series, Institute for Mathematical Sciences, National University of Singapore On the Langlands Program",
+     "id": "doi:10.1142/9789811285820_0002"
+    },
+    {
+     "title": "Stable trace formula: Elliptic singular terms",
+     "year": 1986,
+     "authors": [
+      "Robert E. Kottwitz"
+     ],
+     "venue": "Mathematische Annalen",
+     "id": "doi:10.1007/bf01458611"
+    },
+    {
+     "title": "Stable trace formula: Cuspidal tempered terms",
+     "year": 1984,
+     "authors": [
+      "Robert E. Kottwitz"
+     ],
+     "venue": "Duke Mathematical Journal",
+     "id": "doi:10.1215/s0012-7094-84-05129-9"
+    }
+   ]
+  }
+ ]
+}

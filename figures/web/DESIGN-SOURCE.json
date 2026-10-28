@@ -1,0 +1,18 @@
+{
+ "from": "Series 00, master/figures/web (unchanged)",
+ "sha256": {
+  "lib.js": "869b207001e08e4b3a397ff9796084d7b2eaad8f684385c789b299fcb2004573",
+  "style.css": "1eedee16206ee3f14e87a552d0fb1e2ccd62357ccc4ac830a1dda355677dd6ff",
+  "fonts/GUST-FONT-LICENSE.txt": "2bd69affc3da00715116f713f57eab9707e96daf3562ad0215987b15b9c16f73",
+  "fonts/OFL.txt": "bec17cee6412788db45fd2644b301afbc99cc5d372ddd3345dc4a7bfdefb9f04",
+  "fonts/README.md": "4511f3175cc5bb416f0b24475138b1f025b0fb43288dbe538ad6be4c84724114",
+  "fonts/tgp-pagella-bold.ttf": "864d7e9ddbbe9fef5141b82eb1921e4cfa60756d0940a887f343492cd091521f",
+  "fonts/tgp-pagella-italic.ttf": "f2e13bc4c2a7ad620a76666842c72baa17a28932f4124b0d1c640d5d0aa28c7c",
+  "fonts/tgp-pagella-math.ttf": "31cd3077bb4f0c7c3b249932deba4548d189dcf52df74c9074732336d6925396",
+  "fonts/tgp-pagella-regular.ttf": "fd74870135d4240efbee7fb54bb39549a2f6ab29eef7261d8fc37593559cead7",
+  "fonts/tgp-symbol-math.ttf": "1966a6800c4046568e8844955a930b7db7d9105321844180fa94ecae7352cc90",
+  "vendor/three/LICENSE": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc",
+  "vendor/three/build/three.core.js": "9edde002b066a9a05676a6127f67735b62baf399bdea529f2f7e31657da769e6",
+  "vendor/three/build/three.module.js": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea"
+ }
+}

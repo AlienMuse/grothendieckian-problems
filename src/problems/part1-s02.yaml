@@ -1,0 +1,386 @@
+# The 57 Grothendieckian Problems — Part I, Series 02 (Problems 18–35). Conventions as in part1-s01.yaml.
+- num: 18
+  title: "Discovering the site"
+  work: S02
+  kind: machine
+  level: programme
+  thesis: 3
+  source: "§1.2.5, p. 22"
+  pages: ["22"]
+  status: "open (listed among “The five things we are least sure of”)"
+  statement: |
+    In the architecture of [@S02] a context is a site, the information it supports is a sheaf, and a conclusion is a
+    global section. The site itself is supplied by hand: “The site must be imposed. We do not know how to discover the
+    evidence-atom locale from a corpus; we construct it.” Give a procedure that constructs the evidence-atom locale, its
+    refinement order and its covering families from a corpus, with a stated sufficiency criterion, and show that the
+    result does not merely reflect the design of the procedure.
+  established: |
+    The source states the objection it cannot answer: “a critic who says the invariants measure our design choices
+    rather than the model’s structure has a real point that we cannot fully answer.” Learned restriction maps are
+    studied elsewhere on a fixed graph [@Bodnar2022; @DiNino2024]; the base space is not learned there.
+  proposer: "[@S02]."
+  background: "[@HansenGhrist2019]; [@Bodnar2022]; [@DiNino2024]; [@MacLaneMoerdijk1992]."
+  solved: "A procedure and a published evaluation in which (i) planted sites in synthetic corpora are recovered up to a declared isomorphism budget, (ii) the site constructed from a natural corpus is stable under resampling within that budget, and (iii) invariants computed on it survive the gaming controls of [@S02, §9.1] (terminal-site collapse, zero restrictions, filled nerve)."
+  litcheck: "Sheaf neural networks with learned restriction maps on a given graph were found [@Bodnar2022; @DiNino2024]; no procedure that learns the site itself was found."
+
+- num: 19
+  title: "The capability wager"
+  work: S02
+  kind: machine
+  level: research
+  thesis: 4
+  source: "Conjecture 3.6.17, p. 778; §1.2.5, p. 22"
+  pages: ["778", "22"]
+  status: "D (design-grade conjecture)"
+  statement: |
+    On an orthogonal cellular sheaf the non-abelian holonomy capacity $\beta$ of [@S02] is either $0$ or at least a
+    constant $c(d)$ depending only on the stalk dimension. The wager is that $\beta$ governs capability. In the words of
+    the source: “At matched parameters, data and compute, compare models with CERTIFIED_VIRTUALLY_ABELIAN and
+    CERTIFIED_FREE reports on tasks requiring route-dependent evidence.” Decide the wager.
+  established: |
+    The dichotomy is proved; the wager is not. “That β governs capability is grade D and we have no proof. It is the
+    most interesting claim in the document and the least supported.” The comparison is set up so that a negative
+    result costs only the wager: “No theorem links the verdict to capability; failure of the registered comparison
+    removes the capability claim while leaving the group theorem intact.”
+  proposer: "[@S02]."
+  background: "The Tits alternative [@Tits1972]; uniform growth gaps [@Breuillard2011]; [@HansenGhrist2019]."
+  solved: "A preregistered comparison at matched parameters, data and compute, with certificates computed as in [@S02, Ch. 3.6], published with its outcome in either direction."
+  litcheck: "No study linking holonomy growth of cellular sheaves to model capability was found."
+
+- num: 20
+  title: "Nerve baselines between GRPO and RLOO"
+  work: S02
+  kind: machine
+  level: research
+  thesis: 4
+  source: "§1.2.4, pp. 21–22 (claim C11 of Appendix A7)"
+  pages: ["21", "22"]
+  status: "open empirical question"
+  statement: |
+    The source proves that the group-relative advantage of group relative policy optimisation (GRPO) [@Shao2024] equals $\Delta_0 R/\lVert\delta_0 R\rVert_2$
+    for the $0$-Laplacian of the nerve of the sampling group, wherever $\sigma>0$. This places GRPO in “a family of graph
+    baselines indexed by a nerve, of which the complete-graph member is GRPO and the i.i.d. leave-one-out member is
+    RLOO.” (RLOO is the leave-one-out REINFORCE baseline [@Ahmadian2024].) Determine whether another member of the family reduces the variance of the policy-gradient estimate at
+    matched cost.
+  established: "The identity is proved and the family defined; “Whether any other member of that family reduces variance at matched cost is an open empirical question, tested by claim C11 of A7 and unanswered here.”"
+  proposer: "[@S02]."
+  background: "[@Shao2024]; [@Ahmadian2024]; recent baselines for reinforcement learning with verifiable rewards [@Zeng2025]."
+  solved: "A theorem identifying, under stated assumptions on rewards, a nerve whose baseline has strictly smaller variance than both GRPO and RLOO at matched sampling cost, or proving that no member of the family does; or the registered experiment C11 with its outcome."
+  litcheck: "Variance-reduction baselines for GRPO-type methods are an active topic [@Zeng2025]; no study of the nerve family was found."
+
+- num: 21
+  title: "Relative obstruction as a predictor of unsupported answers"
+  work: S02
+  kind: machine
+  level: research
+  thesis: 5
+  source: "§10.1.7.3, pp. 1854–1855; instrument N5, §9.1.7, p. 1766"
+  pages: ["1854", "1855", "1766"]
+  status: "T for the mathematics; D for what remains; N5 withdrawn"
+  statement: |
+    For an evidence subdomain $A\subseteq X$, a coefficient sheaf $F$ and a partial section $s_A$, the connecting class
+    $\partial(s_A)\in H^1(X,A;F)$ is a genuine obstruction to extending $s_A$. Supply the typed record that the source
+    requires before this class may be used as an instrument, and test prospectively whether it predicts unsupported
+    answers of a language model.
+  established: |
+    The mathematics is proved; the instrument is not: “N5 is therefore WITHDRAWN as a validation or falsification
+    instrument.” Reinstatement requires six items, including “at least one worked non-zero example, together with a zero
+    control, computed before labels are revealed”. The remaining task is stated as “What remains is the difficult empirical
+    part: the evidence sheaf must reflect factual support, the relative class must be approximated at scale, and
+    prospective prediction must beat entropy, retrieval sufficiency, self-consistency and correctness probes without
+    site collapse.”
+  proposer: "[@S02]."
+  background: "[@HansenGhrist2019]; [@Farquhar2024]; [@Huntsman2024]."
+  solved: "The six reinstatement items of §9.1.7 published for one benchmark, followed by a prospective comparison against entropy, sequence likelihood, verbal confidence, retrieval sufficiency, self-consistency and a trained correctness probe, reported in either direction."
+  litcheck: "Hallucination detectors based on entropy and probes exist [@Farquhar2024]; sheaf-based consistency rating has been proposed [@Huntsman2024]; no instrument based on a relative connecting class was found."
+
+- num: 22
+  title: "Topos-MoE against modern sparse mixture-of-experts"
+  work: S02
+  kind: machine
+  level: research
+  thesis: 4
+  source: "§10.1.7.2, p. 1854; instrument N7, §9.1.9, pp. 1768–1769"
+  pages: ["1854", "1768", "1769"]
+  status: "D"
+  statement: |
+    In Topos-MoE, the mixture-of-experts layer of [@S02], each expert is an open sub-topos and routing constructs a
+    sufficient cover. Run the registered
+    comparison N7 of [@S02, §9.1.9] against a modern fine-grained sparse mixture-of-experts at matched total and active
+    parameters, executed FLOPs, wall time and communication. “Coverage routing must beat top-k on quality and on total
+    cost; lowering its own deficiency score proves nothing about either.”
+  established: |
+    The descent typing is proved; the benefit is not. In the released configuration the coverage router cannot yet be
+    trained, and it “may not report the coverage router as a trained component until that backward exists and is
+    finite-difference checked.” The thresholds are fixed in advance: “Confirmation requires a 10 per cent relative
+    reduction in multi-expert composition error or a 3-point absolute improvement, while remaining within 1 per cent of
+    the top-k baseline on single-expert tasks and within 10 per cent of its throughput.”
+  proposer: "[@S02]."
+  background: "[@Shazeer2017]; [@Fedus2022]; categorical approaches to architectures [@Gavranovic2024; @Mahadevan2025]."
+  solved: "A trainable coverage router with a finite-difference-checked backward pass, and the N7 comparison executed under the registered protocol, reporting confirmation or one of the registered null outcomes."
+  litcheck: "Many routing variants for mixture-of-experts were found; none uses sheaf-theoretic coverage routing with these controls."
+
+- num: 23
+  title: "A defence against a globally coherent falsehood"
+  work: S02
+  kind: machine
+  level: programme
+  thesis: 5
+  source: "§1.2.5, p. 22"
+  pages: ["22"]
+  status: "open (“we have no structural defence to propose”)"
+  statement: |
+    “Descent verification provably catches local inconsistency. Against a globally coherent falsehood it offers
+    nothing, and we have no structural defence to propose.” Give a verification method that detects a stated class of
+    globally coherent falsehoods, or prove that no verifier with access only to stated information can do so.
+  established: "The source proves the local guarantee and records the global gap as one of “The five things we are least sure of”; Part VI of [@S02] discusses reward hacking at length without proposing a defence."
+  proposer: "[@S02]."
+  background: "[@Skalse2022]; selective prediction [@ElYanivWiener2010]; [@Farquhar2024]."
+  solved: "Either a method with a theorem stating which globally coherent falsehoods it detects and at what cost, evaluated on a published adversarial benchmark, or an impossibility theorem for a stated class of verifiers."
+  litcheck: "Consistency- and verification-based hallucination detection was found; no structural defence or impossibility theorem for globally coherent falsehoods was found."
+
+- num: 24
+  title: "Compiled-to-streaming descent stability"
+  work: S02
+  kind: math
+  level: research
+  thesis: 4
+  source: "Conjecture 2.2.15, p. 104"
+  pages: ["104"]
+  status: "D/OPEN"
+  statement: |
+    Consider a session tower of finite certified sites and solid-valued states $(\mathcal C_n,P_n,F_n)_{n\ge 0}$ with the
+    site maps of [@S02, §2.2]. Conjecture 2.2.15: “If the cd-certificates are uniformly compatible under these site
+    morphisms, the density bound is uniform, the coefficient towers satisfy the required derived-limit vanishing
+    condition, and the finite probe systems form a conservative filtered family, then the limit state satisfies
+    Nisnevich descent with solid condensed coefficients.” Prove or refute it.
+  established: |
+    “The hypotheses are not discharged.” The source explains which hypotheses fail in practice — “Uniform density
+    generally fails when new maximal atoms are added; derived-limit vanishing is not certified by the runtime; and no
+    conservative finite probe family has been proved for arbitrary state classes” — and that “The conjecture therefore
+    cannot be used to upgrade stagewise FINITE-ONLY certificates to a session-wide theorem.”
+  proposer: "[@S02]."
+  background: "Nisnevich descent [@MorelVoevodsky1999]; condensed and solid mathematics [@Scholze2019condensed]; [@Lurie2009]."
+  solved: "A proof of the conjecture as stated, or a counterexample tower satisfying the four hypotheses whose limit state fails Nisnevich descent."
+  litcheck: "Work on descent for condensed and syntomic coefficients was found; no result on limits of towers of finite certified sites was found."
+
+- num: 25
+  title: "The Beck–Chevalley square 12.6.3"
+  work: S02
+  kind: math
+  level: research
+  thesis: 4
+  source: "§2.4.4, pp. 157–158 (Proposition 2.4.24, Theorem 2.4.25)"
+  pages: ["157", "158"]
+  status: "globally open"
+  statement: |
+    For a context family $\mathrm{Rep}\colon\mathcal C_{\mathrm{ref}}\to\mathrm{Cat}_\infty$, transport along
+    refinements is coherent by straightening, but “Straightening supplies no Beck–Chevalley comparison for that square”
+    formed by a refinement arrow and a cover restriction, and Proposition 2.4.24 shows that “The gap is real even in
+    discrete categories.” Characterise the families and covers for which the comparison
+    $\rho_V\circ r_!\Rightarrow (r_i)_!\circ\rho_U$ exists, is invertible, and satisfies the identity, composition and
+    overlap coherence laws, so that the conditional Theorem 2.4.25 applies.
+  established: |
+    Theorem 2.4.25 proves coverwise transport under exactly these hypotheses, and Chapter 13.5 audits finite fixtures;
+    the source calls this “a scope restriction and conditional local closure, not a general solution.” “The monograph
+    does not close the gap globally.”
+  proposer: "[@S02]."
+  background: "[@Lurie2009]; [@MacLaneMoerdijk1992]; [@SGA4]."
+  solved: "A theorem giving necessary and sufficient conditions, in a stated generality, for the comparison of Theorem 2.4.25 to exist with its coherences, or a proof that no condition weaker than the hypothesis itself suffices in that generality."
+  litcheck: "Recent work on Beck–Chevalley fibrations concerns ambidexterity and norm squares; no result on refinement–cover squares of this kind was found."
+
+- num: 26
+  title: "Sharp accumulation bounds for equivariance defects"
+  work: S02
+  kind: math
+  level: research
+  thesis: 6
+  source: "Question 11.11.18, p. 2259"
+  pages: ["2259"]
+  status: "X (open question)"
+  statement: |
+    The accumulation bound of [@S02, Theorem 11.9.28] for the equivariance defects of successive layers is tight in the
+    worst case, but its use as a certificate needs a lower bound on output norms that is not available. Question 11.11.18
+    asks: “Is there a class of architectures with certified lower norm control on which a usable ratio of bound to
+    witness is O(1)? Failing that, is there a sharper bound that tracks the direction of the equivariance defect rather
+    than only its magnitude, for instance by carrying a covariance rather than a scalar?”
+  established: |
+    “Theorem 11.9.28 is tight in the worst case, with both of its constants attained.” Without the lower-norm premise
+    the gate leaves the claim open: “A witness may still falsify a claim but cannot replace the missing certificate.”
+    The source suggests, without attempting it, that defects may add in quadrature under a randomness assumption.
+  proposer: "[@S02]."
+  background: "Error accumulation in composed computations [@Higham2002]; equivariance in deep learning [@Bronstein2021]."
+  solved: "Either a class of architectures with certified lower norm control on which the ratio of bound to witness is proved O(1), or a direction-sensitive bound strictly sharper than Theorem 11.9.28 on a stated class, with proof."
+  litcheck: "No result of this form for equivariance defects was found."
+
+- num: 27
+  title: "Local dynamics of the restriction-frame locus"
+  work: S02
+  kind: math
+  level: research
+  thesis: 4
+  source: "Table 13.16.13, entry O8, p. 3174"
+  pages: ["3174"]
+  status: "OPEN"
+  statement: |
+    Determine “whether the head-indexed restriction-frame embedded locus is attracting, repelling or a saddle under
+    unfrozen frame dynamics”, the open entry O8 of the unproved register of [@S02, Part P].
+  established: "Proposition 13.11.46 proves a parameter-specific departure from the locus and refutes universal invariance, but does not classify the local dynamics. The register names the missing tool: “a Lyapunov, centre-manifold or other local-dynamics argument for the frame manifold”."
+  proposer: "[@S02]."
+  background: "[@Carr1981]; optimisation on matrix manifolds [@AMS2008]."
+  solved: "A proof classifying the locus as attracting, repelling or a saddle (possibly depending on stated parameters) under the dynamics of Chapter 13.11."
+  litcheck: "Work on Stiefel-manifold training dynamics was found; no classification of this locus was found."
+
+- num: 28
+  title: "A base-change bound for the descent solve"
+  work: S02
+  kind: math
+  level: research
+  thesis: 4
+  source: "Table 13.16.13, entry O14, pp. 3174–3175"
+  pages: ["3174", "3175"]
+  status: "open"
+  statement: "Prove “a base-change bound for the descent solve”: a bound relating the outputs of the descent solve of [@S02, Ch. 13.10] at two bases, on which every cross-base stability statement of the book depends."
+  established: "The register records where the argument stops: “no bound relates the solve at two bases; the available Jacobian square measures a different quantity”."
+  proposer: "[@S02]."
+  background: "Spectral theory of sheaf Laplacians [@HansenGhrist2019]; perturbation bounds [@Higham2002]."
+  solved: "A proved bound, with explicit constants, on the difference of the descent solves at two bases in terms of a stated distance between the bases, or a family of examples showing that no such bound holds."
+  litcheck: "Work on sheaf diffusion and its stability was found; no base-change bound for this solve was found."
+
+- num: 29
+  title: "The training-to-serving deviation"
+  work: S02
+  kind: math
+  level: research
+  thesis: 6
+  source: "Table 13.16.13, entry O16, pp. 3174–3175"
+  pages: ["3174", "3175"]
+  status: "open"
+  statement: "Prove that “the training-to-serving deviation is bounded” for the forward map of [@S02, Ch. 13.10–13.11], or remove the failure: the register asks for “a proved bound, or a tie-break that removes the failure”."
+  established: "Bitwise equality between training and serving is proved under stated contracts and fails outside them: “equality fails through the tie-break under rounding; no bound on the output difference is proved”."
+  proposer: "[@S02]."
+  background: "[@IEEE754]; [@Higham2002]; deterministic inference across parallel configurations [@Zhang2025]."
+  solved: "A proved bound on the output difference between training and serving under the rounding model of Chapter 13.11, or a tie-break rule with a proof that it restores equality."
+  litcheck: "Engineering work on deterministic inference was found [@Zhang2025]; no proved bound for this forward map was found."
+
+- num: 30
+  title: "Monotone refinement budgets"
+  work: S02
+  kind: math
+  level: research
+  thesis: 5
+  source: "Question 11.11.19, p. 2259"
+  pages: ["2259"]
+  status: "X"
+  statement: |
+    The recomputed refinement budget of [@S02, Proposition 11.9.20] is not monotone along refinement. Question 11.11.19:
+    “Is there a natural class of covers — closed under the refinements one actually performs — on which some useful
+    instrument is monotone?” The source names two candidate classes, nerve-preserving refinements and split-only
+    refinements.
+  established: "For both candidates the needed facts are unproved, and “No such theorem is currently available.” A proved monotone direction would let the diameter of a totally ordered class be read at its endpoints."
+  proposer: "[@S02]."
+  background: "Cellular sheaves and their cohomology [@HansenGhrist2019]."
+  solved: "A theorem identifying such a class and an instrument monotone on it, or a proof that each of the two named classes admits no useful monotone instrument."
+  litcheck: "No result on monotone instruments under cover refinement was found."
+
+- num: 31
+  title: "How many ambiguity axes are there?"
+  work: S02
+  kind: math
+  level: research
+  thesis: 2
+  source: "Question 11.11.20, p. 2259"
+  pages: ["2259"]
+  status: "X"
+  statement: |
+    The indeterminacy calculus of [@S02, Ch. 11.9] separates the ways a reported number can depend on arbitrary
+    choices. “Chapter 11.9 opened with three and closed with four: the comparison link of Definition 11.9.42 was found
+    only after the first three had been written up, which is evidence that the enumeration is incomplete.” Determine
+    whether routing tie-breaking is a fifth axis with useful exact invariants, and whether the enumeration is complete.
+  established: "“Whether tie rules form a separate typed transformation family with useful exact invariants remains open; no fifth calculus is asserted.” Simplicial orientation and numerical precision are examined and dismissed with reasons."
+  proposer: "[@S02]."
+  background: "Gauge and presentation invariance [@Bronstein2021]; [@HansenGhrist2019]."
+  solved: "A typed transformation family for tie rules with its exact invariants, or a proof that tie rules reduce to the four existing axes; a completeness theorem for a stated class of instruments also solves the problem."
+  litcheck: "No result on this classification was found."
+
+- num: 32
+  title: "Second-order disagreement without engineering"
+  work: S02
+  kind: math
+  level: research
+  thesis: 5
+  source: "§1.1.13, p. 15; §1.2.5, p. 22; §9.1.7, p. 1766"
+  pages: ["15", "22", "1766"]
+  status: "open"
+  statement: |
+    “On a graph, and under standard top-k routing, H2 vanishes identically.” The degree-two (gerbe) theory of
+    disagreement among experts is therefore vacuous unless the cover is built for it: “The minimal non-vacuous
+    configuration is four experts arranged as ∂Δ3, and it must be engineered deliberately.” Determine whether covers
+    produced by a data-driven routing or cover-construction procedure, on natural tasks, carry non-zero second
+    cohomology with the coefficient data of [@S02].
+  established: "The source proves the vanishing results and warns that “engineering a structure into existence in order to measure it is a move that deserves suspicion.” A gerbe diagnostic is “vacuous unless the cover has a deliberate, data-justified sparse nerve with genuine two-dimensional cycles and explicitly defined coefficient data.”"
+  proposer: "[@S02]."
+  background: "[@Giraud1971]; [@HansenGhrist2019]."
+  solved: "A procedure, not tuned to produce two-cycles, whose covers on a published natural task carry a certified non-zero class in degree two; or a theorem that a stated class of procedures always yields vanishing second cohomology."
+  litcheck: "No result on second cohomology of routing nerves was found."
+
+- num: 33
+  title: "Formalizing uniform circuit classes"
+  work: S02
+  kind: formal
+  level: research
+  thesis: 9
+  source: "Open Problem 13.15.B, p. 3135; cut ledger, Table 13.15.7, p. 3133"
+  pages: ["3135", "3133"]
+  status: "OPEN"
+  statement: |
+    “Formalise L-uniform circuit families and the AC$^0$ many-one reduction convention of Definition 2.14.5 to the point
+    where clauses 4 and 5 of Theorem 13.13.24 become statable, and decide whether the Barrington construction of
+    Chapter 2.14 is within reach of a proof term.”
+  established: "The source’s separation results use L-uniform circuit classes and Barrington’s theorem on paper; the machine-checked part stops at statements, and the cut ledger records that “a Barrington formalisation is a project in itself”."
+  proposer: "[@S02]."
+  background: "[@Barrington1989]; [@BIS1990]; a recent Lean formalisation of the non-uniform PARITY lower bound [@Wesonga2026]."
+  solved: "A Lean (or other assistant) library defining L-uniform circuit families and AC$^0$ many-one reductions in which clauses 4 and 5 of Theorem 13.13.24 are stated, together with either a formal proof of Barrington’s theorem or a documented estimate of what such a proof requires."
+  litcheck: "The non-uniform PARITY lower bound has been formalised in Lean [@Wesonga2026]; uniformity and Barrington’s theorem were not found in mathlib or in formal-conjectures (GitHub code search)."
+
+- num: 34
+  title: "A second kernel"
+  work: S02
+  kind: formal
+  level: entry
+  thesis: 6
+  source: "Open Problem 13.15.D, p. 3135"
+  pages: ["3135"]
+  status: "OPEN / D"
+  statement: |
+    “Establish whether an independent type-checker covers the features used by the 13.11 and 13.13 developments, and
+    if so make REPLAYED require two kernels rather than two machines.” Independent checkers for Lean 4 now exist
+    [@Carneiro2024; @Nanoda]; the problem is to elaborate the Lean declarations of [@S02, Table 13.15.1] at a pinned
+    toolchain and replay them under Lean’s kernel and under an independent checker.
+  established: "In the release no declaration was elaborated, and the source says of its replay status: “The present definition of REPLAYED is weaker than the name suggests, and this is stated rather than hidden.”"
+  proposer: "[@S02]."
+  background: "[@BarendregtWiedijk2005]; [@deMouraUllrich2021]; [@Carneiro2024]; [@Nanoda]."
+  solved: "The declarations elaborated at a pinned toolchain and replayed by two independent kernels, with a report of the features used and of any declaration that one kernel rejects."
+  litcheck: "Independent Lean 4 checkers were found [@Carneiro2024; @Nanoda]; the Lean 4 repository contains a replay checker and an export format (src/LeanChecker.lean, src/LeanExport; GitHub code search, leanprover/lean4). No replay of these declarations was found."
+
+- num: 35
+  title: "The computational-univalence bridge"
+  work: S02
+  kind: formal
+  level: programme
+  thesis: 4
+  source: "Hypothesis 4.7.26, p. 1103"
+  pages: ["1103"]
+  status: "X"
+  statement: |
+    Build the checker of Hypothesis CU-MJ of [@S02]: “There exists an approved external checker that: 1. represents
+    proof-relevant paths and a univalent universe independently of Lean equality; 2. computes coercion along
+    equivalences using cubical composition or an equivalent certified mechanism; 3. checks the higher coherences
+    required by the transported family; 4. emits a replayable term rather than a Boolean success flag;” and 5. binds
+    that term to the canonical target, equivalence, site, cover, universe and checker of the justification being
+    transported.
+  established: "“No such integrated component is supplied by this chapter, so CU-MJ is graded X.” Every theorem that assumes it is conditional; the finite branch of the chapter does not need it."
+  proposer: "[@S02]."
+  background: "[@CCHM2018]; [@VMA2021]; [@HoTT2013]."
+  solved: "A checker satisfying the five clauses, and one transported justification from [@S02, Ch. 4.7] checked end to end with its replayable term published."
+  litcheck: "Cubical proof assistants and proof-transfer tools exist [@CCHM2018; @VMA2021]; no checker bound to Lean targets in the sense of clause 5 was found."

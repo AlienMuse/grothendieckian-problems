@@ -1,0 +1,447 @@
+{
+ "problem": 26,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "accumulation bound equivariance defect composition of layers",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "accumulation bound equivariance defect composition of layers",
+   "status": 200,
+   "results": [
+    {
+     "title": "Transformation Laws in Neural Representations: Structure, Realisability, and Construction",
+     "year": 2026,
+     "authors": [
+      "Yuan Sun"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.18190"
+    },
+    {
+     "title": "EquiVLA: A General Framework for Rotationally Equivariant Vision-Language-Action Models",
+     "year": 2026,
+     "authors": [
+      "Thien-Loc Ha",
+      "Quang-Tan Nguyen",
+      "Trong-Bao Ho",
+      "Long Dinh",
+      "Minh Duc Nguyen",
+      "Gia-Binh Nguyen"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.19784"
+    },
+    {
+     "title": "Perspective: Embedding Domain Knowledge Is Not Optional — A Position on Physics-Constrained Materials GNNs",
+     "year": 2023,
+     "authors": [
+      "Carlos Ramírez",
+      "Elena Torres",
+      "Pablo Ortega",
+      "Sofia Mendes"
+     ],
+     "venue": "Journal of Computational and Data-Driven Materials Engineering",
+     "id": "https://doi.org/10.68159/g473686991"
+    },
+    {
+     "title": "Modular RNA interactions shape FXR1 condensates involved in mRNA localization and translation",
+     "year": 2025,
+     "authors": [
+      "Jiabin Yang",
+      "Zhongyang Chen",
+      "Jiayin He",
+      "Binbin Zou",
+      "Yanmin Si",
+      "Yanni Ma"
+     ],
+     "venue": "Nature Communications",
+     "id": "https://doi.org/10.1038/s41467-025-63700-y"
+    },
+    {
+     "title": "A Preliminary Formalism of Pre-Asymmetry in Generative Relational Theory: On the Formal Conditions Preceding Relational Asymmetry",
+     "year": 2026,
+     "authors": [
+      "Wanhong HUANG"
+     ],
+     "venue": "PhilPapers (PhilPapers Foundation)",
+     "id": "https://doi.org/10.17613/9a82r-ma393"
+    },
+    {
+     "title": "An Efficient High-Degree, High-Order Equivariant Graph Neural Network for Direct Crystal Structure Optimization",
+     "year": 2026,
+     "authors": [
+      "Ziduo Yang",
+      "Wei Zhuo",
+      "Huiqiang Xie",
+      "Xiaoqing Liu",
+      "Lei Shen"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2603.23941"
+    },
+    {
+     "title": "Intensional semantics for comparison problems in arithmetic geometry",
+     "year": 2026,
+     "authors": [
+      "R Laniewski"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.13609"
+    },
+    {
+     "title": "Specialized machine learning force fields for materials dynamics",
+     "year": 2026,
+     "authors": [
+      "Yue Wu",
+      "Haoyu Wan",
+      "Yuan Tian",
+      "Deng Pan",
+      "Mingwei Chen"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.12151"
+    },
+    {
+     "title": "AI-Driven Inverse Design of Materials: Past, Present, and Future",
+     "year": 2025,
+     "authors": [
+      "Xu Han",
+      "Xin-De Wang",
+      "Meng-Yuan 孟圆 Xu 徐",
+      "Feng Zhen",
+      "Bo-Wen 博文 Yao 姚",
+      "Peng-Jie Guo"
+     ],
+     "venue": "Chinese Physics Letters",
+     "id": "https://doi.org/10.1088/0256-307x/42/2/027403"
+    },
+    {
+     "title": "Platonic Task Arithmetic",
+     "year": 2026,
+     "authors": [
+      "Junghwan Park",
+      "Woojin Cho"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.00929"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "accumulation bound equivariance defect composition of layers",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "accumulation bound equivariance defect composition of layers",
+   "status": 200,
+   "results": [
+    {
+     "title": "Empirical Remarks on the Translational Equivariance of Convolutional Layers",
+     "year": 2020,
+     "authors": [
+      "Kyung Joo Cheoi",
+      "Hyeonyeong Choi",
+      "Jaepil Ko"
+     ],
+     "venue": "Applied Sciences",
+     "id": "doi:10.3390/app10093161"
+    },
+    {
+     "title": "Figure 5: Defect detector: layers configuration.",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7717/peerj-cs.4025/fig-5"
+    },
+    {
+     "title": "Influence of Diet Composition on Hepatic Lipid Accumulation and Hemorrhages in Caged Layers",
+     "year": 1978,
+     "authors": [
+      "D.V. MAURICE",
+      "L.S. JENSEN"
+     ],
+     "venue": "Poultry Science",
+     "id": "doi:10.3382/ps.0570989"
+    },
+    {
+     "title": "Table 2: Defect detector: layers and hyperparameters.",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7717/peerj-cs.4025/table-2"
+    },
+    {
+     "title": "Table 3: Defect classifier: layers and hyperparameters.",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7717/peerj-cs.4025/table-3"
+    },
+    {
+     "title": "Modelling the accumulation rate and chemical composition of clogging sludge layers in recharge basins with Easy-Leacher® 4.6",
+     "year": 2020,
+     "authors": [
+      "P.J. Stuyfzand"
+     ],
+     "venue": "Management of Aquifer Recharge for Sustainability",
+     "id": "doi:10.1201/9781003078838-45"
+    },
+    {
+     "title": "Local Structural Fingerprints of Nanoparticle-Bound Polymer Layers",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1021/acs.jpcb.0c08614.s001"
+    },
+    {
+     "title": "Direct Observation of Ultrafast Defect-Bound and Free Exciton Dynamics in Defect-Engineered WS2 Monolayers",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1021/acsnano.5c18559.s001"
+    },
+    {
+     "title": "Defect identification in homoepitaxial- and ELO-grown GaN layers using bound-exciton Zeeman spectroscopies",
+     "year": 2000,
+     "authors": [
+      "Satoshi Kurai",
+      "Yoichi Yamada",
+      "Tsunemasa Taguchi"
+     ],
+     "venue": "Journal of Crystal Growth",
+     "id": "doi:10.1016/s0022-0248(99)00682-x"
+    },
+    {
+     "title": "Planar Defect Layers Template a High-Pressure InBi Polymorph",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1021/jacs.5c06253.s001"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "lower bound norm equivariance error deep network certified bound",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "lower bound norm equivariance error deep network certified bound",
+   "status": 200,
+   "results": [
+    {
+     "title": "Generator-Aligned Representation Interfaces for Diagnostic Soft Equivariance",
+     "year": 2026,
+     "authors": [
+      "Weitao Li",
+      "Gong Cheng"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.25988"
+    },
+    {
+     "title": "Theory for groupoid equivariant neural networks: an approach for steerable CNNs on bounded domains",
+     "year": 2026,
+     "authors": [
+      "Alberto Ibort",
+      "María Jiménez-Vázquez",
+      "Juan Manuel Pérez-Pardo"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.25987"
+    },
+    {
+     "title": "Learning Polynomial Problems with $SL(2,\\mathbb{R})$ Equivariance",
+     "year": 2023,
+     "authors": [
+      "Hannah Lawrence",
+      "Mitchell Tong Harris"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2312.02146"
+    },
+    {
+     "title": "Exact equivariance, kept through training, buys zero-shot generalisation across the symmetry group",
+     "year": 2026,
+     "authors": [
+      "Haotian Wang"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.03003"
+    },
+    {
+     "title": "Learning Graded Sparse Mechanisms: A Representation Theorem and Certified Generalization",
+     "year": 2026,
+     "authors": [
+      "Mark Kozdoba",
+      "Shie Mannor"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.16537"
+    },
+    {
+     "title": "Adversarial and Out-of-Distribution Perspectives on Deep Neural Network Robustness",
+     "year": 2025,
+     "authors": [
+      "Naveen Harshitha Karunanayake"
+     ],
+     "venue": "The Sydney eScholarship Repository (The University of Sydney)",
+     "id": "https://openalex.org/W7126999293"
+    },
+    {
+     "title": "Certifying robustness in inference and learning problems",
+     "year": 2025,
+     "authors": [
+      "Akshayaa Magesh"
+     ],
+     "venue": "Illinois Digital Environment for Access to Learning and Scholarship (University of Illinois at Urbana-Champaign)",
+     "id": "https://openalex.org/W7220802075"
+    },
+    {
+     "title": "Seeded Recovery Approaches for Networks",
+     "year": 2026,
+     "authors": [
+      "Michael Nisenzon"
+     ],
+     "venue": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
+     "id": "https://doi.org/10.17615/xv5f-6f12"
+    },
+    {
+     "title": "D₄-PINN: Hard-Constraint Group-Invariant Physics-Informed Neural Networks with Aerospace Thermal-Analysis Applications",
+     "year": 2026,
+     "authors": [
+      "Chuyao Gong"
+     ],
+     "venue": "Research Square",
+     "id": "https://doi.org/10.21203/rs.3.rs-9719695/v1"
+    },
+    {
+     "title": "How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses",
+     "year": 2024,
+     "authors": [
+      "Joana Cabral Costa",
+      "Tiago Roxo",
+      "Hugo Pedro Martins Carriço Proença",
+      "Pedro R. M. Inácio"
+     ],
+     "venue": "IEEE Access",
+     "id": "https://doi.org/10.1109/access.2024.3395118"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "lower bound norm equivariance error deep network certified bound",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "lower bound norm equivariance error deep network certified bound",
+   "status": 200,
+   "results": [
+    {
+     "title": "A Lower Bound for the Chernoff Upper Bound on Bayes Error",
+     "year": 2024,
+     "authors": [
+      "Hossein Kazemzadeh G.",
+      "Adel Mohammadpour"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.5039157"
+    },
+    {
+     "title": "Error assessment of biogeochemical models by lower bound methods",
+     "year": 2017,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.5194/gmd-2017-133-rc2"
+    },
+    {
+     "title": "Position error vs. signal measurements: An analysis towards lower error bound in sensor network",
+     "year": 2022,
+     "authors": [
+      "Feng Qiu",
+      "Weidong Zhang"
+     ],
+     "venue": "Digital Signal Processing",
+     "id": "doi:10.1016/j.dsp.2022.103637"
+    },
+    {
+     "title": "Discrete Optimization for Error Feedback Network using Lower Bound Estimation",
+     "year": null,
+     "authors": [
+      "M. Nakamoto",
+      "Y. Maejima",
+      "T. Hinamoto"
+     ],
+     "venue": "2005 IEEE International Symposium on Circuits and Systems",
+     "id": "doi:10.1109/iscas.2005.1464636"
+    },
+    {
+     "title": "The behaviour of the Gauss-Radau upper bound of the error norm in CG",
+     "year": 2022,
+     "authors": [
+      "Gérard Meurant",
+      "Petr Tichý"
+     ],
+     "venue": "",
+     "id": "doi:10.21203/rs.3.rs-1850362/v1"
+    },
+    {
+     "title": "Executive Editor Comment on \"Error assessment of biogeochemical models by lower bound methods\"",
+     "year": 2017,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.5194/gmd-2017-133-sc1"
+    },
+    {
+     "title": "A lower bound for the L_2[-1,1]-norm of the logarithmic derivative of polynomials with zeros on the unit circle",
+     "year": 2019,
+     "authors": [
+      "M. A. Komarov"
+     ],
+     "venue": "Issues of Analysis",
+     "id": "doi:10.15393/j3.art.2019.6030"
+    },
+    {
+     "title": "A Lower Bound for the Norm of the Solution of a Nonlinear Volterra Equation in One-Dimensional Viscoelasticity.",
+     "year": 1980,
+     "authors": [
+      "Frederick Bloom"
+     ],
+     "venue": "",
+     "id": "doi:10.21236/ada094560"
+    },
+    {
+     "title": "Error Lower Bound for Phase Retrieval",
+     "year": 1986,
+     "authors": [
+      "J.N. Cederquist"
+     ],
+     "venue": "Topical Meeting On Signal Recovery and Synthesis II",
+     "id": "doi:10.1364/srs.1986.thc1"
+    },
+    {
+     "title": "Chapter 7: Problems with the Gauss-Radau upper bound",
+     "year": 2024,
+     "authors": [],
+     "venue": "Error Norm Estimation in the Conjugate Gradient Algorithm",
+     "id": "doi:10.1137/1.9781611977868.ch7"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,478 @@
+{
+ "id": "rose",
+ "number": 1,
+ "size_mm": [
+  132.0,
+  160.0
+ ],
+ "footer": "The 57 Grothendieckian Problems · Vincent Liu · doi:10.5281/zenodo.23734427 · CC BY 4.0",
+ "title": "THE 57 GROTHENDIECKIAN PROBLEMS",
+ "right": "57 = 35 + 22",
+ "cells": [
+  {
+   "series": "01",
+   "position": "centre",
+   "colour": "cyan",
+   "name": [
+    "The Grothendieckian",
+    "Machine"
+   ],
+   "role": "the core",
+   "problems": [
+    {
+     "num": 1,
+     "kind": "machine",
+     "level": "programme",
+     "work": "S01"
+    },
+    {
+     "num": 3,
+     "kind": "machine",
+     "level": "research",
+     "work": "S01"
+    },
+    {
+     "num": 4,
+     "kind": "machine",
+     "level": "research",
+     "work": "S01"
+    },
+    {
+     "num": 5,
+     "kind": "machine",
+     "level": "research",
+     "work": "S01"
+    },
+    {
+     "num": 12,
+     "kind": "machine",
+     "level": "entry",
+     "work": "S01"
+    },
+    {
+     "num": 13,
+     "kind": "machine",
+     "level": "entry",
+     "work": "S01"
+    },
+    {
+     "num": 14,
+     "kind": "machine",
+     "level": "programme",
+     "work": "S01"
+    },
+    {
+     "num": 15,
+     "kind": "machine",
+     "level": "entry",
+     "work": "S01"
+    },
+    {
+     "num": 16,
+     "kind": "machine",
+     "level": "entry",
+     "work": "S01"
+    },
+    {
+     "num": 17,
+     "kind": "machine",
+     "level": "entry",
+     "work": "S01"
+    },
+    {
+     "num": 2,
+     "kind": "formal",
+     "level": "programme",
+     "work": "S01"
+    },
+    {
+     "num": 6,
+     "kind": "formal",
+     "level": "research",
+     "work": "S01"
+    },
+    {
+     "num": 7,
+     "kind": "formal",
+     "level": "research",
+     "work": "S01"
+    },
+    {
+     "num": 8,
+     "kind": "formal",
+     "level": "research",
+     "work": "S01"
+    },
+    {
+     "num": 9,
+     "kind": "formal",
+     "level": "research",
+     "work": "S01"
+    },
+    {
+     "num": 10,
+     "kind": "formal",
+     "level": "research",
+     "work": "S01"
+    },
+    {
+     "num": 11,
+     "kind": "formal",
+     "level": "research",
+     "work": "S01"
+    }
+   ],
+   "range": "PROBLEMS 1–17"
+  },
+  {
+   "series": "02",
+   "position": "top",
+   "colour": "cyan",
+   "name": [
+    "Topos-Native",
+    "Intelligence"
+   ],
+   "role": "the meta-reasoning kernel",
+   "problems": [
+    {
+     "num": 24,
+     "kind": "math",
+     "level": "research",
+     "work": "S02"
+    },
+    {
+     "num": 25,
+     "kind": "math",
+     "level": "research",
+     "work": "S02"
+    },
+    {
+     "num": 26,
+     "kind": "math",
+     "level": "research",
+     "work": "S02"
+    },
+    {
+     "num": 27,
+     "kind": "math",
+     "level": "research",
+     "work": "S02"
+    },
+    {
+     "num": 28,
+     "kind": "math",
+     "level": "research",
+     "work": "S02"
+    },
+    {
+     "num": 29,
+     "kind": "math",
+     "level": "research",
+     "work": "S02"
+    },
+    {
+     "num": 30,
+     "kind": "math",
+     "level": "research",
+     "work": "S02"
+    },
+    {
+     "num": 31,
+     "kind": "math",
+     "level": "research",
+     "work": "S02"
+    },
+    {
+     "num": 32,
+     "kind": "math",
+     "level": "research",
+     "work": "S02"
+    },
+    {
+     "num": 18,
+     "kind": "machine",
+     "level": "programme",
+     "work": "S02"
+    },
+    {
+     "num": 19,
+     "kind": "machine",
+     "level": "research",
+     "work": "S02"
+    },
+    {
+     "num": 20,
+     "kind": "machine",
+     "level": "research",
+     "work": "S02"
+    },
+    {
+     "num": 21,
+     "kind": "machine",
+     "level": "research",
+     "work": "S02"
+    },
+    {
+     "num": 22,
+     "kind": "machine",
+     "level": "research",
+     "work": "S02"
+    },
+    {
+     "num": 23,
+     "kind": "machine",
+     "level": "programme",
+     "work": "S02"
+    },
+    {
+     "num": 33,
+     "kind": "formal",
+     "level": "research",
+     "work": "S02"
+    },
+    {
+     "num": 34,
+     "kind": "formal",
+     "level": "entry",
+     "work": "S02"
+    },
+    {
+     "num": 35,
+     "kind": "formal",
+     "level": "programme",
+     "work": "S02"
+    }
+   ],
+   "range": "PROBLEMS 18–35"
+  },
+  {
+   "series": "03",
+   "position": "upper-right",
+   "colour": "blue",
+   "name": [
+    "Arithmetic Spectral",
+    "Descent"
+   ],
+   "role": "Riemann Hypothesis · GRH",
+   "problems": [
+    {
+     "num": 36,
+     "kind": "math",
+     "level": "research",
+     "work": "S03"
+    },
+    {
+     "num": 37,
+     "kind": "math",
+     "level": "research",
+     "work": "S03"
+    },
+    {
+     "num": 38,
+     "kind": "math",
+     "level": "research",
+     "work": "S03"
+    },
+    {
+     "num": 39,
+     "kind": "machine",
+     "level": "entry",
+     "work": "S03"
+    }
+   ],
+   "range": "PROBLEMS 36–39"
+  },
+  {
+   "series": "04",
+   "position": "lower-right",
+   "colour": "violet",
+   "name": [
+    "Fractured Adelic",
+    "Geometry"
+   ],
+   "role": "Birch–Swinnerton-Dyer",
+   "problems": [
+    {
+     "num": 40,
+     "kind": "math",
+     "level": "research",
+     "work": "S04"
+    },
+    {
+     "num": 41,
+     "kind": "math",
+     "level": "programme",
+     "work": "S04"
+    },
+    {
+     "num": 42,
+     "kind": "math",
+     "level": "research",
+     "work": "S04"
+    },
+    {
+     "num": 43,
+     "kind": "machine",
+     "level": "entry",
+     "work": "S04"
+    }
+   ],
+   "range": "PROBLEMS 40–43"
+  },
+  {
+   "series": "05",
+   "position": "bottom",
+   "colour": "blue",
+   "name": [
+    "The Archimedean",
+    "Prism"
+   ],
+   "role": "Hodge conjecture",
+   "problems": [
+    {
+     "num": 45,
+     "kind": "math",
+     "level": "research",
+     "work": "S05"
+    },
+    {
+     "num": 46,
+     "kind": "math",
+     "level": "entry",
+     "work": "S05"
+    },
+    {
+     "num": 47,
+     "kind": "math",
+     "level": "research",
+     "work": "S05"
+    },
+    {
+     "num": 48,
+     "kind": "math",
+     "level": "entry",
+     "work": "S05"
+    },
+    {
+     "num": 44,
+     "kind": "formal",
+     "level": "programme",
+     "work": "S05"
+    }
+   ],
+   "range": "PROBLEMS 44–48"
+  },
+  {
+   "series": "06",
+   "position": "lower-left",
+   "colour": "violet",
+   "name": [
+    "Strained Prismatic",
+    "Geometry"
+   ],
+   "role": "abc conjecture",
+   "problems": [
+    {
+     "num": 51,
+     "kind": "math",
+     "level": "research",
+     "work": "S06"
+    },
+    {
+     "num": 52,
+     "kind": "math",
+     "level": "programme",
+     "work": "S06"
+    },
+    {
+     "num": 50,
+     "kind": "machine",
+     "level": "research",
+     "work": "S06"
+    },
+    {
+     "num": 49,
+     "kind": "formal",
+     "level": "entry",
+     "work": "S06"
+    }
+   ],
+   "range": "PROBLEMS 49–52"
+  },
+  {
+   "series": "07",
+   "position": "upper-left",
+   "colour": "blue",
+   "name": [
+    "The Arithmetic",
+    "Topos"
+   ],
+   "role": "Langlands programme",
+   "problems": [
+    {
+     "num": 53,
+     "kind": "math",
+     "level": "research",
+     "work": "S07"
+    },
+    {
+     "num": 54,
+     "kind": "math",
+     "level": "research",
+     "work": "S07"
+    },
+    {
+     "num": 55,
+     "kind": "math",
+     "level": "programme",
+     "work": "S07"
+    },
+    {
+     "num": 56,
+     "kind": "math",
+     "level": "programme",
+     "work": "S07"
+    },
+    {
+     "num": 57,
+     "kind": "formal",
+     "level": "research",
+     "work": "S07"
+    }
+   ],
+   "range": "PROBLEMS 53–57"
+  }
+ ],
+ "kinds": [
+  [
+   "math",
+   "25 MATHEMATICAL"
+  ],
+  [
+   "machine",
+   "19 MACHINE"
+  ],
+  [
+   "formal",
+   "13 FORMALIZATION"
+  ]
+ ],
+ "levels": [
+  [
+   "entry",
+   "11 ENTRY LEVEL"
+  ],
+  [
+   "research",
+   "35 RESEARCH LEVEL"
+  ],
+  [
+   "programme",
+   "11 PROGRAMME LEVEL"
+  ]
+ ],
+ "parts": [
+  "PART I · THE MACHINE · PROBLEMS 1–35",
+  "PART II · THE FIVE RESEARCH SUBJECTS · PROBLEMS 36–57"
+ ]
+}

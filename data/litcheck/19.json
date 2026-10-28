@@ -1,0 +1,356 @@
+{
+ "problem": 19,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "holonomy cellular sheaf neural network capability",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "holonomy cellular sheaf neural network capability",
+   "status": 200,
+   "results": [
+    {
+     "title": "PAGR: Proof-Carrying Algebraic-Geometric Retrieval: A Quiver-, Provenance-, and Sheaf-Theoretic Framework for Grounded LLM Retrieval",
+     "year": 2026,
+     "authors": [
+      "Xingting Wang",
+      "Min Wu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.06127"
+    },
+    {
+     "title": "Control flow in active inference systems",
+     "year": 2023,
+     "authors": [
+      "Chris Fields",
+      "Filippo Fabrocini",
+      "Karl John Friston",
+      "James F. Glazebrook",
+      "Hananel Hazan",
+      "Michael G. Levin"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.31219/osf.io/8e4ra"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "holonomy cellular sheaf neural network capability",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "holonomy cellular sheaf neural network capability",
+   "status": 200,
+   "results": [
+    {
+     "title": "Cellular Sheaf Neural Operators for Structure-Preserving Surrogate Modeling of Constrained PDEs",
+     "year": 2026,
+     "authors": [
+      "Lennon Shikhman",
+      "Shane Gilbertie"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6901771"
+    },
+    {
+     "title": "Cellular Sheaf Cohomology through Examples",
+     "year": 2022,
+     "authors": [],
+     "venue": "Sheaf Theory through Examples",
+     "id": "doi:10.7551/mitpress/12581.003.0012"
+    },
+    {
+     "title": "A Cellular Sheaf Model for Aromaticity in Discrete Molecular Systems",
+     "year": 2026,
+     "authors": [
+      "Roy Han"
+     ],
+     "venue": "",
+     "id": "doi:10.26434/chemrxiv.15010344/v1"
+    },
+    {
+     "title": "Optimization-Inspired Graph Neural Network for Cellular Network Optimization_supp1-3542434.pdf",
+     "year": null,
+     "authors": [
+      "Pengcheng He"
+     ],
+     "venue": "",
+     "id": "doi:10.1109/tmc.2025.3542434/mm1"
+    },
+    {
+     "title": "Robustness of cellular neural network implementations",
+     "year": null,
+     "authors": [
+      "Kwok Fai Hui"
+     ],
+     "venue": "",
+     "id": "doi:10.14711/thesis-b536650"
+    },
+    {
+     "title": "A study on artificial neural network generalization capability",
+     "year": 1990,
+     "authors": [
+      "S. Yoshimoto"
+     ],
+     "venue": "1990 IJCNN International Joint Conference on Neural Networks",
+     "id": "doi:10.1109/ijcnn.1990.137918"
+    },
+    {
+     "title": "Sheaf Neural Networks: Geometric Architectures for Graph-Structured Data",
+     "year": 2026,
+     "authors": [
+      "Gunaputra Nagendra Pavan Yedida"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.5853004"
+    },
+    {
+     "title": "Cellular Neural Networks",
+     "year": 2024,
+     "authors": [
+      "Mark Joy"
+     ],
+     "venue": "Neural Network Analysis, Architectures and Applications",
+     "id": "doi:10.1201/9781003572886-7"
+    },
+    {
+     "title": "Solving Max-Clique Using Cellular Neural Network",
+     "year": null,
+     "authors": [
+      "Y. Santosh Reddy"
+     ],
+     "venue": "2005 9th International Workshop on Cellular Neural Networks and Their Applications",
+     "id": "doi:10.1109/cnna.2005.1543168"
+    },
+    {
+     "title": "Artificial Neural Network-Based Classification of Medical Students' Disease Diagnosis Capability",
+     "year": 2010,
+     "authors": [],
+     "venue": "Intelligent Engineering Systems through Artificial Neural Networks, Volume 20",
+     "id": "doi:10.1115/1.859599.paper39"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "uniform exponential growth holonomy orthogonal group sheaf",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "uniform exponential growth holonomy orthogonal group sheaf",
+   "status": 200,
+   "results": [
+    {
+     "title": "Deformations and gluing of asymptotically cylindrical manifolds with exceptional holonomy",
+     "year": 2008,
+     "authors": [
+      "Johannes Nordström"
+     ],
+     "venue": "Apollo (University of Cambridge)",
+     "id": "https://doi.org/10.17863/cam.16204"
+    },
+    {
+     "title": "Holomorphic Floer theory I: exponential integrals in finite and infinite dimensions",
+     "year": 2024,
+     "authors": [
+      "Maxim Kontsevich",
+      "Yan Soibelman"
+     ],
+     "venue": "HAL",
+     "id": "https://doi.org/10.48550/arxiv.2402.07343"
+    },
+    {
+     "title": "Classical Liouville action and uniformization of orbifold Riemann surfaces",
+     "year": 2024,
+     "authors": [
+      "Behrad Taghavi",
+      "Ali Naseh",
+      "Kuroush Allameh"
+     ],
+     "venue": "Physical review. D/Physical review. D.",
+     "id": "https://doi.org/10.1103/physrevd.110.046018"
+    },
+    {
+     "title": "The central heat trace on large compact classical groups",
+     "year": 2025,
+     "authors": [
+      "Thibaut Lemoine",
+      "Mylène Maïda"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2511.08288"
+    },
+    {
+     "title": "Group Actions and Harmonic Analysis in Number Theory",
+     "year": 2023,
+     "authors": [
+      "Valentin Blomer",
+      "Manfred Leopold Einsiedler",
+      "Emmanuel Kowalski",
+      "Maryna Viazovska"
+     ],
+     "venue": "Oberwolfach Reports",
+     "id": "https://doi.org/10.4171/owr/2023/22"
+    },
+    {
+     "title": "Lie groups and homogeneous spaces",
+     "year": 1975,
+     "authors": [
+      "D. V. Alekseevskiĭ"
+     ],
+     "venue": "Journal of Mathematical Sciences",
+     "id": "https://doi.org/10.1007/bf01084048"
+    },
+    {
+     "title": "On the classification of rank-two representations of quasiprojective fundamental groups",
+     "year": 2008,
+     "authors": [
+      "Kevin Corlette",
+      "Carlos Simpson"
+     ],
+     "venue": "Compositio Mathematica",
+     "id": "https://doi.org/10.1112/s0010437x08003618"
+    },
+    {
+     "title": "Tame Fréchet structures for affine Kac-Moody groups",
+     "year": 2014,
+     "authors": [
+      "Walter Freyn"
+     ],
+     "venue": "Asian Journal of Mathematics",
+     "id": "https://doi.org/10.4310/ajm.2014.v18.n5.a6"
+    },
+    {
+     "title": "Birational Kleinian groups in dimension two",
+     "year": 2020,
+     "authors": [
+      "Sheng-Yuan Zhao"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.70675/c5371a9dz6e0cz48f0z9abdz336597f7ff78"
+    },
+    {
+     "title": "Groupes kleiniens birationnels en dimension deux",
+     "year": 2020,
+     "authors": [
+      "Shengyuan Zhao"
+     ],
+     "venue": "ORI-OAI warehouse (University of Rennes)",
+     "id": "https://openalex.org/W3125788589"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "uniform exponential growth holonomy orthogonal group sheaf",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "uniform exponential growth holonomy orthogonal group sheaf",
+   "status": 200,
+   "results": [
+    {
+     "title": "Uniform Uniform Exponential Growth of Subgroups of the Mapping Class Group",
+     "year": 2009,
+     "authors": [
+      "Johanna Mangahas"
+     ],
+     "venue": "Geometric and Functional Analysis",
+     "id": "doi:10.1007/s00039-009-0038-y"
+    },
+    {
+     "title": "Iterative Exponential Growth Synthesis and Assembly of Uniform Diblock Copolymers",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1021/jacs.6b04964.s001"
+    },
+    {
+     "title": "High Molecular Weight Uniform Polymers Encoding Octal Sequences by Passerini Iterative Exponential Growth",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1021/jacs.4c13528.s001"
+    },
+    {
+     "title": "A group of non-uniform exponential growth locally isomorphic to 𝐼𝑀𝐺(𝑧²+𝑖)",
+     "year": 2009,
+     "authors": [
+      "Volodymyr Nekrashevych"
+     ],
+     "venue": "Transactions of the American Mathematical Society",
+     "id": "doi:10.1090/s0002-9947-09-04825-9"
+    },
+    {
+     "title": "Uniform convergence of orthogonal polynomial expansions for exponential weights",
+     "year": 2019,
+     "authors": [
+      "Kentaro ITOH",
+      "Ryozi SAKAI",
+      "Noriaki SUZUKI"
+     ],
+     "venue": "Hokkaido Mathematical Journal",
+     "id": "doi:10.14492/hokmj/1562810508"
+    },
+    {
+     "title": "Protecting-Group-Free Iterative Exponential Growth Method for Synthesizing Sequence-Defined Polymers",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1021/acsmacrolett.0c00812.s001"
+    },
+    {
+     "title": "Uniform Growth in Groups of Exponential Growth",
+     "year": 2002,
+     "authors": [
+      "Pierre De La Harpe"
+     ],
+     "venue": "Geometriae Dedicata",
+     "id": "doi:10.1023/a:1021273024728"
+    },
+    {
+     "title": "Uniform Asymptotic Formula for Orthogonal Polynomials with Exponential Weight",
+     "year": 2015,
+     "authors": [
+      "W.-Y. Qiu",
+      "R. Wong"
+     ],
+     "venue": "The Selected Works of Roderick S C Wong",
+     "id": "doi:10.1142/9789814656054_0039"
+    },
+    {
+     "title": "Uniform Asymptotics for Orthogonal Polynomials with Exponential Weights—the Riemann–Hilbert Approach",
+     "year": 2026,
+     "authors": [
+      "Z. Wang",
+      "R. Wong"
+     ],
+     "venue": "The Selected Works of Roderick S C Wong",
+     "id": "doi:10.1142/9789811290862_0002"
+    },
+    {
+     "title": "Uniform Asymptotic Formula for Orthogonal Polynomials with Exponential Weight",
+     "year": 2000,
+     "authors": [
+      "W. Y. Qiu",
+      "R. Wong"
+     ],
+     "venue": "SIAM Journal on Mathematical Analysis",
+     "id": "doi:10.1137/s0036141098344671"
+    }
+   ]
+  }
+ ]
+}

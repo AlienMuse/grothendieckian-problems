@@ -1,0 +1,332 @@
+{
+ "problem": 32,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "gerbe second cohomology mixture of experts nerve",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "gerbe second cohomology mixture of experts nerve",
+   "status": 200,
+   "results": [
+    {
+     "title": "TwistedMerge: Certified Higher-Order Diagnostics and Abstention for Model Merging",
+     "year": 2026,
+     "authors": [
+      "Ting Gong",
+      "Shitan Xu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.20887"
+    },
+    {
+     "title": "Purity and 2-Calabi-Yau categories",
+     "year": 2021,
+     "authors": [
+      "Ben Davison"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2106.07692"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "gerbe second cohomology mixture of experts nerve",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "gerbe second cohomology mixture of experts nerve",
+   "status": 200,
+   "results": [
+    {
+     "title": "FEAMOE: Fair, Explainable and Adaptive Mixture of Experts",
+     "year": 2023,
+     "authors": [
+      "Shubham Sharma",
+      "Jette Henderson",
+      "Joydeep Ghosh"
+     ],
+     "venue": "Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence",
+     "id": "doi:10.24963/ijcai.2023/55"
+    },
+    {
+     "title": "Parameter Updater Experts: Inference-Time Learning via LoRA-Generating Recurrence in Mixture of Experts",
+     "year": 2026,
+     "authors": [
+      "Jongyun Han"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6555479"
+    },
+    {
+     "title": "L2-cohomology and intersection cohomology",
+     "year": 2006,
+     "authors": [],
+     "venue": "An Introduction to Intersection Homology Theory, Second Edition",
+     "id": "doi:10.1201/b15885-7"
+    },
+    {
+     "title": "Improving Mixture of Experts Using Second-Order Optimisation",
+     "year": 2019,
+     "authors": [
+      "Saeed Masoudnia",
+      "Mohammad Javad Abdi"
+     ],
+     "venue": "International Journal of Applied Research on Information Technology and Computing",
+     "id": "doi:10.5958/j.0975-8070.3.2.008"
+    },
+    {
+     "title": "Mixture of Experts Models",
+     "year": 2019,
+     "authors": [
+      "Isobel Claire Gormley",
+      "Sylvia Frühwirth-Schnatter"
+     ],
+     "venue": "Handbook of Mixture Analysis",
+     "id": "doi:10.1201/9780429055911-12"
+    },
+    {
+     "title": "An Explorative Comparison of Mixture of Experts Architectures",
+     "year": 2025,
+     "authors": [
+      "Philip Meier"
+     ],
+     "venue": "",
+     "id": "doi:10.36227/techrxiv.176158461.16357305/v1"
+    },
+    {
+     "title": "Mixture-of-Experts Learning for Mixture-Response Interpretation and Screening of PE-ECC",
+     "year": 2026,
+     "authors": [
+      "Yujie Wang",
+      "Lingzhi Li"
+     ],
+     "venue": "",
+     "id": "doi:10.20944/preprints202607.1700.v1"
+    },
+    {
+     "title": "Route, Select, Activate: The Mechanics of Mixture of Experts",
+     "year": 2025,
+     "authors": [
+      "Fawzi Gamal"
+     ],
+     "venue": "",
+     "id": "doi:10.31224/4504"
+    },
+    {
+     "title": "Efficient Mixture-of-Experts Training with Pipelining Optimization_supp1-3702749.pdf",
+     "year": null,
+     "authors": [
+      "Shaohuai Shi"
+     ],
+     "venue": "",
+     "id": "doi:10.1109/tc.2026.3702749/mm1"
+    },
+    {
+     "title": "Mixture-of-Experts",
+     "year": 2022,
+     "authors": [],
+     "venue": "Encyclopedia of Big Data",
+     "id": "doi:10.1007/978-3-319-32010-6_300155"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "higher order sheaf cohomology neural network H2",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "higher order sheaf cohomology neural network H2",
+   "status": 200,
+   "results": [
+    {
+     "title": "A Bochner Weitzenböck Decomposition for Cellular Sheaf Laplacians, Curvature and Neural Sheaf Diffusion",
+     "year": 2026,
+     "authors": [
+      "Francesco Maria Guadagnuolo",
+      "Alessio Borgi",
+      "Dorina Thanou",
+      "Pietro Liò"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.28455"
+    },
+    {
+     "title": "PAGR: Proof-Carrying Algebraic-Geometric Retrieval: A Quiver-, Provenance-, and Sheaf-Theoretic Framework for Grounded LLM Retrieval",
+     "year": 2026,
+     "authors": [
+      "Xingting Wang",
+      "Min Wu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.06127"
+    },
+    {
+     "title": "A Study of Hidden-State Optimization Order in Predictive Coding Networks",
+     "year": 2026,
+     "authors": [
+      "Xueyuan Li",
+      "Danilo Vasconcellos Vargas"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.00686"
+    },
+    {
+     "title": "Sheaves on Graphs and their Differential Calculi",
+     "year": 2026,
+     "authors": [
+      "Rita Fioresi",
+      "Angelica Simonetti",
+      "Ferdinando Zanchetta"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2602.21176"
+    },
+    {
+     "title": "Schrödinger's Cat and Blindsight: An Investigation into Perception and Quantum Mechanics",
+     "year": 2025,
+     "authors": [
+      "Moninder Singh Modgil",
+      "Dnyandeo Dattatray Patil"
+     ],
+     "venue": "Preprints.org",
+     "id": "https://doi.org/10.20944/preprints202510.1536.v1"
+    },
+    {
+     "title": "A survey of simplicial, relative, and chain complex homology theories for hypergraphs",
+     "year": 2026,
+     "authors": [
+      "Ellen Gasparovic",
+      "Emilie Purvine",
+      "Radmila Sazdanović",
+      "Bei Wang",
+      "Yusu Wang",
+      "Lori Ziegelmeier"
+     ],
+     "venue": "Journal of Applied and Computational Topology",
+     "id": "https://doi.org/10.1007/s41468-025-00227-7"
+    },
+    {
+     "title": "Constraint Semantics for Multi-level Organisation",
+     "year": 2026,
+     "authors": [
+      "Sahil Imtiyaz"
+     ],
+     "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+     "id": "https://doi.org/10.64898/2026.02.27.708558"
+    },
+    {
+     "title": "Consciousness in Hilbert Space and the Construct of Physical Spacetime: A Mathematical and Theoretical Exploration",
+     "year": 2025,
+     "authors": [
+      "Moninder Singh Modgil",
+      "Dnyandeo Dattatray Patil"
+     ],
+     "venue": "Preprints.org",
+     "id": "https://doi.org/10.20944/preprints202511.1633.v1"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "higher order sheaf cohomology neural network H2",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "higher order sheaf cohomology neural network H2",
+   "status": 200,
+   "results": [
+    {
+     "title": "Cellular Sheaf Cohomology through Examples",
+     "year": 2022,
+     "authors": [],
+     "venue": "Sheaf Theory through Examples",
+     "id": "doi:10.7551/mitpress/12581.003.0012"
+    },
+    {
+     "title": "Links with sheaf cohomology",
+     "year": 2012,
+     "authors": [],
+     "venue": "Local Cohomology",
+     "id": "doi:10.1017/cbo9781139044059.023"
+    },
+    {
+     "title": "Cohomology",
+     "year": 1975,
+     "authors": [],
+     "venue": "Sheaf Theory",
+     "id": "doi:10.1017/cbo9780511661761.007"
+    },
+    {
+     "title": "Artificial Multi-Polynomial Higher Order Neural Network Models",
+     "year": 2013,
+     "authors": [
+      "Ming Zhang"
+     ],
+     "venue": "Artificial Higher Order Neural Networks for Modeling and Simulation",
+     "id": "doi:10.4018/978-1-4666-2175-6.ch001"
+    },
+    {
+     "title": "Homology and Cohomology",
+     "year": 2022,
+     "authors": [],
+     "venue": "Homology, Cohomology, and Sheaf Cohomology for Algebraic Topology, Algebraic Geometry, and Differential Geometry",
+     "id": "doi:10.1142/9789811245039_0002"
+    },
+    {
+     "title": "Sheaf Cohomology",
+     "year": 1997,
+     "authors": [
+      "Glen E. Bredon"
+     ],
+     "venue": "Graduate Texts in Mathematics Sheaf Theory",
+     "id": "doi:10.1007/978-1-4612-0647-7_2"
+    },
+    {
+     "title": "Sheaf cohomology",
+     "year": 2008,
+     "authors": [],
+     "venue": "Algebraic Geometry",
+     "id": "doi:10.1007/978-1-84800-056-8_7"
+    },
+    {
+     "title": "Cohomology of Sheaves",
+     "year": 2022,
+     "authors": [],
+     "venue": "Homology, Cohomology, and Sheaf Cohomology for Algebraic Topology, Algebraic Geometry, and Differential Geometry",
+     "id": "doi:10.1142/9789811245039_0013"
+    },
+    {
+     "title": "de Rham Cohomology",
+     "year": 2022,
+     "authors": [],
+     "venue": "Homology, Cohomology, and Sheaf Cohomology for Algebraic Topology, Algebraic Geometry, and Differential Geometry",
+     "id": "doi:10.1142/9789811245039_0003"
+    },
+    {
+     "title": "Hypergraph Neural Sheaf Diffusion: A Symmetric Simplicial Set Framework for Higher-Order Learning",
+     "year": 2025,
+     "authors": [
+      "Seongjin Choi",
+      "Gahee Kim",
+      "Yong-Geun Oh"
+     ],
+     "venue": "IEEE Access",
+     "id": "doi:10.1109/access.2025.3592104"
+    }
+   ]
+  }
+ ]
+}

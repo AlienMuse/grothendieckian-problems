@@ -1,0 +1,408 @@
+{
+ "problem": 24,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "Nisnevich descent condensed solid coefficients limit of sites",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "Nisnevich descent condensed solid coefficients limit of sites",
+   "status": 200,
+   "results": [
+    {
+     "title": "Pro-étale motives and solid rigidity",
+     "year": 2026,
+     "authors": [
+      "Raphaël Ruimy",
+      "Swann Tubach",
+      "Sebastian Wolf"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2601.07358"
+    },
+    {
+     "title": "A six-functor formalism for syntomic cohomology of p-adic formal schemes",
+     "year": 2026,
+     "authors": [
+      "Niklas Kipp"
+     ],
+     "venue": "University of Regensburg Publication Server (University of Regensburg)",
+     "id": "https://doi.org/10.5283/epub.78438"
+    },
+    {
+     "title": "Algebraic K-theory",
+     "year": 2026,
+     "authors": [
+      "Hélène Esnault",
+      "Thomas Geisser",
+      "Lars Hesselholt",
+      "Moritz Kerz"
+     ],
+     "venue": "Oberwolfach Reports",
+     "id": "https://doi.org/10.4171/owr/2025/36"
+    },
+    {
+     "title": "The Localization Theorem for the Motivic Homotopy Theory of Complex Analytic Stacks and other Geometric Settings",
+     "year": 2026,
+     "authors": [
+      "Roy Magen"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.14470"
+    },
+    {
+     "title": "Sur les cohomologies étale et syntomique pour les variétés analytiques p-adiques arithmétiques",
+     "year": 2025,
+     "authors": [
+      "Yicheng Zhou"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.70675/b6abdcb3z60edz4109za1a1z216111f81c10"
+    },
+    {
+     "title": "An introduction to six-functor formalisms",
+     "year": 2025,
+     "authors": [
+      "Martin Gallauer"
+     ],
+     "venue": "The Open Book Series",
+     "id": "https://doi.org/10.2140/obs.2025.6.63"
+    },
+    {
+     "title": "",
+     "year": 2024,
+     "authors": [],
+     "venue": "Algebraic & Geometric Topology",
+     "id": "https://doi.org/10.2140/agt.2024.24:1"
+    },
+    {
+     "title": "Extension and lifting of G-bundles on stacks",
+     "year": 2023,
+     "authors": [
+      "Torsten Wedhorn"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2311.05151"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "Nisnevich descent condensed solid coefficients limit of sites",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "Nisnevich descent condensed solid coefficients limit of sites",
+   "status": 200,
+   "results": [
+    {
+     "title": "Nisnevich Descent Fails for 0-cycles With Modulus",
+     "year": 2025,
+     "authors": [
+      "Rahul Gupta",
+      "Amalendu Krishna"
+     ],
+     "venue": "International Mathematics Research Notices",
+     "id": "doi:10.1093/imrn/rnaf134"
+    },
+    {
+     "title": "Nisnevich descent for<i>K</i>-theory of Deligne-Mumford stacks",
+     "year": 2011,
+     "authors": [
+      "Amalendu Krishna",
+      "Paul Arne Østvær"
+     ],
+     "venue": "Journal of K-Theory",
+     "id": "doi:10.1017/is011006028jkt161"
+    },
+    {
+     "title": "The Completely Decomposed Topology on Schemes and Associated Descent Spectral Sequences in Algebraic K-Theory",
+     "year": 1989,
+     "authors": [
+      "Ye. A. Nisnevich"
+     ],
+     "venue": "Algebraic K-Theory: Connections with Geometry and Topology",
+     "id": "doi:10.1007/978-94-009-2399-7_11"
+    },
+    {
+     "title": "1.4 The various diffusion coefficients",
+     "year": null,
+     "authors": [
+      "H. Mehrer"
+     ],
+     "venue": "Landolt-Börnstein - Group III Condensed Matter Diffusion in Solid Metals and Alloys",
+     "id": "doi:10.1007/10390457_3"
+    },
+    {
+     "title": "Nisnevich, Sima Gerasimovna",
+     "year": 2001,
+     "authors": [
+      "Taisiya Shcherbakova"
+     ],
+     "venue": "Oxford Music Online",
+     "id": "doi:10.1093/gmo/9781561592630.article.48793"
+    },
+    {
+     "title": "1.6 Methods of measuring diffusion coefficients",
+     "year": null,
+     "authors": [
+      "H. Mehrer"
+     ],
+     "venue": "Landolt-Börnstein - Group III Condensed Matter Diffusion in Solid Metals and Alloys",
+     "id": "doi:10.1007/10390457_5"
+    },
+    {
+     "title": "6.8.2 Ternary intrinsic diffusion coefficients",
+     "year": null,
+     "authors": [
+      "M. A. Dayananda"
+     ],
+     "venue": "Landolt-Börnstein - Group III Condensed Matter Diffusion in Solid Metals and Alloys",
+     "id": "doi:10.1007/10390457_71"
+    },
+    {
+     "title": "13.8 Systematics of surface diffusion coefficients",
+     "year": null,
+     "authors": [
+      "H. P. Bonzel"
+     ],
+     "venue": "Landolt-Börnstein - Group III Condensed Matter Diffusion in Solid Metals and Alloys",
+     "id": "doi:10.1007/10390457_139"
+    },
+    {
+     "title": "6.3 Concentration-dependent ternary interdiffusion coefficients",
+     "year": null,
+     "authors": [
+      "M. A. Dayananda"
+     ],
+     "venue": "Landolt-Börnstein - Group III Condensed Matter Diffusion in Solid Metals and Alloys",
+     "id": "doi:10.1007/10390457_65"
+    },
+    {
+     "title": "6.8.4 Tracer diffusion coefficients for ternary alloys",
+     "year": null,
+     "authors": [
+      "M. A. Dayananda"
+     ],
+     "venue": "Landolt-Börnstein - Group III Condensed Matter Diffusion in Solid Metals and Alloys",
+     "id": "doi:10.1007/10390457_73"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "descent for towers of sites derived limit vanishing",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "descent for towers of sites derived limit vanishing",
+   "status": 200,
+   "results": [
+    {
+     "title": "Perfect Bubble Space Theory II: Return Calculus, Fragmentary Descent, and Formal Reconstruction",
+     "year": 2026,
+     "authors": [
+      "Kianming(Jianming) Wang"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.21686128"
+    },
+    {
+     "title": "Descent Spectral Sequences Through Synthetic Spectra",
+     "year": 2025,
+     "authors": [
+      "Christian Carrick",
+      "Jack Morgan Davies",
+      "Sven van Nigtevecht"
+     ],
+     "venue": "International Mathematics Research Notices",
+     "id": "https://doi.org/10.1093/imrn/rnaf216"
+    },
+    {
+     "title": "Descent for sheaves on compact Hausdorff spaces",
+     "year": 2022,
+     "authors": [
+      "Peter J. Haine"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2210.00186"
+    },
+    {
+     "title": "Descendability and descent in topological weaves",
+     "year": 2026,
+     "authors": [
+      "A F M Khodadad Khan"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.07137"
+    },
+    {
+     "title": "The inverse limit topology and profinite descent on Picard groups in K(n)-local homotopy theory",
+     "year": 2025,
+     "authors": [
+      "Guchuan Li",
+      "Ningchuan Zhang"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "https://doi.org/10.1016/j.aim.2025.110274"
+    },
+    {
+     "title": "Galois descent criteria",
+     "year": 2019,
+     "authors": [
+      "John F. Jardine"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1906.06292"
+    },
+    {
+     "title": "Descent Techniques in Algebraic K-theory",
+     "year": 2023,
+     "authors": [
+      "Hyungseop Kim"
+     ],
+     "venue": "TSpace (University of Toronto)",
+     "id": "https://openalex.org/W7132863949"
+    },
+    {
+     "title": "Descent and cyclotomic redshift for chromatically localized algebraic 𝐾-theory",
+     "year": 2024,
+     "authors": [
+      "Shay Ben-Moshe",
+      "Shachar Carmeli",
+      "Tomer M. Schlank",
+      "Lior Yanovski"
+     ],
+     "venue": "Journal of the American Mathematical Society",
+     "id": "https://doi.org/10.1090/jams/1052"
+    },
+    {
+     "title": "A quotient of the Lubin–Tate tower II",
+     "year": 2020,
+     "authors": [
+      "Christian Johansson",
+      "Judith Ludwig",
+      "David T. Hansen"
+     ],
+     "venue": "Mathematische Annalen",
+     "id": "https://doi.org/10.1007/s00208-020-02104-3"
+    },
+    {
+     "title": "On the de Rham flip-flopping in dual towers",
+     "year": 2026,
+     "authors": [
+      "Gabriel Dospinescu",
+      "Wiesława Nizioł"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2603.07869"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "descent for towers of sites derived limit vanishing",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "descent for towers of sites derived limit vanishing",
+   "status": 200,
+   "results": [
+    {
+     "title": "Non-vanishing of the descent I",
+     "year": 2011,
+     "authors": [],
+     "venue": "The Descent Map from Automorphic Representations of GL(n) to Classical Groups",
+     "id": "doi:10.1142/9789814304993_0008"
+    },
+    {
+     "title": "Non-vanishing of the descent II",
+     "year": 2011,
+     "authors": [],
+     "venue": "The Descent Map from Automorphic Representations of GL(n) to Classical Groups",
+     "id": "doi:10.1142/9789814304993_0009"
+    },
+    {
+     "title": "A sufficient condition for vanishing of the derived projective limit functor",
+     "year": 1996,
+     "authors": [
+      "L. Frerick",
+      "J. Wengenroth"
+     ],
+     "venue": "Archiv der Mathematik",
+     "id": "doi:10.1007/bf01197593"
+    },
+    {
+     "title": "The Story of Vanishing Water Towers",
+     "year": 2010,
+     "authors": [
+      "Mark Carey"
+     ],
+     "venue": "In the Shadow of Melting Glaciers",
+     "id": "doi:10.1093/acprof:oso/9780195396065.003.0007"
+    },
+    {
+     "title": "Resolution of Singularities in Positive Characteristic Frobenius-Hasse Towers and Exceptional-History Descent Parts I-IX",
+     "year": 2026,
+     "authors": [
+      "Chenxiao Tian"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.7317598"
+    },
+    {
+     "title": "A Line of Unbroken Descent",
+     "year": 2016,
+     "authors": [],
+     "venue": "Vanishing America",
+     "id": "doi:10.2307/j.ctv24w65k3.6"
+    },
+    {
+     "title": "3. A Line of Unbroken Descent",
+     "year": 2016,
+     "authors": [],
+     "venue": "Vanishing America",
+     "id": "doi:10.4159/9780674972957-004"
+    },
+    {
+     "title": "Limit of Karcher’s saddle towers",
+     "year": 2006,
+     "authors": [
+      "M. Magdalena Rodríguez"
+     ],
+     "venue": "Matemática Contemporânea",
+     "id": "doi:10.21711/231766362006/rmc309"
+    },
+    {
+     "title": "On the verge : Mechanics in the limit of vanishing strength and stiffness",
+     "year": null,
+     "authors": [
+      "Jan Maarten van Doorn"
+     ],
+     "venue": "",
+     "id": "doi:10.18174/495806"
+    },
+    {
+     "title": "Vanishing Diffusivity Limit for the Boussinesq Equations with Dirichlet Boundary Conditions",
+     "year": 2025,
+     "authors": [
+      "Peixin Wang",
+      "Li Yin"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.5092720"
+    }
+   ]
+  }
+ ]
+}

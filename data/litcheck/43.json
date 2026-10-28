@@ -1,0 +1,586 @@
+{
+ "problem": 43,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "murmuration density elliptic curves",
+   "status": 200,
+   "results": [
+    {
+     "title": "Murmurations for elliptic curves ordered by height",
+     "year": "2025",
+     "authors": [
+      "Will Sawin",
+      "Andrew V. Sutherland"
+     ],
+     "id": "arXiv:2504.12295v2"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "murmuration density elliptic curves",
+   "status": 200,
+   "results": [
+    {
+     "title": "Murmurations for elliptic curves ordered by height",
+     "year": 2025,
+     "authors": [
+      "Will Sawin",
+      "Andrew V. Sutherland"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2504.12295"
+    },
+    {
+     "title": "BSD Invariants and Murmurations of Elliptic Curves",
+     "year": 2026,
+     "authors": [
+      "Dane Wachs"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W7134094490"
+    },
+    {
+     "title": "Murmurations and Sato–Tate conjectures for high rank zetas of elliptic curves",
+     "year": 2025,
+     "authors": [
+      "Shi Zhan",
+      "Lin Weng"
+     ],
+     "venue": "Journal of Number Theory",
+     "id": "https://doi.org/10.1016/j.jnt.2025.07.006"
+    },
+    {
+     "title": "Murmurations and ratios conjectures",
+     "year": 2024,
+     "authors": [
+      "Cowan, Alex"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2408.12723"
+    },
+    {
+     "title": "The Arithmetic Origin of Mass: Cosmic Murmurations and the Central Charge of the Vacuum",
+     "year": 2025,
+     "authors": [
+      "Brent Hartshorn"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.18065382"
+    },
+    {
+     "title": "Murmurations and explicit formulas",
+     "year": 2023,
+     "authors": [
+      "Alex Cowan"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2306.10425"
+    },
+    {
+     "title": "Murmurations, Periods, and Local Factors",
+     "year": 2026,
+     "authors": [
+      "Dane Wachs"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2603.22807"
+    },
+    {
+     "title": "Conductor distributions of elliptic curves",
+     "year": 2024,
+     "authors": [
+      "Alex Cowan"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2408.09745"
+    },
+    {
+     "title": "On murmurations and trace formulas",
+     "year": 2025,
+     "authors": [
+      "David Lowry-Duda"
+     ],
+     "venue": "International Journal of Data Science in the Mathematical Sciences",
+     "id": "https://doi.org/10.1142/s2810939225400039"
+    },
+    {
+     "title": "Murmurations",
+     "year": 2025,
+     "authors": [
+      "Nina Zubrilina"
+     ],
+     "venue": "Inventiones mathematicae",
+     "id": "https://doi.org/10.1007/s00222-025-01347-8"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "murmuration density elliptic curves",
+   "status": 200,
+   "results": [
+    {
+     "title": "Murmurations for elliptic curves ordered by height",
+     "year": "2025",
+     "authors": [
+      "Will Sawin",
+      "Andrew V. Sutherland"
+     ],
+     "venue": null,
+     "id": "zbMATH arXiv:2504.12295"
+    }
+   ]
+  },
+  {
+   "source": "Crossref",
+   "query": "murmuration density elliptic curves",
+   "status": 200,
+   "results": [
+    {
+     "title": "Elliptic curves",
+     "year": 1973,
+     "authors": [],
+     "venue": "Elliptic Functions and Elliptic Curves",
+     "id": "doi:10.1017/cbo9781107359901.012"
+    },
+    {
+     "title": "Elliptic quartic curves",
+     "year": 1973,
+     "authors": [],
+     "venue": "Elliptic Functions and Elliptic Curves",
+     "id": "doi:10.1017/cbo9781107359901.014"
+    },
+    {
+     "title": "Elliptic Curves",
+     "year": 1993,
+     "authors": [],
+     "venue": "Elliptic Curves. (MN-40), Volume 40",
+     "id": "doi:10.1515/9780691186900-005"
+    },
+    {
+     "title": "Complex elliptic curves",
+     "year": null,
+     "authors": [],
+     "venue": "Lecture Notes in Mathematics Elliptic Curves",
+     "id": "doi:10.1007/bfb0060541"
+    },
+    {
+     "title": "Endomorphisms of Elliptic Curves",
+     "year": null,
+     "authors": [],
+     "venue": "Graduate Texts in Mathematics Elliptic Curves",
+     "id": "doi:10.1007/0-387-21577-8_13"
+    },
+    {
+     "title": "Elliptic Curves and Modular Forms",
+     "year": 2020,
+     "authors": [],
+     "venue": "Elliptic Curves",
+     "id": "doi:10.1142/9789811221842_0006"
+    },
+    {
+     "title": "The Arithmetic of Elliptic Curves",
+     "year": 2020,
+     "authors": [],
+     "venue": "Elliptic Curves",
+     "id": "doi:10.1142/9789811221842_0005"
+    },
+    {
+     "title": "Basic Theory of Elliptic Curves",
+     "year": 2020,
+     "authors": [],
+     "venue": "Elliptic Curves",
+     "id": "doi:10.1142/9789811221842_0003"
+    },
+    {
+     "title": "Families of Elliptic Curves",
+     "year": null,
+     "authors": [],
+     "venue": "Graduate Texts in Mathematics Elliptic Curves",
+     "id": "doi:10.1007/0-387-21577-8_21"
+    },
+    {
+     "title": "Elliptic Curves over Local Fields",
+     "year": null,
+     "authors": [],
+     "venue": "Graduate Texts in Mathematics Elliptic Curves",
+     "id": "doi:10.1007/0-387-21577-8_15"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "murmurations modular forms Zubrilina",
+   "status": 200,
+   "results": [
+    {
+     "title": "Murmurations of Modular Forms and $p$-power Coefficients",
+     "year": "2025",
+     "authors": [
+      "Debanjana Kundu",
+      "Katharina Mueller"
+     ],
+     "id": "arXiv:2507.00738v1"
+    },
+    {
+     "title": "On murmurations",
+     "year": "2026",
+     "authors": [
+      "Timothy Nelson",
+      "Erick Ross",
+      "Maya Wassercug",
+      "Hui Xue"
+     ],
+     "id": "arXiv:2609.29631v1"
+    },
+    {
+     "title": "On Murmurations and Trace Formulas",
+     "year": "2025",
+     "authors": [
+      "David Lowry-Duda"
+     ],
+     "id": "arXiv:2506.01640v1"
+    },
+    {
+     "title": "Murmurations of Hecke $L$-Functions of Imaginary Quadratic Fields",
+     "year": "2025",
+     "authors": [
+      "Zeyu Wang"
+     ],
+     "id": "arXiv:2503.17967v1"
+    },
+    {
+     "title": "Murmurations",
+     "year": "2023",
+     "authors": [
+      "Nina Zubrilina"
+     ],
+     "id": "arXiv:2310.07681v2"
+    },
+    {
+     "title": "Murmurations for elliptic curves ordered by height",
+     "year": "2025",
+     "authors": [
+      "Will Sawin",
+      "Andrew V. Sutherland"
+     ],
+     "id": "arXiv:2504.12295v2"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "murmurations modular forms Zubrilina",
+   "status": 200,
+   "results": [
+    {
+     "title": "Murmurations of modular forms and p -power coefficients",
+     "year": 2025,
+     "authors": [
+      "Debanjana Kundu",
+      "Katharina Müller"
+     ],
+     "venue": "Mathematical Proceedings of the Cambridge Philosophical Society",
+     "id": "https://doi.org/10.1017/s0305004125101515"
+    },
+    {
+     "title": "On murmurations and trace formulas",
+     "year": 2025,
+     "authors": [
+      "David Lowry-Duda"
+     ],
+     "venue": "International Journal of Data Science in the Mathematical Sciences",
+     "id": "https://doi.org/10.1142/s2810939225400039"
+    },
+    {
+     "title": "On murmurations",
+     "year": 2026,
+     "authors": [
+      "Timothy Nelson",
+      "Erick Ross",
+      "Maya Wassercug",
+      "Xue, Hui"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.29631"
+    },
+    {
+     "title": "Murmurations in the Depth Aspect for Maass and Modular Forms",
+     "year": 2026,
+     "authors": [
+      "Tomczak, Leonard"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.08353"
+    },
+    {
+     "title": "Murmurations of modular forms in the weight aspect",
+     "year": 2026,
+     "authors": [
+      "Jonathan Bober",
+      "Andrew R. Booker",
+      "Min Lee",
+      "David Lowry-Duda"
+     ],
+     "venue": "Algebra & Number Theory",
+     "id": "https://doi.org/10.2140/ant.2026.20.299"
+    },
+    {
+     "title": "Distribution of local signs of modular forms and murmurations of Fourier coefficients",
+     "year": 2025,
+     "authors": [
+      "Kimball Martin"
+     ],
+     "venue": "Mathematika",
+     "id": "https://doi.org/10.1112/mtk.70028"
+    },
+    {
+     "title": "Murmurations for elliptic curves ordered by height",
+     "year": 2025,
+     "authors": [
+      "Will Sawin",
+      "Andrew V. Sutherland"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2504.12295"
+    },
+    {
+     "title": "Murmurations",
+     "year": 2025,
+     "authors": [
+      "Nina Zubrilina"
+     ],
+     "venue": "Inventiones mathematicae",
+     "id": "https://doi.org/10.1007/s00222-025-01347-8"
+    },
+    {
+     "title": "Murmurations of Maass forms",
+     "year": 2024,
+     "authors": [
+      "Andrew R. Booker",
+      "Min Lee",
+      "David Lowry-Duda",
+      "Andrei Seymour-Howell",
+      "Nina Zubrilina"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2409.00765"
+    },
+    {
+     "title": "Murmurations and ratios conjectures",
+     "year": 2024,
+     "authors": [
+      "Cowan, Alex"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2408.12723"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "murmurations modular forms Zubrilina",
+   "status": 200,
+   "results": [
+    {
+     "title": "Murmurations",
+     "year": "2025",
+     "authors": [
+      "Zubrilina, Nina"
+     ],
+     "venue": "Inventiones Mathematicae",
+     "id": "zbMATH 1581.11064"
+    },
+    {
+     "title": "Murmurations of Hecke $L$-Functions of Imaginary Quadratic Fields",
+     "year": "2025",
+     "authors": [
+      "Zeyu Wang"
+     ],
+     "venue": null,
+     "id": "zbMATH arXiv:2503.17967"
+    },
+    {
+     "title": "On Murmurations and Trace Formulas",
+     "year": "2025",
+     "authors": [
+      "David Lowry-Duda"
+     ],
+     "venue": null,
+     "id": "zbMATH arXiv:2506.01640"
+    },
+    {
+     "title": "Distribution of local signs of modular forms and murmurations of Fourier coefficients",
+     "year": "2025",
+     "authors": [
+      "Martin, Kimball"
+     ],
+     "venue": "Mathematika",
+     "id": "zbMATH 8056758"
+    },
+    {
+     "title": "Murmurations for elliptic curves ordered by height",
+     "year": "2025",
+     "authors": [
+      "Will Sawin",
+      "Andrew V. Sutherland"
+     ],
+     "venue": null,
+     "id": "zbMATH arXiv:2504.12295"
+    },
+    {
+     "title": "Universal murmuration and Hecke augmentation",
+     "year": "2026",
+     "authors": [
+      "Shenghao Hua",
+      "Chung Pang Mok"
+     ],
+     "venue": null,
+     "id": "zbMATH arXiv:2609.00777"
+    },
+    {
+     "title": "Murmurations of Dirichlet characters",
+     "year": "2025",
+     "authors": [
+      "Lee, Kyu-Hwan",
+      "Oliver, Thomas",
+      "Pozdnyakov, Alexey"
+     ],
+     "venue": "IMRN. International Mathematics Research Notices",
+     "id": "zbMATH 1585.11194"
+    },
+    {
+     "title": "Murmurations of modular forms and \\(p\\)-power coefficients",
+     "year": "2026",
+     "authors": [
+      "Kundu, Debanjana",
+      "Müller, Katharina"
+     ],
+     "venue": "Mathematical Proceedings of the Cambridge Philosophical Society",
+     "id": "zbMATH 8142101"
+    },
+    {
+     "title": "On murmurations",
+     "year": "2026",
+     "authors": [
+      "Timothy Nelson",
+      "Erick Ross",
+      "Maya Wassercug",
+      "Hui Xue"
+     ],
+     "venue": null,
+     "id": "zbMATH arXiv:2609.29631"
+    },
+    {
+     "title": "Joint level-weight murmurations: prime averaging and the cubic pointwise range",
+     "year": "2026",
+     "authors": [
+      "Julien Cardi"
+     ],
+     "venue": null,
+     "id": "zbMATH arXiv:2607.08982"
+    }
+   ]
+  },
+  {
+   "source": "Crossref",
+   "query": "murmurations modular forms Zubrilina",
+   "status": 200,
+   "results": [
+    {
+     "title": "Murmurations",
+     "year": 2025,
+     "authors": [
+      "Nina Zubrilina"
+     ],
+     "venue": "Inventiones mathematicae",
+     "id": "doi:10.1007/s00222-025-01347-8"
+    },
+    {
+     "title": "Distribution of local signs of modular forms and murmurations of Fourier coefficients",
+     "year": 2025,
+     "authors": [
+      "Kimball Martin"
+     ],
+     "venue": "Mathematika",
+     "id": "doi:10.1112/mtk.70028"
+    },
+    {
+     "title": "Murmurations of modular forms in the weight aspect",
+     "year": 2026,
+     "authors": [
+      "Jonathan Bober",
+      "Andrew R. Booker",
+      "Min Lee",
+      "David Lowry-Duda"
+     ],
+     "venue": "Algebra &amp; Number Theory",
+     "id": "doi:10.2140/ant.2026.20.299"
+    },
+    {
+     "title": "Murmurations of modular forms and\n                    <i>p</i>\n                    -power coefficients",
+     "year": 2025,
+     "authors": [
+      "DEBANJANA KUNDU",
+      "KATHARINA MÜLLER"
+     ],
+     "venue": "Mathematical Proceedings of the Cambridge Philosophical Society",
+     "id": "doi:10.1017/s0305004125101515"
+    },
+    {
+     "title": "Modular curves, modular forms, lattices, Galois representations",
+     "year": 2011,
+     "authors": [
+      "Bas Edixhoven"
+     ],
+     "venue": "Computational Aspects of Modular Forms and Galois Representations",
+     "id": "doi:10.23943/princeton/9780691142012.003.0002"
+    },
+    {
+     "title": "Murmurations I, and: Murmurations II, and: Murmurations III, and: Murmurations IV",
+     "year": 2015,
+     "authors": [
+      "Britt Ashley"
+     ],
+     "venue": "Cream City Review",
+     "id": "doi:10.1353/ccr.2015.0044"
+    },
+    {
+     "title": "Reflective modular forms and Weyl invariant E8 Jacobi modular forms",
+     "year": null,
+     "authors": [
+      "Haowu Wang"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/5b473152z6494z42cdza773z8505ec38d8bf"
+    },
+    {
+     "title": "Modular derivatives and vector-valued modular forms",
+     "year": 2024,
+     "authors": [],
+     "venue": "Modular Forms and String Theory",
+     "id": "doi:10.1017/9781009457521.010"
+    },
+    {
+     "title": "Computing coefficients of modular forms",
+     "year": 2011,
+     "authors": [
+      "Bas Edixhoven"
+     ],
+     "venue": "Computational Aspects of Modular Forms and Galois Representations",
+     "id": "doi:10.23943/princeton/9780691142012.003.0015"
+    },
+    {
+     "title": "Modular Forms",
+     "year": 1990,
+     "authors": [],
+     "venue": "Some Applications of Modular Forms",
+     "id": "doi:10.1017/cbo9780511895593.003"
+    }
+   ]
+  }
+ ]
+}

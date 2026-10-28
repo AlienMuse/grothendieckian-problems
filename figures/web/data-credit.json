@@ -1,0 +1,34 @@
+{
+ "id": "credit",
+ "number": 4,
+ "size_mm": [
+  132.0,
+  88.0
+ ],
+ "footer": "The 57 Grothendieckian Problems · Vincent Liu · doi:10.5281/zenodo.23734427 · CC BY 4.0",
+ "title": "PARTICIPATION AND CREDIT",
+ "right": "NO PRIZE IS ATTACHED TO ANY PROBLEM",
+ "kinds": [
+  "A solution",
+  "a partial result",
+  "a counterexample to a problem as stated",
+  "a report that a problem is already solved",
+  "a correction to a card"
+ ],
+ "via": "is submitted through the repository of the paper",
+ "thread": "Each problem has its own discussion thread, named in its card",
+ "check": "checked by someone other than its author and other than us",
+ "records": [
+  "in the next version of this paper",
+  "in the next edition of the work from which the problem comes, under the solver's name",
+  "in a list of solutions kept with the repository"
+ ],
+ "errata": "recorded in the errata of the repository",
+ "heads": [
+  "WHAT CAN BE SUBMITTED",
+  "WHERE",
+  "HOW IT IS CHECKED",
+  "A SOLUTION THAT MEETS THE CRITERION IS RECORDED",
+  "A CORRECTION"
+ ]
+}

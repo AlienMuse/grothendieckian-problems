@@ -1,0 +1,457 @@
+{
+ "problem": 25,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "Beck-Chevalley condition straightening cocartesian fibration",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "Beck-Chevalley condition straightening cocartesian fibration",
+   "status": 200,
+   "results": [
+    {
+     "title": "Beck-Chevalley Fibrations",
+     "year": 2026,
+     "authors": [
+      "Thomas Holme Surlykke"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2603.06776"
+    },
+    {
+     "title": "The universal coCartesian fibration",
+     "year": 2022,
+     "authors": [
+      "Denis-Charles Cisinski",
+      "Hoang Kim Nguyen"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2210.08945"
+    },
+    {
+     "title": "Generalized Chevalley criteria in simplicial homotopy type theory",
+     "year": 2024,
+     "authors": [
+      "Jonathan Weinberger"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2403.08190"
+    },
+    {
+     "title": "A short proof of the straightening theorem",
+     "year": 2025,
+     "authors": [
+      "Fabian Hebestreit",
+      "Gijs Heuts",
+      "Jaco Ruit"
+     ],
+     "venue": "Transactions of the American Mathematical Society Series B",
+     "id": "https://doi.org/10.1090/btran/225"
+    },
+    {
+     "title": "Two-variable fibrations, factorisation systems and -categories of spans",
+     "year": 2023,
+     "authors": [
+      "Rune Haugseng",
+      "Fabian Hebestreit",
+      "Sil Linskens",
+      "Joost Nuiten"
+     ],
+     "venue": "Forum of Mathematics Sigma",
+     "id": "https://doi.org/10.1017/fms.2023.107"
+    },
+    {
+     "title": "Lax monoidal adjunctions, two‐variable fibrations and the calculus of mates",
+     "year": 2023,
+     "authors": [
+      "Rune Haugseng",
+      "Fabian Hebestreit",
+      "Sil Linskens",
+      "Joost Nuiten"
+     ],
+     "venue": "Proceedings of the London Mathematical Society",
+     "id": "https://doi.org/10.1112/plms.12548"
+    },
+    {
+     "title": "Two-variable fibrations, factorisation systems and $\\infty$-categories of spans",
+     "year": 2020,
+     "authors": [
+      "Rune Haugseng",
+      "Fabian Hebestreit",
+      "Sil Linskens",
+      "Joost Nuiten"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2011.11042"
+    },
+    {
+     "title": "Two-variable fibrations, factorisation systems and $\\\\infty$-categories of spans",
+     "year": 2020,
+     "authors": [
+      "Rune Haugseng",
+      "Fabian Hebestreit",
+      "Sil Linskens",
+      "Joost Nuiten"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W4281645309"
+    },
+    {
+     "title": "Synthetic fibered (∞,1)-category theory",
+     "year": 2023,
+     "authors": [
+      "Jonathan Weinberger",
+      "Ulrik Torben Buchholtz"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.21136/hs.2023.04"
+    },
+    {
+     "title": "Synthetic fibered $(\\infty,1)$-category theory",
+     "year": 2021,
+     "authors": [
+      "Ulrik Torben Buchholtz",
+      "Jonathan Weinberger"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2105.01724"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "Beck-Chevalley condition straightening cocartesian fibration",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "Beck-Chevalley condition straightening cocartesian fibration",
+   "status": 200,
+   "results": [
+    {
+     "title": "Beck–Chevalley condition and Goursat categories",
+     "year": 2017,
+     "authors": [
+      "Marino Gran",
+      "Diana Rodelo"
+     ],
+     "venue": "Journal of Pure and Applied Algebra",
+     "id": "doi:10.1016/j.jpaa.2016.12.031"
+    },
+    {
+     "title": "Categorical interpolation: Descent and the Beck-Chevalley condition without direct images",
+     "year": 1991,
+     "authors": [
+      "Duško Pavlović"
+     ],
+     "venue": "Lecture Notes in Mathematics Category Theory",
+     "id": "doi:10.1007/bfb0084229"
+    },
+    {
+     "title": "Chevalley, Pierre",
+     "year": 2011,
+     "authors": [],
+     "venue": "Benezit Dictionary of Artists",
+     "id": "doi:10.1093/benz/9780199773787.article.b00037120"
+    },
+    {
+     "title": "Curve-straightening and the Palais-Smale condition",
+     "year": 1998,
+     "authors": [
+      "Anders Linnér"
+     ],
+     "venue": "Transactions of the American Mathematical Society",
+     "id": "doi:10.1090/s0002-9947-98-01977-1"
+    },
+    {
+     "title": "Bending of thick plates and straightening of shells in hot condition",
+     "year": 1971,
+     "authors": [
+      "Yu. I. Berliner"
+     ],
+     "venue": "Chemical and Petroleum Engineering",
+     "id": "doi:10.1007/bf01145022"
+    },
+    {
+     "title": "Strong amalgamation, Beck–Chevalley for equivalence relations and interpolation in algebraic logic",
+     "year": 2003,
+     "authors": [
+      "Adriana Galli",
+      "Gonzalo E. Reyes",
+      "Marta Sagastume"
+     ],
+     "venue": "Fuzzy Sets and Systems",
+     "id": "doi:10.1016/s0165-0114(02)00565-1"
+    },
+    {
+     "title": "Analysis of the Stress-Straightening State of the Closed-Type Electrical Substation Building",
+     "year": 2026,
+     "authors": [
+      "Y. Krul",
+      "D. Eliseev"
+     ],
+     "venue": "19th International Conference Monitoring of Geological Processes and Ecological Condition of the Environment",
+     "id": "doi:10.3997/2214-4609.202655136"
+    },
+    {
+     "title": "The Brauer trees of the exceptional Chevalley groups of types F 4 and 2 E 6",
+     "year": 1998,
+     "authors": [
+      "Gerhard Hiss",
+      "Frank L�beck"
+     ],
+     "venue": "Archiv der Mathematik",
+     "id": "doi:10.1007/s000130050159"
+    },
+    {
+     "title": "Straightening Out the Gods’ Gender",
+     "year": 2018,
+     "authors": [
+      "Kathleen Self"
+     ],
+     "venue": "Oxford Scholarship Online",
+     "id": "doi:10.1093/oso/9780190911966.003.0011"
+    },
+    {
+     "title": "The Algebraic Theory of Spinors and Clifford Algebras",
+     "year": 1996,
+     "authors": [
+      "Claude Chevalley"
+     ],
+     "venue": "",
+     "id": "doi:10.1007/978-3-642-60934-3"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "transport commutes with restriction cover Beck-Chevalley counterexample",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "transport commutes with restriction cover Beck-Chevalley counterexample",
+   "status": 200,
+   "results": [
+    {
+     "title": "Foundations of Algebraic Architecture Theory: A Rising Sea of Geometry, Transport, Comparison, and Reconstruction",
+     "year": 2026,
+     "authors": [
+      "Hiroyuki Nakahata"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.5281/zenodo.22913488"
+    },
+    {
+     "title": "Segal Sheafification and Refinement-Invariant Descent",
+     "year": 2025,
+     "authors": [
+      "Rahul Kundnani",
+      "Shri Kant",
+      "Khursheed Alam"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.24108/preprints-3113871"
+    },
+    {
+     "title": "Topological exodromy with coefficients",
+     "year": 2022,
+     "authors": [
+      "Mauro Porta",
+      "Jean-Baptiste Teyssier"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2211.05004"
+    },
+    {
+     "title": "Higher Tripos Theory",
+     "year": 2026,
+     "authors": [
+      "Yoshihiro Maruyama"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.27163"
+    },
+    {
+     "title": "Internal Algebraic Type Theory",
+     "year": 2026,
+     "authors": [
+      "Joseph Hua"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.00095"
+    },
+    {
+     "title": "Global 2-rings and genuine refinements",
+     "year": 2026,
+     "authors": [
+      "David Gepner",
+      "Sil Linskens",
+      "Luca Pol"
+     ],
+     "venue": "Compositio Mathematica",
+     "id": "https://doi.org/10.1017/s0010437x26102875"
+    },
+    {
+     "title": "A Non-Commutative Approach to Rigid Analytic Geometry",
+     "year": 2026,
+     "authors": [
+      "Matteo Montagnani"
+     ],
+     "venue": "SDL",
+     "id": "https://openalex.org/W7217982225"
+    },
+    {
+     "title": "Bicategories of algebras for relative pseudomonads",
+     "year": 2025,
+     "authors": [
+      "Nathanael Arkor",
+      "Saville, Philip",
+      "Andrew Slattery"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2501.12510"
+    },
+    {
+     "title": "Dualizable Additive Categories",
+     "year": 2026,
+     "authors": [
+      "Ishan Levy",
+      "Jiacheng Liang",
+      "Vladimir Sosnilo"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.04898"
+    },
+    {
+     "title": "Prismatic Steenrod operations and arithmetic duality on Brauer groups",
+     "year": 2025,
+     "authors": [
+      "Shachar Carmeli",
+      "Tony Feng"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2507.13471"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "transport commutes with restriction cover Beck-Chevalley counterexample",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "transport commutes with restriction cover Beck-Chevalley counterexample",
+   "status": 200,
+   "results": [
+    {
+     "title": "On the Chevalley Restriction Theorem",
+     "year": 2000,
+     "authors": [
+      "E. A. Tevelev"
+     ],
+     "venue": "Journal of Lie Theory",
+     "id": "doi:10.5802/jolt.206"
+    },
+    {
+     "title": "Deux Résultats autour du Théorème de Restriction de Chevalley",
+     "year": 2007,
+     "authors": [
+      "C. Torossian"
+     ],
+     "venue": "Journal of Lie Theory",
+     "id": "doi:10.5802/jolt.462"
+    },
+    {
+     "title": "Chevalley restriction theorem for vector-valued functions on quantum groups",
+     "year": 2011,
+     "authors": [
+      "Martina Balagović"
+     ],
+     "venue": "Representation Theory",
+     "id": "doi:10.1090/s1088-4165-2011-00408-8"
+    },
+    {
+     "title": "Chevalley restriction theorem for the cyclic quiver",
+     "year": 2006,
+     "authors": [
+      "Wee Liang Gan"
+     ],
+     "venue": "manuscripta mathematica",
+     "id": "doi:10.1007/s00229-006-0030-x"
+    },
+    {
+     "title": "A generalization of the Chevalley restriction theorem",
+     "year": 1979,
+     "authors": [
+      "D. Luna",
+      "R. W. Richardson"
+     ],
+     "venue": "Duke Mathematical Journal",
+     "id": "doi:10.1215/s0012-7094-79-04623-4"
+    },
+    {
+     "title": "A Formal Chevalley Restriction Theorem for Kac–Moody Groups",
+     "year": 2003,
+     "authors": [
+      "Claus Mokler"
+     ],
+     "venue": "Compositio Mathematica",
+     "id": "doi:10.1023/a:1021739615180"
+    },
+    {
+     "title": "A higher-dimensional Chevalley restriction theorem for orthogonal groups",
+     "year": 2023,
+     "authors": [
+      "Lei Song",
+      "Xiaopeng Xia",
+      "Jinxing Xu"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "doi:10.1016/j.aim.2023.109104"
+    },
+    {
+     "title": "Air Pollution Exposure during School Commutes",
+     "year": 2017,
+     "authors": [
+      "Mary Wolfe",
+      "Noreen McDonald",
+      "Sarav Arunachalam",
+      "Alejandro Valencia"
+     ],
+     "venue": "Journal of Transport &amp; Health",
+     "id": "doi:10.1016/j.jth.2017.05.339"
+    },
+    {
+     "title": "Physical activity associated with public transport commutes and potential feeder mode shifts",
+     "year": 2024,
+     "authors": [
+      "Lauren Del Rosario",
+      "Shawn W. Laffan",
+      "Christopher J. Pettit"
+     ],
+     "venue": "Journal of Transport &amp; Health",
+     "id": "doi:10.1016/j.jth.2023.101751"
+    },
+    {
+     "title": "Restriction theorems: from orbits and Chevalley to periods and Galois",
+     "year": 2023,
+     "authors": [
+      "Bong Lian",
+      "Kamryn Spinelli"
+     ],
+     "venue": "Surveys in Differential Geometry",
+     "id": "doi:10.4310/sdg.260101000726"
+    }
+   ]
+  }
+ ]
+}

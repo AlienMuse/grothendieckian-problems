@@ -1,0 +1,128 @@
+{
+ "id": "series",
+ "number": 3,
+ "size_mm": [
+  132.0,
+  124.0
+ ],
+ "footer": "The Grothendieckian Programme: An Overview · Vincent Liu · doi:10.5281/zenodo.23734422 · CC BY 4.0",
+ "title": "THE SERIES AND ITS RECORDS",
+ "right": "EDITION 1 · v1.0.0",
+ "rows": [
+  {
+   "series": "01",
+   "name": "The Grothendieckian Machine",
+   "role": "the core",
+   "date": "2026-10-20",
+   "size": "6 volumes · 14,905 pages",
+   "doi": "10.5281/zenodo.23480696",
+   "repo": "AlienMuse/grothendieckian-machine"
+  },
+  {
+   "series": "02",
+   "name": "Topos-Native Intelligence",
+   "role": "the meta-reasoning kernel",
+   "date": "2026-10-22",
+   "size": "5 volumes · 4,020 pages",
+   "doi": "10.5281/zenodo.23538544",
+   "repo": "AlienMuse/topos-native-intelligence"
+  },
+  {
+   "series": "03",
+   "name": "Arithmetic Spectral Descent",
+   "role": "Riemann Hypothesis · GRH",
+   "date": "2026-10-22",
+   "size": "4 volumes · 1,549 pages",
+   "doi": "10.5281/zenodo.23564898",
+   "repo": "AlienMuse/arithmetic-spectral-descent"
+  },
+  {
+   "series": "04",
+   "name": "Fractured Adelic Geometry",
+   "role": "Birch–Swinnerton-Dyer",
+   "date": "2026-10-23",
+   "size": "4 volumes · 571 pages",
+   "doi": "10.5281/zenodo.23585887",
+   "repo": "AlienMuse/fractured-adelic-geometry"
+  },
+  {
+   "series": "05",
+   "name": "The Archimedean Prism",
+   "role": "Hodge conjecture",
+   "date": "2026-10-23",
+   "size": "5 volumes · 1,309 pages",
+   "doi": "10.5281/zenodo.23597954",
+   "repo": "AlienMuse/the-archimedean-prism"
+  },
+  {
+   "series": "06",
+   "name": "Strained Prismatic Geometry",
+   "role": "abc conjecture",
+   "date": "2026-10-24",
+   "size": "5 volumes · 1,666 pages",
+   "doi": "10.5281/zenodo.23610034",
+   "repo": "AlienMuse/strained-prismatic-geometry"
+  },
+  {
+   "series": "07",
+   "name": "The Arithmetic Topos",
+   "role": "Langlands programme",
+   "date": "2026-10-25",
+   "size": "5 volumes · 2,001 pages",
+   "doi": "10.5281/zenodo.23629681",
+   "repo": "AlienMuse/the-arithmetic-topos"
+  },
+  {
+   "series": "00",
+   "name": "The Grothendieckian Programme",
+   "role": "the overview volume",
+   "date": "2026-10-26",
+   "size": "1 volume · 53 pages",
+   "doi": "10.5281/zenodo.23669107",
+   "repo": "AlienMuse/grothendieckian-programme"
+  }
+ ],
+ "colour": {
+  "01": "cyan",
+  "02": "cyan",
+  "03": "blue",
+  "04": "violet",
+  "05": "blue",
+  "06": "violet",
+  "07": "blue",
+  "00": "cyan"
+ },
+ "heads": [
+  "RELEASED",
+  "WORK",
+  "SIZE",
+  "ZENODO · GITHUB",
+  "THE THREE PAPERS",
+  "REVIEW AND CONTINUATION · GITHUB"
+ ],
+ "papers": [
+  [
+   "1",
+   "The Grothendieckian Programme: An Overview"
+  ],
+  [
+   "2",
+   "The Rising-Sea Theses"
+  ],
+  [
+   "3",
+   "The 57 Grothendieckian Problems"
+  ]
+ ],
+ "repo": "AlienMuse/grothendieckian-problems",
+ "repo_lines": [
+  "57 problems: each has its own thread",
+  "A solution that meets its criterion is recorded under the solver’s name",
+  "Corrections are listed with the version in which they are made"
+ ],
+ "every": [
+  "a signed list of the checksums of its files",
+  "BY-NC-ND 4.0",
+  "Zenodo community"
+ ]
+}

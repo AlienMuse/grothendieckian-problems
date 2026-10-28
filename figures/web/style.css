@@ -1,0 +1,45 @@
+/* The figures of the book (runbook §4.4) — one style for all.
+   Type, as on the covers of the eight books: Segoe UI for labels and names (the faces installed with Windows;
+   fsType 0x0008, editable embedding: the PDF carries subsets, as the published covers do; no font file is kept here),
+   TeX Gyre Pagella for italic roles and the rule line, Pagella Math for the formulas, STIX Two Math as the fallback for
+   the few signs Pagella Math lacks. The TeX Gyre and STIX faces are TrueType conversions renamed "TGP …" by
+   tools/figure_fonts.py (Chrome's PDF writer embeds CFF faces as Type 3; fonts/README.md). */
+@font-face { font-family: "WM Sans"; src: local("Segoe UI"), local("SegoeUI"); font-weight: 400; }
+@font-face { font-family: "WM Sans"; src: local("Segoe UI Semibold"), local("SegoeUI-Semibold"); font-weight: 600; }
+@font-face { font-family: "WM Sans"; src: local("Segoe UI Bold"), local("SegoeUI-Bold"); font-weight: 700; }
+@font-face { font-family: "Pagella"; src: url("fonts/tgp-pagella-regular.ttf"); }
+@font-face { font-family: "Pagella"; src: url("fonts/tgp-pagella-italic.ttf"); font-style: italic; }
+/* the banners only (fig-banner.js): the heaviest weights of the front cover — Segoe UI Black for its kicker and the
+   labels and names of its cells, Pagella Bold for the author's name. No class of a book figure uses them. */
+@font-face { font-family: "WM Sans"; src: local("Segoe UI Black"), local("SegoeUI-Black"); font-weight: 900; }
+@font-face { font-family: "Pagella"; src: url("fonts/tgp-pagella-bold.ttf"); font-weight: 700; }
+@font-face { font-family: "PagellaMath"; src: url("fonts/tgp-pagella-math.ttf"); }
+@font-face { font-family: "STIXMath"; src: url("fonts/tgp-symbol-math.ttf"); }
+
+/* the page size and the size of #figure and its layers are set by each figure's page (tools/figures_web.py) */
+html, body { margin: 0; padding: 0; background: #040a10; }
+#figure { position: relative; overflow: hidden; background: #040a10; }
+#gl, #glimg { position: absolute; left: 0; top: 0; display: block; }
+#hud { position: absolute; left: 0; top: 0; overflow: visible; }
+
+/* the classes of the HUD; sizes are set per line (in mm) by scene.js, never condensed */
+#hud text { font-family: "WM Sans", "PagellaMath", "STIXMath", sans-serif; font-weight: 400; fill: #f3f5f1;
+            font-kerning: normal; text-rendering: geometricPrecision; letter-spacing: .004em; }
+#hud .lab  { font-weight: 700; letter-spacing: .14em; }    /* SERIES 02, FIGURE 1: tracked capitals */
+#hud .cap  { font-weight: 600; letter-spacing: .10em; }    /* headings in capitals */
+#hud .name { font-weight: 700; letter-spacing: .006em; }   /* the names of the works */
+#hud .code { font-weight: 700; letter-spacing: .06em; }    /* GMUS, MUE, FORGE */
+#hud .sb   { font-weight: 600; letter-spacing: .02em; }    /* chapter numbers, plane names */
+#hud .txt  { font-weight: 400; letter-spacing: .01em; }    /* descriptors, legend */
+#hud .it   { font-family: "Pagella", "PagellaMath", "STIXMath", serif; font-style: italic; letter-spacing: .004em; }
+#hud .math { font-family: "PagellaMath", "STIXMath", serif; letter-spacing: 0; }
+#hud .rule { font-family: "Pagella", "PagellaMath", "STIXMath", serif; letter-spacing: .01em; }
+#hud .title { font-family: "Pagella", "PagellaMath", "STIXMath", serif; letter-spacing: -.005em; }  /* the cover's title */
+/* the banners, as the front cover sets them (covers/cover.css: .master-kicker, .world-index, .world-title, the author) */
+#hud .bkick { font-weight: 900; letter-spacing: .2em; }
+#hud .blab  { font-weight: 900; letter-spacing: .11em; }
+#hud .bname { font-weight: 900; letter-spacing: .035em; }
+#hud .bcap  { font-weight: 700; letter-spacing: .11em; }
+#hud .bauth { font-family: "Pagella", "PagellaMath", "STIXMath", serif; font-weight: 700; letter-spacing: .01em; }
+#hud .bimp  { font-weight: 700; letter-spacing: .16em; }
+@media print { html, body { -webkit-print-color-adjust: exact; print-color-adjust: exact; } }

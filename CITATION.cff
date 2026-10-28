@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use the overview, the theses or the problems, please cite the papers."
+title: "The Grothendieckian Programme: An Overview, The Rising-Sea Theses and The 57 Grothendieckian Problems"
+version: "1.0"
+date-released: "2026-10-28"
+license: [CC-BY-4.0, Apache-2.0]
+repository-code: "https://github.com/AlienMuse/grothendieckian-problems"
+authors:
+  - family-names: Liu
+    given-names: Vincent
+    orcid: "https://orcid.org/0009-0000-8718-222X"
+    affiliation: WiseMotif.ai
+    email: vincent.liu@wisemotif.ai
+keywords: [Grothendieckian Programme, open problems, machine reasoning, formal verification, Lean]
+preferred-citation:
+  type: article
+  title: "The Grothendieckian Programme: An Overview — Seven Open Works on Mathematics and Machine Reasoning"
+  authors:
+  - family-names: Liu
+    given-names: Vincent
+    orcid: "https://orcid.org/0009-0000-8718-222X"
+    affiliation: WiseMotif.ai
+  year: 2026
+  doi: "10.5281/zenodo.23734421"
+  publisher:
+    name: Zenodo
+references:
+  - type: article
+    title: "The Rising-Sea Theses: Twelve Theses on Mathematics and Machine Reasoning"
+    authors:
+    - family-names: Liu
+      given-names: Vincent
+      orcid: "https://orcid.org/0009-0000-8718-222X"
+      affiliation: WiseMotif.ai
+    year: 2026
+    doi: "10.5281/zenodo.23734423"
+    publisher:
+      name: Zenodo
+  - type: article
+    title: "The 57 Grothendieckian Problems: Open Problems for Mathematics and Machine Reasoning from the Grothendieckian Programme"
+    authors:
+    - family-names: Liu
+      given-names: Vincent
+      orcid: "https://orcid.org/0009-0000-8718-222X"
+      affiliation: WiseMotif.ai
+    year: 2026
+    doi: "10.5281/zenodo.23734426"
+    publisher:
+      name: Zenodo

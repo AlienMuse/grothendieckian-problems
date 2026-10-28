@@ -1,0 +1,571 @@
+{
+ "problem": 29,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "training inference mismatch floating point nondeterminism bound",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "training inference mismatch floating point nondeterminism bound",
+   "status": 200,
+   "results": [
+    {
+     "title": "Accelerating the Mitigation of LLM Inference Nondeterminism Across GPU Architectures",
+     "year": 2026,
+     "authors": [
+      "Liam Cooper",
+      "Shinnung Jeong",
+      "Hyeran Jeon",
+      "Jeffrey Young",
+      "Hyesoon Kim"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.25624"
+    },
+    {
+     "title": "Optimistic Verifiable Training by Controlling Hardware Nondeterminism",
+     "year": 2024,
+     "authors": [
+      "Megha Srivastava",
+      "Simran Arora",
+      "Dan Boneh"
+     ],
+     "venue": "neural information processing systems",
+     "id": "https://doi.org/10.52202/079017-3030"
+    },
+    {
+     "title": "QaRL: Rollout-Aligned Quantization-Aware RL for Fast and Stable Training under Training–Inference Mismatch",
+     "year": 2026,
+     "authors": [
+      "Hao Gu",
+      "Hao Wang",
+      "Jiacheng Liu",
+      "Lujun Li",
+      "Qiyuan Zhu",
+      "Bei Liu"
+     ],
+     "venue": "Findings of the Association for Computational Linguistics: ACL (Findings of ACL)",
+     "id": "https://doi.org/10.18653/v1/2026.findings-acl.841"
+    },
+    {
+     "title": "QaRL: Rollout-Aligned Quantization-Aware RL for Fast and Stable Training under Training--Inference Mismatch",
+     "year": 2026,
+     "authors": [
+      "Hao Gu",
+      "Hao Wang",
+      "Jiacheng Liu",
+      "Lujun Li",
+      "Qiyuan Zhu",
+      "Bei Liu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W7153670808"
+    },
+    {
+     "title": "Beyond Reproducibility: Token Probabilities Expose Large Language Model Nondeterminism",
+     "year": 2026,
+     "authors": [
+      "Tairan Fu",
+      "Gonzalo Martínez",
+      "Javier Conde",
+      "Carlos Arriaga",
+      "Xiuyuan Qi",
+      "Shanshan Liu"
+     ],
+     "venue": "IEEE Transactions on Computers",
+     "id": "https://doi.org/10.1109/tc.2026.3732142"
+    },
+    {
+     "title": "Bounded Determinism: A Framework for Analyzing the Operational, Functional, And Architectural Limits of LLM Inference",
+     "year": 2026,
+     "authors": [
+      "Serhii Melnyk"
+     ],
+     "venue": "The American Journal of Engineering And Technology",
+     "id": "https://doi.org/10.37547/tajet/volume08issue03-09"
+    },
+    {
+     "title": "Same Text, Different Prediction: Serving-Context Nondeterminism in Text Classifiers",
+     "year": 2026,
+     "authors": [
+      "Santhosh Kumar Kasa",
+      "Siva Rajesh Kasa",
+      "Sumit Negi"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.09111"
+    },
+    {
+     "title": "LLM-42: Enabling Determinism in LLM Inference with Verified Speculation",
+     "year": 2026,
+     "authors": [
+      "Raja Gond",
+      "Aditya K. Kamath",
+      "Ramachandran Ramjee",
+      "Ashish Panwar"
+     ],
+     "venue": "ACM SIGOPS Symposium on Operating Systems Principles (SOSP)",
+     "id": "https://doi.org/10.1145/3830418.3843901"
+    },
+    {
+     "title": "CoRun: Padding is Simple and Efficient for Deterministic LLM Inference",
+     "year": 2026,
+     "authors": [
+      "Shiju Zhao",
+      "Jiacheng Yang",
+      "Qihang Chen",
+      "Junhao Hu",
+      "Jiaqi Zheng",
+      "Guihai Chen"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.14376"
+    },
+    {
+     "title": "Bit-Exact AI Inference Verification Without Performance Tradeoffs",
+     "year": 2026,
+     "authors": [
+      "Naci Cankaya"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.00279"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "training inference mismatch floating point nondeterminism bound",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "training inference mismatch floating point nondeterminism bound",
+   "status": 200,
+   "results": [
+    {
+     "title": "ASIC Design of Nanoscale Artificial Neural Networks for Inference/Training by Floating-Point Arithmetic_supp1-3367916.pdf",
+     "year": null,
+     "authors": [
+      "Shanshan Liu"
+     ],
+     "venue": "",
+     "id": "doi:10.1109/tnano.2024.3367916/mm1"
+    },
+    {
+     "title": "Efficient Large Language Model Inference with Vectorized Floating Point Calculations",
+     "year": 2024,
+     "authors": [
+      "Jacob Owens",
+      "Skylar Matthews"
+     ],
+     "venue": "",
+     "id": "doi:10.31219/osf.io/h3cmw"
+    },
+    {
+     "title": "Defeating Nondeterminism in LLM Inference",
+     "year": 2025,
+     "authors": [
+      "",
+      "Horace He",
+      ""
+     ],
+     "venue": "",
+     "id": "doi:10.64434/tml.20250910"
+    },
+    {
+     "title": "Training and Inference using Approximate Floating-Point Arithmetic for Energy Efficient Spiking Neural Network Processors",
+     "year": 2021,
+     "authors": [
+      "Myeongjin Kwak",
+      "Jungwon Lee",
+      "Hyoju Seo",
+      "Mingyu Sung",
+      "Yongtae Kim"
+     ],
+     "venue": "2021 International Conference on Electronics, Information, and Communication (ICEIC)",
+     "id": "doi:10.1109/iceic51217.2021.9369724"
+    },
+    {
+     "title": "A 28nm 1.644TFLOPS/W Floating-Point Computation SRAM Macro with Variable Precision for Deep Neural Network Inference and Training",
+     "year": 2022,
+     "authors": [
+      "Sangsu Jeong",
+      "Jeongwoo Park",
+      "Dongsuk Jeon"
+     ],
+     "venue": "ESSCIRC 2022- IEEE 48th European Solid State Circuits Conference (ESSCIRC)",
+     "id": "doi:10.1109/esscirc55480.2022.9911450"
+    },
+    {
+     "title": "ASIC Design of Nanoscale Artificial Neural Networks for Inference/Training by Floating-Point Arithmetic",
+     "year": 2024,
+     "authors": [
+      "Farzad Niknia",
+      "Ziheng Wang",
+      "Shanshan Liu",
+      "Pedro Reviriego",
+      "Ahmed Louri",
+      "Fabrizio Lombardi"
+     ],
+     "venue": "IEEE Transactions on Nanotechnology",
+     "id": "doi:10.1109/tnano.2024.3367916"
+    },
+    {
+     "title": "DLFloat: A 16-b Floating Point Format Designed for Deep Learning Training and Inference",
+     "year": 2019,
+     "authors": [
+      "Ankur Agrawal",
+      "Silvia M. Mueller",
+      "Bruce M. Fleischer",
+      "Xiao Sun",
+      "Naigang Wang",
+      "Jungwook Choi"
+     ],
+     "venue": "2019 IEEE 26th Symposium on Computer Arithmetic (ARITH)",
+     "id": "doi:10.1109/arith.2019.00023"
+    },
+    {
+     "title": "A Minimally Bound Causal Framework to Reconcile Quantum Nondeterminism and Relativity",
+     "year": 2024,
+     "authors": [
+      "Gaspard Bastien"
+     ],
+     "venue": "",
+     "id": "doi:10.31219/osf.io/haxzu"
+    },
+    {
+     "title": "Video for A New MRAM-Based Process In-Memory Accelerator for Efficient Neural Network Training with Floating Point Precision",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1109/iscas45731.2020.9181003/video"
+    },
+    {
+     "title": "Adapting floating-point precision to accelerate deep neural network training",
+     "year": null,
+     "authors": [
+      "John Haiber Osorio Ríos"
+     ],
+     "venue": "",
+     "id": "doi:10.5821/dissertation-2117-404063"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "batch invariant deterministic inference language model",
+   "status": 200,
+   "results": [
+    {
+     "title": "Deterministic Inference across Tensor Parallel Sizes That Eliminates Training-Inference Mismatch",
+     "year": "2025",
+     "authors": [
+      "Ziyang Zhang",
+      "Xinheng Ding",
+      "Jiayi Yuan",
+      "Rixin Liu",
+      "Huizi Mao",
+      "Jiarong Xing"
+     ],
+     "id": "arXiv:2511.17826v2"
+    },
+    {
+     "title": "CoRun: Padding is Simple and Efficient for Deterministic LLM Inference",
+     "year": "2026",
+     "authors": [
+      "Shiju Zhao",
+      "Jiacheng Yang",
+      "Qihang Chen",
+      "Junhao Hu",
+      "Jiaqi Zheng",
+      "Guihai Chen"
+     ],
+     "id": "arXiv:2608.14376v1"
+    },
+    {
+     "title": "Stochastic CHAOS: Why Deterministic Inference Kills, and Distributional Variability Is the Heartbeat of Artifical Cognition",
+     "year": "2026",
+     "authors": [
+      "Tanmay Joshi",
+      "Shourya Aggarwal",
+      "Anusa Saha",
+      "Aadi Pandey",
+      "Shreyash Dhoot",
+      "Vighnesh Rai"
+     ],
+     "id": "arXiv:2601.07239v2"
+    },
+    {
+     "title": "Greedy Decoding Is Not Precision-Invariant: Cross-Precision Output Divergence in LLM Inference",
+     "year": "2026",
+     "authors": [
+      "Gaoyuan Du",
+      "Anam Nawaz Khan",
+      "Rex Zhou",
+      "Xiaoyang Liu",
+      "Deepayan Chakrabarti",
+      "Fnu Suya"
+     ],
+     "id": "arXiv:2609.26621v1"
+    },
+    {
+     "title": "Same Text, Different Prediction: Serving-Context Nondeterminism in Text Classifiers",
+     "year": "2026",
+     "authors": [
+      "Santhosh Kumar Kasa",
+      "Siva Rajesh Kasa",
+      "Sumit Negi"
+     ],
+     "id": "arXiv:2610.09111v1"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "batch invariant deterministic inference language model",
+   "status": 200,
+   "results": [
+    {
+     "title": "Deterministic Inference across Tensor Parallel Sizes That Eliminates Training-Inference Mismatch",
+     "year": 2025,
+     "authors": [
+      "Zhang, Ziyang",
+      "Ding, Xinheng",
+      "Yuan, Jiayi",
+      "Liu, Rixin",
+      "Huizi Mao",
+      "Xing, Jiarong"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2511.17826"
+    },
+    {
+     "title": "CoRun: Padding is Simple and Efficient for Deterministic LLM Inference",
+     "year": 2026,
+     "authors": [
+      "Shiju Zhao",
+      "Jiacheng Yang",
+      "Qihang Chen",
+      "Junhao Hu",
+      "Jiaqi Zheng",
+      "Guihai Chen"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.14376"
+    },
+    {
+     "title": "Greedy Decoding Is Not Precision-Invariant: Cross-Precision Output Divergence in LLM Inference",
+     "year": 2026,
+     "authors": [
+      "Gaoyuan Du",
+      "Anam Nawaz Khan",
+      "Rex Zhou",
+      "Xiaoyang Liu",
+      "Deepayan Chakrabarti",
+      "Fnu Suya"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.26621"
+    },
+    {
+     "title": "Stochastic CHAOS: Why Deterministic Inference Kills, and Distributional Variability Is the Heartbeat of Artifical Cognition",
+     "year": 2026,
+     "authors": [
+      "Tanmay Joshi",
+      "Shourya Aggarwal",
+      "Anusa Saha",
+      "Aadi Pandey",
+      "Shreyash Dhoot",
+      "Vighnesh Rai"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2601.07239"
+    },
+    {
+     "title": "RevBayes: Bayesian Phylogenetic Inference Using Graphical Models and an Interactive Model-Specification Language",
+     "year": 2016,
+     "authors": [
+      "Sebastian Höhna",
+      "Michael J. Landis",
+      "Tracy A. Heath",
+      "Bastien Boussau",
+      "Nicolas Lartillot",
+      "Brian R. Moore"
+     ],
+     "venue": "Systematic Biology",
+     "id": "https://doi.org/10.1093/sysbio/syw021"
+    },
+    {
+     "title": "MarginGate: Sparse Margin-Triggered Verification for Batch-Invariant LLM Inference",
+     "year": 2026,
+     "authors": [
+      "Kexin Chu",
+      "Yang Zhou",
+      "Wei Emma Zhang"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.30218"
+    },
+    {
+     "title": "Contrastive Deterministic Autoencoders For Language Modeling",
+     "year": 2023,
+     "authors": [
+      "Amur Ghose",
+      "Pascal Poupart"
+     ],
+     "venue": "Findings of the Association for Computational Linguistics: EMNLP (Findings of EMNLP)",
+     "id": "https://doi.org/10.18653/v1/2023.findings-emnlp.567"
+    },
+    {
+     "title": "Merlin: Deterministic Byte-Exact Deduplication for Lossless Context Optimization in Large Language Model Inference",
+     "year": 2026,
+     "authors": [
+      "Sietse Schelpe"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W7161092205"
+    },
+    {
+     "title": "Grounded Inference: Principles for Deterministically Encapsulated Generative Models",
+     "year": 2026,
+     "authors": [
+      "Marty O’Neill"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.19753"
+    },
+    {
+     "title": "Making every stage of medical device document assessment with large language models deterministic",
+     "year": 2026,
+     "authors": [
+      "Ryosuke Suzuki"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.21300"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "batch invariant deterministic inference language model",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "batch invariant deterministic inference language model",
+   "status": 200,
+   "results": [
+    {
+     "title": "Optimizing Large Language Model Scaling with Micro Batch Pipeline and Inference Parallelism",
+     "year": 2024,
+     "authors": [
+      "Doudou Quan",
+      "Ruoxi Wang",
+      "Zhu Lian",
+      "Naixin Wang"
+     ],
+     "venue": "",
+     "id": "doi:10.21203/rs.3.rs-4575587/v1"
+    },
+    {
+     "title": "Batch Prompting: Efficient Inference with Large Language Model APIs",
+     "year": 2023,
+     "authors": [
+      "Zhoujun Cheng",
+      "Jungo Kasai",
+      "Tao Yu"
+     ],
+     "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Industry Track",
+     "id": "doi:10.18653/v1/2023.emnlp-industry.74"
+    },
+    {
+     "title": "Inference-Invariant Transformation of Batch Normalization for Domain Adaptation of Acoustic Models",
+     "year": 2018,
+     "authors": [
+      "Masayuki Suzuki",
+      "Tohru Nagano",
+      "Gakuto Kurata",
+      "Samuel Thomas"
+     ],
+     "venue": "Interspeech 2018",
+     "id": "doi:10.21437/interspeech.2018-1563"
+    },
+    {
+     "title": "Deterministic Compliance Failures in Large Language Models",
+     "year": 2026,
+     "authors": [
+      "Toyoji Kanagawa"
+     ],
+     "venue": "",
+     "id": "doi:10.31224/6702"
+    },
+    {
+     "title": "Regularity of the Invariant Measure and Non‐parametric Estimation of the Jump Rate",
+     "year": 2018,
+     "authors": [
+      "Pierre Hodara",
+      "Nathalie Krell",
+      "Eva Löcherbach"
+     ],
+     "venue": "Statistical Inference for Piecewise‐deterministic Markov Processes",
+     "id": "doi:10.1002/9781119507338.ch2"
+    },
+    {
+     "title": "A NEW DETERMINISTIC MODEL FOR FORCEDAERATION COMPOSTING PROCESSES WITH BATCH OPERATION",
+     "year": 2002,
+     "authors": [
+      "H. Seki"
+     ],
+     "venue": "Transactions of the ASAE",
+     "id": "doi:10.13031/2013.9954"
+    },
+    {
+     "title": "Deterministic Citation Validation for Grounded Language-Model Systems",
+     "year": 2026,
+     "authors": [
+      "Nilanjan Kar"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.7322378"
+    },
+    {
+     "title": "Invariant Structure in Deterministic Decoder Transformation Pipelines",
+     "year": 2026,
+     "authors": [
+      "Trent Slade"
+     ],
+     "venue": "",
+     "id": "doi:10.22541/au.177402835.57989995/v1"
+    },
+    {
+     "title": "OMP™ — Operating Model Protocol: A Deterministic Routing Invariant for Tamper-Evident AI Decision Accountability in Regulated Industries",
+     "year": 2026,
+     "authors": [
+      "Tolulope Adebayo",
+      "Oluropo Apalowo",
+      "Festus Makanjuola"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6542041"
+    },
+    {
+     "title": "Invariant Inference and Efficient Computation in the Static Factor Model",
+     "year": 2013,
+     "authors": [
+      "Joshua C. C. Chan",
+      "Roberto Leon-Gonzalez",
+      "Rodney W. Strachan"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.2275707"
+    }
+   ]
+  }
+ ]
+}

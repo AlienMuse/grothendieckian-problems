@@ -1,0 +1,460 @@
+{
+ "problem": 10,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "separation of privilege capability security formal verification",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "separation of privilege capability security formal verification",
+   "status": 200,
+   "results": [
+    {
+     "title": "Verified Security for the Morello Capability-enhanced Prototype Arm Architecture",
+     "year": 2022,
+     "authors": [
+      "Thomas Bauereiß",
+      "Brian Campbell",
+      "Thomas Arthur Leck Sewell",
+      "Alasdair Armstrong",
+      "Lawrence Esswood",
+      "Ian Stark"
+     ],
+     "venue": "Lecture notes in computer science",
+     "id": "https://doi.org/10.1007/978-3-030-99336-8_7"
+    },
+    {
+     "title": "Cerise: Program Verification on a Capability Machine in the Presence of Untrusted Code",
+     "year": 2023,
+     "authors": [
+      "Aïna Linn Georges",
+      "Armaël Guéneau",
+      "Thomas Van Strydonck",
+      "Amin Timany",
+      "Alix Trieu",
+      "Dominique Devriese"
+     ],
+     "venue": "Journal of the ACM",
+     "id": "https://doi.org/10.1145/3623510"
+    },
+    {
+     "title": "A Formal Approach to Multi-Layered Privileges for Enclaves",
+     "year": 2025,
+     "authors": [
+      "Ganxiang Yang",
+      "Chenyang Liu",
+      "Zhen Huang",
+      "Guoxing Chen",
+      "Hongfei Fu",
+      "Yuanyuan Zhang"
+     ],
+     "venue": "Network and Distributed System Security Symposium",
+     "id": "https://doi.org/10.14722/ndss.2025.241301"
+    },
+    {
+     "title": "Enabling Lightweight Privilege Separation in Applications with MicroGuards",
+     "year": 2023,
+     "authors": [
+      "Zahra Tarkhani",
+      "Anil Madhavapeddy"
+     ],
+     "venue": "Lecture notes in computer science",
+     "id": "https://doi.org/10.1007/978-3-031-41181-6_31"
+    },
+    {
+     "title": "PIP-MPU: FORMAL VERIFICATION OF AN MPUBASED SEPARATION KERNEL FOR CONSTRAINED DEVICES",
+     "year": 2023,
+     "authors": [
+      "Nicolas Dejon",
+      "Chrystel Gaber"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.8186300"
+    },
+    {
+     "title": "Trellis: Privilege Separation for Multi-user Applications Made Easy",
+     "year": 2016,
+     "authors": [
+      "Andrea Mambretti",
+      "Kaan Onarlıoğlu",
+      "Collin Mulliner",
+      "William Robertson",
+      "Engin Kirda",
+      "Federico Maggi"
+     ],
+     "venue": "Lecture notes in computer science",
+     "id": "https://doi.org/10.1007/978-3-319-45719-2_20"
+    },
+    {
+     "title": "Practical Fine-grained Privilege Separation in Multithreaded Applications",
+     "year": 2013,
+     "authors": [
+      "Jun Wang",
+      "Xi Xiong",
+      "Peng Liu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1305.2553"
+    },
+    {
+     "title": "Reasoning about Object Capabilities with Logical Relations and Effect Parametricity",
+     "year": 2016,
+     "authors": [
+      "Dominique Devriese",
+      "Lars Birkedal",
+      "Frank Piessens"
+     ],
+     "venue": "IEEE European Symposium on Security and Privacy",
+     "id": "https://doi.org/10.1109/eurosp.2016.22"
+    },
+    {
+     "title": "Is Formal Verification of seL4 Adequate to Address the Key Security Challenges of Kernel Design?",
+     "year": 2023,
+     "authors": [
+      "Mina Soltani Siapoush",
+      "Jim Alves-Foss"
+     ],
+     "venue": "IEEE Access",
+     "id": "https://doi.org/10.1109/access.2023.3316031"
+    },
+    {
+     "title": "SkillFortify: Formal Analysis and Supply Chain Security for Agentic AI Skills",
+     "year": 2026,
+     "authors": [
+      "Varun Pratap Bhardwaj"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.5281/zenodo.18787662"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "separation of privilege capability security formal verification",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "separation of privilege capability security formal verification",
+   "status": 200,
+   "results": [
+    {
+     "title": "Formal Modeling and Security Analysis for Intra-level Privilege Separation",
+     "year": 2022,
+     "authors": [
+      "Yinggang Guo",
+      "Zicheng Wang",
+      "Bingnan Zhong",
+      "Qingkai Zeng"
+     ],
+     "venue": "Proceedings of the 38th Annual Computer Security Applications Conference",
+     "id": "doi:10.1145/3564625.3567984"
+    },
+    {
+     "title": "An I/O Separation Model for Formal Verification of Kernel Implementations",
+     "year": 2021,
+     "authors": [
+      "Miao Yu",
+      "Virgil Gligor",
+      "Limin Jia"
+     ],
+     "venue": "2021 IEEE Symposium on Security and Privacy (SP)",
+     "id": "doi:10.1109/sp40001.2021.00101"
+    },
+    {
+     "title": "",
+     "year": 2025,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.54499/2025.00728.bd"
+    },
+    {
+     "title": "Verification of Security Properties Using Formal Techniques",
+     "year": null,
+     "authors": [
+      "",
+      "Saleh Al-Shadly"
+     ],
+     "venue": "",
+     "id": "doi:10.53846/goediss-4357"
+    },
+    {
+     "title": "Formal Modeling and Security Analysis of Security Protocols",
+     "year": 2023,
+     "authors": [
+      "Paolo Modesti",
+      "Rémi Garcia"
+     ],
+     "venue": "Handbook of Formal Analysis and Verification in Cryptography",
+     "id": "doi:10.1201/9781003090052-5"
+    },
+    {
+     "title": "",
+     "year": 2022,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.54499/prt/bd/153739/2021"
+    },
+    {
+     "title": "Formal verification of the Internet Key Exchange (IKEv2) security protocol",
+     "year": null,
+     "authors": [
+      "Tristan Ninet"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/f7dbbaf8za674z4967za1abzfafd2db62493"
+    },
+    {
+     "title": "Formal specification and verification of data separation in a separation kernel for an embedded system",
+     "year": 2006,
+     "authors": [
+      "Constance L. Heitmeyer",
+      "Myla Archer",
+      "Elizabeth I. Leonard",
+      "John McLean"
+     ],
+     "venue": "Proceedings of the 13th ACM conference on Computer and communications security",
+     "id": "doi:10.1145/1180405.1180448"
+    },
+    {
+     "title": "Formal Specification and Verification of Security Mechanisms for RISC-V Processors",
+     "year": null,
+     "authors": [
+      "Matthieu Baty"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/8640ad41zfb4fz40ecz8e27z200801a72369"
+    },
+    {
+     "title": "FVCARE: Formal Verification of Security Primitives in Resilient Embedded SoCs",
+     "year": 2021,
+     "authors": [
+      "Avani Dave"
+     ],
+     "venue": "International Journal of Science and Research (IJSR)",
+     "id": "doi:10.21275/sr24628131028"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "no self authorization signing capability formal proof",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "no self authorization signing capability formal proof",
+   "status": 200,
+   "results": [
+    {
+     "title": "When Does Authorization Expire? Capability-Delta Evaluation for Self-Improving AI Agents",
+     "year": 2026,
+     "authors": [
+      "Ian Staley"
+     ],
+     "venue": "Journal of Artificial Intelligence and Emerging Technologies",
+     "id": "https://doi.org/10.47001/jaiet/2026.308004"
+    },
+    {
+     "title": "Survey on Delegated and Self-Contained Authorization Techniques in CPS and IoT",
+     "year": 2021,
+     "authors": [
+      "Sreelakshmi Vattaparambil Sudarsan",
+      "Olov Schelén",
+      "Ulf Bodin"
+     ],
+     "venue": "IEEE Access",
+     "id": "https://doi.org/10.1109/access.2021.3093327"
+    },
+    {
+     "title": "Scalable capability-based authorization for high-performance parallel file systems",
+     "year": 2011,
+     "authors": [
+      "Nicholas L. Mills"
+     ],
+     "venue": "TigerPrints (Clemson University)",
+     "id": "https://openalex.org/W845272195"
+    },
+    {
+     "title": "Survey of Authentication and Authorization for the Internet of Things",
+     "year": 2018,
+     "authors": [
+      "Michal Trnka",
+      "Tomas Cerny",
+      "Nathaniel Stickney"
+     ],
+     "venue": "Security and Communication Networks",
+     "id": "https://doi.org/10.1155/2018/4351603"
+    },
+    {
+     "title": "Methods for Formal Verification of Agent Skills: Three Layers Toward a Mechanically Checkable Capability-Containment Proof",
+     "year": 2026,
+     "authors": [
+      "Alfredo Metere"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W7162605495"
+    },
+    {
+     "title": "SecPAL: Design and semantics of a decentralized authorization language",
+     "year": 2010,
+     "authors": [
+      "Moritz Y. Becker",
+      "Cédric Fournet A",
+      "Andrew D. Gordon"
+     ],
+     "venue": "Journal of Computer Security",
+     "id": "https://doi.org/10.3233/jcs-2009-0364"
+    },
+    {
+     "title": "Formal Verification of Authentication and Service Authorization Protocols in 5G-Enabled Device-to-Device Communications Using ProVerif",
+     "year": 2021,
+     "authors": [
+      "Ed Kamya Kiyemba Edris",
+      "Mahdi Aiash",
+      "Jonathan Kok Keong Loo"
+     ],
+     "venue": "Electronics",
+     "id": "https://doi.org/10.3390/electronics10131608"
+    },
+    {
+     "title": "Verifiable Delegated Authority for LLM Agents in Banking: A Formal Architecture, Capability Protocol, and Audit Guarantees",
+     "year": 2026,
+     "authors": [
+      "Neeraj Aggarwal"
+     ],
+     "venue": "Research Square",
+     "id": "https://doi.org/10.21203/rs.3.rs-11415811/v1"
+    },
+    {
+     "title": "Execution Governance 3.0: From Pre-Effect Authorization to Authorization-Bound Execution",
+     "year": 2026,
+     "authors": [
+      "Ho Wa KU"
+     ],
+     "venue": "SSRN Electronic Journal",
+     "id": "https://doi.org/10.2139/ssrn.7414079"
+    },
+    {
+     "title": "Distributed Authorization in Vanadium",
+     "year": 2016,
+     "authors": [
+      "Andres Erbsen",
+      "Asim Shankar",
+      "Ankur Taly"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1607.02192"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "no self authorization signing capability formal proof",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "no self authorization signing capability formal proof",
+   "status": 200,
+   "results": [
+    {
+     "title": "phr-condemns-president-obamas-signing-of-national-defense-authorization-act-for-2012-ndaa",
+     "year": null,
+     "authors": [],
+     "venue": "Human Rights Documents online",
+     "id": "doi:10.1163/2210-7975_hrd-2259-0233"
+    },
+    {
+     "title": "Proof Search in an Authorization Logic",
+     "year": 2009,
+     "authors": [
+      "Deepak Garg"
+     ],
+     "venue": "",
+     "id": "doi:10.21236/ada507017"
+    },
+    {
+     "title": "A formal approach toward authenticated authorization without identification",
+     "year": null,
+     "authors": [
+      "Lucas D. Witt"
+     ],
+     "venue": "",
+     "id": "doi:10.31274/rtd-180813-16545"
+    },
+    {
+     "title": "Bitcoin Trace-Net: Formal Contract Verification at Signing Time",
+     "year": 2021,
+     "authors": [
+      "James Chiang"
+     ],
+     "venue": "Cryptoeconomic Systems",
+     "id": "doi:10.21428/58320208.ec1e7cd2"
+    },
+    {
+     "title": "When Does Authorization Expire? Capability-Delta Evaluation for Self-Improving AI Agents",
+     "year": 2026,
+     "authors": [
+      "Ian Staley"
+     ],
+     "venue": "Journal of Artificial Intelligence and Emerging Technologies",
+     "id": "doi:10.47001/jaiet/2026.308004"
+    },
+    {
+     "title": "PCAL: Language Support for Proof-Carrying Authorization Systems",
+     "year": 2009,
+     "authors": [
+      "Avik Chaudhuri",
+      "Deepak Garg"
+     ],
+     "venue": "",
+     "id": "doi:10.21236/ada512406"
+    },
+    {
+     "title": "Execution-Witness Binding: Proof-Carrying Authorization for LLM Agent Runtimes",
+     "year": 2026,
+     "authors": [
+      "Shawn Cohen"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6352164"
+    },
+    {
+     "title": "A Capability Kernel for Agent Authorization: Design and Threat Model",
+     "year": 2026,
+     "authors": [
+      "Ali Pourrahim"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6931639"
+    },
+    {
+     "title": "Formal Proof of \"Living Expression\" and \"Self-Consistent Computability\" in Open Complex Giant Systems --Formal Verification Based on Dual-Helix 5D Manifold and Meta-Cognitive Re-Bounding",
+     "year": 2026,
+     "authors": [
+      "Grit Meng"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.7557878"
+    },
+    {
+     "title": "Type-Theoretic Formal Methods in AI Governance: Verification Substrates Within Authorization Frameworks",
+     "year": 2026,
+     "authors": [
+      "Edward Meyman"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6133366"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+title: "The 57 Grothendieckian Problems"
+subtitle: "Open Problems for Mathematics and Machine Reasoning from the Grothendieckian Programme"
+shorttitle: "The 57 Grothendieckian Problems"
+author: "Vincent Liu"
+affiliation: "WiseMotif.ai"
+affiliationurl: "https://wisemotif.ai"
+email: "vincent.liu@wisemotif.ai"
+orcid: "https://orcid.org/0009-0000-8718-222X"
+version: "Preprint · Version 1.0"
+date: "28 October 2026"
+licence: "CC BY 4.0"
+doi: "10.5281/zenodo.23734427"             # reserved on Zenodo (draft 23734427), S4
+msc: "Primary 00A07; Secondary 68T01, 68V15, 03B35, 18F10"
+keywords: "Grothendieckian Programme, open problems, machine reasoning, formal verification, Lean, descent"
+epigraph: "“All right, take 57.”"
+epigraphsource: "As told in A. Jackson, *Notices Amer. Math. Soc.* 51 (2004), p. 1196"
+abstract: |
+  We state fifty-seven open problems drawn from the seven works of the Grothendieckian Programme (34 volumes, 26,021
+  pages, released openly in October 2026 as first drafts that have not been peer-reviewed). Thirty-five come from the
+  two works on the architecture of a reasoning system and twenty-two from the five works that each take a named
+  conjecture or programme as research subject; no problem is one of those conjectures. Each problem is stated in the words of
+  its source, located by work, chapter and page, given the status the source assigns it, and paired with a criterion
+  that decides when it is solved, a note on existing work and the date of a literature check. The problems are of
+  three kinds: twenty-five mathematical problems, nineteen machine problems with success criteria fixed in advance,
+  and thirteen formalization problems for Lean 4 and Mathlib. Every quotation from the sources has been checked against the published PDFs, and each problem has been checked against the literature as of 28 October 2026; a machine-readable version accompanies the paper.

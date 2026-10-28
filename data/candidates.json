@@ -1,0 +1,9362 @@
+[
+ {
+  "id": "S01-0001",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "V1",
+  "status": "C",
+  "page": "277",
+  "location": "Volume I · §11.12 · Claim, trace, and obligation ledgers"
+ },
+ {
+  "id": "S01-0002",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "V1",
+  "status": "C",
+  "page": "361",
+  "location": "Volume I · §15.12 · Atomic claims, traces, universes, and obligations"
+ },
+ {
+  "id": "S01-0003",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "V1",
+  "status": "C",
+  "page": "404",
+  "location": "Volume I · Chapter 17 · Obstructions as first-class mathematical objects"
+ },
+ {
+  "id": "S01-0004",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "V1",
+  "status": "C",
+  "page": "508",
+  "location": "Volume I · Chapter 20 · Locally Ringed Spaces and Gluing"
+ },
+ {
+  "id": "S01-0005",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "V1",
+  "status": "C",
+  "page": "778",
+  "location": "Volume I · Chapter 26 · Dimension, Specialization, and Generic Points"
+ },
+ {
+  "id": "S01-0006",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "V1",
+  "status": "C",
+  "page": "862",
+  "location": "Volume I · Chapter 28 · Formal schemes and completion"
+ },
+ {
+  "id": "S01-0007",
+  "work": "S01",
+  "kind": "Warning",
+  "number": "V1",
+  "status": "Q",
+  "page": "873",
+  "location": "Volume I · §29.5 · Coherent formal modules"
+ },
+ {
+  "id": "S01-0008",
+  "work": "S01",
+  "kind": "Warning",
+  "number": "V1",
+  "status": "Q",
+  "page": "876",
+  "location": "Volume I · Chapter 29 · Algebraization and approximation"
+ },
+ {
+  "id": "S01-0009",
+  "work": "S01",
+  "kind": "Warning",
+  "number": "V1",
+  "status": "Q",
+  "page": "877",
+  "location": "Volume I · §29.10 · Counterexample laboratory: what completion forgets"
+ },
+ {
+  "id": "S01-0010",
+  "work": "S01",
+  "kind": "Warning",
+  "number": "V1",
+  "status": "Q",
+  "page": "882",
+  "location": "Volume I · Chapter 29 · Algebraization and approximation"
+ },
+ {
+  "id": "S01-0011",
+  "work": "S01",
+  "kind": "Warning",
+  "number": "V1",
+  "status": "Q",
+  "page": "885",
+  "location": "Volume I · §29.19 · Artin algebraization: theorem shape and limits"
+ },
+ {
+  "id": "S01-0012",
+  "work": "S01",
+  "kind": "Warning",
+  "number": "V1",
+  "status": "Q",
+  "page": "885",
+  "location": "Volume I · §29.19 · Artin algebraization: theorem shape and limits"
+ },
+ {
+  "id": "S01-0013",
+  "work": "S01",
+  "kind": "Warning",
+  "number": "V1",
+  "status": "Q",
+  "page": "890",
+  "location": "Volume I · Chapter 29 · Algebraization and approximation"
+ },
+ {
+  "id": "S01-0014",
+  "work": "S01",
+  "kind": "Theorem",
+  "number": "43.6.1",
+  "status": "O",
+  "page": "1400",
+  "location": "Volume I · Chapter 43 · fpqc, fppf, etale, and smooth descent"
+ },
+ {
+  "id": "S01-0015",
+  "work": "S01",
+  "kind": "Theorem",
+  "number": "43.15.1",
+  "status": "O",
+  "page": "1409",
+  "location": "Volume I · §43.16 · fppf descent: infinitesimal and inseparable local triviality"
+ },
+ {
+  "id": "S01-0016",
+  "work": "S01",
+  "kind": "Example",
+  "number": "45.9.1",
+  "status": "O",
+  "page": "1470",
+  "location": "Volume I · Chapter 45 · Cohomological descent and hypercovers"
+ },
+ {
+  "id": "S01-0017",
+  "work": "S01",
+  "kind": "Definition",
+  "number": "46.5.2",
+  "status": "O",
+  "page": "1495",
+  "location": "Volume I · §46.6 · Neutral gerbes and torsor stacks"
+ },
+ {
+  "id": "S01-0018",
+  "work": "S01",
+  "kind": "Definition",
+  "number": "46.7.2",
+  "status": "O",
+  "page": "1497",
+  "location": "Volume I · §46.8 · The local nonabelian 2-cocycle"
+ },
+ {
+  "id": "S01-0019",
+  "work": "S01",
+  "kind": "Definition",
+  "number": "46.7.3",
+  "status": "O",
+  "page": "1497",
+  "location": "Volume I · §46.8 · The local nonabelian 2-cocycle"
+ },
+ {
+  "id": "S01-0020",
+  "work": "S01",
+  "kind": "Definition",
+  "number": "46.9.1",
+  "status": "O",
+  "page": "1499",
+  "location": "Volume I · §46.9 · H-1 and H-2: exact interfaces"
+ },
+ {
+  "id": "S01-0021",
+  "work": "S01",
+  "kind": "Theorem",
+  "number": "46.9.2",
+  "status": "O",
+  "page": "1499",
+  "location": "Volume I · §46.9 · H-1 and H-2: exact interfaces"
+ },
+ {
+  "id": "S01-0022",
+  "work": "S01",
+  "kind": "Definition",
+  "number": "46.11.1",
+  "status": "O",
+  "page": "1500",
+  "location": "Volume I · Chapter 46 · Nonabelian descent and gerbes"
+ },
+ {
+  "id": "S01-0023",
+  "work": "S01",
+  "kind": "Corollary",
+  "number": "46.11.3",
+  "status": "O",
+  "page": "1501",
+  "location": "Volume I · §46.12 · Representative obstruction examples"
+ },
+ {
+  "id": "S01-0024",
+  "work": "S01",
+  "kind": "Theorem",
+  "number": "47.6.1",
+  "status": "O",
+  "page": "1531",
+  "location": "Volume I · §47.6 · The abelian degree-two obstruction theorem"
+ },
+ {
+  "id": "S01-0025",
+  "work": "S01",
+  "kind": "Theorem",
+  "number": "47.7.1",
+  "status": "O",
+  "page": "1532",
+  "location": "Volume I · Chapter 47 · Obstruction theories for failed gluing"
+ },
+ {
+  "id": "S01-0026",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "C88.1",
+  "status": "",
+  "page": "2979",
+  "location": "Volume I · §88.7 · The conjectural motivic t-structure"
+ },
+ {
+  "id": "S01-0027",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "C88.2",
+  "status": "",
+  "page": "2980",
+  "location": "Volume I · Chapter 88 · Mixed motives as a frontier"
+ },
+ {
+  "id": "S01-0028",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "99.5.1",
+  "status": "",
+  "page": "3297",
+  "location": "Volume I · §99.5 · The proper section conjecture"
+ },
+ {
+  "id": "S01-0029",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "99.6.1",
+  "status": "",
+  "page": "3298",
+  "location": "Volume I · Chapter 99 · Section conjectures and open boundaries"
+ },
+ {
+  "id": "S01-0030",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "99.9.1",
+  "status": "",
+  "page": "3300",
+  "location": "Volume I · Chapter 99 · Section conjectures and open boundaries"
+ },
+ {
+  "id": "S01-0031",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "99.10.2",
+  "status": "",
+  "page": "3301",
+  "location": "Volume I · §99.10 · Birational sections"
+ },
+ {
+  "id": "S01-0032",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "V1",
+  "status": "C",
+  "page": "3776",
+  "location": "Volume I · Chapter 118 · Reconstruction Certificates"
+ },
+ {
+  "id": "S01-0033",
+  "work": "S01",
+  "kind": "Theorem",
+  "number": "17.5.1",
+  "status": "O",
+  "page": "4254",
+  "location": "Volume II · Chapter 17 · FAC and coherent sheaf foundations"
+ },
+ {
+  "id": "S01-0034",
+  "work": "S01",
+  "kind": "Proposition",
+  "number": "17.7.1",
+  "status": "O",
+  "page": "4257",
+  "location": "Volume II · §17.7 · Support, annihilators, and local detection"
+ },
+ {
+  "id": "S01-0035",
+  "work": "S01",
+  "kind": "Theorem",
+  "number": "17.11.1",
+  "status": "O",
+  "page": "4266",
+  "location": "Volume II · Chapter 17 · FAC and coherent sheaf foundations"
+ },
+ {
+  "id": "S01-0036",
+  "work": "S01",
+  "kind": "Theorem",
+  "number": "17.11.2",
+  "status": "O",
+  "page": "4267",
+  "location": "Volume II · §17.12 · Worked projective calculations"
+ },
+ {
+  "id": "S01-0037",
+  "work": "S01",
+  "kind": "Theorem",
+  "number": "17.11.3",
+  "status": "O",
+  "page": "4267",
+  "location": "Volume II · §17.12 · Worked projective calculations"
+ },
+ {
+  "id": "S01-0038",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "C20.1",
+  "status": "",
+  "page": "4408",
+  "location": "Volume II · Chapter 20 · Hodge structures and filtrations"
+ },
+ {
+  "id": "S01-0039",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "C-23",
+  "status": "",
+  "page": "4519",
+  "location": "Volume II · §23.13 · The weight–monodromy conjecture and its proven regions"
+ },
+ {
+  "id": "S01-0040",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "V2",
+  "status": "",
+  "page": "4974",
+  "location": "Volume II · Chapter 35 · Arithmetic finiteness and the Mordell theorem context"
+ },
+ {
+  "id": "S01-0041",
+  "work": "S01",
+  "kind": "Definition",
+  "number": "56.3.1",
+  "status": "O",
+  "page": "5768",
+  "location": "Volume II · Chapter 56 · Higher topoi and hyperdescent"
+ },
+ {
+  "id": "S01-0042",
+  "work": "S01",
+  "kind": "Definition",
+  "number": "56.3.2",
+  "status": "O",
+  "page": "5769",
+  "location": "Volume II · §56.3 · Infinity-sites and sheaves of spaces"
+ },
+ {
+  "id": "S01-0043",
+  "work": "S01",
+  "kind": "Definition",
+  "number": "56.3.3",
+  "status": "O",
+  "page": "5769",
+  "location": "Volume II · §56.3 · Infinity-sites and sheaves of spaces"
+ },
+ {
+  "id": "S01-0044",
+  "work": "S01",
+  "kind": "Theorem",
+  "number": "56.3.4",
+  "status": "O",
+  "page": "5769",
+  "location": "Volume II · §56.3 · Infinity-sites and sheaves of spaces"
+ },
+ {
+  "id": "S01-0045",
+  "work": "S01",
+  "kind": "Proposition",
+  "number": "56.3.5",
+  "status": "O",
+  "page": "5770",
+  "location": "Volume II · Chapter 56 · Higher topoi and hyperdescent"
+ },
+ {
+  "id": "S01-0046",
+  "work": "S01",
+  "kind": "Definition",
+  "number": "56.4.1",
+  "status": "O",
+  "page": "5772",
+  "location": "Volume II · Chapter 56 · Higher topoi and hyperdescent"
+ },
+ {
+  "id": "S01-0047",
+  "work": "S01",
+  "kind": "Proposition",
+  "number": "56.4.2",
+  "status": "O",
+  "page": "5773",
+  "location": "Volume II · §56.5 · Infinity-topoi: extrinsic definition"
+ },
+ {
+  "id": "S01-0048",
+  "work": "S01",
+  "kind": "Definition",
+  "number": "56.5.1",
+  "status": "O",
+  "page": "5773",
+  "location": "Volume II · §56.5 · Infinity-topoi: extrinsic definition"
+ },
+ {
+  "id": "S01-0049",
+  "work": "S01",
+  "kind": "Theorem",
+  "number": "56.6.1",
+  "status": "O",
+  "page": "5774",
+  "location": "Volume II · Chapter 56 · Higher topoi and hyperdescent"
+ },
+ {
+  "id": "S01-0050",
+  "work": "S01",
+  "kind": "Definition",
+  "number": "56.7.1",
+  "status": "O",
+  "page": "5778",
+  "location": "Volume II · Chapter 56 · Higher topoi and hyperdescent"
+ },
+ {
+  "id": "S01-0051",
+  "work": "S01",
+  "kind": "Definition",
+  "number": "56.8.1",
+  "status": "O",
+  "page": "5780",
+  "location": "Volume II · Chapter 56 · Higher topoi and hyperdescent"
+ },
+ {
+  "id": "S01-0052",
+  "work": "S01",
+  "kind": "Definition",
+  "number": "56.8.2",
+  "status": "O",
+  "page": "5781",
+  "location": "Volume II · §56.8 · Hypercovers"
+ },
+ {
+  "id": "S01-0053",
+  "work": "S01",
+  "kind": "Definition",
+  "number": "56.9.1",
+  "status": "O",
+  "page": "5783",
+  "location": "Volume II · §56.9 · Hypercompletion"
+ },
+ {
+  "id": "S01-0054",
+  "work": "S01",
+  "kind": "Theorem",
+  "number": "56.9.3",
+  "status": "O",
+  "page": "5784",
+  "location": "Volume II · Chapter 56 · Higher topoi and hyperdescent"
+ },
+ {
+  "id": "S01-0055",
+  "work": "S01",
+  "kind": "Corollary",
+  "number": "56.9.4",
+  "status": "O",
+  "page": "5785",
+  "location": "Volume II · §56.9 · Hypercompletion"
+ },
+ {
+  "id": "S01-0056",
+  "work": "S01",
+  "kind": "Theorem",
+  "number": "56.11.1",
+  "status": "O",
+  "page": "5789",
+  "location": "Volume II · §56.12 · Examples and comparison corridors"
+ },
+ {
+  "id": "S01-0057",
+  "work": "S01",
+  "kind": "Corollary",
+  "number": "56.11.2",
+  "status": "O",
+  "page": "5789",
+  "location": "Volume II · §56.12 · Examples and comparison corridors"
+ },
+ {
+  "id": "S01-0058",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "C90.1",
+  "status": "",
+  "page": "7003",
+  "location": "Volume II · §90.6 · Grothendieck’s section conjecture"
+ },
+ {
+  "id": "S01-0059",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "94.3.1",
+  "status": "",
+  "page": "7155",
+  "location": "Volume II · §94.3 · The classical conjecture nodes"
+ },
+ {
+  "id": "S01-0060",
+  "work": "S01",
+  "kind": "Conjecture",
+  "number": "94.3.2",
+  "status": "",
+  "page": "7155",
+  "location": "Volume II · §94.3 · The classical conjecture nodes"
+ },
+ {
+  "id": "S01-0061",
+  "work": "S01",
+  "kind": "Proposition",
+  "number": "1.3",
+  "status": "D/O",
+  "page": "11913",
+  "location": "Volume V · §1.3 · The non-self-authorization proposition"
+ },
+ {
+  "id": "S01-0062",
+  "work": "S01",
+  "kind": "Proposition",
+  "number": "2.2",
+  "status": "D/O",
+  "page": "11920",
+  "location": "Volume V · Chapter 2 · Content-Addressed Mathematical Artifacts"
+ },
+ {
+  "id": "S01-0063",
+  "work": "S01",
+  "kind": "Proposition",
+  "number": "3.2",
+  "status": "D/O",
+  "page": "11927",
+  "location": "Volume V · §3.5 · Axiom closure"
+ },
+ {
+  "id": "S01-0064",
+  "work": "S01",
+  "kind": "Proposition",
+  "number": "4.1",
+  "status": "D/O",
+  "page": "11933",
+  "location": "Volume V · §4.5 · Target-fidelity proposition"
+ },
+ {
+  "id": "S01-0065",
+  "work": "S01",
+  "kind": "Proposition",
+  "number": "5.1",
+  "status": "D/O",
+  "page": "11940",
+  "location": "Volume V · Chapter 5 · Policy, Capability, and Signing Roots"
+ },
+ {
+  "id": "S01-0066",
+  "work": "S01",
+  "kind": "Proposition",
+  "number": "8.2",
+  "status": "D/O",
+  "page": "11962",
+  "location": "Volume V · Chapter 8 · ArtifactEnvelope and Provenance Contracts"
+ },
+ {
+  "id": "S01-0067",
+  "work": "S01",
+  "kind": "Proposition",
+  "number": "10.1",
+  "status": "D/O",
+  "page": "11979",
+  "location": "Volume V · §10.4 · No upward propagation by association"
+ },
+ {
+  "id": "S01-0068",
+  "work": "S01",
+  "kind": "Proposition",
+  "number": "33.2",
+  "status": "D/O",
+  "page": "12268",
+  "location": "Volume V · Chapter 33 · SAT, SMT, and Model-Finder Adapters"
+ },
+ {
+  "id": "S01-0069",
+  "work": "S01",
+  "kind": "Definition",
+  "number": "68.2",
+  "status": "R",
+  "page": "12973",
+  "location": "Volume V · §68.1 · A figure is a semantic artifact"
+ },
+ {
+  "id": "S01-0070",
+  "work": "S01",
+  "kind": "Definition",
+  "number": "69.1",
+  "status": "R",
+  "page": "12989",
+  "location": "Volume V · §69.1 · Reproducibility is an exact-subject claim"
+ },
+ {
+  "id": "S01-0071",
+  "work": "S01",
+  "kind": "Definition",
+  "number": "69.2",
+  "status": "R",
+  "page": "12989",
+  "location": "Volume V · §69.1 · Reproducibility is an exact-subject claim"
+ },
+ {
+  "id": "S01-0072",
+  "work": "S01",
+  "kind": "Question",
+  "number": "Q-V1-83-01",
+  "status": "Q",
+  "page": "2837",
+  "location": "Volume I · §83.24 · Conjectural and disputed records"
+ },
+ {
+  "id": "S01-0073",
+  "work": "S01",
+  "kind": "Question",
+  "number": "Q-V1-96-01",
+  "status": "Q",
+  "page": "3222",
+  "location": "Volume I · Chapter 96 · Profinite groups and outer Galois actions"
+ },
+ {
+  "id": "S02-0074",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.1.52",
+  "status": "T",
+  "page": "75",
+  "location": "2.1.16 Points, stalks, and how much of Deligne’s theorem the architecture may use"
+ },
+ {
+  "id": "S02-0075",
+  "work": "S02",
+  "kind": "Conjecture",
+  "number": "2.2.15",
+  "status": "",
+  "page": "104",
+  "location": "Chapter 2.2 — The Grothendieck-topology ladder"
+ },
+ {
+  "id": "S02-0076",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "2.4.25",
+  "status": "",
+  "page": "158",
+  "location": "Chapter 2.4 — Infinity-topos foundations: coherence, transport, shape and approximation"
+ },
+ {
+  "id": "S02-0077",
+  "work": "S02",
+  "kind": "Table",
+  "number": "2.5.2",
+  "status": "",
+  "page": "202",
+  "location": "Chapter 2.5 — Cohomology, descent and the obstruction to gluing"
+ },
+ {
+  "id": "S02-0078",
+  "work": "S02",
+  "kind": "Table",
+  "number": "2.7.4",
+  "status": "",
+  "page": "266",
+  "location": "Chapter 2.7 — Almost mathematics: dense valuations, negligible error and scale architecture"
+ },
+ {
+  "id": "S02-0079",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.7.37",
+  "status": "",
+  "page": "268",
+  "location": "Chapter 2.7 — Almost mathematics: dense valuations, negligible error and scale architecture"
+ },
+ {
+  "id": "S02-0080",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.8.7",
+  "status": "T",
+  "page": "274",
+  "location": "Chapter 2.8 — Higher descent, monadic reconstruction and ambidextrous aggregation"
+ },
+ {
+  "id": "S02-0081",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.8.9",
+  "status": "",
+  "page": "275",
+  "location": "2.8.3 The descent spectral sequence"
+ },
+ {
+  "id": "S02-0082",
+  "work": "S02",
+  "kind": "Construction",
+  "number": "2.8.18",
+  "status": "T",
+  "page": "283",
+  "location": "2.8.5 The norm transformation"
+ },
+ {
+  "id": "S02-0083",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.9.28",
+  "status": "T",
+  "page": "312",
+  "location": "Chapter 2.9 — Kan extensions, coends, and what attention actually computes"
+ },
+ {
+  "id": "S02-0084",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.10.21",
+  "status": "T",
+  "page": "327",
+  "location": "2.10.7 Associativity, units, and coherence"
+ },
+ {
+  "id": "S02-0085",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.10.25",
+  "status": "T",
+  "page": "331",
+  "location": "2.10.9 Representables inside Prof and finite weighted sums"
+ },
+ {
+  "id": "S02-0086",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.11.10",
+  "status": "T",
+  "page": "342",
+  "location": "Chapter 2.11 — Non-abelian holonomy and the capacity–consistency trade-off"
+ },
+ {
+  "id": "S02-0087",
+  "work": "S02",
+  "kind": "Lemma",
+  "number": "2.12.4",
+  "status": "T",
+  "page": "372",
+  "location": "Chapter 2.12 — Fundamental groups, Galois categories, and the one-type boundary"
+ },
+ {
+  "id": "S02-0088",
+  "work": "S02",
+  "kind": "Lemma",
+  "number": "2.12.5",
+  "status": "T",
+  "page": "372",
+  "location": "Chapter 2.12 — Fundamental groups, Galois categories, and the one-type boundary"
+ },
+ {
+  "id": "S02-0089",
+  "work": "S02",
+  "kind": "Lemma",
+  "number": "2.12.6",
+  "status": "T",
+  "page": "372",
+  "location": "Chapter 2.12 — Fundamental groups, Galois categories, and the one-type boundary"
+ },
+ {
+  "id": "S02-0090",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.12.7",
+  "status": "T",
+  "page": "372",
+  "location": "Chapter 2.12 — Fundamental groups, Galois categories, and the one-type boundary"
+ },
+ {
+  "id": "S02-0091",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.12.8",
+  "status": "T",
+  "page": "373",
+  "location": "2.12.3 The fundamental theorem: the fundamental group is the automorphism group of the fibre functor"
+ },
+ {
+  "id": "S02-0092",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.12.11",
+  "status": "T",
+  "page": "374",
+  "location": "Chapter 2.12 — Fundamental groups, Galois categories, and the one-type boundary"
+ },
+ {
+  "id": "S02-0093",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "2.12.12",
+  "status": "T",
+  "page": "374",
+  "location": "Chapter 2.12 — Fundamental groups, Galois categories, and the one-type boundary"
+ },
+ {
+  "id": "S02-0094",
+  "work": "S02",
+  "kind": "Lemma",
+  "number": "2.12.13",
+  "status": "T",
+  "page": "375",
+  "location": "2.12.3 The fundamental theorem: the fundamental group is the automorphism group of the fibre functor"
+ },
+ {
+  "id": "S02-0095",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.12.15",
+  "status": "T",
+  "page": "377",
+  "location": "2.12.3 The fundamental theorem: the fundamental group is the automorphism group of the fibre functor"
+ },
+ {
+  "id": "S02-0096",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "2.12.33",
+  "status": "T",
+  "page": "385",
+  "location": "2.12.5 The pro-étale fundamental group"
+ },
+ {
+  "id": "S02-0097",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.12.53",
+  "status": "T",
+  "page": "395",
+  "location": "2.12.7 Architectural payload: a parallel Galois branch for L7"
+ },
+ {
+  "id": "S02-0098",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.12.57",
+  "status": "T",
+  "page": "397",
+  "location": "2.12.7 Architectural payload: a parallel Galois branch for L7"
+ },
+ {
+  "id": "S02-0099",
+  "work": "S02",
+  "kind": "Table",
+  "number": "2.12.3",
+  "status": "",
+  "page": "406",
+  "location": "Chapter 2.12 — Fundamental groups, Galois categories, and the one-type boundary"
+ },
+ {
+  "id": "S02-0100",
+  "work": "S02",
+  "kind": "Hypothesis",
+  "number": "2.14",
+  "status": "M",
+  "page": "466",
+  "location": "Chapter 2.14 — Separation complexity: uniform circuits, width-five programs, and the accurate scan boundary"
+ },
+ {
+  "id": "S02-0101",
+  "work": "S02",
+  "kind": "Hypothesis",
+  "number": "2.14",
+  "status": "M",
+  "page": "467",
+  "location": "2.14.17 Hypothesis two: one effective length-uniform transformer family"
+ },
+ {
+  "id": "S02-0102",
+  "work": "S02",
+  "kind": "Hypothesis",
+  "number": "2.14",
+  "status": "M",
+  "page": "468",
+  "location": "Chapter 2.14 — Separation complexity: uniform circuits, width-five programs, and the accurate scan boundary"
+ },
+ {
+  "id": "S02-0103",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "2.14.43",
+  "status": "",
+  "page": "474",
+  "location": "Chapter 2.14 — Separation complexity: uniform circuits, width-five programs, and the accurate scan boundary"
+ },
+ {
+  "id": "S02-0104",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.15.8",
+  "status": "T",
+  "page": "495",
+  "location": "2.15.2 Beck–Chevalley squares"
+ },
+ {
+  "id": "S02-0105",
+  "work": "S02",
+  "kind": "Conjecture",
+  "number": "2.15.16",
+  "status": "",
+  "page": "508",
+  "location": "Chapter 2.15 — The six operations, Tannakian reconstruction, and the anabelian surrogate"
+ },
+ {
+  "id": "S02-0106",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.16.9",
+  "status": "",
+  "page": "525",
+  "location": "2.16.3 The standard conjectures: exact statements and conditional consequences"
+ },
+ {
+  "id": "S02-0107",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.16.41",
+  "status": "",
+  "page": "550",
+  "location": "Chapter 2.16 — Motives, transfers, and Tannakian reconstruction"
+ },
+ {
+  "id": "S02-0108",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.16.42",
+  "status": "",
+  "page": "551",
+  "location": "2.16.15 Mixed motives against the Tannakian hypotheses"
+ },
+ {
+  "id": "S02-0109",
+  "work": "S02",
+  "kind": "Conjecture",
+  "number": "2.17.5",
+  "status": "OPEN",
+  "page": "562",
+  "location": "Chapter 2.17 — Anabelian depth: reconstruction, kernels, and finite shadows"
+ },
+ {
+  "id": "S02-0110",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "2.17.19",
+  "status": "",
+  "page": "572",
+  "location": "Chapter 2.17 — Anabelian depth: reconstruction, kernels, and finite shadows"
+ },
+ {
+  "id": "S02-0111",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "3.1.18",
+  "status": "UNDETERMINED",
+  "page": "621",
+  "location": "3.1.9 The end-to-end degeneration theorem"
+ },
+ {
+  "id": "S02-0112",
+  "work": "S02",
+  "kind": "Algorithm",
+  "number": "3.2.1",
+  "status": "OPEN",
+  "page": "633",
+  "location": "3.2.2 Evidence atoms"
+ },
+ {
+  "id": "S02-0113",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "3.2.9",
+  "status": "",
+  "page": "638",
+  "location": "Chapter 3.2 — L0 — the context site"
+ },
+ {
+  "id": "S02-0114",
+  "work": "S02",
+  "kind": "Conjecture",
+  "number": "3.6.17",
+  "status": "D",
+  "page": "778",
+  "location": "Chapter 3.6 — L7 and L8 — holonomy and the transfer layer"
+ },
+ {
+  "id": "S02-0115",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "4.6.14",
+  "status": "",
+  "page": "1066",
+  "location": "Chapter 4.6 — The solid context engine"
+ },
+ {
+  "id": "S02-0116",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "4.6.32",
+  "status": "",
+  "page": "1089",
+  "location": "4.6.13 conformance interface"
+ },
+ {
+  "id": "S02-0117",
+  "work": "S02",
+  "kind": "Hypothesis",
+  "number": "4.7.26",
+  "status": "",
+  "page": "1103",
+  "location": "4.7.4 Transporting a justification along an equivalence"
+ },
+ {
+  "id": "S02-0118",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "4.8.19",
+  "status": "",
+  "page": "1165",
+  "location": "4.8.7 BCdevCheck: no square by wishful straightening"
+ },
+ {
+  "id": "S02-0119",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "6.2.6",
+  "status": "T",
+  "page": "1363",
+  "location": "6.2.5 Unbiasedness under a genuine cover"
+ },
+ {
+  "id": "S02-0120",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "6.2.29",
+  "status": "",
+  "page": "1386",
+  "location": "Chapter 6.2 — The Hodge theory of group-relative advantage"
+ },
+ {
+  "id": "S02-0121",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "7.3.4",
+  "status": "T",
+  "page": "1589",
+  "location": "7.3.3 The all-to-all and edge-exchange schedules"
+ },
+ {
+  "id": "S02-0122",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "10.2.6",
+  "status": "",
+  "page": "1884",
+  "location": "Chapter 10.2 — Positioning, risks and the strangler-fig roadmap"
+ },
+ {
+  "id": "S02-0123",
+  "work": "S02",
+  "kind": "Table",
+  "number": "11.2.3",
+  "status": "",
+  "page": "1937",
+  "location": "11.2.9 Isomorphism, invariance and the similarity-index literature"
+ },
+ {
+  "id": "S02-0124",
+  "work": "S02",
+  "kind": "Conjecture",
+  "number": "11.5.1",
+  "status": "",
+  "page": "2019",
+  "location": "11.5.4 The Diophantine target"
+ },
+ {
+  "id": "S02-0125",
+  "work": "S02",
+  "kind": "Conjecture",
+  "number": "11.5.2",
+  "status": "",
+  "page": "2019",
+  "location": "11.5.4 The Diophantine target"
+ },
+ {
+  "id": "S02-0126",
+  "work": "S02",
+  "kind": "Conjecture",
+  "number": "11.5.3",
+  "status": "",
+  "page": "2020",
+  "location": "Chapter 11.5 — What inter-universal Teichmüller theory actually is"
+ },
+ {
+  "id": "S02-0127",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "11.6.6",
+  "status": "T",
+  "page": "2051",
+  "location": "11.6.2 Thesis 1 — Hodge-theatre gluing as a coherence problem"
+ },
+ {
+  "id": "S02-0128",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "11.6.15",
+  "status": "M",
+  "page": "2055",
+  "location": "11.6.2 Thesis 1 — Hodge-theatre gluing as a coherence problem"
+ },
+ {
+  "id": "S02-0129",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "11.6.24",
+  "status": "M",
+  "page": "2059",
+  "location": "11.6.3 Thesis 2 — a weight mismatch as a conditional obstruction to ring structure"
+ },
+ {
+  "id": "S02-0130",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "11.9.43",
+  "status": "T",
+  "page": "2185",
+  "location": "11.9.9 Budgets over a base, and the calculus as an obligation on the whole document"
+ },
+ {
+  "id": "S02-0131",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "11.9.47",
+  "status": "T",
+  "page": "2187",
+  "location": "11.9.10 Algebraic completion: when a budget becomes a composable defect"
+ },
+ {
+  "id": "S02-0132",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "11.9.54",
+  "status": "T",
+  "page": "2190",
+  "location": "Chapter 11.9 — The indeterminacy calculus"
+ },
+ {
+  "id": "S02-0133",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "11.9.55",
+  "status": "T",
+  "page": "2190",
+  "location": "Chapter 11.9 — The indeterminacy calculus"
+ },
+ {
+  "id": "S02-0134",
+  "work": "S02",
+  "kind": "Hypothesis",
+  "number": "11.10.1",
+  "status": "",
+  "page": "2198",
+  "location": "Chapter 11.10 — Faltings completion of the"
+ },
+ {
+  "id": "S02-0135",
+  "work": "S02",
+  "kind": "Hypothesis",
+  "number": "11.10.19",
+  "status": "",
+  "page": "2209",
+  "location": "11.10.3 Realising an indeterminacy by an almost defect"
+ },
+ {
+  "id": "S02-0136",
+  "work": "S02",
+  "kind": "Lemma",
+  "number": "11.10.20",
+  "status": "",
+  "page": "2213",
+  "location": "11.10.3 Realising an indeterminacy by an almost defect"
+ },
+ {
+  "id": "S02-0137",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "11.10.21",
+  "status": "",
+  "page": "2213",
+  "location": "11.10.3 Realising an indeterminacy by an almost defect"
+ },
+ {
+  "id": "S02-0138",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "11.10.26",
+  "status": "T",
+  "page": "2216",
+  "location": "Chapter 11.10 — Faltings completion of the indeterminacy calculus"
+ },
+ {
+  "id": "S02-0139",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "11.10.41",
+  "status": "T",
+  "page": "2222",
+  "location": "Chapter 11.10 — Faltings completion of the indeterminacy calculus"
+ },
+ {
+  "id": "S02-0140",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "11.10.47",
+  "status": "T",
+  "page": "2224",
+  "location": "Chapter 11.10 — Faltings completion of the indeterminacy calculus"
+ },
+ {
+  "id": "S02-0141",
+  "work": "S02",
+  "kind": "Question",
+  "number": "11.11.18",
+  "status": "X",
+  "page": "2259",
+  "location": "11.11.11 Open problems"
+ },
+ {
+  "id": "S02-0142",
+  "work": "S02",
+  "kind": "Question",
+  "number": "11.11.19",
+  "status": "X",
+  "page": "2259",
+  "location": "11.11.11 Open problems"
+ },
+ {
+  "id": "S02-0143",
+  "work": "S02",
+  "kind": "Question",
+  "number": "11.11.20",
+  "status": "X",
+  "page": "2259",
+  "location": "11.11.11 Open problems"
+ },
+ {
+  "id": "S02-0144",
+  "work": "S02",
+  "kind": "Example",
+  "number": "11.15.16",
+  "status": "",
+  "page": "2430",
+  "location": "Chapter 11.15 — Voevodsky’s transferable core: correspondences, declared localisation, minimal descent, and checkable proof"
+ },
+ {
+  "id": "S02-0145",
+  "work": "S02",
+  "kind": "Example",
+  "number": "11.15.20",
+  "status": "",
+  "page": "2433",
+  "location": "11.15.13 What would be required to reopen the Chapter 2.17 branch"
+ },
+ {
+  "id": "S02-0146",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "12.1.12",
+  "status": "",
+  "page": "2544",
+  "location": "Chapter 12.1 — The generative core: the late programmes and the method behind them"
+ },
+ {
+  "id": "S02-0147",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "12.2.17",
+  "status": "",
+  "page": "2571",
+  "location": "12.2.7 Decomposition under aggregation"
+ },
+ {
+  "id": "S02-0148",
+  "work": "S02",
+  "kind": "Table",
+  "number": "12.8.3",
+  "status": "",
+  "page": "2705",
+  "location": "12.8.3 Compatibility matrix"
+ },
+ {
+  "id": "S02-0149",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "13.7.20",
+  "status": "",
+  "page": "2906",
+  "location": "Chapter 13.7 — The unified lineage stack: costs, degenerations and failure modes"
+ },
+ {
+  "id": "S02-0150",
+  "work": "S02",
+  "kind": "Hypothesis",
+  "number": "13.13",
+  "status": "M",
+  "page": "3057",
+  "location": "13.13.3 Part one: the upper bound, and the exact delimitation it applies to"
+ },
+ {
+  "id": "S02-0151",
+  "work": "S02",
+  "kind": "Hypothesis",
+  "number": "13.13",
+  "status": "M",
+  "page": "3057",
+  "location": "13.13.3 Part one: the upper bound, and the exact delimitation it applies to"
+ },
+ {
+  "id": "S02-0152",
+  "work": "S02",
+  "kind": "Hypothesis",
+  "number": "13.13",
+  "status": "M",
+  "page": "3057",
+  "location": "13.13.3 Part one: the upper bound, and the exact delimitation it applies to"
+ },
+ {
+  "id": "S02-0153",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "13.13.11",
+  "status": "",
+  "page": "3060",
+  "location": "Chapter 13.13 — Monodromy separation: the exact S₅ scan, its reach, and the conditional it licenses"
+ },
+ {
+  "id": "S02-0154",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "13.13.33",
+  "status": "",
+  "page": "3073",
+  "location": "13.13.6 Part four: the conditional conclusion, and the accuracy clause"
+ },
+ {
+  "id": "S02-0155",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "13.13.34",
+  "status": "T",
+  "page": "3073",
+  "location": "13.13.6 Part four: the conditional conclusion, and the accuracy clause"
+ },
+ {
+  "id": "S02-0156",
+  "work": "S02",
+  "kind": "Definition",
+  "number": "13.13.36",
+  "status": "D",
+  "page": "3074",
+  "location": "Chapter 13.13 — Monodromy separation: the exact S₅ scan, its reach, and the conditional it licenses"
+ },
+ {
+  "id": "S02-0157",
+  "work": "S02",
+  "kind": "Corollary",
+  "number": "13.14.27",
+  "status": "",
+  "page": "3091",
+  "location": "13.14.7 Reduction direction, and the uniformity audit that must accompany it"
+ },
+ {
+  "id": "S02-0158",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "13.14.28",
+  "status": "T",
+  "page": "3092",
+  "location": "Chapter 13.14 — A separating task family: three grammars, one hard core, and the controls that can refute them"
+ },
+ {
+  "id": "S02-0159",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "13.14.30",
+  "status": "T",
+  "page": "3092",
+  "location": "Chapter 13.14 — A separating task family: three grammars, one hard core, and the controls that can refute them"
+ },
+ {
+  "id": "S02-0160",
+  "work": "S02",
+  "kind": "Corollary",
+  "number": "13.14.35",
+  "status": "T",
+  "page": "3094",
+  "location": "Chapter 13.14 — A separating task family: three grammars, one hard core, and the controls that can refute them"
+ },
+ {
+  "id": "S02-0161",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "13.16.11",
+  "status": "T",
+  "page": "3163",
+  "location": "13.16.7 Chapter 13.14: the separating task family"
+ },
+ {
+  "id": "S02-0162",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "14.1.2",
+  "status": "",
+  "page": "3214",
+  "location": "Chapter 14.1 — The replacement assessment"
+ },
+ {
+  "id": "S02-0163",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "14.1.3",
+  "status": "",
+  "page": "3214",
+  "location": "Chapter 14.1 — The replacement assessment"
+ },
+ {
+  "id": "S02-0164",
+  "work": "S02",
+  "kind": "Table",
+  "number": "14.1.5",
+  "status": "",
+  "page": "3215",
+  "location": "14.1.12 Four conditional meanings of replacement"
+ },
+ {
+  "id": "S02-0165",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "14.1.6",
+  "status": "",
+  "page": "3216",
+  "location": "Chapter 14.1 — The replacement assessment"
+ },
+ {
+  "id": "S02-0166",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "14.1.7",
+  "status": "",
+  "page": "3216",
+  "location": "Chapter 14.1 — The replacement assessment"
+ },
+ {
+  "id": "S02-0167",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "14.1.8",
+  "status": "",
+  "page": "3217",
+  "location": "14.1.14 Deliberate demotions"
+ },
+ {
+  "id": "S02-0168",
+  "work": "S02",
+  "kind": "Table",
+  "number": "14.1.6",
+  "status": "",
+  "page": "3217",
+  "location": "14.1.14 Deliberate demotions"
+ },
+ {
+  "id": "S02-0169",
+  "work": "S02",
+  "kind": "Theorem",
+  "number": "A8.13",
+  "status": "",
+  "page": "3617",
+  "location": "A8.8 Order independence of iterated filtrations"
+ },
+ {
+  "id": "S02-0170",
+  "work": "S02",
+  "kind": "Definition",
+  "number": "A15.10",
+  "status": "T",
+  "page": "3868",
+  "location": "A15.10 Two pairs are excluded, not reconciled"
+ },
+ {
+  "id": "S02-0171",
+  "work": "S02",
+  "kind": "Table",
+  "number": "A15.10",
+  "status": "",
+  "page": "3871",
+  "location": "A15.11 Fourteen of the twenty-one pairs hold"
+ },
+ {
+  "id": "S02-0172",
+  "work": "S02",
+  "kind": "Proposition",
+  "number": "A15.12",
+  "status": "T",
+  "page": "3871",
+  "location": "A15.11 Fourteen of the twenty-one pairs hold"
+ },
+ {
+  "id": "S02-0173",
+  "work": "S02",
+  "kind": "Open Problem",
+  "number": "2.14.A",
+  "status": "OPEN",
+  "page": "458",
+  "location": "Chapter 2.14 — Separation complexity: uniform circuits, width-five programs, and the accurate scan boundary"
+ },
+ {
+  "id": "S02-0174",
+  "work": "S02",
+  "kind": "Open Problem",
+  "number": "2.14.C",
+  "status": "OPEN",
+  "page": "484",
+  "location": "Chapter 2.14 — Separation complexity: uniform circuits, width-five programs, and the accurate scan boundary"
+ },
+ {
+  "id": "S02-0175",
+  "work": "S02",
+  "kind": "Open Problem",
+  "number": "2.14.D",
+  "status": "OPEN / D",
+  "page": "484",
+  "location": "Chapter 2.14 — Separation complexity: uniform circuits, width-five programs, and the accurate scan boundary"
+ },
+ {
+  "id": "S02-0176",
+  "work": "S02",
+  "kind": "Open Problem",
+  "number": "13.13.C",
+  "status": "",
+  "page": "3076",
+  "location": "Chapter 13.13 — Monodromy separation: the exact S₅ scan, its reach, and the conditional it licenses"
+ },
+ {
+  "id": "S02-0177",
+  "work": "S02",
+  "kind": "Open Problem",
+  "number": "13.13.A",
+  "status": "",
+  "page": "3079",
+  "location": "13.13.10 Open obligations"
+ },
+ {
+  "id": "S02-0178",
+  "work": "S02",
+  "kind": "Open Problem",
+  "number": "13.13.B",
+  "status": "",
+  "page": "3079",
+  "location": "13.13.10 Open obligations"
+ },
+ {
+  "id": "S02-0179",
+  "work": "S02",
+  "kind": "Open Problem",
+  "number": "13.14.B",
+  "status": "",
+  "page": "3105",
+  "location": "13.14.19 Open obligations"
+ },
+ {
+  "id": "S02-0180",
+  "work": "S02",
+  "kind": "Open Problem",
+  "number": "13.14.A",
+  "status": "OPEN",
+  "page": "3105",
+  "location": "13.14.19 Open obligations"
+ },
+ {
+  "id": "S02-0181",
+  "work": "S02",
+  "kind": "Open Problem",
+  "number": "13.14.C",
+  "status": "OPEN",
+  "page": "3105",
+  "location": "13.14.19 Open obligations"
+ },
+ {
+  "id": "S02-0182",
+  "work": "S02",
+  "kind": "Open Problem",
+  "number": "13.15.A",
+  "status": "OPEN",
+  "page": "3135",
+  "location": "13.15.14 Cut ledger, graded transfer, and outstanding sources"
+ },
+ {
+  "id": "S02-0183",
+  "work": "S02",
+  "kind": "Open Problem",
+  "number": "13.15.B",
+  "status": "",
+  "page": "3135",
+  "location": "13.15.14 Cut ledger, graded transfer, and outstanding sources"
+ },
+ {
+  "id": "S02-0184",
+  "work": "S02",
+  "kind": "Open Problem",
+  "number": "13.15.C",
+  "status": "",
+  "page": "3135",
+  "location": "13.15.14 Cut ledger, graded transfer, and outstanding sources"
+ },
+ {
+  "id": "S02-0185",
+  "work": "S02",
+  "kind": "Open Problem",
+  "number": "13.15.D",
+  "status": "OPEN / D",
+  "page": "3135",
+  "location": "13.15.14 Cut ledger, graded transfer, and outstanding sources"
+ },
+ {
+  "id": "S02-0186",
+  "work": "S02",
+  "kind": "Open Problem",
+  "number": "13.15.E",
+  "status": "OPEN",
+  "page": "3135",
+  "location": "13.15.14 Cut ledger, graded transfer, and outstanding sources"
+ },
+ {
+  "id": "S03-0187",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "A2",
+  "status": "",
+  "page": "lxiv",
+  "location": "Contents"
+ },
+ {
+  "id": "S03-0188",
+  "work": "S03",
+  "kind": "Conjecture",
+  "number": "2.36",
+  "status": "O",
+  "page": "40",
+  "location": "The firewall: four counter-model objects"
+ },
+ {
+  "id": "S03-0189",
+  "work": "S03",
+  "kind": "Corollary",
+  "number": "4.38",
+  "status": "C",
+  "page": "80",
+  "location": "The corrected diagnosis of AS6"
+ },
+ {
+  "id": "S03-0190",
+  "work": "S03",
+  "kind": "Conjecture",
+  "number": "14.41",
+  "status": "C",
+  "page": "306",
+  "location": "Weil’s proof and the Hodge index theorem"
+ },
+ {
+  "id": "S03-0191",
+  "work": "S03",
+  "kind": "Conjecture",
+  "number": "14.42",
+  "status": "C",
+  "page": "306",
+  "location": "Weil’s proof and the Hodge index theorem"
+ },
+ {
+  "id": "S03-0192",
+  "work": "S03",
+  "kind": "Conjecture",
+  "number": "15.34",
+  "status": "C",
+  "page": "322",
+  "location": "Grothendieck’s cohomological machine"
+ },
+ {
+  "id": "S03-0193",
+  "work": "S03",
+  "kind": "Conjecture",
+  "number": "15.55",
+  "status": "C",
+  "page": "327",
+  "location": "15.18"
+ },
+ {
+  "id": "S03-0194",
+  "work": "S03",
+  "kind": "Conjecture",
+  "number": "15.56",
+  "status": "C",
+  "page": "327",
+  "location": "15.18"
+ },
+ {
+  "id": "S03-0195",
+  "work": "S03",
+  "kind": "Conjecture",
+  "number": "15.57",
+  "status": "C",
+  "page": "327",
+  "location": "15.18"
+ },
+ {
+  "id": "S03-0196",
+  "work": "S03",
+  "kind": "Conjecture",
+  "number": "15.58",
+  "status": "C",
+  "page": "327",
+  "location": "15.18"
+ },
+ {
+  "id": "S03-0197",
+  "work": "S03",
+  "kind": "Conjecture",
+  "number": "15.59",
+  "status": "C",
+  "page": "327",
+  "location": "15.18"
+ },
+ {
+  "id": "S03-0198",
+  "work": "S03",
+  "kind": "Conjecture",
+  "number": "15.66",
+  "status": "C",
+  "page": "330",
+  "location": "Grothendieck’s cohomological machine"
+ },
+ {
+  "id": "S03-0199",
+  "work": "S03",
+  "kind": "Proposition",
+  "number": "16.24",
+  "status": "C",
+  "page": "343",
+  "location": "16.12"
+ },
+ {
+  "id": "S03-0200",
+  "work": "S03",
+  "kind": "Theorem",
+  "number": "18.13",
+  "status": "C",
+  "page": "394",
+  "location": "The complete finite-field dictionary"
+ },
+ {
+  "id": "S03-0201",
+  "work": "S03",
+  "kind": "Proposition",
+  "number": "18.44",
+  "status": "C",
+  "page": "411",
+  "location": "18.27"
+ },
+ {
+  "id": "S03-0202",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "20.63",
+  "status": "O",
+  "page": "449",
+  "location": "20.10"
+ },
+ {
+  "id": "S03-0203",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "21.3",
+  "status": "O",
+  "page": "457",
+  "location": "The failure of 2-periodicity over Z"
+ },
+ {
+  "id": "S03-0204",
+  "work": "S03",
+  "kind": "Proposition",
+  "number": "21.4",
+  "status": "C",
+  "page": "457",
+  "location": "The failure of 2-periodicity over Z"
+ },
+ {
+  "id": "S03-0205",
+  "work": "S03",
+  "kind": "Construction",
+  "number": "21.10",
+  "status": "C",
+  "page": "462",
+  "location": "Conditional Obstruction P: the integral periodicity input"
+ },
+ {
+  "id": "S03-0206",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "21.12",
+  "status": "O",
+  "page": "463",
+  "location": "The three remedies"
+ },
+ {
+  "id": "S03-0207",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "22.9",
+  "status": "O",
+  "page": "483",
+  "location": "22.8"
+ },
+ {
+  "id": "S03-0208",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "22.10",
+  "status": "O",
+  "page": "484",
+  "location": "Prismatization and the syntomic comparison"
+ },
+ {
+  "id": "S03-0209",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "23.18",
+  "status": "O",
+  "page": "502",
+  "location": "Condensed, analytic, and nuclear foundations"
+ },
+ {
+  "id": "S03-0210",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "23.24",
+  "status": "O",
+  "page": "504",
+  "location": "Condensed, analytic, and nuclear foundations"
+ },
+ {
+  "id": "S03-0211",
+  "work": "S03",
+  "kind": "Conjecture",
+  "number": "23.26",
+  "status": "O",
+  "page": "506",
+  "location": "Condensed, analytic, and nuclear foundations"
+ },
+ {
+  "id": "S03-0212",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "23.36",
+  "status": "O",
+  "page": "511",
+  "location": "23.18"
+ },
+ {
+  "id": "S03-0213",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "24.2",
+  "status": "C",
+  "page": "529",
+  "location": "24.3"
+ },
+ {
+  "id": "S03-0214",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "24.3",
+  "status": "O",
+  "page": "529",
+  "location": "24.3"
+ },
+ {
+  "id": "S03-0215",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "24.9",
+  "status": "C",
+  "page": "531",
+  "location": "Obstruction L: semilinearity is not a logarithm"
+ },
+ {
+  "id": "S03-0216",
+  "work": "S03",
+  "kind": "Construction",
+  "number": "24.12",
+  "status": "C",
+  "page": "533",
+  "location": "Obstruction L: semilinearity is not a logarithm"
+ },
+ {
+  "id": "S03-0217",
+  "work": "S03",
+  "kind": "Construction",
+  "number": "24.14",
+  "status": "O",
+  "page": "534",
+  "location": "Base-change verdict: what the absolute base does and does not buy"
+ },
+ {
+  "id": "S03-0218",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "24.15",
+  "status": "C",
+  "page": "536",
+  "location": "Base-change verdict: what the absolute base does and does not buy"
+ },
+ {
+  "id": "S03-0219",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "24.18",
+  "status": "O",
+  "page": "539",
+  "location": "Obstruction L: semilinearity is not a logarithm"
+ },
+ {
+  "id": "S03-0220",
+  "work": "S03",
+  "kind": "Construction",
+  "number": "25.4",
+  "status": "C",
+  "page": "566",
+  "location": "AS0: the discipline axioms"
+ },
+ {
+  "id": "S03-0221",
+  "work": "S03",
+  "kind": "Construction",
+  "number": "27.5",
+  "status": "C",
+  "page": "590",
+  "location": "AS2: loop- and circle-space realization"
+ },
+ {
+  "id": "S03-0222",
+  "work": "S03",
+  "kind": "Proposition",
+  "number": "28.11",
+  "status": "C",
+  "page": "602",
+  "location": "AS3: adelic Frobenius and the Nikolaus–Scholze equalizer"
+ },
+ {
+  "id": "S03-0223",
+  "work": "S03",
+  "kind": "Construction",
+  "number": "28.12",
+  "status": "C",
+  "page": "603",
+  "location": "The full-circle Tate proposal is impossible"
+ },
+ {
+  "id": "S03-0224",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "28.13",
+  "status": "O",
+  "page": "604",
+  "location": "AS3: adelic Frobenius and the Nikolaus–Scholze equalizer"
+ },
+ {
+  "id": "S03-0225",
+  "work": "S03",
+  "kind": "Construction",
+  "number": "28.14",
+  "status": "C",
+  "page": "605",
+  "location": "28.3"
+ },
+ {
+  "id": "S03-0226",
+  "work": "S03",
+  "kind": "Construction",
+  "number": "29.4",
+  "status": "C",
+  "page": "608",
+  "location": "AS4: realization and comparison tests"
+ },
+ {
+  "id": "S03-0227",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "29.5",
+  "status": "C",
+  "page": "609",
+  "location": "Pass, fail, and not-yet-tested"
+ },
+ {
+  "id": "S03-0228",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "29.8",
+  "status": "O",
+  "page": "610",
+  "location": "AS4: realization and comparison tests"
+ },
+ {
+  "id": "S03-0229",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "30.1",
+  "status": "C",
+  "page": "614",
+  "location": "Chapter 30"
+ },
+ {
+  "id": "S03-0230",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "30.2",
+  "status": "O",
+  "page": "614",
+  "location": "Chapter 30"
+ },
+ {
+  "id": "S03-0231",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "30.8",
+  "status": "C",
+  "page": "616",
+  "location": "AS5–AS6: traces, determinants, and the missing positivity"
+ },
+ {
+  "id": "S03-0232",
+  "work": "S03",
+  "kind": "Construction",
+  "number": "30.11",
+  "status": "C",
+  "page": "618",
+  "location": "AS5–AS6: traces, determinants, and the missing positivity"
+ },
+ {
+  "id": "S03-0233",
+  "work": "S03",
+  "kind": "Construction",
+  "number": "30.13",
+  "status": "C",
+  "page": "619",
+  "location": "Obstruction L: semilinearity is not a logarithm"
+ },
+ {
+  "id": "S03-0234",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "30.14",
+  "status": "C",
+  "page": "621",
+  "location": "Obstruction L: semilinearity is not a logarithm"
+ },
+ {
+  "id": "S03-0235",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "30.16",
+  "status": "O",
+  "page": "623",
+  "location": "30.4"
+ },
+ {
+  "id": "S03-0236",
+  "work": "S03",
+  "kind": "Theorem",
+  "number": "31.8",
+  "status": "C",
+  "page": "646",
+  "location": "Positivity in the function-field case"
+ },
+ {
+  "id": "S03-0237",
+  "work": "S03",
+  "kind": "Theorem",
+  "number": "32.4",
+  "status": "C",
+  "page": "669",
+  "location": "de Branges and operator domains"
+ },
+ {
+  "id": "S03-0238",
+  "work": "S03",
+  "kind": "Proposition",
+  "number": "33.14",
+  "status": "C",
+  "page": "691",
+  "location": "The absent polarization"
+ },
+ {
+  "id": "S03-0239",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "42.2",
+  "status": "O",
+  "page": "837",
+  "location": "Chapter 42"
+ },
+ {
+  "id": "S03-0240",
+  "work": "S03",
+  "kind": "Obstruction",
+  "number": "1",
+  "status": "T",
+  "page": "925",
+  "location": "Sensitivity checks that have not been run"
+ },
+ {
+  "id": "S03-0241",
+  "work": "S03",
+  "kind": "Obstruction",
+  "number": "2",
+  "status": "T",
+  "page": "925",
+  "location": "Sensitivity checks that have not been run"
+ },
+ {
+  "id": "S03-0242",
+  "work": "S03",
+  "kind": "Obstruction",
+  "number": "3",
+  "status": "T",
+  "page": "925",
+  "location": "Sensitivity checks that have not been run"
+ },
+ {
+  "id": "S03-0243",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "48.2",
+  "status": "O",
+  "page": "950",
+  "location": "Chapter 48"
+ },
+ {
+  "id": "S03-0244",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "48.3",
+  "status": "O",
+  "page": "951",
+  "location": "48.2"
+ },
+ {
+  "id": "S03-0245",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "48.4",
+  "status": "O",
+  "page": "951",
+  "location": "48.2"
+ },
+ {
+  "id": "S03-0246",
+  "work": "S03",
+  "kind": "Theorem",
+  "number": "48.6",
+  "status": "C",
+  "page": "951",
+  "location": "48.2"
+ },
+ {
+  "id": "S03-0247",
+  "work": "S03",
+  "kind": "Corollary",
+  "number": "48.16",
+  "status": "C",
+  "page": "954",
+  "location": "The Index-One Exhaustion Theorem"
+ },
+ {
+  "id": "S03-0248",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "48.27",
+  "status": "O",
+  "page": "958",
+  "location": "The Index-One Exhaustion Theorem"
+ },
+ {
+  "id": "S03-0249",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "48.38",
+  "status": "O",
+  "page": "964",
+  "location": "The Index-One Exhaustion Theorem"
+ },
+ {
+  "id": "S03-0250",
+  "work": "S03",
+  "kind": "Conjecture",
+  "number": "55.10",
+  "status": "C",
+  "page": "1116",
+  "location": "The Arithmetic Hodge–Krein Realization Problem: seven attackable sub-problems"
+ },
+ {
+  "id": "S03-0251",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "A2",
+  "status": "",
+  "page": "1120",
+  "location": "Chapter 56"
+ },
+ {
+  "id": "S03-0252",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "A2",
+  "status": "",
+  "page": "1124",
+  "location": "Problem A2-star and the mean-purity route"
+ },
+ {
+  "id": "S03-0253",
+  "work": "S03",
+  "kind": "Criterion",
+  "number": "57.5",
+  "status": "O",
+  "page": "1145",
+  "location": "57.5"
+ },
+ {
+  "id": "S03-0254",
+  "work": "S03",
+  "kind": "Criterion",
+  "number": "58.7",
+  "status": "O",
+  "page": "1168",
+  "location": "The falsification protocol"
+ },
+ {
+  "id": "S03-0255",
+  "work": "S03",
+  "kind": "Criterion",
+  "number": "58.9",
+  "status": "O",
+  "page": "1169",
+  "location": "58.9"
+ },
+ {
+  "id": "S03-0256",
+  "work": "S03",
+  "kind": "Criterion",
+  "number": "58.10",
+  "status": "O",
+  "page": "1170",
+  "location": "The falsification protocol"
+ },
+ {
+  "id": "S03-0257",
+  "work": "S03",
+  "kind": "Criterion",
+  "number": "58.11",
+  "status": "O",
+  "page": "1171",
+  "location": "58.11"
+ },
+ {
+  "id": "S03-0258",
+  "work": "S03",
+  "kind": "Criterion",
+  "number": "58.12",
+  "status": "O",
+  "page": "1171",
+  "location": "58.11"
+ },
+ {
+  "id": "S03-0259",
+  "work": "S03",
+  "kind": "Criterion",
+  "number": "58.13",
+  "status": "O",
+  "page": "1172",
+  "location": "The falsification protocol"
+ },
+ {
+  "id": "S03-0260",
+  "work": "S03",
+  "kind": "Criterion",
+  "number": "58.14",
+  "status": "O",
+  "page": "1172",
+  "location": "The falsification protocol"
+ },
+ {
+  "id": "S03-0261",
+  "work": "S03",
+  "kind": "Criterion",
+  "number": "58.15",
+  "status": "O",
+  "page": "1173",
+  "location": "58.15"
+ },
+ {
+  "id": "S03-0262",
+  "work": "S03",
+  "kind": "Criterion",
+  "number": "58.16",
+  "status": "O",
+  "page": "1173",
+  "location": "58.15"
+ },
+ {
+  "id": "S03-0263",
+  "work": "S03",
+  "kind": "Criterion",
+  "number": "58.17",
+  "status": "O",
+  "page": "1173",
+  "location": "58.15"
+ },
+ {
+  "id": "S03-0264",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "I.4",
+  "status": "O",
+  "page": "1331",
+  "location": "Precise statements"
+ },
+ {
+  "id": "S03-0265",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "I.8",
+  "status": "O",
+  "page": "1332",
+  "location": "The Generalized Riemann Hypothesis: statements, the extension of the architecture, and what changes"
+ },
+ {
+  "id": "S03-0266",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "I.13",
+  "status": "O",
+  "page": "1333",
+  "location": "Precise statements"
+ },
+ {
+  "id": "S03-0267",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "I.17",
+  "status": "O",
+  "page": "1334",
+  "location": "The Generalized Riemann Hypothesis: statements, the extension of the architecture, and what changes"
+ },
+ {
+  "id": "S03-0268",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "I.18",
+  "status": "O",
+  "page": "1334",
+  "location": "The Generalized Riemann Hypothesis: statements, the extension of the architecture, and what changes"
+ },
+ {
+  "id": "S03-0269",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "I.19",
+  "status": "O",
+  "page": "1334",
+  "location": "The Generalized Riemann Hypothesis: statements, the extension of the architecture, and what changes"
+ },
+ {
+  "id": "S03-0270",
+  "work": "S03",
+  "kind": "Definition",
+  "number": "I.20",
+  "status": "O",
+  "page": "1334",
+  "location": "The Generalized Riemann Hypothesis: statements, the extension of the architecture, and what changes"
+ },
+ {
+  "id": "S03-0271",
+  "work": "S03",
+  "kind": "Proposition",
+  "number": "I.88",
+  "status": "C",
+  "page": "1357",
+  "location": "The explicit formula, positivity, and the degree"
+ },
+ {
+  "id": "S03-0272",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "A2",
+  "status": "",
+  "page": "1360",
+  "location": "Appendix J"
+ },
+ {
+  "id": "S03-0273",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.4",
+  "status": "O",
+  "page": "1362",
+  "location": "Problem A2⋆: the one non-circular obligation"
+ },
+ {
+  "id": "S03-0274",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.6",
+  "status": "O",
+  "page": "1363",
+  "location": "J.3"
+ },
+ {
+  "id": "S03-0275",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.7",
+  "status": "O",
+  "page": "1363",
+  "location": "J.3"
+ },
+ {
+  "id": "S03-0276",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.31",
+  "status": "O",
+  "page": "1374",
+  "location": "Problem A2⋆: the one non-circular obligation"
+ },
+ {
+  "id": "S03-0277",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.32",
+  "status": "O",
+  "page": "1375",
+  "location": "J.13"
+ },
+ {
+  "id": "S03-0278",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.33",
+  "status": "O",
+  "page": "1375",
+  "location": "J.13"
+ },
+ {
+  "id": "S03-0279",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.34",
+  "status": "O",
+  "page": "1375",
+  "location": "J.13"
+ },
+ {
+  "id": "S03-0280",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.35",
+  "status": "O",
+  "page": "1375",
+  "location": "J.13"
+ },
+ {
+  "id": "S03-0281",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.36",
+  "status": "O",
+  "page": "1375",
+  "location": "J.13"
+ },
+ {
+  "id": "S03-0282",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.37",
+  "status": "O",
+  "page": "1375",
+  "location": "J.13"
+ },
+ {
+  "id": "S03-0283",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.38",
+  "status": "O",
+  "page": "1376",
+  "location": "Problem A2⋆: the one non-circular obligation"
+ },
+ {
+  "id": "S03-0284",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.39",
+  "status": "O",
+  "page": "1376",
+  "location": "Problem A2⋆: the one non-circular obligation"
+ },
+ {
+  "id": "S03-0285",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.40",
+  "status": "O",
+  "page": "1376",
+  "location": "Problem A2⋆: the one non-circular obligation"
+ },
+ {
+  "id": "S03-0286",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.58",
+  "status": "O",
+  "page": "1383",
+  "location": "Where a zero-density proof spends its estimates"
+ },
+ {
+  "id": "S03-0287",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.66",
+  "status": "O",
+  "page": "1388",
+  "location": "Problem A2⋆: the one non-circular obligation"
+ },
+ {
+  "id": "S03-0288",
+  "work": "S03",
+  "kind": "Conjecture",
+  "number": "J.70",
+  "status": "C",
+  "page": "1390",
+  "location": "Problem A2⋆: the one non-circular obligation"
+ },
+ {
+  "id": "S03-0289",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.90",
+  "status": "O",
+  "page": "1395",
+  "location": "J.27"
+ },
+ {
+  "id": "S03-0290",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.91",
+  "status": "O",
+  "page": "1396",
+  "location": "Problem A2⋆: the one non-circular obligation"
+ },
+ {
+  "id": "S03-0291",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.92",
+  "status": "O",
+  "page": "1396",
+  "location": "Problem A2⋆: the one non-circular obligation"
+ },
+ {
+  "id": "S03-0292",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.93",
+  "status": "O",
+  "page": "1396",
+  "location": "Problem A2⋆: the one non-circular obligation"
+ },
+ {
+  "id": "S03-0293",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.94",
+  "status": "O",
+  "page": "1396",
+  "location": "Problem A2⋆: the one non-circular obligation"
+ },
+ {
+  "id": "S03-0294",
+  "work": "S03",
+  "kind": "Problem",
+  "number": "J.95",
+  "status": "O",
+  "page": "1396",
+  "location": "Problem A2⋆: the one non-circular obligation"
+ },
+ {
+  "id": "S03-0295",
+  "work": "S03",
+  "kind": "Open Problem",
+  "number": "48.3",
+  "status": "O",
+  "page": "965",
+  "location": "48.14"
+ },
+ {
+  "id": "S03-0296",
+  "work": "S03",
+  "kind": "Open Problem",
+  "number": "I.1",
+  "status": "O",
+  "page": "1330",
+  "location": "The Generalized Riemann Hypothesis: statements, the extension of the architecture, and what changes"
+ },
+ {
+  "id": "S03-0297",
+  "work": "S03",
+  "kind": "Open Problem",
+  "number": "I.2",
+  "status": "O",
+  "page": "1330",
+  "location": "The Generalized Riemann Hypothesis: statements, the extension of the architecture, and what changes"
+ },
+ {
+  "id": "S04-0298",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "30.2.1",
+  "status": "NEW",
+  "page": "xx",
+  "location": "Statement of Epistemic Status"
+ },
+ {
+  "id": "S04-0299",
+  "work": "S04",
+  "kind": "Theorem",
+  "number": "39.1.2",
+  "status": "CONDITIONAL",
+  "page": "xx",
+  "location": "Statement of Epistemic Status"
+ },
+ {
+  "id": "S04-0300",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "1.2.4",
+  "status": "OPEN",
+  "page": "8",
+  "location": "The Conjecture of Birch and Swinnerton-Dyer"
+ },
+ {
+  "id": "S04-0301",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "1.4.1",
+  "status": "OPEN",
+  "page": "10",
+  "location": "The Conjecture of Birch and Swinnerton-Dyer"
+ },
+ {
+  "id": "S04-0302",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "1.4.2",
+  "status": "OPEN",
+  "page": "10",
+  "location": "The Conjecture of Birch and Swinnerton-Dyer"
+ },
+ {
+  "id": "S04-0303",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "2.8.1",
+  "status": "OPEN",
+  "page": "19",
+  "location": "2.8"
+ },
+ {
+  "id": "S04-0304",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "4.5.1",
+  "status": "OPEN",
+  "page": "37",
+  "location": "4.5"
+ },
+ {
+  "id": "S04-0305",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "4.5.3",
+  "status": "OPEN",
+  "page": "38",
+  "location": "Beyond Locally Ringed Topoi"
+ },
+ {
+  "id": "S04-0306",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "4.6.2",
+  "status": "OPEN",
+  "page": "38",
+  "location": "Beyond Locally Ringed Topoi"
+ },
+ {
+  "id": "S04-0307",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "4.6.3",
+  "status": "OPEN",
+  "page": "38",
+  "location": "Beyond Locally Ringed Topoi"
+ },
+ {
+  "id": "S04-0308",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "5.5.3",
+  "status": "OPEN",
+  "page": "44",
+  "location": "The Condensed and Analytic Substrate"
+ },
+ {
+  "id": "S04-0309",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "6.9.1",
+  "status": "OPEN",
+  "page": "53",
+  "location": "6.9"
+ },
+ {
+  "id": "S04-0310",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "7.6.1",
+  "status": "OPEN",
+  "page": "60",
+  "location": "FAP Spaces and the Arithmetic Fracture Diagram"
+ },
+ {
+  "id": "S04-0311",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "7.6.2",
+  "status": "OPEN",
+  "page": "60",
+  "location": "FAP Spaces and the Arithmetic Fracture Diagram"
+ },
+ {
+  "id": "S04-0312",
+  "work": "S04",
+  "kind": "Axiom",
+  "number": "8.2.1",
+  "status": "OPEN",
+  "page": "62",
+  "location": "Chapter 8"
+ },
+ {
+  "id": "S04-0313",
+  "work": "S04",
+  "kind": "Axiom",
+  "number": "8.2.2",
+  "status": "OPEN",
+  "page": "62",
+  "location": "Chapter 8"
+ },
+ {
+  "id": "S04-0314",
+  "work": "S04",
+  "kind": "Axiom",
+  "number": "8.3.1",
+  "status": "CONDITIONAL",
+  "page": "63",
+  "location": "8.3"
+ },
+ {
+  "id": "S04-0315",
+  "work": "S04",
+  "kind": "Axiom",
+  "number": "8.3.2",
+  "status": "OPEN",
+  "page": "63",
+  "location": "8.3"
+ },
+ {
+  "id": "S04-0316",
+  "work": "S04",
+  "kind": "Axiom",
+  "number": "8.3.3",
+  "status": "OPEN",
+  "page": "63",
+  "location": "8.3"
+ },
+ {
+  "id": "S04-0317",
+  "work": "S04",
+  "kind": "Axiom",
+  "number": "8.4.1",
+  "status": "OPEN",
+  "page": "63",
+  "location": "8.3"
+ },
+ {
+  "id": "S04-0318",
+  "work": "S04",
+  "kind": "Axiom",
+  "number": "8.4.2",
+  "status": "OPEN",
+  "page": "63",
+  "location": "8.3"
+ },
+ {
+  "id": "S04-0319",
+  "work": "S04",
+  "kind": "Axiom",
+  "number": "8.5.1",
+  "status": "OPEN",
+  "page": "64",
+  "location": "The Twelve Axioms"
+ },
+ {
+  "id": "S04-0320",
+  "work": "S04",
+  "kind": "Axiom",
+  "number": "8.6.1",
+  "status": "OPEN",
+  "page": "64",
+  "location": "The Twelve Axioms"
+ },
+ {
+  "id": "S04-0321",
+  "work": "S04",
+  "kind": "Axiom",
+  "number": "8.6.2",
+  "status": "OPEN",
+  "page": "64",
+  "location": "The Twelve Axioms"
+ },
+ {
+  "id": "S04-0322",
+  "work": "S04",
+  "kind": "Axiom",
+  "number": "8.7.1",
+  "status": "OPEN",
+  "page": "65",
+  "location": "8.7"
+ },
+ {
+  "id": "S04-0323",
+  "work": "S04",
+  "kind": "Axiom",
+  "number": "8.7.2",
+  "status": "OPEN",
+  "page": "65",
+  "location": "8.7"
+ },
+ {
+  "id": "S04-0324",
+  "work": "S04",
+  "kind": "Corollary",
+  "number": "9.2.4",
+  "status": "CONDITIONAL",
+  "page": "71",
+  "location": "9.3"
+ },
+ {
+  "id": "S04-0325",
+  "work": "S04",
+  "kind": "Definition",
+  "number": "9.3.1",
+  "status": "OPEN",
+  "page": "71",
+  "location": "9.3"
+ },
+ {
+  "id": "S04-0326",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "9.5.1",
+  "status": "OPEN",
+  "page": "73",
+  "location": "9.6"
+ },
+ {
+  "id": "S04-0327",
+  "work": "S04",
+  "kind": "Example",
+  "number": "9.7.3",
+  "status": "OPEN",
+  "page": "74",
+  "location": "Six Operations and Descent"
+ },
+ {
+  "id": "S04-0328",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "10.4.3",
+  "status": "OPEN",
+  "page": "77",
+  "location": "10.4"
+ },
+ {
+  "id": "S04-0329",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "10.5.1",
+  "status": "OPEN",
+  "page": "78",
+  "location": "Realisation and Comparison"
+ },
+ {
+  "id": "S04-0330",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "11.2.1",
+  "status": "OPEN",
+  "page": "87",
+  "location": "11.2"
+ },
+ {
+  "id": "S04-0331",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "11.2.2",
+  "status": "OPEN",
+  "page": "87",
+  "location": "11.2"
+ },
+ {
+  "id": "S04-0332",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "11.2.3",
+  "status": "OPEN",
+  "page": "87",
+  "location": "11.2"
+ },
+ {
+  "id": "S04-0333",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "11.2.4",
+  "status": "OPEN",
+  "page": "87",
+  "location": "11.2"
+ },
+ {
+  "id": "S04-0334",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "11.3.2",
+  "status": "OPEN",
+  "page": "88",
+  "location": "Motives and the Standard Conjectures"
+ },
+ {
+  "id": "S04-0335",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "11.3.3",
+  "status": "OPEN",
+  "page": "89",
+  "location": "11.4"
+ },
+ {
+  "id": "S04-0336",
+  "work": "S04",
+  "kind": "Theorem",
+  "number": "11.5.1",
+  "status": "CONDITIONAL",
+  "page": "90",
+  "location": "Motives and the Standard Conjectures"
+ },
+ {
+  "id": "S04-0337",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "11.6.1",
+  "status": "OPEN",
+  "page": "91",
+  "location": "11.6"
+ },
+ {
+  "id": "S04-0338",
+  "work": "S04",
+  "kind": "Axiom",
+  "number": "13.6.1",
+  "status": "OPEN",
+  "page": "105",
+  "location": "13.6"
+ },
+ {
+  "id": "S04-0339",
+  "work": "S04",
+  "kind": "Theorem",
+  "number": "14.3.1",
+  "status": "CONDITIONAL",
+  "page": "110",
+  "location": "Weil-Étale Cohomology and the Fundamental Line"
+ },
+ {
+  "id": "S04-0340",
+  "work": "S04",
+  "kind": "Axiom",
+  "number": "14.5.1",
+  "status": "OPEN",
+  "page": "112",
+  "location": "Weil-Étale Cohomology and the Fundamental Line"
+ },
+ {
+  "id": "S04-0341",
+  "work": "S04",
+  "kind": "Axiom",
+  "number": "15.2.1",
+  "status": "OPEN",
+  "page": "116",
+  "location": "The Arithmetic Flow"
+ },
+ {
+  "id": "S04-0342",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "15.4.1",
+  "status": "OPEN",
+  "page": "118",
+  "location": "The Arithmetic Flow"
+ },
+ {
+  "id": "S04-0343",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "15.6.1",
+  "status": "OPEN",
+  "page": "120",
+  "location": "The Arithmetic Flow"
+ },
+ {
+  "id": "S04-0344",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "16.1.4",
+  "status": "OPEN",
+  "page": "123",
+  "location": "16.2"
+ },
+ {
+  "id": "S04-0345",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "16.7.1",
+  "status": "OPEN",
+  "page": "127",
+  "location": "16.7"
+ },
+ {
+  "id": "S04-0346",
+  "work": "S04",
+  "kind": "Definition",
+  "number": "17.4.1",
+  "status": "OPEN",
+  "page": "132",
+  "location": "Regularised Determinants and Zeta Functions"
+ },
+ {
+  "id": "S04-0347",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "17.4.2",
+  "status": "OPEN",
+  "page": "132",
+  "location": "Regularised Determinants and Zeta Functions"
+ },
+ {
+  "id": "S04-0348",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "17.5.2",
+  "status": "OPEN",
+  "page": "133",
+  "location": "Conjecture M: the Weyl law"
+ },
+ {
+  "id": "S04-0349",
+  "work": "S04",
+  "kind": "Example",
+  "number": "17.7.1",
+  "status": "OPEN",
+  "page": "134",
+  "location": "Regularised Determinants and Zeta Functions"
+ },
+ {
+  "id": "S04-0350",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "22.7.1",
+  "status": "",
+  "page": "140",
+  "location": "The Arithmetic Spectrum of an Elliptic Curve"
+ },
+ {
+  "id": "S04-0351",
+  "work": "S04",
+  "kind": "Construction",
+  "number": "18.2.1",
+  "status": "CONDITIONAL",
+  "page": "141",
+  "location": "Chapter 18"
+ },
+ {
+  "id": "S04-0352",
+  "work": "S04",
+  "kind": "Construction",
+  "number": "18.2.2",
+  "status": "CONDITIONAL",
+  "page": "142",
+  "location": "The BSD Arithmetic Spectrum"
+ },
+ {
+  "id": "S04-0353",
+  "work": "S04",
+  "kind": "Proposition",
+  "number": "18.2.3",
+  "status": "CONDITIONAL",
+  "page": "142",
+  "location": "The BSD Arithmetic Spectrum"
+ },
+ {
+  "id": "S04-0354",
+  "work": "S04",
+  "kind": "Definition",
+  "number": "18.4.2",
+  "status": "CONDITIONAL",
+  "page": "144",
+  "location": "The BSD Arithmetic Spectrum"
+ },
+ {
+  "id": "S04-0355",
+  "work": "S04",
+  "kind": "Proposition",
+  "number": "18.4.3",
+  "status": "CONDITIONAL",
+  "page": "144",
+  "location": "The BSD Arithmetic Spectrum"
+ },
+ {
+  "id": "S04-0356",
+  "work": "S04",
+  "kind": "Proposition",
+  "number": "18.6.1",
+  "status": "CONDITIONAL",
+  "page": "145",
+  "location": "18.6"
+ },
+ {
+  "id": "S04-0357",
+  "work": "S04",
+  "kind": "Definition",
+  "number": "19.1.1",
+  "status": "CONDITIONAL",
+  "page": "147",
+  "location": "Chapter 19"
+ },
+ {
+  "id": "S04-0358",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "19.1.3",
+  "status": "OPEN",
+  "page": "147",
+  "location": "Chapter 19"
+ },
+ {
+  "id": "S04-0359",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "19.2.1",
+  "status": "OPEN",
+  "page": "148",
+  "location": "Arithmetic Cohomology of the Spectrum"
+ },
+ {
+  "id": "S04-0360",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "19.3.4",
+  "status": "OPEN",
+  "page": "151",
+  "location": "19.4"
+ },
+ {
+  "id": "S04-0361",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "19.4.2",
+  "status": "OPEN",
+  "page": "151",
+  "location": "19.4"
+ },
+ {
+  "id": "S04-0362",
+  "work": "S04",
+  "kind": "Proposition",
+  "number": "19.4.3",
+  "status": "CONDITIONAL",
+  "page": "151",
+  "location": "19.4"
+ },
+ {
+  "id": "S04-0363",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "19.5.1",
+  "status": "OPEN",
+  "page": "151",
+  "location": "19.4"
+ },
+ {
+  "id": "S04-0364",
+  "work": "S04",
+  "kind": "Definition",
+  "number": "20.4.2",
+  "status": "CONDITIONAL",
+  "page": "156",
+  "location": "Selmer Groups as Fixed Loci"
+ },
+ {
+  "id": "S04-0365",
+  "work": "S04",
+  "kind": "Axiom",
+  "number": "20.4.3",
+  "status": "OPEN",
+  "page": "156",
+  "location": "Selmer Groups as Fixed Loci"
+ },
+ {
+  "id": "S04-0366",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "20.4.4",
+  "status": "OPEN",
+  "page": "157",
+  "location": "20.5"
+ },
+ {
+  "id": "S04-0367",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "20.5.1",
+  "status": "OPEN",
+  "page": "157",
+  "location": "20.5"
+ },
+ {
+  "id": "S04-0368",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "21.6.1",
+  "status": "OPEN",
+  "page": "166",
+  "location": "Heights and Arakelov Theory"
+ },
+ {
+  "id": "S04-0369",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "22.7.1",
+  "status": "OPEN",
+  "page": "173",
+  "location": "22.7"
+ },
+ {
+  "id": "S04-0370",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "23.5.1",
+  "status": "OPEN",
+  "page": "177",
+  "location": "23.4"
+ },
+ {
+  "id": "S04-0371",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "25.8.1",
+  "status": "OPEN",
+  "page": "200",
+  "location": "Kolyvagin’s Method and the Rank-One Barrier"
+ },
+ {
+  "id": "S04-0372",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "26.4.1",
+  "status": "OPEN",
+  "page": "203",
+  "location": "26.4"
+ },
+ {
+  "id": "S04-0373",
+  "work": "S04",
+  "kind": "Proposition",
+  "number": "26.7.3",
+  "status": "CONDITIONAL",
+  "page": "205",
+  "location": "26.8"
+ },
+ {
+  "id": "S04-0374",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "27.7.1",
+  "status": "OPEN",
+  "page": "212",
+  "location": "The Rank Two Obstruction"
+ },
+ {
+  "id": "S04-0375",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "28.7.1",
+  "status": "OPEN",
+  "page": "219",
+  "location": "28.7"
+ },
+ {
+  "id": "S04-0376",
+  "work": "S04",
+  "kind": "Definition",
+  "number": "29.1.1",
+  "status": "OPEN",
+  "page": "221",
+  "location": "Chapter 29"
+ },
+ {
+  "id": "S04-0377",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "29.2.1",
+  "status": "OPEN",
+  "page": "222",
+  "location": "Arithmetic Shtukas over Specℤ"
+ },
+ {
+  "id": "S04-0378",
+  "work": "S04",
+  "kind": "Definition",
+  "number": "29.3.2",
+  "status": "OPEN",
+  "page": "223",
+  "location": "29.3"
+ },
+ {
+  "id": "S04-0379",
+  "work": "S04",
+  "kind": "Theorem",
+  "number": "29.4.2",
+  "status": "CONDITIONAL",
+  "page": "224",
+  "location": "Arithmetic Shtukas over Specℤ"
+ },
+ {
+  "id": "S04-0380",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "30.2.1",
+  "status": "OPEN",
+  "page": "228",
+  "location": "Higher Reciprocity Laws"
+ },
+ {
+  "id": "S04-0381",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "30.3.1",
+  "status": "KNOWN",
+  "page": "228",
+  "location": "Higher Reciprocity Laws"
+ },
+ {
+  "id": "S04-0382",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "30.4.1",
+  "status": "OPEN",
+  "page": "229",
+  "location": "30.4"
+ },
+ {
+  "id": "S04-0383",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "31.4.3",
+  "status": "OPEN",
+  "page": "240",
+  "location": "Modularity and the Analytic Input"
+ },
+ {
+  "id": "S04-0384",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "32.5.3",
+  "status": "OPEN",
+  "page": "250",
+  "location": "The Gross–Zagier Formula and its Descendants"
+ },
+ {
+  "id": "S04-0385",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "33.3.1",
+  "status": "OPEN",
+  "page": "253",
+  "location": "33.2"
+ },
+ {
+  "id": "S04-0386",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "33.4.1",
+  "status": "",
+  "page": "254",
+  "location": "Arithmetic Theta Series and the Kudla Programme"
+ },
+ {
+  "id": "S04-0387",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "33.6.5",
+  "status": "OPEN",
+  "page": "256",
+  "location": "Arithmetic Theta Series and the Kudla Programme"
+ },
+ {
+  "id": "S04-0388",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "33.6.6",
+  "status": "OPEN",
+  "page": "256",
+  "location": "Arithmetic Theta Series and the Kudla Programme"
+ },
+ {
+  "id": "S04-0389",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "34.6.3",
+  "status": "OPEN",
+  "page": "263",
+  "location": "34.7"
+ },
+ {
+  "id": "S04-0390",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "35.5.1",
+  "status": "OPEN",
+  "page": "269",
+  "location": "35.5"
+ },
+ {
+  "id": "S04-0391",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "35.5.2",
+  "status": "OPEN",
+  "page": "269",
+  "location": "35.5"
+ },
+ {
+  "id": "S04-0392",
+  "work": "S04",
+  "kind": "Theorem",
+  "number": "35.6.3",
+  "status": "CONDITIONAL",
+  "page": "270",
+  "location": "Higher Arithmetic Gross–Zagier"
+ },
+ {
+  "id": "S04-0393",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "36.4.6",
+  "status": "OPEN",
+  "page": "276",
+  "location": "Analytic Input and Murmurations"
+ },
+ {
+  "id": "S04-0394",
+  "work": "S04",
+  "kind": "Proposition",
+  "number": "37.4.2",
+  "status": "CONDITIONAL",
+  "page": "287",
+  "location": "37.5"
+ },
+ {
+  "id": "S04-0395",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "37.5.1",
+  "status": "OPEN",
+  "page": "287",
+  "location": "37.5"
+ },
+ {
+  "id": "S04-0396",
+  "work": "S04",
+  "kind": "Proposition",
+  "number": "37.6.1",
+  "status": "CONDITIONAL",
+  "page": "288",
+  "location": "The Master Identity"
+ },
+ {
+  "id": "S04-0397",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "37.6.2",
+  "status": "OPEN",
+  "page": "288",
+  "location": "The Master Identity"
+ },
+ {
+  "id": "S04-0398",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "37.7.1",
+  "status": "OPEN",
+  "page": "288",
+  "location": "The Master Identity"
+ },
+ {
+  "id": "S04-0399",
+  "work": "S04",
+  "kind": "Proposition",
+  "number": "38.4.1",
+  "status": "CONDITIONAL",
+  "page": "294",
+  "location": "Descent to the Rank Formula"
+ },
+ {
+  "id": "S04-0400",
+  "work": "S04",
+  "kind": "Theorem",
+  "number": "38.5.1",
+  "status": "CONDITIONAL",
+  "page": "294",
+  "location": "Descent to the Rank Formula"
+ },
+ {
+  "id": "S04-0401",
+  "work": "S04",
+  "kind": "Theorem",
+  "number": "38.6.1",
+  "status": "CONDITIONAL",
+  "page": "295",
+  "location": "38.6"
+ },
+ {
+  "id": "S04-0402",
+  "work": "S04",
+  "kind": "Table",
+  "number": "38.1",
+  "status": "OPEN",
+  "page": "296",
+  "location": "Descent to the Rank Formula"
+ },
+ {
+  "id": "S04-0403",
+  "work": "S04",
+  "kind": "Theorem",
+  "number": "39.1.2",
+  "status": "CONDITIONAL",
+  "page": "298",
+  "location": "Chapter 39"
+ },
+ {
+  "id": "S04-0404",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "39.3.1",
+  "status": "OPEN",
+  "page": "299",
+  "location": "39.3"
+ },
+ {
+  "id": "S04-0405",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "39.4.1",
+  "status": "OPEN",
+  "page": "299",
+  "location": "39.3"
+ },
+ {
+  "id": "S04-0406",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "39.5.1",
+  "status": "OPEN",
+  "page": "301",
+  "location": "39.6"
+ },
+ {
+  "id": "S04-0407",
+  "work": "S04",
+  "kind": "Proposition",
+  "number": "40.2.1",
+  "status": "CONDITIONAL",
+  "page": "304",
+  "location": "Chapter 40"
+ },
+ {
+  "id": "S04-0408",
+  "work": "S04",
+  "kind": "Proposition",
+  "number": "40.3.1",
+  "status": "CONDITIONAL",
+  "page": "305",
+  "location": "40.3"
+ },
+ {
+  "id": "S04-0409",
+  "work": "S04",
+  "kind": "Scholium",
+  "number": "40.3.2",
+  "status": "CONDITIONAL",
+  "page": "305",
+  "location": "40.3"
+ },
+ {
+  "id": "S04-0410",
+  "work": "S04",
+  "kind": "Table",
+  "number": "41.1",
+  "status": "KNOWN / NEW / OPEN",
+  "page": "311",
+  "location": "The critical path"
+ },
+ {
+  "id": "S04-0411",
+  "work": "S04",
+  "kind": "Conjecture",
+  "number": "46.3.1",
+  "status": "OPEN",
+  "page": "355",
+  "location": "46.4"
+ },
+ {
+  "id": "S04-0412",
+  "work": "S04",
+  "kind": "Proposition",
+  "number": "47.2.3",
+  "status": "CONDITIONAL",
+  "page": "361",
+  "location": "The certificate hierarchy"
+ },
+ {
+  "id": "S04-0413",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "50.1.1",
+  "status": "",
+  "page": "388",
+  "location": "Chapter 50"
+ },
+ {
+  "id": "S04-0414",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "53.2.1",
+  "status": "OPEN",
+  "page": "415",
+  "location": "Chapter 53"
+ },
+ {
+  "id": "S04-0415",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "53.2.2",
+  "status": "OPEN",
+  "page": "416",
+  "location": "The Obstruction Atlas"
+ },
+ {
+  "id": "S04-0416",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "53.2.3",
+  "status": "OPEN",
+  "page": "416",
+  "location": "The Obstruction Atlas"
+ },
+ {
+  "id": "S04-0417",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "53.2.4",
+  "status": "OPEN",
+  "page": "416",
+  "location": "The Obstruction Atlas"
+ },
+ {
+  "id": "S04-0418",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "53.2.5",
+  "status": "OPEN",
+  "page": "416",
+  "location": "The Obstruction Atlas"
+ },
+ {
+  "id": "S04-0419",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "53.2.6",
+  "status": "OPEN",
+  "page": "416",
+  "location": "The Obstruction Atlas"
+ },
+ {
+  "id": "S04-0420",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "53.2.7",
+  "status": "OPEN",
+  "page": "416",
+  "location": "The Obstruction Atlas"
+ },
+ {
+  "id": "S04-0421",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "53.2.10",
+  "status": "OPEN",
+  "page": "417",
+  "location": "Obstructions to the Construction Problem"
+ },
+ {
+  "id": "S04-0422",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "53.3.1",
+  "status": "OPEN",
+  "page": "418",
+  "location": "The Obstruction Atlas"
+ },
+ {
+  "id": "S04-0423",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "53.3.2",
+  "status": "OPEN",
+  "page": "418",
+  "location": "The Obstruction Atlas"
+ },
+ {
+  "id": "S04-0424",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "53.3.3",
+  "status": "OPEN",
+  "page": "418",
+  "location": "The Obstruction Atlas"
+ },
+ {
+  "id": "S04-0425",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "53.3.4",
+  "status": "OPEN",
+  "page": "418",
+  "location": "The Obstruction Atlas"
+ },
+ {
+  "id": "S04-0426",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "53.3.5",
+  "status": "OPEN",
+  "page": "418",
+  "location": "The Obstruction Atlas"
+ },
+ {
+  "id": "S04-0427",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "53.3.6",
+  "status": "OPEN",
+  "page": "418",
+  "location": "The Obstruction Atlas"
+ },
+ {
+  "id": "S04-0428",
+  "work": "S04",
+  "kind": "Problem",
+  "number": "54.1.1",
+  "status": "OPEN",
+  "page": "422",
+  "location": "Chapter 54"
+ },
+ {
+  "id": "S04-0429",
+  "work": "S04",
+  "kind": "Table",
+  "number": "56.1",
+  "status": "OPEN / NEW",
+  "page": "437",
+  "location": "56.3"
+ },
+ {
+  "id": "S04-0430",
+  "work": "S04",
+  "kind": "Table",
+  "number": "F.1",
+  "status": "OPEN",
+  "page": "476",
+  "location": "The Proof-Obligation Ledger"
+ },
+ {
+  "id": "S04-0431",
+  "work": "S04",
+  "kind": "Table",
+  "number": "F.2",
+  "status": "OPEN",
+  "page": "478",
+  "location": "The Proof-Obligation Ledger"
+ },
+ {
+  "id": "S04-0432",
+  "work": "S04",
+  "kind": "Question",
+  "number": "45.6.1",
+  "status": "OPEN",
+  "page": "351",
+  "location": "45.7"
+ },
+ {
+  "id": "S04-0433",
+  "work": "S04",
+  "kind": "Question",
+  "number": "46.2.1",
+  "status": "OPEN",
+  "page": "354",
+  "location": "Discovery, Statistics, and Machine Learning"
+ },
+ {
+  "id": "S05-0434",
+  "work": "S05",
+  "kind": "Conjecture",
+  "number": "1.8.2",
+  "status": "OPEN",
+  "page": "9",
+  "location": "1.8"
+ },
+ {
+  "id": "S05-0435",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "10.5.1",
+  "status": "NEW",
+  "page": "138",
+  "location": "Heights, Definability, and Effectivity"
+ },
+ {
+  "id": "S05-0436",
+  "work": "S05",
+  "kind": "Obstruction",
+  "number": "O9",
+  "status": "",
+  "page": "138",
+  "location": "Heights, Definability, and Effectivity"
+ },
+ {
+  "id": "S05-0437",
+  "work": "S05",
+  "kind": "Theorem",
+  "number": "10.7.1",
+  "status": "CONDITIONAL",
+  "page": "139",
+  "location": "10.7"
+ },
+ {
+  "id": "S05-0438",
+  "work": "S05",
+  "kind": "Proposition",
+  "number": "13.15.1",
+  "status": "CONDITIONAL",
+  "page": "183",
+  "location": "13.14"
+ },
+ {
+  "id": "S05-0439",
+  "work": "S05",
+  "kind": "Proposition",
+  "number": "18.5.4",
+  "status": "CONDITIONAL",
+  "page": "252",
+  "location": "The Prism Obstruction Complex"
+ },
+ {
+  "id": "S05-0440",
+  "work": "S05",
+  "kind": "Conjecture",
+  "number": "21.3.1",
+  "status": "",
+  "page": "292",
+  "location": "Atypical Intersections and Zilber–Pink"
+ },
+ {
+  "id": "S05-0441",
+  "work": "S05",
+  "kind": "Proposition",
+  "number": "23.7.3",
+  "status": "CONDITIONAL",
+  "page": "320",
+  "location": "The Kuga–Satake Construction"
+ },
+ {
+  "id": "S05-0442",
+  "work": "S05",
+  "kind": "Conjecture",
+  "number": "23.8.2",
+  "status": "OPEN",
+  "page": "321",
+  "location": "23.8"
+ },
+ {
+  "id": "S05-0443",
+  "work": "S05",
+  "kind": "Conjecture",
+  "number": "25.7.1",
+  "status": "",
+  "page": "351",
+  "location": "25.7"
+ },
+ {
+  "id": "S05-0444",
+  "work": "S05",
+  "kind": "Conjecture",
+  "number": "25.8.3",
+  "status": "",
+  "page": "352",
+  "location": "Pure Motives and Adequate Equivalence Relations"
+ },
+ {
+  "id": "S05-0445",
+  "work": "S05",
+  "kind": "Corollary",
+  "number": "28.6.5",
+  "status": "CONDITIONAL",
+  "page": "389",
+  "location": "28.7"
+ },
+ {
+  "id": "S05-0446",
+  "work": "S05",
+  "kind": "Proposition",
+  "number": "28.9.2",
+  "status": "CONDITIONAL",
+  "page": "393",
+  "location": "28.9"
+ },
+ {
+  "id": "S05-0447",
+  "work": "S05",
+  "kind": "Conjecture",
+  "number": "29.7.1",
+  "status": "OPEN",
+  "page": "402",
+  "location": "The Trace–Cycle Map"
+ },
+ {
+  "id": "S05-0448",
+  "work": "S05",
+  "kind": "Corollary",
+  "number": "30.3.5",
+  "status": "CONDITIONAL",
+  "page": "416",
+  "location": "Fullness of the Hodge Realisation"
+ },
+ {
+  "id": "S05-0449",
+  "work": "S05",
+  "kind": "Conjecture",
+  "number": "31.4.3",
+  "status": "",
+  "page": "427",
+  "location": "31.4"
+ },
+ {
+  "id": "S05-0450",
+  "work": "S05",
+  "kind": "Conjecture",
+  "number": "32.3.1",
+  "status": "",
+  "page": "440",
+  "location": "Periods and Transcendence"
+ },
+ {
+  "id": "S05-0451",
+  "work": "S05",
+  "kind": "Conjecture",
+  "number": "32.5.1",
+  "status": "",
+  "page": "441",
+  "location": "32.5"
+ },
+ {
+  "id": "S05-0452",
+  "work": "S05",
+  "kind": "Conjecture",
+  "number": "34.3.1",
+  "status": "OPEN",
+  "page": "463",
+  "location": "34.3"
+ },
+ {
+  "id": "S05-0453",
+  "work": "S05",
+  "kind": "Theorem",
+  "number": "35.2.1",
+  "status": "CONDITIONAL",
+  "page": "476",
+  "location": "Rigidification Implies Hodge"
+ },
+ {
+  "id": "S05-0454",
+  "work": "S05",
+  "kind": "Lemma",
+  "number": "35.4.1",
+  "status": "CONDITIONAL",
+  "page": "478",
+  "location": "Rigidification Implies Hodge"
+ },
+ {
+  "id": "S05-0455",
+  "work": "S05",
+  "kind": "Proposition",
+  "number": "35.4.2",
+  "status": "CONDITIONAL",
+  "page": "478",
+  "location": "Rigidification Implies Hodge"
+ },
+ {
+  "id": "S05-0456",
+  "work": "S05",
+  "kind": "Lemma",
+  "number": "35.5.1",
+  "status": "CONDITIONAL",
+  "page": "479",
+  "location": "35.5"
+ },
+ {
+  "id": "S05-0457",
+  "work": "S05",
+  "kind": "Lemma",
+  "number": "35.5.3",
+  "status": "CONDITIONAL",
+  "page": "479",
+  "location": "35.5"
+ },
+ {
+  "id": "S05-0458",
+  "work": "S05",
+  "kind": "Lemma",
+  "number": "35.6.1",
+  "status": "CONDITIONAL",
+  "page": "480",
+  "location": "Rigidification Implies Hodge"
+ },
+ {
+  "id": "S05-0459",
+  "work": "S05",
+  "kind": "Example",
+  "number": "35.8.1",
+  "status": "CONDITIONAL",
+  "page": "481",
+  "location": "35.7"
+ },
+ {
+  "id": "S05-0460",
+  "work": "S05",
+  "kind": "Example",
+  "number": "35.8.2",
+  "status": "CONDITIONAL",
+  "page": "481",
+  "location": "35.7"
+ },
+ {
+  "id": "S05-0461",
+  "work": "S05",
+  "kind": "Proposition",
+  "number": "35.10.1",
+  "status": "CONDITIONAL",
+  "page": "485",
+  "location": "35.9"
+ },
+ {
+  "id": "S05-0462",
+  "work": "S05",
+  "kind": "Lemma",
+  "number": "36.3.1",
+  "status": "CONDITIONAL",
+  "page": "488",
+  "location": "Chapter 36"
+ },
+ {
+  "id": "S05-0463",
+  "work": "S05",
+  "kind": "Theorem",
+  "number": "40.7.1",
+  "status": "CONDITIONAL",
+  "page": "547",
+  "location": "40.7"
+ },
+ {
+  "id": "S05-0464",
+  "work": "S05",
+  "kind": "Corollary",
+  "number": "40.7.2",
+  "status": "CONDITIONAL",
+  "page": "547",
+  "location": "40.7"
+ },
+ {
+  "id": "S05-0465",
+  "work": "S05",
+  "kind": "Principle",
+  "number": "44.4.1",
+  "status": "OPEN",
+  "page": "594",
+  "location": "The Twistor–Current Rigidification Machine"
+ },
+ {
+  "id": "S05-0466",
+  "work": "S05",
+  "kind": "Conjecture",
+  "number": "45.2.3",
+  "status": "",
+  "page": "608",
+  "location": "The Concentration Principle"
+ },
+ {
+  "id": "S05-0467",
+  "work": "S05",
+  "kind": "Axiom",
+  "number": "46.3.11",
+  "status": "OPEN",
+  "page": "624",
+  "location": "The Twelve Prism Axioms"
+ },
+ {
+  "id": "S05-0468",
+  "work": "S05",
+  "kind": "Axiom",
+  "number": "46.3.12",
+  "status": "CONDITIONAL",
+  "page": "624",
+  "location": "The Twelve Prism Axioms"
+ },
+ {
+  "id": "S05-0469",
+  "work": "S05",
+  "kind": "Definition",
+  "number": "47.2.2",
+  "status": "OPEN",
+  "page": "636",
+  "location": "The Master Theorem"
+ },
+ {
+  "id": "S05-0470",
+  "work": "S05",
+  "kind": "Definition",
+  "number": "47.2.3",
+  "status": "OPEN",
+  "page": "636",
+  "location": "The Master Theorem"
+ },
+ {
+  "id": "S05-0471",
+  "work": "S05",
+  "kind": "Definition",
+  "number": "47.2.4",
+  "status": "OPEN",
+  "page": "636",
+  "location": "The Master Theorem"
+ },
+ {
+  "id": "S05-0472",
+  "work": "S05",
+  "kind": "Theorem",
+  "number": "47.4.3",
+  "status": "CONDITIONAL",
+  "page": "637",
+  "location": "47.3"
+ },
+ {
+  "id": "S05-0473",
+  "work": "S05",
+  "kind": "Definition",
+  "number": "47.8.1",
+  "status": "OPEN",
+  "page": "641",
+  "location": "47.8"
+ },
+ {
+  "id": "S05-0474",
+  "work": "S05",
+  "kind": "Definition",
+  "number": "48.3.1",
+  "status": "OPEN",
+  "page": "652",
+  "location": "The Obstruction Ledger"
+ },
+ {
+  "id": "S05-0475",
+  "work": "S05",
+  "kind": "Definition",
+  "number": "48.3.2",
+  "status": "OPEN",
+  "page": "652",
+  "location": "The Obstruction Ledger"
+ },
+ {
+  "id": "S05-0476",
+  "work": "S05",
+  "kind": "Definition",
+  "number": "49.2.1",
+  "status": "OPEN",
+  "page": "663",
+  "location": "49.1"
+ },
+ {
+  "id": "S05-0477",
+  "work": "S05",
+  "kind": "Lemma",
+  "number": "49.3.1",
+  "status": "CONDITIONAL",
+  "page": "664",
+  "location": "Reduction to Abelian Varieties"
+ },
+ {
+  "id": "S05-0478",
+  "work": "S05",
+  "kind": "Theorem",
+  "number": "49.3.2",
+  "status": "CONDITIONAL",
+  "page": "664",
+  "location": "Reduction to Abelian Varieties"
+ },
+ {
+  "id": "S05-0479",
+  "work": "S05",
+  "kind": "Protocol",
+  "number": "49.3.3",
+  "status": "CONDITIONAL",
+  "page": "665",
+  "location": "The reduction theorem"
+ },
+ {
+  "id": "S05-0480",
+  "work": "S05",
+  "kind": "Corollary",
+  "number": "49.3.6",
+  "status": "CONDITIONAL",
+  "page": "665",
+  "location": "The reduction theorem"
+ },
+ {
+  "id": "S05-0481",
+  "work": "S05",
+  "kind": "Construction",
+  "number": "49.6.1",
+  "status": "CONDITIONAL",
+  "page": "668",
+  "location": "Reduction to Abelian Varieties"
+ },
+ {
+  "id": "S05-0482",
+  "work": "S05",
+  "kind": "Proposition",
+  "number": "49.6.2",
+  "status": "CONDITIONAL",
+  "page": "669",
+  "location": "49.7"
+ },
+ {
+  "id": "S05-0483",
+  "work": "S05",
+  "kind": "Conjecture",
+  "number": "51.2.1",
+  "status": "NEW",
+  "page": "689",
+  "location": "51.2"
+ },
+ {
+  "id": "S05-0484",
+  "work": "S05",
+  "kind": "Theorem",
+  "number": "51.2.2",
+  "status": "CONDITIONAL",
+  "page": "689",
+  "location": "51.2"
+ },
+ {
+  "id": "S05-0485",
+  "work": "S05",
+  "kind": "Definition",
+  "number": "51.4.1",
+  "status": "OPEN",
+  "page": "691",
+  "location": "51.4"
+ },
+ {
+  "id": "S05-0486",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.2.1",
+  "status": "",
+  "page": "1022",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0487",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.2.2",
+  "status": "",
+  "page": "1022",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0488",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.2.3",
+  "status": "",
+  "page": "1022",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0489",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.2.4",
+  "status": "",
+  "page": "1022",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0490",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.2.5",
+  "status": "",
+  "page": "1022",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0491",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.2.6",
+  "status": "",
+  "page": "1022",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0492",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.3.1",
+  "status": "",
+  "page": "1022",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0493",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.3.2",
+  "status": "",
+  "page": "1022",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0494",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.3.3",
+  "status": "",
+  "page": "1023",
+  "location": "71.4"
+ },
+ {
+  "id": "S05-0495",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.3.4",
+  "status": "",
+  "page": "1023",
+  "location": "71.4"
+ },
+ {
+  "id": "S05-0496",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.3.5",
+  "status": "",
+  "page": "1023",
+  "location": "71.4"
+ },
+ {
+  "id": "S05-0497",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.3.6",
+  "status": "",
+  "page": "1023",
+  "location": "71.4"
+ },
+ {
+  "id": "S05-0498",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.4.1",
+  "status": "",
+  "page": "1023",
+  "location": "71.4"
+ },
+ {
+  "id": "S05-0499",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.4.2",
+  "status": "",
+  "page": "1023",
+  "location": "71.4"
+ },
+ {
+  "id": "S05-0500",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.4.3",
+  "status": "",
+  "page": "1023",
+  "location": "71.4"
+ },
+ {
+  "id": "S05-0501",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.4.4",
+  "status": "NEW",
+  "page": "1023",
+  "location": "71.4"
+ },
+ {
+  "id": "S05-0502",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.4.5",
+  "status": "",
+  "page": "1023",
+  "location": "71.4"
+ },
+ {
+  "id": "S05-0503",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.4.6",
+  "status": "",
+  "page": "1023",
+  "location": "71.4"
+ },
+ {
+  "id": "S05-0504",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.5.1",
+  "status": "",
+  "page": "1024",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0505",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.5.2",
+  "status": "",
+  "page": "1024",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0506",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.5.3",
+  "status": "",
+  "page": "1024",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0507",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.5.4",
+  "status": "",
+  "page": "1024",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0508",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.5.5",
+  "status": "NEW",
+  "page": "1024",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0509",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.5.6",
+  "status": "",
+  "page": "1024",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0510",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.6.1",
+  "status": "",
+  "page": "1024",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0511",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.6.2",
+  "status": "NEW",
+  "page": "1024",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0512",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.6.3",
+  "status": "",
+  "page": "1024",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0513",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.6.4",
+  "status": "NEW",
+  "page": "1025",
+  "location": "71.7"
+ },
+ {
+  "id": "S05-0514",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.6.5",
+  "status": "",
+  "page": "1025",
+  "location": "71.7"
+ },
+ {
+  "id": "S05-0515",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.6.6",
+  "status": "",
+  "page": "1025",
+  "location": "71.7"
+ },
+ {
+  "id": "S05-0516",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.6.7",
+  "status": "NEW",
+  "page": "1025",
+  "location": "71.7"
+ },
+ {
+  "id": "S05-0517",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.7.1",
+  "status": "",
+  "page": "1025",
+  "location": "71.7"
+ },
+ {
+  "id": "S05-0518",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.7.2",
+  "status": "NEW",
+  "page": "1025",
+  "location": "71.7"
+ },
+ {
+  "id": "S05-0519",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.7.3",
+  "status": "",
+  "page": "1025",
+  "location": "71.7"
+ },
+ {
+  "id": "S05-0520",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.7.4",
+  "status": "NEW",
+  "page": "1025",
+  "location": "71.7"
+ },
+ {
+  "id": "S05-0521",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.7.5",
+  "status": "",
+  "page": "1025",
+  "location": "71.7"
+ },
+ {
+  "id": "S05-0522",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.7.6",
+  "status": "",
+  "page": "1025",
+  "location": "71.7"
+ },
+ {
+  "id": "S05-0523",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.7.7",
+  "status": "NEW",
+  "page": "1026",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0524",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.8.1",
+  "status": "",
+  "page": "1026",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0525",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.8.2",
+  "status": "",
+  "page": "1026",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0526",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.8.3",
+  "status": "",
+  "page": "1026",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0527",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.8.4",
+  "status": "",
+  "page": "1026",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0528",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.8.5",
+  "status": "",
+  "page": "1026",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0529",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.8.6",
+  "status": "NEW",
+  "page": "1026",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0530",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.8.7",
+  "status": "",
+  "page": "1026",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0531",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.9.1",
+  "status": "",
+  "page": "1026",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0532",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.9.2",
+  "status": "",
+  "page": "1027",
+  "location": "71.10"
+ },
+ {
+  "id": "S05-0533",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.9.3",
+  "status": "",
+  "page": "1027",
+  "location": "71.10"
+ },
+ {
+  "id": "S05-0534",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.9.4",
+  "status": "NEW",
+  "page": "1027",
+  "location": "71.10"
+ },
+ {
+  "id": "S05-0535",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.9.5",
+  "status": "",
+  "page": "1027",
+  "location": "71.10"
+ },
+ {
+  "id": "S05-0536",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.10.1",
+  "status": "",
+  "page": "1027",
+  "location": "71.10"
+ },
+ {
+  "id": "S05-0537",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.10.2",
+  "status": "",
+  "page": "1027",
+  "location": "71.10"
+ },
+ {
+  "id": "S05-0538",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.10.3",
+  "status": "",
+  "page": "1027",
+  "location": "71.10"
+ },
+ {
+  "id": "S05-0539",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.10.4",
+  "status": "",
+  "page": "1027",
+  "location": "71.10"
+ },
+ {
+  "id": "S05-0540",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.11.1",
+  "status": "",
+  "page": "1027",
+  "location": "71.10"
+ },
+ {
+  "id": "S05-0541",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.11.2",
+  "status": "",
+  "page": "1027",
+  "location": "71.10"
+ },
+ {
+  "id": "S05-0542",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.11.3",
+  "status": "NEW",
+  "page": "1028",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0543",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.11.4",
+  "status": "",
+  "page": "1028",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0544",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.12.1",
+  "status": "",
+  "page": "1028",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0545",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.12.2",
+  "status": "",
+  "page": "1028",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0546",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.2.1",
+  "status": "KNOWN",
+  "page": "1028",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0547",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.2.2",
+  "status": "KNOWN",
+  "page": "1028",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0548",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.2.3",
+  "status": "KNOWN",
+  "page": "1028",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0549",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.2.4",
+  "status": "NEW",
+  "page": "1028",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0550",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.2.5",
+  "status": "NEW",
+  "page": "1029",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0551",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.2.6",
+  "status": "KNOWN",
+  "page": "1029",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0552",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.3.1",
+  "status": "NEW",
+  "page": "1029",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0553",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.3.2",
+  "status": "NEW",
+  "page": "1029",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0554",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.3.3",
+  "status": "NEW",
+  "page": "1029",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0555",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.3.4",
+  "status": "NEW",
+  "page": "1029",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0556",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.3.5",
+  "status": "KNOWN",
+  "page": "1029",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0557",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.3.6",
+  "status": "NEW",
+  "page": "1029",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0558",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.4.1",
+  "status": "KNOWN",
+  "page": "1029",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0559",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.4.2",
+  "status": "KNOWN",
+  "page": "1029",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0560",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.4.3",
+  "status": "KNOWN",
+  "page": "1030",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0561",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.4.4",
+  "status": "KNOWN",
+  "page": "1030",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0562",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.4.5",
+  "status": "KNOWN",
+  "page": "1030",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0563",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.4.6",
+  "status": "KNOWN",
+  "page": "1030",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0564",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.5.1",
+  "status": "KNOWN",
+  "page": "1030",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0565",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.5.2",
+  "status": "KNOWN",
+  "page": "1030",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0566",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.5.3",
+  "status": "KNOWN",
+  "page": "1031",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0567",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.5.4",
+  "status": "KNOWN",
+  "page": "1031",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0568",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.5.5",
+  "status": "KNOWN",
+  "page": "1031",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0569",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.5.6",
+  "status": "NEW",
+  "page": "1031",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0570",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.6.1",
+  "status": "KNOWN",
+  "page": "1031",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0571",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.6.2",
+  "status": "KNOWN",
+  "page": "1031",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0572",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.6.3",
+  "status": "KNOWN",
+  "page": "1031",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0573",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.6.4",
+  "status": "NEW",
+  "page": "1031",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0574",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.6.5",
+  "status": "NEW",
+  "page": "1031",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0575",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.6.6",
+  "status": "KNOWN",
+  "page": "1031",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0576",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.6.7",
+  "status": "KNOWN",
+  "page": "1032",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0577",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.7.1",
+  "status": "KNOWN",
+  "page": "1032",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0578",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.7.2",
+  "status": "KNOWN",
+  "page": "1032",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0579",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.7.3",
+  "status": "KNOWN",
+  "page": "1032",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0580",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.7.4",
+  "status": "KNOWN",
+  "page": "1032",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0581",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.7.5",
+  "status": "KNOWN",
+  "page": "1032",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0582",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.7.6",
+  "status": "KNOWN",
+  "page": "1032",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0583",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.7.7",
+  "status": "KNOWN",
+  "page": "1032",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0584",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.8.1",
+  "status": "NEW",
+  "page": "1032",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0585",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.8.2",
+  "status": "NEW",
+  "page": "1032",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0586",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.8.3",
+  "status": "NEW",
+  "page": "1033",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0587",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.8.4",
+  "status": "NEW",
+  "page": "1033",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0588",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.8.5",
+  "status": "KNOWN",
+  "page": "1033",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0589",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.8.6",
+  "status": "KNOWN",
+  "page": "1033",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0590",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.8.7",
+  "status": "NEW",
+  "page": "1033",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0591",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.9.1",
+  "status": "KNOWN",
+  "page": "1033",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0592",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.9.2",
+  "status": "KNOWN",
+  "page": "1033",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0593",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.9.3",
+  "status": "KNOWN",
+  "page": "1033",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0594",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.9.4",
+  "status": "NEW",
+  "page": "1033",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0595",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.9.5",
+  "status": "KNOWN",
+  "page": "1033",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0596",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.10.1",
+  "status": "NEW",
+  "page": "1033",
+  "location": "Problems from Part XI: The Closing Apparatus"
+ },
+ {
+  "id": "S05-0597",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.10.2",
+  "status": "KNOWN",
+  "page": "1034",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0598",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.10.3",
+  "status": "NEW",
+  "page": "1034",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0599",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.10.4",
+  "status": "NEW",
+  "page": "1034",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0600",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.11.1",
+  "status": "NEW",
+  "page": "1034",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0601",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.11.2",
+  "status": "NEW",
+  "page": "1034",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0602",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.11.3",
+  "status": "NEW",
+  "page": "1034",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0603",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.11.4",
+  "status": "NEW",
+  "page": "1034",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0604",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.12.1",
+  "status": "NEW",
+  "page": "1034",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0605",
+  "work": "S05",
+  "kind": "Problem",
+  "number": "71.12.2",
+  "status": "NEW",
+  "page": "1034",
+  "location": "Sixty Problems"
+ },
+ {
+  "id": "S05-0606",
+  "work": "S05",
+  "kind": "Conjecture",
+  "number": "G.9.4",
+  "status": "",
+  "page": "1138",
+  "location": "Tannakian Categories"
+ },
+ {
+  "id": "S05-0607",
+  "work": "S05",
+  "kind": "Conjecture",
+  "number": "I.9.1",
+  "status": "",
+  "page": "1160",
+  "location": "Étale Cohomology and Galois Representations"
+ },
+ {
+  "id": "S05-0608",
+  "work": "S05",
+  "kind": "Conjecture",
+  "number": "I.9.2",
+  "status": "",
+  "page": "1160",
+  "location": "Étale Cohomology and Galois Representations"
+ },
+ {
+  "id": "S05-0609",
+  "work": "S05",
+  "kind": "Conjecture",
+  "number": "I.10.1",
+  "status": "",
+  "page": "1161",
+  "location": "I.10"
+ },
+ {
+  "id": "S05-0610",
+  "work": "S05",
+  "kind": "Question",
+  "number": "2.5.3",
+  "status": "",
+  "page": "25",
+  "location": "2.5"
+ },
+ {
+  "id": "S05-0611",
+  "work": "S05",
+  "kind": "Question",
+  "number": "16.8.1",
+  "status": "",
+  "page": "224",
+  "location": "Comparison with Prismatic Cohomology"
+ },
+ {
+  "id": "S05-0612",
+  "work": "S05",
+  "kind": "Question",
+  "number": "16.8.2",
+  "status": "",
+  "page": "225",
+  "location": "16.9"
+ },
+ {
+  "id": "S06-0613",
+  "work": "S06",
+  "kind": "Conjecture",
+  "number": "1.1.2",
+  "status": "OPEN",
+  "page": "3",
+  "location": "Masser–Oesterlé"
+ },
+ {
+  "id": "S06-0614",
+  "work": "S06",
+  "kind": "Conjecture",
+  "number": "1.3.1",
+  "status": "OPEN",
+  "page": "9",
+  "location": "1.3"
+ },
+ {
+  "id": "S06-0615",
+  "work": "S06",
+  "kind": "Conjecture",
+  "number": "1.3.2",
+  "status": "OPEN",
+  "page": "9",
+  "location": "1.3"
+ },
+ {
+  "id": "S06-0616",
+  "work": "S06",
+  "kind": "Conjecture",
+  "number": "1.4.1",
+  "status": "OPEN",
+  "page": "12",
+  "location": "The abc Conjecture: Statements, Equivalents, and the Shape of the Difficulty"
+ },
+ {
+  "id": "S06-0617",
+  "work": "S06",
+  "kind": "Obstruction",
+  "number": "3.3.2",
+  "status": "NEW",
+  "page": "51",
+  "location": "3.3"
+ },
+ {
+  "id": "S06-0618",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "4.6.1",
+  "status": "DISPUTED",
+  "page": "71",
+  "location": "Inter-universal Teichmüller theory"
+ },
+ {
+  "id": "S06-0619",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "5.3.7",
+  "status": "CONDITIONAL",
+  "page": "87",
+  "location": "Statement of the main theorems"
+ },
+ {
+  "id": "S06-0620",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "11.5.5",
+  "status": "CONDITIONAL",
+  "page": "221",
+  "location": "Non-vanishing of the relative cotangent complex"
+ },
+ {
+  "id": "S06-0621",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "11.5.7",
+  "status": "CONDITIONAL",
+  "page": "222",
+  "location": "The Absolute Base"
+ },
+ {
+  "id": "S06-0622",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "11.5.8",
+  "status": "CONDITIONAL",
+  "page": "222",
+  "location": "The Absolute Base"
+ },
+ {
+  "id": "S06-0623",
+  "work": "S06",
+  "kind": "Obstruction",
+  "number": "12.5.1",
+  "status": "NEW",
+  "page": "246",
+  "location": "Arithmetic Jet Spaces: Buium’s 𝛿-Geometry inside the Substrate"
+ },
+ {
+  "id": "S06-0624",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "12.6.2",
+  "status": "CONDITIONAL",
+  "page": "248",
+  "location": "Arithmetic Jet Spaces: Buium’s 𝛿-Geometry inside the Substrate"
+ },
+ {
+  "id": "S06-0625",
+  "work": "S06",
+  "kind": "Conjecture",
+  "number": "13.5.1",
+  "status": "OPEN",
+  "page": "266",
+  "location": "𝑞-de Rham Cohomology and the 𝑞-Crystalline Site"
+ },
+ {
+  "id": "S06-0626",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "15.1.6",
+  "status": "CONDITIONAL",
+  "page": "296",
+  "location": "The 𝑞-Derivation on the Absolute Base: Habiro Descent"
+ },
+ {
+  "id": "S06-0627",
+  "work": "S06",
+  "kind": "Criterion",
+  "number": "15.2.7",
+  "status": "CONDITIONAL",
+  "page": "299",
+  "location": "The Habiro–prismatic comparison"
+ },
+ {
+  "id": "S06-0628",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "15.3.6",
+  "status": "CONDITIONAL",
+  "page": "302",
+  "location": "The 𝑞-Derivation on the Absolute Base: Habiro Descent"
+ },
+ {
+  "id": "S06-0629",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "15.4.1",
+  "status": "CONDITIONAL",
+  "page": "303",
+  "location": "15.4"
+ },
+ {
+  "id": "S06-0630",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "15.5.3",
+  "status": "CONDITIONAL",
+  "page": "306",
+  "location": "The 𝑞-Derivation on the Absolute Base: Habiro Descent"
+ },
+ {
+  "id": "S06-0631",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "15.6.1",
+  "status": "CONDITIONAL",
+  "page": "308",
+  "location": "The 𝑞-Derivation on the Absolute Base: Habiro Descent"
+ },
+ {
+  "id": "S06-0632",
+  "work": "S06",
+  "kind": "Problem",
+  "number": "18.1.5",
+  "status": "",
+  "page": "352",
+  "location": "The Global Substrate 𝔖: Gluing the Finite and Infinite Places"
+ },
+ {
+  "id": "S06-0633",
+  "work": "S06",
+  "kind": "Obstruction",
+  "number": "18.1.6",
+  "status": "NEW",
+  "page": "352",
+  "location": "The Global Substrate 𝔖: Gluing the Finite and Infinite Places"
+ },
+ {
+  "id": "S06-0634",
+  "work": "S06",
+  "kind": "Principle",
+  "number": "18.1.7",
+  "status": "CONDITIONAL",
+  "page": "353",
+  "location": "The gluing problem"
+ },
+ {
+  "id": "S06-0635",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "18.3.8",
+  "status": "CONDITIONAL",
+  "page": "356",
+  "location": "The Global Substrate 𝔖: Gluing the Finite and Infinite Places"
+ },
+ {
+  "id": "S06-0636",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "18.4.5",
+  "status": "CONDITIONAL",
+  "page": "358",
+  "location": "The Global Substrate 𝔖: Gluing the Finite and Infinite Places"
+ },
+ {
+  "id": "S06-0637",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "18.5.3",
+  "status": "CONDITIONAL",
+  "page": "361",
+  "location": "Base change to number fields"
+ },
+ {
+  "id": "S06-0638",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "18.6.3",
+  "status": "CONDITIONAL",
+  "page": "362",
+  "location": "The Global Substrate 𝔖: Gluing the Finite and Infinite Places"
+ },
+ {
+  "id": "S06-0639",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "19.4.5",
+  "status": "CONDITIONAL",
+  "page": "377",
+  "location": "The lifting theorem"
+ },
+ {
+  "id": "S06-0640",
+  "work": "S06",
+  "kind": "Criterion",
+  "number": "19.4.6",
+  "status": "CONDITIONAL",
+  "page": "377",
+  "location": "The lifting theorem"
+ },
+ {
+  "id": "S06-0641",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "19.4.7",
+  "status": "CONDITIONAL",
+  "page": "378",
+  "location": "Adelic Curves, Arakelov Data, and Their Substrate Lift"
+ },
+ {
+  "id": "S06-0642",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "19.5.4",
+  "status": "CONDITIONAL",
+  "page": "383",
+  "location": "19.6"
+ },
+ {
+  "id": "S06-0643",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "19.6.8",
+  "status": "CONDITIONAL",
+  "page": "385",
+  "location": "Notes and References"
+ },
+ {
+  "id": "S06-0644",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "20.3.7",
+  "status": "CONDITIONAL",
+  "page": "396",
+  "location": "Cotangent Complexes and Relative Differentials over 𝔖"
+ },
+ {
+  "id": "S06-0645",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "20.5.2",
+  "status": "CONDITIONAL",
+  "page": "402",
+  "location": "Cotangent Complexes and Relative Differentials over 𝔖"
+ },
+ {
+  "id": "S06-0646",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "21.3.4",
+  "status": "CONDITIONAL",
+  "page": "417",
+  "location": "21.3"
+ },
+ {
+  "id": "S06-0647",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "21.3.7",
+  "status": "CONDITIONAL",
+  "page": "421",
+  "location": "Support on the bad primes"
+ },
+ {
+  "id": "S06-0648",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "21.3.9",
+  "status": "CONDITIONAL",
+  "page": "421",
+  "location": "Support on the bad primes"
+ },
+ {
+  "id": "S06-0649",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "21.4.6",
+  "status": "CONDITIONAL",
+  "page": "425",
+  "location": "The Sen operator as a local avatar"
+ },
+ {
+  "id": "S06-0650",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "21.5.1",
+  "status": "CONDITIONAL",
+  "page": "426",
+  "location": "The Arithmetic Kodaira–Spencer Class"
+ },
+ {
+  "id": "S06-0651",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "21.6.1",
+  "status": "CONDITIONAL",
+  "page": "427",
+  "location": "21.6"
+ },
+ {
+  "id": "S06-0652",
+  "work": "S06",
+  "kind": "Example",
+  "number": "22.5.2",
+  "status": "OPEN",
+  "page": "452",
+  "location": "Semistable Models, Elliptic Curves, and Their Substrate Deformations"
+ },
+ {
+  "id": "S06-0653",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "22.5.3",
+  "status": "CONDITIONAL",
+  "page": "452",
+  "location": "Semistable Models, Elliptic Curves, and Their Substrate Deformations"
+ },
+ {
+  "id": "S06-0654",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "22.6.1",
+  "status": "CONDITIONAL",
+  "page": "453",
+  "location": "22.6"
+ },
+ {
+  "id": "S06-0655",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "23.4.5",
+  "status": "CONDITIONAL",
+  "page": "471",
+  "location": "Log shells"
+ },
+ {
+  "id": "S06-0656",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "23.5.3",
+  "status": "CONDITIONAL",
+  "page": "475",
+  "location": "23.6"
+ },
+ {
+  "id": "S06-0657",
+  "work": "S06",
+  "kind": "Definition",
+  "number": "23.6.1",
+  "status": "CONDITIONAL",
+  "page": "475",
+  "location": "23.6"
+ },
+ {
+  "id": "S06-0658",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "23.6.2",
+  "status": "CONDITIONAL",
+  "page": "476",
+  "location": "Log Structures, Log Shells, and the Boundary Divisor"
+ },
+ {
+  "id": "S06-0659",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "23.6.3",
+  "status": "CONDITIONAL",
+  "page": "476",
+  "location": "Log Structures, Log Shells, and the Boundary Divisor"
+ },
+ {
+  "id": "S06-0660",
+  "work": "S06",
+  "kind": "Example",
+  "number": "23.6.4",
+  "status": "CONDITIONAL",
+  "page": "476",
+  "location": "Log Structures, Log Shells, and the Boundary Divisor"
+ },
+ {
+  "id": "S06-0661",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "24.2.4",
+  "status": "CONDITIONAL",
+  "page": "486",
+  "location": "The Θ-Line, Theta Functions, and the Reconstruction of the Θ-Link"
+ },
+ {
+  "id": "S06-0662",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "24.3.4",
+  "status": "CONDITIONAL",
+  "page": "489",
+  "location": "Theta values as gauge sections"
+ },
+ {
+  "id": "S06-0663",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "24.4.6",
+  "status": "CONDITIONAL",
+  "page": "494",
+  "location": "The Θ-Line, Theta Functions, and the Reconstruction of the Θ-Link"
+ },
+ {
+  "id": "S06-0664",
+  "work": "S06",
+  "kind": "Obstruction",
+  "number": "25.1.3",
+  "status": "NEW",
+  "page": "502",
+  "location": "Gluing Data as an ∞-Groupoid: The Scholze–Stix Resolution"
+ },
+ {
+  "id": "S06-0665",
+  "work": "S06",
+  "kind": "Obstruction",
+  "number": "25.4.2",
+  "status": "NEW",
+  "page": "508",
+  "location": "Gluing Data as an ∞-Groupoid: The Scholze–Stix Resolution"
+ },
+ {
+  "id": "S06-0666",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "25.7.3",
+  "status": "CONDITIONAL",
+  "page": "519",
+  "location": "What must be trace-invariant"
+ },
+ {
+  "id": "S06-0667",
+  "work": "S06",
+  "kind": "Obstruction",
+  "number": "25.7.4",
+  "status": "OPEN",
+  "page": "519",
+  "location": "What must be trace-invariant"
+ },
+ {
+  "id": "S06-0668",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "26.1.2",
+  "status": "DISPUTED",
+  "page": "525",
+  "location": "The three indeterminacies of IUT"
+ },
+ {
+  "id": "S06-0669",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "26.4.10",
+  "status": "CONDITIONAL",
+  "page": "535",
+  "location": "The calculus: composition, restriction, and induction"
+ },
+ {
+  "id": "S06-0670",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "28.3.18",
+  "status": "CONDITIONAL",
+  "page": "583",
+  "location": "28.4"
+ },
+ {
+  "id": "S06-0671",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "28.4.2",
+  "status": "CONDITIONAL",
+  "page": "583",
+  "location": "28.4"
+ },
+ {
+  "id": "S06-0672",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "28.5.2",
+  "status": "CONDITIONAL",
+  "page": "586",
+  "location": "Construction of the Θ-Dilation"
+ },
+ {
+  "id": "S06-0673",
+  "work": "S06",
+  "kind": "Conjecture",
+  "number": "28.5.5",
+  "status": "CONDITIONAL",
+  "page": "587",
+  "location": "The dilation cocycle"
+ },
+ {
+  "id": "S06-0674",
+  "work": "S06",
+  "kind": "Lemma",
+  "number": "29.1.6",
+  "status": "CONDITIONAL",
+  "page": "598",
+  "location": "Functoriality, Base Change, and Compatibility with Descent"
+ },
+ {
+  "id": "S06-0675",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "29.1.7",
+  "status": "CONDITIONAL",
+  "page": "598",
+  "location": "Functoriality, Base Change, and Compatibility with Descent"
+ },
+ {
+  "id": "S06-0676",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "29.2.4",
+  "status": "CONDITIONAL",
+  "page": "601",
+  "location": "Compatibility with 𝑓∗and 𝑓!"
+ },
+ {
+  "id": "S06-0677",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "29.2.6",
+  "status": "CONDITIONAL",
+  "page": "602",
+  "location": "Functoriality, Base Change, and Compatibility with Descent"
+ },
+ {
+  "id": "S06-0678",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "29.4.3",
+  "status": "CONDITIONAL",
+  "page": "605",
+  "location": "29.4"
+ },
+ {
+  "id": "S06-0679",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "29.5.2",
+  "status": "CONDITIONAL",
+  "page": "609",
+  "location": "29.5"
+ },
+ {
+  "id": "S06-0680",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "29.5.4",
+  "status": "CONDITIONAL",
+  "page": "610",
+  "location": "Functoriality, Base Change, and Compatibility with Descent"
+ },
+ {
+  "id": "S06-0681",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "29.6.7",
+  "status": "CONDITIONAL",
+  "page": "616",
+  "location": "Functoriality, Base Change, and Compatibility with Descent"
+ },
+ {
+  "id": "S06-0682",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "30.1.4",
+  "status": "CONDITIONAL",
+  "page": "621",
+  "location": "Statement"
+ },
+ {
+  "id": "S06-0683",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "30.2.2",
+  "status": "CONDITIONAL",
+  "page": "622",
+  "location": "The Dilation Comparison Theorem"
+ },
+ {
+  "id": "S06-0684",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "30.2.4",
+  "status": "CONDITIONAL",
+  "page": "624",
+  "location": "The Dilation Comparison Theorem"
+ },
+ {
+  "id": "S06-0685",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "30.3.2",
+  "status": "CONDITIONAL",
+  "page": "624",
+  "location": "The Dilation Comparison Theorem"
+ },
+ {
+  "id": "S06-0686",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "30.3.3",
+  "status": "CONDITIONAL",
+  "page": "625",
+  "location": "Local analysis at bad primes"
+ },
+ {
+  "id": "S06-0687",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "30.6.6",
+  "status": "CONDITIONAL",
+  "page": "633",
+  "location": "30.7"
+ },
+ {
+  "id": "S06-0688",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "30.7.3",
+  "status": "CONDITIONAL",
+  "page": "636",
+  "location": "The Dilation Comparison Theorem"
+ },
+ {
+  "id": "S06-0689",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "31.4.4",
+  "status": "CONDITIONAL",
+  "page": "649",
+  "location": "Coricity and invariants"
+ },
+ {
+  "id": "S06-0690",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "31.4.10",
+  "status": "CONDITIONAL",
+  "page": "651",
+  "location": "31.5"
+ },
+ {
+  "id": "S06-0691",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "31.5.6",
+  "status": "DISPUTED",
+  "page": "653",
+  "location": "31.6"
+ },
+ {
+  "id": "S06-0692",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "31.5.7",
+  "status": "OPEN",
+  "page": "653",
+  "location": "31.6"
+ },
+ {
+  "id": "S06-0693",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "32.3.5",
+  "status": "CONDITIONAL",
+  "page": "669",
+  "location": "The class [𝜃]"
+ },
+ {
+  "id": "S06-0694",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "32.4.2",
+  "status": "CONDITIONAL",
+  "page": "671",
+  "location": "Nonvanishing"
+ },
+ {
+  "id": "S06-0695",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "32.4.7",
+  "status": "CONDITIONAL",
+  "page": "673",
+  "location": "32.5"
+ },
+ {
+  "id": "S06-0696",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "32.5.1",
+  "status": "CONDITIONAL",
+  "page": "674",
+  "location": "The Dilation Cocycle and Its Cohomology"
+ },
+ {
+  "id": "S06-0697",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "32.5.5",
+  "status": "CONDITIONAL",
+  "page": "675",
+  "location": "32.6"
+ },
+ {
+  "id": "S06-0698",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "33.1.2",
+  "status": "CONDITIONAL",
+  "page": "681",
+  "location": "Chapter 33"
+ },
+ {
+  "id": "S06-0699",
+  "work": "S06",
+  "kind": "Criterion",
+  "number": "33.2.2",
+  "status": "CONDITIONAL",
+  "page": "683",
+  "location": "33.2"
+ },
+ {
+  "id": "S06-0700",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "33.3.3",
+  "status": "CONDITIONAL",
+  "page": "689",
+  "location": "The Rigidity Lemma"
+ },
+ {
+  "id": "S06-0701",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "33.4.3",
+  "status": "CONDITIONAL",
+  "page": "691",
+  "location": "33.4"
+ },
+ {
+  "id": "S06-0702",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "33.4.4",
+  "status": "CONDITIONAL",
+  "page": "692",
+  "location": "Obstruction Classes, Vanishing Criteria, and the Rigidity Lemma"
+ },
+ {
+  "id": "S06-0703",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "33.5.1",
+  "status": "CONDITIONAL",
+  "page": "692",
+  "location": "Obstruction Classes, Vanishing Criteria, and the Rigidity Lemma"
+ },
+ {
+  "id": "S06-0704",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "33.5.2",
+  "status": "CONDITIONAL",
+  "page": "692",
+  "location": "Obstruction Classes, Vanishing Criteria, and the Rigidity Lemma"
+ },
+ {
+  "id": "S06-0705",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "33.5.4",
+  "status": "CONDITIONAL",
+  "page": "693",
+  "location": "Stability under isogeny"
+ },
+ {
+  "id": "S06-0706",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "33.5.5",
+  "status": "CONDITIONAL",
+  "page": "693",
+  "location": "Stability under isogeny"
+ },
+ {
+  "id": "S06-0707",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "33.5.7",
+  "status": "CONDITIONAL",
+  "page": "694",
+  "location": "Obstruction Classes, Vanishing Criteria, and the Rigidity Lemma"
+ },
+ {
+  "id": "S06-0708",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "33.6.2",
+  "status": "CONDITIONAL",
+  "page": "695",
+  "location": "33.6"
+ },
+ {
+  "id": "S06-0709",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "33.6.3",
+  "status": "CONDITIONAL",
+  "page": "695",
+  "location": "33.6"
+ },
+ {
+  "id": "S06-0710",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "34.6.10",
+  "status": "CONDITIONAL",
+  "page": "717",
+  "location": "Six functors over the substrate"
+ },
+ {
+  "id": "S06-0711",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "36.4.1",
+  "status": "CONDITIONAL",
+  "page": "751",
+  "location": "36.4"
+ },
+ {
+  "id": "S06-0712",
+  "work": "S06",
+  "kind": "Principle",
+  "number": "37.1.2",
+  "status": "CONDITIONAL",
+  "page": "760",
+  "location": "Chapter 37"
+ },
+ {
+  "id": "S06-0713",
+  "work": "S06",
+  "kind": "Problem",
+  "number": "37.3.2",
+  "status": "OPEN",
+  "page": "764",
+  "location": "Heights as Traces: The Adelic Trace Formula"
+ },
+ {
+  "id": "S06-0714",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "37.3.6",
+  "status": "CONDITIONAL",
+  "page": "765",
+  "location": "37.4"
+ },
+ {
+  "id": "S06-0715",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "37.4.1",
+  "status": "CONDITIONAL",
+  "page": "765",
+  "location": "37.4"
+ },
+ {
+  "id": "S06-0716",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "37.5.2",
+  "status": "CONDITIONAL",
+  "page": "767",
+  "location": "37.5"
+ },
+ {
+  "id": "S06-0717",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "37.5.3",
+  "status": "CONDITIONAL",
+  "page": "768",
+  "location": "Heights as Traces: The Adelic Trace Formula"
+ },
+ {
+  "id": "S06-0718",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "37.5.5",
+  "status": "CONDITIONAL",
+  "page": "768",
+  "location": "Heights as Traces: The Adelic Trace Formula"
+ },
+ {
+  "id": "S06-0719",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "37.5.6",
+  "status": "CONDITIONAL",
+  "page": "769",
+  "location": "37.6"
+ },
+ {
+  "id": "S06-0720",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "37.6.4",
+  "status": "CONDITIONAL",
+  "page": "772",
+  "location": "Heights as Traces: The Adelic Trace Formula"
+ },
+ {
+  "id": "S06-0721",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "37.7.2",
+  "status": "CONDITIONAL",
+  "page": "775",
+  "location": "Comparison with the Arakelov degree"
+ },
+ {
+  "id": "S06-0722",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "38.1.6",
+  "status": "CONDITIONAL",
+  "page": "781",
+  "location": "38.2"
+ },
+ {
+  "id": "S06-0723",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "38.1.7",
+  "status": "CONDITIONAL",
+  "page": "781",
+  "location": "38.2"
+ },
+ {
+  "id": "S06-0724",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "38.2.4",
+  "status": "OPEN",
+  "page": "784",
+  "location": "Arithmetic Riemann–Hurwitz over the Substrate"
+ },
+ {
+  "id": "S06-0725",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "38.2.6",
+  "status": "CONDITIONAL",
+  "page": "785",
+  "location": "38.3"
+ },
+ {
+  "id": "S06-0726",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "38.2.7",
+  "status": "CONDITIONAL",
+  "page": "785",
+  "location": "38.3"
+ },
+ {
+  "id": "S06-0727",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "38.3.2",
+  "status": "CONDITIONAL",
+  "page": "786",
+  "location": "Arithmetic Riemann–Hurwitz over the Substrate"
+ },
+ {
+  "id": "S06-0728",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "38.3.3",
+  "status": "CONDITIONAL",
+  "page": "786",
+  "location": "Arithmetic Riemann–Hurwitz over the Substrate"
+ },
+ {
+  "id": "S06-0729",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "38.5.2",
+  "status": "CONDITIONAL",
+  "page": "793",
+  "location": "Comparison with arithmetic Riemann–Roch"
+ },
+ {
+  "id": "S06-0730",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "38.6.6",
+  "status": "CONDITIONAL",
+  "page": "796",
+  "location": "Arithmetic Riemann–Hurwitz over the Substrate"
+ },
+ {
+  "id": "S06-0731",
+  "work": "S06",
+  "kind": "Lemma",
+  "number": "39.1.5",
+  "status": "CONDITIONAL",
+  "page": "799",
+  "location": "Statement of Theorem A"
+ },
+ {
+  "id": "S06-0732",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "39.1.9",
+  "status": "CONDITIONAL",
+  "page": "801",
+  "location": "Statement of Theorem A"
+ },
+ {
+  "id": "S06-0733",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "39.3.1",
+  "status": "CONDITIONAL",
+  "page": "804",
+  "location": "The Master Inequality (Theorem A)"
+ },
+ {
+  "id": "S06-0734",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "39.3.3",
+  "status": "CONDITIONAL",
+  "page": "804",
+  "location": "The Master Inequality (Theorem A)"
+ },
+ {
+  "id": "S06-0735",
+  "work": "S06",
+  "kind": "Lemma",
+  "number": "39.3.6",
+  "status": "CONDITIONAL",
+  "page": "807",
+  "location": "39.4"
+ },
+ {
+  "id": "S06-0736",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "39.4.1",
+  "status": "CONDITIONAL",
+  "page": "807",
+  "location": "39.4"
+ },
+ {
+  "id": "S06-0737",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "39.4.3",
+  "status": "CONDITIONAL",
+  "page": "808",
+  "location": "The Master Inequality (Theorem A)"
+ },
+ {
+  "id": "S06-0738",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "39.4.4",
+  "status": "CONDITIONAL",
+  "page": "808",
+  "location": "The Master Inequality (Theorem A)"
+ },
+ {
+  "id": "S06-0739",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "39.5.3",
+  "status": "CONDITIONAL",
+  "page": "809",
+  "location": "39.5"
+ },
+ {
+  "id": "S06-0740",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "39.5.4",
+  "status": "CONDITIONAL",
+  "page": "808",
+  "location": "The Master Inequality (Theorem A)"
+ },
+ {
+  "id": "S06-0741",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "39.5.7",
+  "status": "CONDITIONAL",
+  "page": "811",
+  "location": "Steps 6–7: the ramification bound"
+ },
+ {
+  "id": "S06-0742",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "40.1.6",
+  "status": "CONDITIONAL",
+  "page": "825",
+  "location": "Constant bookkeeping"
+ },
+ {
+  "id": "S06-0743",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "40.2.4",
+  "status": "CONDITIONAL",
+  "page": "828",
+  "location": "Constants, Error Terms, and Effectivity"
+ },
+ {
+  "id": "S06-0744",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "40.3.4",
+  "status": "CONDITIONAL",
+  "page": "830",
+  "location": "Constants, Error Terms, and Effectivity"
+ },
+ {
+  "id": "S06-0745",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "40.4.3",
+  "status": "CONDITIONAL",
+  "page": "831",
+  "location": "40.4"
+ },
+ {
+  "id": "S06-0746",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "40.4.5",
+  "status": "CONDITIONAL",
+  "page": "834",
+  "location": "Constants, Error Terms, and Effectivity"
+ },
+ {
+  "id": "S06-0747",
+  "work": "S06",
+  "kind": "Principle",
+  "number": "40.5.1",
+  "status": "CONDITIONAL",
+  "page": "835",
+  "location": "40.5"
+ },
+ {
+  "id": "S06-0748",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "40.6.4",
+  "status": "CONDITIONAL",
+  "page": "839",
+  "location": "Routes to effectivity"
+ },
+ {
+  "id": "S06-0749",
+  "work": "S06",
+  "kind": "Lemma",
+  "number": "41.1.2",
+  "status": "OPEN",
+  "page": "844",
+  "location": "From the Master Inequality to Szpiro’s Conjecture"
+ },
+ {
+  "id": "S06-0750",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "41.2.1",
+  "status": "CONDITIONAL",
+  "page": "846",
+  "location": "From the Master Inequality to Szpiro’s Conjecture"
+ },
+ {
+  "id": "S06-0751",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "41.2.4",
+  "status": "CONDITIONAL",
+  "page": "847",
+  "location": "The semistable case"
+ },
+ {
+  "id": "S06-0752",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "41.3.3",
+  "status": "CONDITIONAL",
+  "page": "850",
+  "location": "From the Master Inequality to Szpiro’s Conjecture"
+ },
+ {
+  "id": "S06-0753",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "41.5.2",
+  "status": "CONDITIONAL",
+  "page": "856",
+  "location": "From the Master Inequality to Szpiro’s Conjecture"
+ },
+ {
+  "id": "S06-0754",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "41.5.3",
+  "status": "CONDITIONAL",
+  "page": "857",
+  "location": "Constants"
+ },
+ {
+  "id": "S06-0755",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "41.6.1",
+  "status": "CONDITIONAL",
+  "page": "858",
+  "location": "From the Master Inequality to Szpiro’s Conjecture"
+ },
+ {
+  "id": "S06-0756",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "43.1.5",
+  "status": "CONDITIONAL",
+  "page": "883",
+  "location": "Theorem B"
+ },
+ {
+  "id": "S06-0757",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "43.1.5",
+  "status": "CONDITIONAL",
+  "page": "883",
+  "location": "Theorem B"
+ },
+ {
+  "id": "S06-0758",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "43.1.7",
+  "status": "CONDITIONAL",
+  "page": "884",
+  "location": "The 𝑎𝑏𝑐Conjecture over ℚ(Theorem B)"
+ },
+ {
+  "id": "S06-0759",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "43.2.2",
+  "status": "CONDITIONAL",
+  "page": "884",
+  "location": "The 𝑎𝑏𝑐Conjecture over ℚ(Theorem B)"
+ },
+ {
+  "id": "S06-0760",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "43.3.1",
+  "status": "CONDITIONAL",
+  "page": "890",
+  "location": "The 𝑎𝑏𝑐Conjecture over ℚ(Theorem B)"
+ },
+ {
+  "id": "S06-0761",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "43.3.4",
+  "status": "CONDITIONAL",
+  "page": "890",
+  "location": "The 𝑎𝑏𝑐Conjecture over ℚ(Theorem B)"
+ },
+ {
+  "id": "S06-0762",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "44.1.5",
+  "status": "CONDITIONAL",
+  "page": "905",
+  "location": "Theorem C"
+ },
+ {
+  "id": "S06-0763",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "44.1.7",
+  "status": "CONDITIONAL",
+  "page": "906",
+  "location": "abc over Number Fields"
+ },
+ {
+  "id": "S06-0764",
+  "work": "S06",
+  "kind": "Conjecture",
+  "number": "44.3.2",
+  "status": "",
+  "page": "912",
+  "location": "abc over Number Fields"
+ },
+ {
+  "id": "S06-0765",
+  "work": "S06",
+  "kind": "Conjecture",
+  "number": "44.4.3",
+  "status": "OPEN",
+  "page": "917",
+  "location": "𝑛-term abc"
+ },
+ {
+  "id": "S06-0766",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "44.5.1",
+  "status": "CONDITIONAL",
+  "page": "918",
+  "location": "abc over Number Fields"
+ },
+ {
+  "id": "S06-0767",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "45.1.2",
+  "status": "CONDITIONAL",
+  "page": "928",
+  "location": "Consequences: Fermat, Catalan, Roth, and the Erdős–Woods Problem"
+ },
+ {
+  "id": "S06-0768",
+  "work": "S06",
+  "kind": "Example",
+  "number": "45.1.3",
+  "status": "CONDITIONAL",
+  "page": "928",
+  "location": "Consequences: Fermat, Catalan, Roth, and the Erdős–Woods Problem"
+ },
+ {
+  "id": "S06-0769",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "45.1.6",
+  "status": "CONDITIONAL",
+  "page": "929",
+  "location": "Asymptotic Fermat"
+ },
+ {
+  "id": "S06-0770",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "45.2.2",
+  "status": "CONDITIONAL",
+  "page": "931",
+  "location": "Catalan and Fermat–Catalan"
+ },
+ {
+  "id": "S06-0771",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "45.2.4",
+  "status": "CONDITIONAL",
+  "page": "932",
+  "location": "Consequences: Fermat, Catalan, Roth, and the Erdős–Woods Problem"
+ },
+ {
+  "id": "S06-0772",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "45.2.8",
+  "status": "CONDITIONAL",
+  "page": "933",
+  "location": "Catalan and Fermat–Catalan"
+ },
+ {
+  "id": "S06-0773",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "45.3.1",
+  "status": "CONDITIONAL",
+  "page": "934",
+  "location": "Consequences: Fermat, Catalan, Roth, and the Erdős–Woods Problem"
+ },
+ {
+  "id": "S06-0774",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "45.3.2",
+  "status": "CONDITIONAL",
+  "page": "935",
+  "location": "Effective Roth and Mordell"
+ },
+ {
+  "id": "S06-0775",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "45.3.3",
+  "status": "CONDITIONAL",
+  "page": "935",
+  "location": "Effective Roth and Mordell"
+ },
+ {
+  "id": "S06-0776",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "45.4.1",
+  "status": "CONDITIONAL",
+  "page": "937",
+  "location": "Erdős–Woods and Wieferich phenomena"
+ },
+ {
+  "id": "S06-0777",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "45.4.2",
+  "status": "CONDITIONAL",
+  "page": "937",
+  "location": "Erdős–Woods and Wieferich phenomena"
+ },
+ {
+  "id": "S06-0778",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "45.5.1",
+  "status": "CONDITIONAL",
+  "page": "939",
+  "location": "45.5"
+ },
+ {
+  "id": "S06-0779",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "45.5.5",
+  "status": "CONDITIONAL",
+  "page": "941",
+  "location": "Szpiro–Lang, Vojta, and Granville–Langevin"
+ },
+ {
+  "id": "S06-0780",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "46.1.5",
+  "status": "CONDITIONAL",
+  "page": "950",
+  "location": "Uniformity, Families, and the Geometric Analogue"
+ },
+ {
+  "id": "S06-0781",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "46.3.5",
+  "status": "CONDITIONAL",
+  "page": "955",
+  "location": "46.4"
+ },
+ {
+  "id": "S06-0782",
+  "work": "S06",
+  "kind": "Corollary",
+  "number": "46.4.8",
+  "status": "CONDITIONAL",
+  "page": "959",
+  "location": "Uniform arithmetic bounds"
+ },
+ {
+  "id": "S06-0783",
+  "work": "S06",
+  "kind": "Conjecture",
+  "number": "47.6.3",
+  "status": "OPEN",
+  "page": "985",
+  "location": "The Masser–Oesterlé heuristic"
+ },
+ {
+  "id": "S06-0784",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "47.7.3",
+  "status": "CONDITIONAL",
+  "page": "988",
+  "location": "Counterexample Search, Extremal Triples, and Numerical Evidence"
+ },
+ {
+  "id": "S06-0785",
+  "work": "S06",
+  "kind": "Algorithm",
+  "number": "49.6.2",
+  "status": "OPEN",
+  "page": "1027",
+  "location": "Correctness certificates"
+ },
+ {
+  "id": "S06-0786",
+  "work": "S06",
+  "kind": "Obstruction",
+  "number": "49.6.6",
+  "status": "OPEN",
+  "page": "1029",
+  "location": "Correctness certificates"
+ },
+ {
+  "id": "S06-0787",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "49.6.9",
+  "status": "CONDITIONAL",
+  "page": "1031",
+  "location": "Correctness certificates"
+ },
+ {
+  "id": "S06-0788",
+  "work": "S06",
+  "kind": "Obstruction",
+  "number": "53.5.3",
+  "status": "NEW",
+  "page": "1114",
+  "location": "Formalising the Substrate: A Lean 4 Blueprint"
+ },
+ {
+  "id": "S06-0789",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "53.5.4",
+  "status": "CONDITIONAL",
+  "page": "1115",
+  "location": "53.6"
+ },
+ {
+  "id": "S06-0790",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "54.4.3",
+  "status": "CONDITIONAL",
+  "page": "1129",
+  "location": "Sufficiency theorem"
+ },
+ {
+  "id": "S06-0791",
+  "work": "S06",
+  "kind": "Criterion",
+  "number": "55.6.10",
+  "status": "OPEN",
+  "page": "1152",
+  "location": "The Proof-Obligation Ledger as a Formal Artefact"
+ },
+ {
+  "id": "S06-0792",
+  "work": "S06",
+  "kind": "Example",
+  "number": "57.5.5",
+  "status": "OPEN",
+  "page": "1183",
+  "location": "The IUT case study"
+ },
+ {
+  "id": "S06-0793",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "59.3.7",
+  "status": "OPEN",
+  "page": "1221",
+  "location": "59.4"
+ },
+ {
+  "id": "S06-0794",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "60.1.3",
+  "status": "OPEN",
+  "page": "1228",
+  "location": "The Substrate Beyond 𝑎𝑏𝑐: Vojta, Szpiro, and Uniformity"
+ },
+ {
+  "id": "S06-0795",
+  "work": "S06",
+  "kind": "Conjecture",
+  "number": "60.2.1",
+  "status": "OPEN",
+  "page": "1229",
+  "location": "60.2"
+ },
+ {
+  "id": "S06-0796",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "60.2.4",
+  "status": "OPEN",
+  "page": "1234",
+  "location": "The Substrate Beyond 𝑎𝑏𝑐: Vojta, Szpiro, and Uniformity"
+ },
+ {
+  "id": "S06-0797",
+  "work": "S06",
+  "kind": "Proposition",
+  "number": "60.3.1",
+  "status": "CONDITIONAL",
+  "page": "1235",
+  "location": "60.3"
+ },
+ {
+  "id": "S06-0798",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "60.4.4",
+  "status": "OPEN",
+  "page": "1241",
+  "location": "Indeterminacies"
+ },
+ {
+  "id": "S06-0799",
+  "work": "S06",
+  "kind": "Scholium",
+  "number": "60.4.5",
+  "status": "OPEN",
+  "page": "1242",
+  "location": "The Substrate Beyond 𝑎𝑏𝑐: Vojta, Szpiro, and Uniformity"
+ },
+ {
+  "id": "S06-0800",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "61.1.1",
+  "status": "CONDITIONAL",
+  "page": "1252",
+  "location": "Chapter 61"
+ },
+ {
+  "id": "S06-0801",
+  "work": "S06",
+  "kind": "Problem",
+  "number": "62.1.4",
+  "status": "OPEN",
+  "page": "1275",
+  "location": "The critical path"
+ },
+ {
+  "id": "S06-0802",
+  "work": "S06",
+  "kind": "Problem",
+  "number": "62.1.5",
+  "status": "OPEN",
+  "page": "1275",
+  "location": "The critical path"
+ },
+ {
+  "id": "S06-0803",
+  "work": "S06",
+  "kind": "Problem",
+  "number": "62.1.6",
+  "status": "OPEN",
+  "page": "1275",
+  "location": "The critical path"
+ },
+ {
+  "id": "S06-0804",
+  "work": "S06",
+  "kind": "Problem",
+  "number": "62.1.7",
+  "status": "OPEN",
+  "page": "1276",
+  "location": "A Programme for the Next Decade"
+ },
+ {
+  "id": "S06-0805",
+  "work": "S06",
+  "kind": "Problem",
+  "number": "62.1.8",
+  "status": "OPEN",
+  "page": "1276",
+  "location": "A Programme for the Next Decade"
+ },
+ {
+  "id": "S06-0806",
+  "work": "S06",
+  "kind": "Problem",
+  "number": "62.1.9",
+  "status": "OPEN",
+  "page": "1276",
+  "location": "A Programme for the Next Decade"
+ },
+ {
+  "id": "S06-0807",
+  "work": "S06",
+  "kind": "Problem",
+  "number": "62.1.10",
+  "status": "OPEN",
+  "page": "1277",
+  "location": "The critical path"
+ },
+ {
+  "id": "S06-0808",
+  "work": "S06",
+  "kind": "Problem",
+  "number": "62.1.11",
+  "status": "OPEN",
+  "page": "1277",
+  "location": "The critical path"
+ },
+ {
+  "id": "S06-0809",
+  "work": "S06",
+  "kind": "Theorem",
+  "number": "C.6.3",
+  "status": "OPEN",
+  "page": "1337",
+  "location": "C.6"
+ },
+ {
+  "id": "S06-0810",
+  "work": "S06",
+  "kind": "Criterion",
+  "number": "E.5.3",
+  "status": "CONDITIONAL",
+  "page": "1399",
+  "location": "E.6"
+ },
+ {
+  "id": "S06-0811",
+  "work": "S06",
+  "kind": "Conjecture",
+  "number": "E.6.3",
+  "status": "OPEN",
+  "page": "1400",
+  "location": "Habiro-Theoretic Tables"
+ },
+ {
+  "id": "S06-0812",
+  "work": "S06",
+  "kind": "Criterion",
+  "number": "E.6.4",
+  "status": "CONDITIONAL",
+  "page": "1400",
+  "location": "Habiro-Theoretic Tables"
+ },
+ {
+  "id": "S06-0813",
+  "work": "S06",
+  "kind": "Principle",
+  "number": "F.6.7",
+  "status": "CONDITIONAL",
+  "page": "1422",
+  "location": "Arakelov Geometry: Background and Conventions"
+ },
+ {
+  "id": "S06-0814",
+  "work": "S06",
+  "kind": "Principle",
+  "number": "F.10.1",
+  "status": "CONDITIONAL",
+  "page": "1429",
+  "location": "F.10"
+ },
+ {
+  "id": "S06-0815",
+  "work": "S06",
+  "kind": "Question",
+  "number": "30.7.6",
+  "status": "",
+  "page": "636",
+  "location": "The Dilation Comparison Theorem"
+ },
+ {
+  "id": "S06-0816",
+  "work": "S06",
+  "kind": "Question",
+  "number": "31.5.8",
+  "status": "",
+  "page": "653",
+  "location": "31.6"
+ },
+ {
+  "id": "S07-0817",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "1.2",
+  "status": "CONJECTURE",
+  "page": "3",
+  "location": "Reciprocity in its classical form"
+ },
+ {
+  "id": "S07-0818",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "1.3",
+  "status": "CONJECTURE",
+  "page": "4",
+  "location": "The Shape of the Problem"
+ },
+ {
+  "id": "S07-0819",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "1.5",
+  "status": "CONJECTURE",
+  "page": "5",
+  "location": "Reciprocity in its classical form"
+ },
+ {
+  "id": "S07-0820",
+  "work": "S07",
+  "kind": "Problem",
+  "number": "1.16",
+  "status": "DESIGN",
+  "page": "17",
+  "location": "1.4"
+ },
+ {
+  "id": "S07-0821",
+  "work": "S07",
+  "kind": "Problem",
+  "number": "1.18",
+  "status": "DESIGN",
+  "page": "18",
+  "location": "The Shape of the Problem"
+ },
+ {
+  "id": "S07-0822",
+  "work": "S07",
+  "kind": "Problem",
+  "number": "1.19",
+  "status": "DESIGN",
+  "page": "18",
+  "location": "The Shape of the Problem"
+ },
+ {
+  "id": "S07-0823",
+  "work": "S07",
+  "kind": "Problem",
+  "number": "1.20",
+  "status": "ESTABLISHED",
+  "page": "19",
+  "location": "Four obstructions, and one"
+ },
+ {
+  "id": "S07-0824",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "1.23",
+  "status": "CONJECTURE",
+  "page": "21",
+  "location": "1.5"
+ },
+ {
+  "id": "S07-0825",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "1.24",
+  "status": "CONJECTURE",
+  "page": "22",
+  "location": "The Shape of the Problem"
+ },
+ {
+  "id": "S07-0826",
+  "work": "S07",
+  "kind": "Criterion",
+  "number": "1.26",
+  "status": "FORMAL TARGET",
+  "page": "28",
+  "location": "The Shape of the Problem"
+ },
+ {
+  "id": "S07-0827",
+  "work": "S07",
+  "kind": "Remark",
+  "number": "2.11",
+  "status": "CONJECTURE",
+  "page": "44",
+  "location": "Chôral Geometry: Geometry Without Space"
+ },
+ {
+  "id": "S07-0828",
+  "work": "S07",
+  "kind": "Axiom",
+  "number": "2.16",
+  "status": "CONJECTURE",
+  "page": "47",
+  "location": "The axioms"
+ },
+ {
+  "id": "S07-0829",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "2.17",
+  "status": "CONJECTURE",
+  "page": "48",
+  "location": "Chôral Geometry: Geometry Without Space"
+ },
+ {
+  "id": "S07-0830",
+  "work": "S07",
+  "kind": "Algorithm",
+  "number": "2.23",
+  "status": "FORMAL TARGET",
+  "page": "53",
+  "location": "Dualisable figures and how to certify them"
+ },
+ {
+  "id": "S07-0831",
+  "work": "S07",
+  "kind": "Axiom",
+  "number": "3.5",
+  "status": "CONJECTURE",
+  "page": "73",
+  "location": "3.2"
+ },
+ {
+  "id": "S07-0832",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "4.17",
+  "status": "CONJECTURE",
+  "page": "127",
+  "location": "Ambidexterity and the semiadditivity hierarchy"
+ },
+ {
+  "id": "S07-0833",
+  "work": "S07",
+  "kind": "Principle",
+  "number": "4.19",
+  "status": "CONJECTURE",
+  "page": "128",
+  "location": "Dualisability, Ambidexterity, and Compactness"
+ },
+ {
+  "id": "S07-0834",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "4.22",
+  "status": "CONJECTURE",
+  "page": "131",
+  "location": "4.7"
+ },
+ {
+  "id": "S07-0835",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "4.23",
+  "status": "CONJECTURE",
+  "page": "131",
+  "location": "4.7"
+ },
+ {
+  "id": "S07-0836",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "4.24",
+  "status": "CONJECTURE",
+  "page": "134",
+  "location": "Dualisability, Ambidexterity, and Compactness"
+ },
+ {
+  "id": "S07-0837",
+  "work": "S07",
+  "kind": "Algorithm",
+  "number": "4.30",
+  "status": "FORMAL TARGET",
+  "page": "141",
+  "location": "4.9"
+ },
+ {
+  "id": "S07-0838",
+  "work": "S07",
+  "kind": "Axiom",
+  "number": "6.17",
+  "status": "FORMAL TARGET",
+  "page": "213",
+  "location": "6.9"
+ },
+ {
+  "id": "S07-0839",
+  "work": "S07",
+  "kind": "Axiom",
+  "number": "6.18",
+  "status": "FORMAL TARGET",
+  "page": "213",
+  "location": "6.9"
+ },
+ {
+  "id": "S07-0840",
+  "work": "S07",
+  "kind": "Axiom",
+  "number": "6.19",
+  "status": "FORMAL TARGET",
+  "page": "213",
+  "location": "6.9"
+ },
+ {
+  "id": "S07-0841",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "6.23",
+  "status": "CONJECTURE",
+  "page": "215",
+  "location": "Semantics"
+ },
+ {
+  "id": "S07-0842",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "6.24",
+  "status": "CONJECTURE",
+  "page": "220",
+  "location": "The Language: Modal Directed Type Theory"
+ },
+ {
+  "id": "S07-0843",
+  "work": "S07",
+  "kind": "Criterion",
+  "number": "6.25",
+  "status": "CONJECTURE",
+  "page": "220",
+  "location": "The Language: Modal Directed Type Theory"
+ },
+ {
+  "id": "S07-0844",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "6.27",
+  "status": "CONJECTURE",
+  "page": "221",
+  "location": "Metatheory: what is and is not claimed"
+ },
+ {
+  "id": "S07-0845",
+  "work": "S07",
+  "kind": "Problem",
+  "number": "6.29",
+  "status": "CONJECTURE",
+  "page": "228",
+  "location": "The Language: Modal Directed Type Theory"
+ },
+ {
+  "id": "S07-0846",
+  "work": "S07",
+  "kind": "Problem",
+  "number": "6.30",
+  "status": "CONJECTURE",
+  "page": "228",
+  "location": "The Language: Modal Directed Type Theory"
+ },
+ {
+  "id": "S07-0847",
+  "work": "S07",
+  "kind": "Principle",
+  "number": "8.1",
+  "status": "CONJECTURE",
+  "page": "269",
+  "location": "Chapter 8"
+ },
+ {
+  "id": "S07-0848",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "8.19",
+  "status": "CONJECTURE",
+  "page": "294",
+  "location": "The Finite Charts: Prismatisation and F-Gauges"
+ },
+ {
+  "id": "S07-0849",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "8.21",
+  "status": "CONJECTURE",
+  "page": "295",
+  "location": "The Hodge–Tate divisor as an extension boundary"
+ },
+ {
+  "id": "S07-0850",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "8.29",
+  "status": "CONJECTURE",
+  "page": "311",
+  "location": "The finite pieces of the proposed arithmetic base"
+ },
+ {
+  "id": "S07-0851",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "9.15",
+  "status": "CONJECTURE",
+  "page": "328",
+  "location": "The Archimedean Chart: Twistors and the Scaling Flow"
+ },
+ {
+  "id": "S07-0852",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "9.18",
+  "status": "CONJECTURE",
+  "page": "330",
+  "location": "The Archimedean Chart: Twistors and the Scaling Flow"
+ },
+ {
+  "id": "S07-0853",
+  "work": "S07",
+  "kind": "Corollary",
+  "number": "9.19",
+  "status": "CONJECTURE",
+  "page": "331",
+  "location": "The compact direction: cyclicity of the trace"
+ },
+ {
+  "id": "S07-0854",
+  "work": "S07",
+  "kind": "Theorem",
+  "number": "9.27",
+  "status": "CONJECTURE",
+  "page": "336",
+  "location": "The Archimedean Chart: Twistors and the Scaling Flow"
+ },
+ {
+  "id": "S07-0855",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "9.32",
+  "status": "CONJECTURE",
+  "page": "340",
+  "location": "The Archimedean Chart: Twistors and the Scaling Flow"
+ },
+ {
+  "id": "S07-0856",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "9.33",
+  "status": "CONJECTURE",
+  "page": "345",
+  "location": "9.10"
+ },
+ {
+  "id": "S07-0857",
+  "work": "S07",
+  "kind": "Exercise",
+  "number": "9.40",
+  "status": "CONJECTURE",
+  "page": "351",
+  "location": "Exercises"
+ },
+ {
+  "id": "S07-0858",
+  "work": "S07",
+  "kind": "Exercise",
+  "number": "9.43",
+  "status": "CONJECTURE",
+  "page": "351",
+  "location": "Exercises"
+ },
+ {
+  "id": "S07-0859",
+  "work": "S07",
+  "kind": "Exercise",
+  "number": "9.45",
+  "status": "CONJECTURE",
+  "page": "351",
+  "location": "Exercises"
+ },
+ {
+  "id": "S07-0860",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "10.4",
+  "status": "CONJECTURE",
+  "page": "354",
+  "location": "The Period Halo and the Gluing"
+ },
+ {
+  "id": "S07-0861",
+  "work": "S07",
+  "kind": "Construction",
+  "number": "10.7",
+  "status": "CONJECTURE",
+  "page": "356",
+  "location": "The Period Halo and the Gluing"
+ },
+ {
+  "id": "S07-0862",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "10.8",
+  "status": "CONJECTURE",
+  "page": "357",
+  "location": "The radial parameter and local period families"
+ },
+ {
+  "id": "S07-0863",
+  "work": "S07",
+  "kind": "Definition",
+  "number": "10.10",
+  "status": "CONJECTURE",
+  "page": "359",
+  "location": "10.4"
+ },
+ {
+  "id": "S07-0864",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "10.13",
+  "status": "CONJECTURE",
+  "page": "362",
+  "location": "The Period Halo and the Gluing"
+ },
+ {
+  "id": "S07-0865",
+  "work": "S07",
+  "kind": "Theorem",
+  "number": "10.14",
+  "status": "CONJECTURE",
+  "page": "363",
+  "location": "Descent data and the full cocycle"
+ },
+ {
+  "id": "S07-0866",
+  "work": "S07",
+  "kind": "Definition",
+  "number": "10.15",
+  "status": "CONJECTURE",
+  "page": "365",
+  "location": "10.6"
+ },
+ {
+  "id": "S07-0867",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "10.16",
+  "status": "CONJECTURE",
+  "page": "366",
+  "location": "The Period Halo and the Gluing"
+ },
+ {
+  "id": "S07-0868",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "10.19",
+  "status": "CONJECTURE",
+  "page": "370",
+  "location": "The Period Halo and the Gluing"
+ },
+ {
+  "id": "S07-0869",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "10.22",
+  "status": "CONJECTURE",
+  "page": "375",
+  "location": "Computing an overlap category"
+ },
+ {
+  "id": "S07-0870",
+  "work": "S07",
+  "kind": "Algorithm",
+  "number": "10.28",
+  "status": "FORMAL TARGET",
+  "page": "386",
+  "location": "The Period Halo and the Gluing"
+ },
+ {
+  "id": "S07-0871",
+  "work": "S07",
+  "kind": "Criterion",
+  "number": "10.30",
+  "status": "CONJECTURE",
+  "page": "388",
+  "location": "The Period Halo and the Gluing"
+ },
+ {
+  "id": "S07-0872",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "11.33",
+  "status": "CONJECTURE",
+  "page": "421",
+  "location": "11.9"
+ },
+ {
+  "id": "S07-0873",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "11.36",
+  "status": "CONJECTURE",
+  "page": "422",
+  "location": "The Absolute Frobenius and the Cyclotomic Structure"
+ },
+ {
+  "id": "S07-0874",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "12.14",
+  "status": "CONJECTURE",
+  "page": "445",
+  "location": "Dualising objects and orientation degree"
+ },
+ {
+  "id": "S07-0875",
+  "work": "S07",
+  "kind": "Criterion",
+  "number": "12.15",
+  "status": "CONJECTURE",
+  "page": "445",
+  "location": "Dualising objects and orientation degree"
+ },
+ {
+  "id": "S07-0876",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "12.21",
+  "status": "CONJECTURE",
+  "page": "449",
+  "location": "AKSZ transgression and the negative shift"
+ },
+ {
+  "id": "S07-0877",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "13.6",
+  "status": "CONJECTURE",
+  "page": "473",
+  "location": "The gluing, verified"
+ },
+ {
+  "id": "S07-0878",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "13.11",
+  "status": "CONJECTURE",
+  "page": "478",
+  "location": "The Arithmetic Gauge Stack"
+ },
+ {
+  "id": "S07-0879",
+  "work": "S07",
+  "kind": "Corollary",
+  "number": "13.18",
+  "status": "CONJECTURE",
+  "page": "484",
+  "location": "The Arithmetic Gauge Stack"
+ },
+ {
+  "id": "S07-0880",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "13.23",
+  "status": "CONJECTURE",
+  "page": "489",
+  "location": "13.10"
+ },
+ {
+  "id": "S07-0881",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "14.12",
+  "status": "CONJECTURE",
+  "page": "516",
+  "location": "The Arithmetic Spectral Stack"
+ },
+ {
+  "id": "S07-0882",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "14.15",
+  "status": "CONJECTURE",
+  "page": "522",
+  "location": "The Arithmetic Spectral Stack"
+ },
+ {
+  "id": "S07-0883",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "14.16",
+  "status": "CONJECTURE",
+  "page": "523",
+  "location": "The proposed shifted symplectic structure"
+ },
+ {
+  "id": "S07-0884",
+  "work": "S07",
+  "kind": "Example",
+  "number": "14.22",
+  "status": "CONJECTURE",
+  "page": "530",
+  "location": "The Arithmetic Spectral Stack"
+ },
+ {
+  "id": "S07-0885",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "15.24",
+  "status": "CONJECTURE",
+  "page": "568",
+  "location": "Shifted Symplectic Structure in Arithmetic"
+ },
+ {
+  "id": "S07-0886",
+  "work": "S07",
+  "kind": "Algorithm",
+  "number": "15.29",
+  "status": "FORMAL TARGET",
+  "page": "575",
+  "location": "15.11"
+ },
+ {
+  "id": "S07-0887",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "16.25",
+  "status": "CONJECTURE",
+  "page": "604",
+  "location": "The Defect ℓ0 and the Structural Failure of Patching"
+ },
+ {
+  "id": "S07-0888",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "16.26",
+  "status": "CONJECTURE",
+  "page": "604",
+  "location": "The Defect ℓ0 and the Structural Failure of Patching"
+ },
+ {
+  "id": "S07-0889",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "16.29",
+  "status": "CONJECTURE",
+  "page": "605",
+  "location": "The modern responses"
+ },
+ {
+  "id": "S07-0890",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "16.33",
+  "status": "CONJECTURE",
+  "page": "609",
+  "location": "The defect is an amplitude"
+ },
+ {
+  "id": "S07-0891",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "16.35",
+  "status": "CONJECTURE",
+  "page": "611",
+  "location": "The defect is an amplitude"
+ },
+ {
+  "id": "S07-0892",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "16.36",
+  "status": "CONJECTURE",
+  "page": "613",
+  "location": "16.8"
+ },
+ {
+  "id": "S07-0893",
+  "work": "S07",
+  "kind": "Remark",
+  "number": "16.37",
+  "status": "CONJECTURE",
+  "page": "613",
+  "location": "16.8"
+ },
+ {
+  "id": "S07-0894",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "17.24",
+  "status": "CONJECTURE",
+  "page": "645",
+  "location": "17.11"
+ },
+ {
+  "id": "S07-0895",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "17.25",
+  "status": "CONJECTURE",
+  "page": "647",
+  "location": "The degree ledger imposed by the (−1)-shift"
+ },
+ {
+  "id": "S07-0896",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "17.28",
+  "status": "CONJECTURE",
+  "page": "649",
+  "location": "17.14"
+ },
+ {
+  "id": "S07-0897",
+  "work": "S07",
+  "kind": "Example",
+  "number": "17.29",
+  "status": "CONJECTURE",
+  "page": "650",
+  "location": "Derived Hecke Algebras and Koszul Duality"
+ },
+ {
+  "id": "S07-0898",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "18.17",
+  "status": "CONJECTURE",
+  "page": "679",
+  "location": "The arithmetic Hitchin base"
+ },
+ {
+  "id": "S07-0899",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "18.18",
+  "status": "CONJECTURE",
+  "page": "679",
+  "location": "The arithmetic Hitchin base"
+ },
+ {
+  "id": "S07-0900",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "18.20",
+  "status": "CONJECTURE",
+  "page": "680",
+  "location": "Singular Support and the Nilpotent Cone"
+ },
+ {
+  "id": "S07-0901",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "18.21",
+  "status": "CONJECTURE",
+  "page": "680",
+  "location": "Singular Support and the Nilpotent Cone"
+ },
+ {
+  "id": "S07-0902",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "18.24",
+  "status": "CONJECTURE",
+  "page": "683",
+  "location": "Microlocal monodromy and the Arthur SL2"
+ },
+ {
+  "id": "S07-0903",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "19.5",
+  "status": "CONJECTURE",
+  "page": "709",
+  "location": "The statement"
+ },
+ {
+  "id": "S07-0904",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "19.6",
+  "status": "CONJECTURE",
+  "page": "712",
+  "location": "The Main Conjecture: Arithmetic Trace Reciprocity"
+ },
+ {
+  "id": "S07-0905",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "19.9",
+  "status": "CONJECTURE",
+  "page": "714",
+  "location": "The Main Conjecture: Arithmetic Trace Reciprocity"
+ },
+ {
+  "id": "S07-0906",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "19.14",
+  "status": "CONJECTURE",
+  "page": "718",
+  "location": "The Main Conjecture: Arithmetic Trace Reciprocity"
+ },
+ {
+  "id": "S07-0907",
+  "work": "S07",
+  "kind": "Corollary",
+  "number": "19.17",
+  "status": "CONJECTURE",
+  "page": "721",
+  "location": "The corollaries"
+ },
+ {
+  "id": "S07-0908",
+  "work": "S07",
+  "kind": "Corollary",
+  "number": "19.18",
+  "status": "CONJECTURE",
+  "page": "722",
+  "location": "The Main Conjecture: Arithmetic Trace Reciprocity"
+ },
+ {
+  "id": "S07-0909",
+  "work": "S07",
+  "kind": "Corollary",
+  "number": "19.19",
+  "status": "CONJECTURE",
+  "page": "723",
+  "location": "The corollaries"
+ },
+ {
+  "id": "S07-0910",
+  "work": "S07",
+  "kind": "Corollary",
+  "number": "19.20",
+  "status": "CONJECTURE",
+  "page": "723",
+  "location": "The corollaries"
+ },
+ {
+  "id": "S07-0911",
+  "work": "S07",
+  "kind": "Corollary",
+  "number": "19.21",
+  "status": "CONJECTURE",
+  "page": "724",
+  "location": "The Main Conjecture: Arithmetic Trace Reciprocity"
+ },
+ {
+  "id": "S07-0912",
+  "work": "S07",
+  "kind": "Corollary",
+  "number": "19.22",
+  "status": "CONJECTURE",
+  "page": "724",
+  "location": "The Main Conjecture: Arithmetic Trace Reciprocity"
+ },
+ {
+  "id": "S07-0913",
+  "work": "S07",
+  "kind": "Corollary",
+  "number": "19.23",
+  "status": "CONJECTURE",
+  "page": "725",
+  "location": "The corollaries"
+ },
+ {
+  "id": "S07-0914",
+  "work": "S07",
+  "kind": "Corollary",
+  "number": "19.24",
+  "status": "CONJECTURE",
+  "page": "725",
+  "location": "The corollaries"
+ },
+ {
+  "id": "S07-0915",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "20.11",
+  "status": "CONJECTURE",
+  "page": "758",
+  "location": "Cyclotomic Traces and Automorphic Spectra"
+ },
+ {
+  "id": "S07-0916",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "20.21",
+  "status": "CONJECTURE",
+  "page": "772",
+  "location": "Cyclotomic Traces and Automorphic Spectra"
+ },
+ {
+  "id": "S07-0917",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "20.22",
+  "status": "CONJECTURE",
+  "page": "773",
+  "location": "The automorphic spectrum and its grading"
+ },
+ {
+  "id": "S07-0918",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "20.25",
+  "status": "CONJECTURE",
+  "page": "780",
+  "location": "Cyclotomic Traces and Automorphic Spectra"
+ },
+ {
+  "id": "S07-0919",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "20.26",
+  "status": "CONJECTURE",
+  "page": "784",
+  "location": "Cyclotomic Traces and Automorphic Spectra"
+ },
+ {
+  "id": "S07-0920",
+  "work": "S07",
+  "kind": "Example",
+  "number": "20.27",
+  "status": "CONJECTURE",
+  "page": "785",
+  "location": "Euler-factor assembly"
+ },
+ {
+  "id": "S07-0921",
+  "work": "S07",
+  "kind": "Problem",
+  "number": "20.30",
+  "status": "CONJECTURE",
+  "page": "789",
+  "location": "What is established and what is conjectural"
+ },
+ {
+  "id": "S07-0922",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "21.30",
+  "status": "CONJECTURE",
+  "page": "813",
+  "location": "21.7"
+ },
+ {
+  "id": "S07-0923",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "21.31",
+  "status": "CONJECTURE",
+  "page": "814",
+  "location": "The Categorical Lefschetz Theorem"
+ },
+ {
+  "id": "S07-0924",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "22.18",
+  "status": "CONJECTURE",
+  "page": "856",
+  "location": "The Spectral Action and Excursion Operators"
+ },
+ {
+  "id": "S07-0925",
+  "work": "S07",
+  "kind": "Construction",
+  "number": "22.19",
+  "status": "CONJECTURE",
+  "page": "857",
+  "location": "22.10"
+ },
+ {
+  "id": "S07-0926",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "22.21",
+  "status": "CONJECTURE",
+  "page": "860",
+  "location": "The Spectral Action and Excursion Operators"
+ },
+ {
+  "id": "S07-0927",
+  "work": "S07",
+  "kind": "Example",
+  "number": "22.22",
+  "status": "CONJECTURE",
+  "page": "865",
+  "location": "22.12"
+ },
+ {
+  "id": "S07-0928",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "22.24",
+  "status": "",
+  "page": "868",
+  "location": "The Spectral Action and Excursion Operators"
+ },
+ {
+  "id": "S07-0929",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "22.25",
+  "status": "CONJECTURE",
+  "page": "877",
+  "location": "22.14"
+ },
+ {
+  "id": "S07-0930",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "22.26",
+  "status": "CONJECTURE",
+  "page": "878",
+  "location": "The Spectral Action and Excursion Operators"
+ },
+ {
+  "id": "S07-0931",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "22.28",
+  "status": "CONJECTURE",
+  "page": "878",
+  "location": "The Spectral Action and Excursion Operators"
+ },
+ {
+  "id": "S07-0932",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "22.30",
+  "status": "CONJECTURE",
+  "page": "879",
+  "location": "22.16"
+ },
+ {
+  "id": "S07-0933",
+  "work": "S07",
+  "kind": "Remark",
+  "number": "23.12",
+  "status": "CONJECTURE",
+  "page": "893",
+  "location": "23.4"
+ },
+ {
+  "id": "S07-0934",
+  "work": "S07",
+  "kind": "Construction",
+  "number": "23.14",
+  "status": "CONJECTURE",
+  "page": "895",
+  "location": "The arithmetic field theory 𝑍AT"
+ },
+ {
+  "id": "S07-0935",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "23.15",
+  "status": "CONJECTURE",
+  "page": "896",
+  "location": "Langlands as a Field Theory"
+ },
+ {
+  "id": "S07-0936",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "23.16",
+  "status": "CONJECTURE",
+  "page": "896",
+  "location": "Langlands as a Field Theory"
+ },
+ {
+  "id": "S07-0937",
+  "work": "S07",
+  "kind": "Corollary",
+  "number": "23.18",
+  "status": "CONJECTURE",
+  "page": "898",
+  "location": "Langlands as a Field Theory"
+ },
+ {
+  "id": "S07-0938",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "23.20",
+  "status": "CONJECTURE",
+  "page": "900",
+  "location": "Langlands as a Field Theory"
+ },
+ {
+  "id": "S07-0939",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "24.3",
+  "status": "CONJECTURE",
+  "page": "918",
+  "location": "Functoriality as Fourier Conjugation"
+ },
+ {
+  "id": "S07-0940",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "24.4",
+  "status": "CONJECTURE",
+  "page": "918",
+  "location": "Functoriality as Fourier Conjugation"
+ },
+ {
+  "id": "S07-0941",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "24.16",
+  "status": "CONJECTURE",
+  "page": "932",
+  "location": "Functoriality as Fourier Conjugation"
+ },
+ {
+  "id": "S07-0942",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "24.20",
+  "status": "CONJECTURE",
+  "page": "934",
+  "location": "Functoriality as Fourier Conjugation"
+ },
+ {
+  "id": "S07-0943",
+  "work": "S07",
+  "kind": "Corollary",
+  "number": "24.21",
+  "status": "CONJECTURE",
+  "page": "935",
+  "location": "Functoriality by conjugation"
+ },
+ {
+  "id": "S07-0944",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "25.7",
+  "status": "CONJECTURE",
+  "page": "992",
+  "location": "Schwartz Categories and Automorphic Analysis"
+ },
+ {
+  "id": "S07-0945",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "25.8",
+  "status": "CONJECTURE",
+  "page": "992",
+  "location": "Schwartz Categories and Automorphic Analysis"
+ },
+ {
+  "id": "S07-0946",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "25.9",
+  "status": "CONJECTURE",
+  "page": "992",
+  "location": "Schwartz Categories and Automorphic Analysis"
+ },
+ {
+  "id": "S07-0947",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "25.10",
+  "status": "CONJECTURE",
+  "page": "992",
+  "location": "Schwartz Categories and Automorphic Analysis"
+ },
+ {
+  "id": "S07-0948",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "25.11",
+  "status": "CONJECTURE",
+  "page": "992",
+  "location": "Schwartz Categories and Automorphic Analysis"
+ },
+ {
+  "id": "S07-0949",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "25.13",
+  "status": "CONJECTURE",
+  "page": "1000",
+  "location": "Schwartz Categories and Automorphic Analysis"
+ },
+ {
+  "id": "S07-0950",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "25.14",
+  "status": "CONJECTURE",
+  "page": "1000",
+  "location": "Schwartz Categories and Automorphic Analysis"
+ },
+ {
+  "id": "S07-0951",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "25.15",
+  "status": "CONJECTURE",
+  "page": "1001",
+  "location": "The four required analytic theorems"
+ },
+ {
+  "id": "S07-0952",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "25.16",
+  "status": "CONJECTURE",
+  "page": "1001",
+  "location": "The four required analytic theorems"
+ },
+ {
+  "id": "S07-0953",
+  "work": "S07",
+  "kind": "Example",
+  "number": "26.12",
+  "status": "CONJECTURE",
+  "page": "1019",
+  "location": "Tate’s thesis and the functional equation of 𝜁"
+ },
+ {
+  "id": "S07-0954",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "26.27",
+  "status": "CONJECTURE",
+  "page": "1026",
+  "location": "Poisson Summation as a Gluing Axiom"
+ },
+ {
+  "id": "S07-0955",
+  "work": "S07",
+  "kind": "Programme",
+  "number": "26.28",
+  "status": "CONJECTURE",
+  "page": "1027",
+  "location": "The 𝐿-monoid and the monoidal summation axiom"
+ },
+ {
+  "id": "S07-0956",
+  "work": "S07",
+  "kind": "Programme",
+  "number": "26.29",
+  "status": "CONJECTURE",
+  "page": "1027",
+  "location": "The 𝐿-monoid and the monoidal summation axiom"
+ },
+ {
+  "id": "S07-0957",
+  "work": "S07",
+  "kind": "Theorem",
+  "number": "26.33",
+  "status": "CONJECTURE",
+  "page": "1030",
+  "location": "Poisson Summation as a Gluing Axiom"
+ },
+ {
+  "id": "S07-0958",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "26.34",
+  "status": "CONJECTURE",
+  "page": "1031",
+  "location": "26.11"
+ },
+ {
+  "id": "S07-0959",
+  "work": "S07",
+  "kind": "Observation",
+  "number": "26.38",
+  "status": "CONJECTURE",
+  "page": "1033",
+  "location": "Where naive Poisson summation fails, computed"
+ },
+ {
+  "id": "S07-0960",
+  "work": "S07",
+  "kind": "Algorithm",
+  "number": "26.40",
+  "status": "FORMAL TARGET",
+  "page": "1034",
+  "location": "Poisson Summation as a Gluing Axiom"
+ },
+ {
+  "id": "S07-0961",
+  "work": "S07",
+  "kind": "Criterion",
+  "number": "26.41",
+  "status": "CONJECTURE",
+  "page": "1034",
+  "location": "Poisson Summation as a Gluing Axiom"
+ },
+ {
+  "id": "S07-0962",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "27.46",
+  "status": "CONJECTURE",
+  "page": "1071",
+  "location": "The index-theoretic reformulation"
+ },
+ {
+  "id": "S07-0963",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "27.47",
+  "status": "CONJECTURE",
+  "page": "1072",
+  "location": "The Trace Formula as a Derived Index Theorem"
+ },
+ {
+  "id": "S07-0964",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "27.51",
+  "status": "CONJECTURE",
+  "page": "1074",
+  "location": "The Trace Formula as a Derived Index Theorem"
+ },
+ {
+  "id": "S07-0965",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "27.53",
+  "status": "CONJECTURE",
+  "page": "1074",
+  "location": "The Trace Formula as a Derived Index Theorem"
+ },
+ {
+  "id": "S07-0966",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "28.20",
+  "status": "CONJECTURE",
+  "page": "1103",
+  "location": "28.11"
+ },
+ {
+  "id": "S07-0967",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "28.22",
+  "status": "CONJECTURE",
+  "page": "1103",
+  "location": "28.11"
+ },
+ {
+  "id": "S07-0968",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "28.23",
+  "status": "CONJECTURE",
+  "page": "1104",
+  "location": "Beyond Endoscopy and the Deleted Boundary"
+ },
+ {
+  "id": "S07-0969",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "28.24",
+  "status": "CONJECTURE",
+  "page": "1104",
+  "location": "Beyond Endoscopy and the Deleted Boundary"
+ },
+ {
+  "id": "S07-0970",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "28.25",
+  "status": "CONJECTURE",
+  "page": "1104",
+  "location": "Beyond Endoscopy and the Deleted Boundary"
+ },
+ {
+  "id": "S07-0971",
+  "work": "S07",
+  "kind": "Algorithm",
+  "number": "28.26",
+  "status": "FORMAL TARGET",
+  "page": "1105",
+  "location": "The three analytic statements of the framework"
+ },
+ {
+  "id": "S07-0972",
+  "work": "S07",
+  "kind": "Problem",
+  "number": "28.28",
+  "status": "CONJECTURE",
+  "page": "1108",
+  "location": "Beyond Endoscopy and the Deleted Boundary"
+ },
+ {
+  "id": "S07-0973",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "29.13",
+  "status": "CONJECTURE",
+  "page": "1140",
+  "location": "L-Functions, Γ-Factors, and Regularised Determinants"
+ },
+ {
+  "id": "S07-0974",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "29.14",
+  "status": "CONJECTURE",
+  "page": "1141",
+  "location": "The trace claim of this treatise"
+ },
+ {
+  "id": "S07-0975",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "29.15",
+  "status": "CONJECTURE",
+  "page": "1141",
+  "location": "The trace claim of this treatise"
+ },
+ {
+  "id": "S07-0976",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "29.16",
+  "status": "CONJECTURE",
+  "page": "1142",
+  "location": "L-Functions, Γ-Factors, and Regularised Determinants"
+ },
+ {
+  "id": "S07-0977",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "30.44",
+  "status": "CONJECTURE",
+  "page": "1215",
+  "location": "30.8"
+ },
+ {
+  "id": "S07-0978",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "30.45",
+  "status": "CONJECTURE",
+  "page": "1215",
+  "location": "30.8"
+ },
+ {
+  "id": "S07-0979",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "30.46",
+  "status": "CONJECTURE",
+  "page": "1217",
+  "location": "The chôral proposal"
+ },
+ {
+  "id": "S07-0980",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "30.47",
+  "status": "CONJECTURE",
+  "page": "1217",
+  "location": "The chôral proposal"
+ },
+ {
+  "id": "S07-0981",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "30.48",
+  "status": "CONJECTURE",
+  "page": "1217",
+  "location": "The chôral proposal"
+ },
+ {
+  "id": "S07-0982",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "30.49",
+  "status": "CONJECTURE",
+  "page": "1217",
+  "location": "The chôral proposal"
+ },
+ {
+  "id": "S07-0983",
+  "work": "S07",
+  "kind": "Algorithm",
+  "number": "30.50",
+  "status": "FORMAL TARGET",
+  "page": "1218",
+  "location": "Eisenstein Series and the Continuous Spectrum"
+ },
+ {
+  "id": "S07-0984",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "31.14",
+  "status": "CONJECTURE",
+  "page": "1240",
+  "location": "The 𝑝-adic Local Correspondence"
+ },
+ {
+  "id": "S07-0985",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "31.24",
+  "status": "CONJECTURE",
+  "page": "1253",
+  "location": "31.16"
+ },
+ {
+  "id": "S07-0986",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "31.25",
+  "status": "CONJECTURE",
+  "page": "1253",
+  "location": "31.16"
+ },
+ {
+  "id": "S07-0987",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "31.26",
+  "status": "CONJECTURE",
+  "page": "1254",
+  "location": "The 𝑝-adic Local Correspondence"
+ },
+ {
+  "id": "S07-0988",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "31.27",
+  "status": "CONJECTURE",
+  "page": "1255",
+  "location": "31.18"
+ },
+ {
+  "id": "S07-0989",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "32.19",
+  "status": "CONJECTURE",
+  "page": "1298",
+  "location": "The Archimedean Correspondence"
+ },
+ {
+  "id": "S07-0990",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "32.20",
+  "status": "CONJECTURE",
+  "page": "1298",
+  "location": "The Archimedean Correspondence"
+ },
+ {
+  "id": "S07-0991",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "32.21",
+  "status": "CONJECTURE",
+  "page": "1300",
+  "location": "The Archimedean Correspondence"
+ },
+ {
+  "id": "S07-0992",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "32.22",
+  "status": "CONJECTURE",
+  "page": "1300",
+  "location": "The Archimedean Correspondence"
+ },
+ {
+  "id": "S07-0993",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "32.23",
+  "status": "CONJECTURE",
+  "page": "1301",
+  "location": "32.10"
+ },
+ {
+  "id": "S07-0994",
+  "work": "S07",
+  "kind": "Proposition",
+  "number": "32.24",
+  "status": "CONJECTURE",
+  "page": "1301",
+  "location": "32.10"
+ },
+ {
+  "id": "S07-0995",
+  "work": "S07",
+  "kind": "Problem",
+  "number": "32.30",
+  "status": "CONJECTURE",
+  "page": "1307",
+  "location": "What is missing"
+ },
+ {
+  "id": "S07-0996",
+  "work": "S07",
+  "kind": "Exercise",
+  "number": "32.41",
+  "status": "CONJECTURE",
+  "page": "1312",
+  "location": "The Archimedean Correspondence"
+ },
+ {
+  "id": "S07-0997",
+  "work": "S07",
+  "kind": "Exercise",
+  "number": "32.42",
+  "status": "CONJECTURE",
+  "page": "1312",
+  "location": "The Archimedean Correspondence"
+ },
+ {
+  "id": "S07-0998",
+  "work": "S07",
+  "kind": "Exercise",
+  "number": "32.44",
+  "status": "CONJECTURE",
+  "page": "1313",
+  "location": "Exercises"
+ },
+ {
+  "id": "S07-0999",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "33.28",
+  "status": "ESTABLISHED",
+  "page": "1330",
+  "location": "Modularity and Automorphy Lifting"
+ },
+ {
+  "id": "S07-1000",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "33.29",
+  "status": "ESTABLISHED",
+  "page": "1330",
+  "location": "Modularity and Automorphy Lifting"
+ },
+ {
+  "id": "S07-1001",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "33.51",
+  "status": "CONJECTURE",
+  "page": "1341",
+  "location": "33.10"
+ },
+ {
+  "id": "S07-1002",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "33.52",
+  "status": "CONJECTURE",
+  "page": "1342",
+  "location": "Modularity and Automorphy Lifting"
+ },
+ {
+  "id": "S07-1003",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "33.53",
+  "status": "CONJECTURE",
+  "page": "1342",
+  "location": "Modularity and Automorphy Lifting"
+ },
+ {
+  "id": "S07-1004",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "33.54",
+  "status": "CONJECTURE",
+  "page": "1342",
+  "location": "Modularity and Automorphy Lifting"
+ },
+ {
+  "id": "S07-1005",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "33.55",
+  "status": "CONJECTURE",
+  "page": "1342",
+  "location": "Modularity and Automorphy Lifting"
+ },
+ {
+  "id": "S07-1006",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "33.56",
+  "status": "CONJECTURE",
+  "page": "1342",
+  "location": "Modularity and Automorphy Lifting"
+ },
+ {
+  "id": "S07-1007",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "33.57",
+  "status": "CONJECTURE",
+  "page": "1342",
+  "location": "Modularity and Automorphy Lifting"
+ },
+ {
+  "id": "S07-1008",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "33.58",
+  "status": "CONJECTURE",
+  "page": "1343",
+  "location": "𝑅= T as a statement about the spectral stack"
+ },
+ {
+  "id": "S07-1009",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "33.59",
+  "status": "CONJECTURE",
+  "page": "1343",
+  "location": "𝑅= T as a statement about the spectral stack"
+ },
+ {
+  "id": "S07-1010",
+  "work": "S07",
+  "kind": "Observation",
+  "number": "33.60",
+  "status": "CONJECTURE",
+  "page": "1343",
+  "location": "𝑅= T as a statement about the spectral stack"
+ },
+ {
+  "id": "S07-1011",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "34.2",
+  "status": "CONJECTURE",
+  "page": "1350",
+  "location": "Fontaine–Mazur, Geometricity, and Extension across a Divisor"
+ },
+ {
+  "id": "S07-1012",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "34.17",
+  "status": "CONJECTURE",
+  "page": "1366",
+  "location": "Fontaine–Mazur, Geometricity, and Extension across a Divisor"
+ },
+ {
+  "id": "S07-1013",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "34.21",
+  "status": "CONJECTURE",
+  "page": "1370",
+  "location": "Fontaine–Mazur, Geometricity, and Extension across a Divisor"
+ },
+ {
+  "id": "S07-1014",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "34.22",
+  "status": "CONJECTURE",
+  "page": "1371",
+  "location": "The arithmetic consequence ledger"
+ },
+ {
+  "id": "S07-1015",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "34.23",
+  "status": "CONJECTURE",
+  "page": "1371",
+  "location": "The arithmetic consequence ledger"
+ },
+ {
+  "id": "S07-1016",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "34.26",
+  "status": "CONJECTURE",
+  "page": "1375",
+  "location": "What geometric origin adds beyond local extension"
+ },
+ {
+  "id": "S07-1017",
+  "work": "S07",
+  "kind": "Exercise",
+  "number": "34.44",
+  "status": "CONJECTURE",
+  "page": "1391",
+  "location": "Exercises"
+ },
+ {
+  "id": "S07-1018",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "35.8",
+  "status": "CONJECTURE",
+  "page": "1399",
+  "location": "What purity means for a trace"
+ },
+ {
+  "id": "S07-1019",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "35.19",
+  "status": "CONJECTURE",
+  "page": "1410",
+  "location": "Ramanujan, Purity, and the Arthur Parameter"
+ },
+ {
+  "id": "S07-1020",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "35.20",
+  "status": "CONJECTURE",
+  "page": "1412",
+  "location": "Ramanujan, Purity, and the Arthur Parameter"
+ },
+ {
+  "id": "S07-1021",
+  "work": "S07",
+  "kind": "Corollary",
+  "number": "35.21",
+  "status": "CONJECTURE",
+  "page": "1412",
+  "location": "Ramanujan, Purity, and the Arthur Parameter"
+ },
+ {
+  "id": "S07-1022",
+  "work": "S07",
+  "kind": "Example",
+  "number": "35.22",
+  "status": "CONJECTURE",
+  "page": "1413",
+  "location": "Arthur monodromy as a trace weight filtration"
+ },
+ {
+  "id": "S07-1023",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "35.24",
+  "status": "CONJECTURE",
+  "page": "1417",
+  "location": "35.8"
+ },
+ {
+  "id": "S07-1024",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "35.25",
+  "status": "CONJECTURE",
+  "page": "1417",
+  "location": "35.8"
+ },
+ {
+  "id": "S07-1025",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "35.26",
+  "status": "CONJECTURE",
+  "page": "1417",
+  "location": "35.8"
+ },
+ {
+  "id": "S07-1026",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "36.8",
+  "status": "CONJECTURE",
+  "page": "1443",
+  "location": "Birch and Swinnerton-Dyer"
+ },
+ {
+  "id": "S07-1027",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "36.12",
+  "status": "CONJECTURE",
+  "page": "1446",
+  "location": "Special Values and the Arithmetic of the Trace"
+ },
+ {
+  "id": "S07-1028",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "36.15",
+  "status": "CONJECTURE",
+  "page": "1448",
+  "location": "Special Values and the Arithmetic of the Trace"
+ },
+ {
+  "id": "S07-1029",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "36.19",
+  "status": "CONJECTURE",
+  "page": "1452",
+  "location": "Special Values and the Arithmetic of the Trace"
+ },
+ {
+  "id": "S07-1030",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "36.26",
+  "status": "CONJECTURE",
+  "page": "1458",
+  "location": "Special Values and the Arithmetic of the Trace"
+ },
+ {
+  "id": "S07-1031",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "36.27",
+  "status": "CONJECTURE",
+  "page": "1462",
+  "location": "Special Values and the Arithmetic of the Trace"
+ },
+ {
+  "id": "S07-1032",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "38.10",
+  "status": "CONJECTURE",
+  "page": "1520",
+  "location": "Certified Algorithms"
+ },
+ {
+  "id": "S07-1033",
+  "work": "S07",
+  "kind": "Problem",
+  "number": "40.10",
+  "status": "CONJECTURE",
+  "page": "1602",
+  "location": "Assessment and the Programme Ahead"
+ },
+ {
+  "id": "S07-1034",
+  "work": "S07",
+  "kind": "Problem",
+  "number": "40.11",
+  "status": "CONJECTURE",
+  "page": "1603",
+  "location": "The four hardest gaps, and a fifth of unknown difficulty"
+ },
+ {
+  "id": "S07-1035",
+  "work": "S07",
+  "kind": "Problem",
+  "number": "40.12",
+  "status": "CONJECTURE",
+  "page": "1604",
+  "location": "Assessment and the Programme Ahead"
+ },
+ {
+  "id": "S07-1036",
+  "work": "S07",
+  "kind": "Problem",
+  "number": "40.13",
+  "status": "CONJECTURE",
+  "page": "1605",
+  "location": "The four hardest gaps, and a fifth of unknown difficulty"
+ },
+ {
+  "id": "S07-1037",
+  "work": "S07",
+  "kind": "Problem",
+  "number": "40.14",
+  "status": "CONJECTURE",
+  "page": "1605",
+  "location": "The four hardest gaps, and a fifth of unknown difficulty"
+ },
+ {
+  "id": "S07-1038",
+  "work": "S07",
+  "kind": "Conjecture",
+  "number": "B.22",
+  "status": "CONJECTURE",
+  "page": "1677",
+  "location": "The archimedean place"
+ },
+ {
+  "id": "S07-1039",
+  "work": "S07",
+  "kind": "Axiom",
+  "number": "F.5",
+  "status": "CONJECTURE",
+  "page": "1829",
+  "location": "The KH axioms"
+ },
+ {
+  "id": "S07-1040",
+  "work": "S07",
+  "kind": "Axiom",
+  "number": "F.18",
+  "status": "CONJECTURE",
+  "page": "1830",
+  "location": "The Statement Ledger"
+ }
+]

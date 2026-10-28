@@ -1,0 +1,547 @@
+{
+ "problem": 12,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "cross-language canonical serialization deterministic hashing",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "cross-language canonical serialization deterministic hashing",
+   "status": 200,
+   "results": [
+    {
+     "title": "AuditableLLM: A Hash-Chain-Backed, Compliance-Aware Auditable Framework for Large Language Models",
+     "year": 2025,
+     "authors": [
+      "Delong Li",
+      "Guangsheng Yu",
+      "Xu Wang",
+      "Bin Liang"
+     ],
+     "venue": "Electronics",
+     "id": "https://doi.org/10.3390/electronics15010056"
+    },
+    {
+     "title": "Design and verification of a FHIR R4-serializable known-truth testbed for technical and inferential assurance in small longitudinal trial simulations",
+     "year": 2026,
+     "authors": [
+      "Tae-Yoon Kim",
+      "Jung‐Hyun Kim"
+     ],
+     "venue": "Scientific Reports",
+     "id": "https://doi.org/10.1038/s41598-026-72435-9"
+    },
+    {
+     "title": "PointCloud-ID: Deterministic Cross-Format Identity and Attribute-Aware Integrity Verification for Geospatial Point Clouds",
+     "year": 2026,
+     "authors": [
+      "A. Urias"
+     ],
+     "venue": "Research Square",
+     "id": "https://doi.org/10.21203/rs.3.rs-10490225/v1"
+    },
+    {
+     "title": "SMILES serialization changes activity-cliff annotations in the MoleculeACE benchmark",
+     "year": 2026,
+     "authors": [
+      "Phongsakon Sriwicha"
+     ],
+     "venue": "ChemRxiv",
+     "id": "https://doi.org/10.26434/chemrxiv.15009988/v1"
+    },
+    {
+     "title": "LoCalMem: Type-Directed Adaptive Serialization for Location- and Content-Addressable Memory",
+     "year": 2026,
+     "authors": [
+      "Mike Rainey",
+      "Michael H. Borkowski",
+      "Michael Vollmer",
+      "Chaitanya S. Koparkar",
+      "Mikah Kainen",
+      "Vidush Singhal"
+     ],
+     "venue": "Proceedings of the ACM on Programming Languages",
+     "id": "https://doi.org/10.1145/3828688"
+    },
+    {
+     "title": "Data-Parallel Hashing Techniques for GPU Architectures",
+     "year": 2019,
+     "authors": [
+      "Brenton J. Lessley",
+      "Hank Childs"
+     ],
+     "venue": "IEEE Transactions on Parallel and Distributed Systems",
+     "id": "https://doi.org/10.1109/tpds.2019.2929768"
+    },
+    {
+     "title": "SpiralHelios Deterministic Geometric Intelligence (DGI): A Non-Training AI Architecture with Source-Governed ROM, Bounded Observability, and Repeatable Offline Evaluation",
+     "year": 2026,
+     "authors": [
+      "Christos Baltas"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.22214396"
+    },
+    {
+     "title": "Adaptive Schema Normalization for Deterministic Security Log Template Mining",
+     "year": 2026,
+     "authors": [
+      "Sourabh Aditya",
+      "Kavatekar Harsh P"
+     ],
+     "venue": "Indian Journal of Computer Science and Technology",
+     "id": "https://doi.org/10.59256/indjcst.20260503022"
+    },
+    {
+     "title": "Musubito: Deterministic execution lineage for AI-Enabled Python workflows",
+     "year": 2026,
+     "authors": [
+      "Domenico Altieri"
+     ],
+     "venue": "Science of Computer Programming",
+     "id": "https://doi.org/10.1016/j.scico.2026.103571"
+    },
+    {
+     "title": "When AI Agents Commit: Cognitive Serializability Across Data, Evidence, Policy, and Authority",
+     "year": 2026,
+     "authors": [
+      "Jun He",
+      "Openkedge Io",
+      "Deying Yu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.13140/rg.2.2.18195.64804"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "cross-language canonical serialization deterministic hashing",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "cross-language canonical serialization deterministic hashing",
+   "status": 200,
+   "results": [
+    {
+     "title": "Language resource management. Lexical markup framework (LMF)",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.3403/30394328"
+    },
+    {
+     "title": "Language resource management. Lexical markup framework (LMF)",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.3403/30394328u"
+    },
+    {
+     "title": "Live Network Acquisition with Pre-Serialization Hashing for Digital Evidence Integrity",
+     "year": 2026,
+     "authors": [
+      "Mirza Sutrisno",
+      "Anton Maulana Ibrahim"
+     ],
+     "venue": "Journal of Nexural Intelligence",
+     "id": "doi:10.71200/nexural.v1.i1.262"
+    },
+    {
+     "title": "<b>RProtoBuf</b>: Efficient Cross-Language Data Serialization in<i>R</i>",
+     "year": 2016,
+     "authors": [
+      "Dirk Eddelbuettel",
+      "Murray Stokely",
+      "Jeroen Ooms"
+     ],
+     "venue": "Journal of Statistical Software",
+     "id": "doi:10.18637/jss.v071.i02"
+    },
+    {
+     "title": "Language resource management. Syntactic annotation framework (SynAF)",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.3403/30275158u"
+    },
+    {
+     "title": "Peacock Hashing: Deterministic and Updatable Hashing for High Performance Networking",
+     "year": 2008,
+     "authors": [
+      "S. Kumar",
+      "J. Turner",
+      "P. Crowley"
+     ],
+     "venue": "2008 Proceedings IEEE INFOCOM - The 27th Conference on Computer Communications",
+     "id": "doi:10.1109/infocom.2007.29"
+    },
+    {
+     "title": "Language resource management. Syntactic annotation framework (SynAF)",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.3403/30275158"
+    },
+    {
+     "title": "Peacock Hashing: Deterministic and Updatable Hashing for High Performance Networking",
+     "year": 2008,
+     "authors": [
+      "S. Kumar",
+      "J. Turner",
+      "P. Crowley"
+     ],
+     "venue": "IEEE INFOCOM 2008 - The 27th Conference on Computer Communications",
+     "id": "doi:10.1109/infocom.2008.29"
+    },
+    {
+     "title": "AEMB: A Deterministic Cross-language Verification Benchmark for Event-margin Protocols&amp;nbsp;",
+     "year": 2026,
+     "authors": [
+      "Maksym Nechepurenko"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.7216198"
+    },
+    {
+     "title": "TSNC: A Timestamp-Driven Stochastic Neural Architecture for Deterministic yet Irreversible Password Hashing",
+     "year": 2026,
+     "authors": [
+      "Yongqian Xiao",
+      "Mingfeng Su",
+      "Hao Chen",
+      "Jin Li",
+      "Si Zhou"
+     ],
+     "venue": "Informatica",
+     "id": "doi:10.31449/inf.v50i14.13162"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "reproducible builds deterministic identifiers",
+   "status": 200,
+   "results": [
+    {
+     "title": "Reproducibility is Not Enough: Artifact Verifiability in Decentralized-Build Package Ecosystems",
+     "year": "2026",
+     "authors": [
+      "Oreofe Solarin",
+      "Kelechi Kalu",
+      "James C. Davis",
+      "Paschal Amusuo"
+     ],
+     "id": "arXiv:2608.18180v1"
+    },
+    {
+     "title": "A Dataset of Reproducible Flaky-Test Failures",
+     "year": "2026",
+     "authors": [
+      "Suzzana Rafi",
+      "Mahbub-Ul-Hoque Sumon",
+      "Md Erfan",
+      "Maruf Morshed Khan",
+      "August Shi",
+      "Wing Lam"
+     ],
+     "id": "arXiv:2605.21677v1"
+    },
+    {
+     "title": "BUILD with Precision: Bottom-Up Inference of Linear DAGs",
+     "year": "2025",
+     "authors": [
+      "Hamed Ajorlou",
+      "Samuel Rey",
+      "Gonzalo Mateos",
+      "Geert Leus",
+      "Antonio G. Marques"
+     ],
+     "id": "arXiv:2512.16111v2"
+    },
+    {
+     "title": "Reproducible Validation of Voucher-Based L2 Interoperability: Diagnosing an ERC-4337 Compatibility Issue in an EIL SDK Implementation",
+     "year": "2026",
+     "authors": [
+      "Cheng-En Lee",
+      "Yu-Chien Huang",
+      "Yun-Cheng Tsai"
+     ],
+     "id": "arXiv:2607.05914v1"
+    },
+    {
+     "title": "A Corpus-Aligned Uthmani-to-Standard Quranic Word Mapping and a Deterministic Recitation Validator",
+     "year": "2026",
+     "authors": [
+      "Yahya Mohamed Elnawasany"
+     ],
+     "id": "arXiv:2609.14967v1"
+    },
+    {
+     "title": "Measuring Stability Beyond Accuracy in Small Open-Source Medical Large Language Models for Pediatric Endocrinology",
+     "year": "2025",
+     "authors": [
+      "Vanessa D'Amario",
+      "Randy Daniel",
+      "Alessandro Zanetti",
+      "Dhruv Edamadaka",
+      "Nitya Alaparthy",
+      "Joshua Tarkoff"
+     ],
+     "id": "arXiv:2601.11567v1"
+    },
+    {
+     "title": "Knowledge Compounding: An Empirical Economic Analysis of Self-Evolving Knowledge Wikis under the Agentic ROI Framework",
+     "year": "2026",
+     "authors": [
+      "Shuide Wen",
+      "Beier Ku"
+     ],
+     "id": "arXiv:2604.11243v2"
+    },
+    {
+     "title": "ClawMobile: Rethinking Smartphone-Native Agentic Systems",
+     "year": "2026",
+     "authors": [
+      "Hongchao Du",
+      "Shangyu Wu",
+      "Qiao Li",
+      "Riwei Pan",
+      "Jinheng Li",
+      "Youcheng Sun"
+     ],
+     "id": "arXiv:2602.22942v2"
+    },
+    {
+     "title": "LLM-FACETS: A Privacy-Preserving Framework for Evaluating LLM Transparency and Accountability",
+     "year": "2026",
+     "authors": [
+      "Tom Lucas",
+      "Alessio Buscemi",
+      "Alfredo Capozucca",
+      "German Castignani",
+      "Barbara Delacroix"
+     ],
+     "id": "arXiv:2605.31167v1"
+    },
+    {
+     "title": "Behavioral Regression Detection for Pull Requests via Structured Oracles",
+     "year": "2026",
+     "authors": [
+      "Yiwen Fu",
+      "Binhang Qi",
+      "Xiao Li",
+      "Runlin Liu",
+      "Hailong Sun",
+      "Xiang Gao"
+     ],
+     "id": "arXiv:2610.35223v1"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "reproducible builds deterministic identifiers",
+   "status": 200,
+   "results": [
+    {
+     "title": "IAIONEX Deterministic ARM64 Mobile Build Environment — Termux Offline Reproducible Build Stack",
+     "year": 2026,
+     "authors": [
+      "Johan Gärtner"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.19036484"
+    },
+    {
+     "title": "Reproducibility is Not Enough: Artifact Verifiability in Decentralized-Build Package Ecosystems",
+     "year": 2026,
+     "authors": [
+      "Oreofe Solarin",
+      "Kelechi Kalu",
+      "James C. Davis",
+      "Paschal C. Amusuo"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.18180"
+    },
+    {
+     "title": "Reproducible Builds: Increasing the Integrity of Software Supply Chains",
+     "year": 2021,
+     "authors": [
+      "Chris Lamb",
+      "Stefano Zacchiroli"
+     ],
+     "venue": "IEEE Software",
+     "id": "https://doi.org/10.1109/ms.2021.3073045"
+    },
+    {
+     "title": "Deterministic Implementations for Reproducibility in Deep Reinforcement Learning",
+     "year": 2018,
+     "authors": [
+      "Prabhat Nagarajan",
+      "Garrett Warnell",
+      "Peter Stone"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1809.05676"
+    },
+    {
+     "title": "IAIONEX SYSTOLIC_GEMM_CORE_V2 — Deterministic Systolic Matrix Multiplication Accelerator for Reproducible Hardware Compute Experiments",
+     "year": 2026,
+     "authors": [
+      "Johan Gärtner"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.19033942"
+    },
+    {
+     "title": "Reproducible Builds for Quantum Computing",
+     "year": 2025,
+     "authors": [
+      "Iyán Méndez Veiga",
+      "Esther Hänggi"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2510.02251"
+    },
+    {
+     "title": "Reproducibility is the New Copyleft: Defining AGI-oriented Reproducible Builds",
+     "year": 2026,
+     "authors": [
+      "Masayuki Hatta"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W7163597294"
+    },
+    {
+     "title": "TopDom: an efficient and deterministic method for identifying topological domains in genomes",
+     "year": 2015,
+     "authors": [
+      "Hanjun Shin",
+      "Yi Y. Shi",
+      "Chao Dai",
+      "Harianto Tjong",
+      "Ke Qin Gong",
+      "Frank Alber"
+     ],
+     "venue": "Nucleic Acids Research",
+     "id": "https://doi.org/10.1093/nar/gkv1505"
+    },
+    {
+     "title": "IAIONEX Sovereign v1.0 — Deterministic Offline ASIC Architecture and Reproducible Mobile ARM64 Development Flow",
+     "year": 2026,
+     "authors": [
+      "Johan Gärtner"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.19032960"
+    },
+    {
+     "title": "Failures: Deterministic Failure-Mode Guardrails Make Coding Agents Build Resilient Systems",
+     "year": 2026,
+     "authors": [
+      "Oluwamayowa Kalejaiye"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.22966361"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "reproducible builds deterministic identifiers",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "reproducible builds deterministic identifiers",
+   "status": 200,
+   "results": [
+    {
+     "title": "Incremental, reproducible builds of software variants",
+     "year": null,
+     "authors": [
+      "Georges Aaron Randrianaina"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/e95564c6zca79z417aza37ez10821a9a0a48"
+    },
+    {
+     "title": "Transcription factor binding sites: data integration, stable identifiers and incremental builds",
+     "year": 2022,
+     "authors": [],
+     "venue": "The Thirteenth International Multiconference",
+     "id": "doi:10.18699/bgrs/sb-2022-036"
+    },
+    {
+     "title": "Transcription factor binding sites: data integration, stable identifiers and incremental builds",
+     "year": 2022,
+     "authors": [],
+     "venue": "The Thirteenth International Multiconference",
+     "id": "doi:10.18699/sbb-2022-036"
+    },
+    {
+     "title": "Testbed-18: Identifiers for Reproducible Science Summary Engineering Report",
+     "year": 2023,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.62973/22-020r1"
+    },
+    {
+     "title": "Reproducibility is the New Copyleft: Defining AGI-oriented Reproducible Builds",
+     "year": 2026,
+     "authors": [
+      "Masayuki Hatta"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6886361"
+    },
+    {
+     "title": "Metriplane: Reproducible incident evidence and deterministic regression checks for bounded workcells",
+     "year": 2026,
+     "authors": [
+      "Miko Parkkinen"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.7166858"
+    },
+    {
+     "title": "Review for \"Deterministic Fabrication of Highly Reproducible Monochromatic Quantum Emitters in Hexagonal Boron Nitride\"",
+     "year": 2025,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1039/d5nr01564b/v2/review1"
+    },
+    {
+     "title": "Review for \"Deterministic Fabrication of Highly Reproducible Monochromatic Quantum Emitters in Hexagonal Boron Nitride\"",
+     "year": 2025,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1039/d5nr01564b/v1/review2"
+    },
+    {
+     "title": "Review for \"Deterministic Fabrication of Highly Reproducible Monochromatic Quantum Emitters in Hexagonal Boron Nitride\"",
+     "year": 2025,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1039/d5nr01564b/v1/review1"
+    },
+    {
+     "title": "Review for \"Deterministic Fabrication of Highly Reproducible Monochromatic Quantum Emitters in Hexagonal Boron Nitride\"",
+     "year": 2025,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1039/d5nr01564b/v2/review2"
+    }
+   ]
+  }
+ ]
+}

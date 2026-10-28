@@ -1,0 +1,13 @@
+# Lean statements of the formalization problems of "The 57 Grothendieckian Problems" (Apache-2.0).
+# Proofs are `sorry` by convention, as in google-deepmind/formal-conjectures; lean_gate checks that the files build
+# and that no axiom beyond Lean's standard ones is introduced.
+name = "GrothendieckianProblems"
+defaultTargets = ["GrothendieckianProblems"]
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4.git"
+rev = "b7fb16a940e9d6383e4376cecea18bb818a2d2e3"
+
+[[lean_lib]]
+name = "GrothendieckianProblems"

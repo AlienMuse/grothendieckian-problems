@@ -1,0 +1,577 @@
+{
+ "id": "matrix",
+ "number": 5,
+ "size_mm": [
+  132.0,
+  150.0
+ ],
+ "footer": "The 57 Grothendieckian Problems · Vincent Liu · doi:10.5281/zenodo.23734427 · CC BY 4.0",
+ "title": "THE PROBLEMS BY THESIS AND BY WORK",
+ "right": "APPENDIX A",
+ "rows": [
+  {
+   "num": 1,
+   "title": "Worlds, not isolated theorems",
+   "cells": {
+    "S01": [
+     {
+      "num": 4,
+      "kind": "machine",
+      "level": "research",
+      "work": "S01"
+     },
+     {
+      "num": 15,
+      "kind": "machine",
+      "level": "entry",
+      "work": "S01"
+     }
+    ],
+    "S02": [],
+    "S03": [],
+    "S04": [],
+    "S05": [],
+    "S06": [],
+    "S07": []
+   },
+   "n": 2
+  },
+  {
+   "num": 2,
+   "title": "Status is part of the type",
+   "cells": {
+    "S01": [
+     {
+      "num": 7,
+      "kind": "formal",
+      "level": "research",
+      "work": "S01"
+     },
+     {
+      "num": 8,
+      "kind": "formal",
+      "level": "research",
+      "work": "S01"
+     }
+    ],
+    "S02": [
+     {
+      "num": 31,
+      "kind": "math",
+      "level": "research",
+      "work": "S02"
+     }
+    ],
+    "S03": [],
+    "S04": [],
+    "S05": [],
+    "S06": [],
+    "S07": []
+   },
+   "n": 3
+  },
+  {
+   "num": 3,
+   "title": "A structured latent space",
+   "cells": {
+    "S01": [
+     {
+      "num": 6,
+      "kind": "formal",
+      "level": "research",
+      "work": "S01"
+     }
+    ],
+    "S02": [
+     {
+      "num": 18,
+      "kind": "machine",
+      "level": "programme",
+      "work": "S02"
+     }
+    ],
+    "S03": [],
+    "S04": [],
+    "S05": [],
+    "S06": [],
+    "S07": []
+   },
+   "n": 2
+  },
+  {
+   "num": 4,
+   "title": "Attention as descent",
+   "cells": {
+    "S01": [],
+    "S02": [
+     {
+      "num": 19,
+      "kind": "machine",
+      "level": "research",
+      "work": "S02"
+     },
+     {
+      "num": 20,
+      "kind": "machine",
+      "level": "research",
+      "work": "S02"
+     },
+     {
+      "num": 22,
+      "kind": "machine",
+      "level": "research",
+      "work": "S02"
+     },
+     {
+      "num": 24,
+      "kind": "math",
+      "level": "research",
+      "work": "S02"
+     },
+     {
+      "num": 25,
+      "kind": "math",
+      "level": "research",
+      "work": "S02"
+     },
+     {
+      "num": 27,
+      "kind": "math",
+      "level": "research",
+      "work": "S02"
+     },
+     {
+      "num": 28,
+      "kind": "math",
+      "level": "research",
+      "work": "S02"
+     },
+     {
+      "num": 35,
+      "kind": "formal",
+      "level": "programme",
+      "work": "S02"
+     }
+    ],
+    "S03": [],
+    "S04": [],
+    "S05": [],
+    "S06": [],
+    "S07": []
+   },
+   "n": 8
+  },
+  {
+   "num": 5,
+   "title": "Report failure; abstain without evidence",
+   "cells": {
+    "S01": [
+     {
+      "num": 9,
+      "kind": "formal",
+      "level": "research",
+      "work": "S01"
+     },
+     {
+      "num": 16,
+      "kind": "machine",
+      "level": "entry",
+      "work": "S01"
+     },
+     {
+      "num": 17,
+      "kind": "machine",
+      "level": "entry",
+      "work": "S01"
+     }
+    ],
+    "S02": [
+     {
+      "num": 21,
+      "kind": "machine",
+      "level": "research",
+      "work": "S02"
+     },
+     {
+      "num": 23,
+      "kind": "machine",
+      "level": "programme",
+      "work": "S02"
+     },
+     {
+      "num": 30,
+      "kind": "math",
+      "level": "research",
+      "work": "S02"
+     },
+     {
+      "num": 32,
+      "kind": "math",
+      "level": "research",
+      "work": "S02"
+     }
+    ],
+    "S03": [],
+    "S04": [],
+    "S05": [
+     {
+      "num": 47,
+      "kind": "math",
+      "level": "research",
+      "work": "S05"
+     }
+    ],
+    "S06": [],
+    "S07": []
+   },
+   "n": 8
+  },
+  {
+   "num": 6,
+   "title": "A chain of non-implications",
+   "cells": {
+    "S01": [
+     {
+      "num": 5,
+      "kind": "machine",
+      "level": "research",
+      "work": "S01"
+     },
+     {
+      "num": 12,
+      "kind": "machine",
+      "level": "entry",
+      "work": "S01"
+     }
+    ],
+    "S02": [
+     {
+      "num": 26,
+      "kind": "math",
+      "level": "research",
+      "work": "S02"
+     },
+     {
+      "num": 29,
+      "kind": "math",
+      "level": "research",
+      "work": "S02"
+     },
+     {
+      "num": 34,
+      "kind": "formal",
+      "level": "entry",
+      "work": "S02"
+     }
+    ],
+    "S03": [],
+    "S04": [],
+    "S05": [],
+    "S06": [],
+    "S07": []
+   },
+   "n": 5
+  },
+  {
+   "num": 7,
+   "title": "Machines propose; humans authorize",
+   "cells": {
+    "S01": [
+     {
+      "num": 10,
+      "kind": "formal",
+      "level": "research",
+      "work": "S01"
+     },
+     {
+      "num": 11,
+      "kind": "formal",
+      "level": "research",
+      "work": "S01"
+     }
+    ],
+    "S02": [],
+    "S03": [],
+    "S04": [],
+    "S05": [],
+    "S06": [],
+    "S07": []
+   },
+   "n": 2
+  },
+  {
+   "num": 8,
+   "title": "The rising sea",
+   "cells": {
+    "S01": [
+     {
+      "num": 1,
+      "kind": "machine",
+      "level": "programme",
+      "work": "S01"
+     }
+    ],
+    "S02": [],
+    "S03": [
+     {
+      "num": 36,
+      "kind": "math",
+      "level": "research",
+      "work": "S03"
+     },
+     {
+      "num": 37,
+      "kind": "math",
+      "level": "research",
+      "work": "S03"
+     },
+     {
+      "num": 38,
+      "kind": "math",
+      "level": "research",
+      "work": "S03"
+     }
+    ],
+    "S04": [
+     {
+      "num": 41,
+      "kind": "math",
+      "level": "programme",
+      "work": "S04"
+     }
+    ],
+    "S05": [],
+    "S06": [
+     {
+      "num": 51,
+      "kind": "math",
+      "level": "research",
+      "work": "S06"
+     },
+     {
+      "num": 52,
+      "kind": "math",
+      "level": "programme",
+      "work": "S06"
+     }
+    ],
+    "S07": [
+     {
+      "num": 55,
+      "kind": "math",
+      "level": "programme",
+      "work": "S07"
+     },
+     {
+      "num": 56,
+      "kind": "math",
+      "level": "programme",
+      "work": "S07"
+     }
+    ]
+   },
+   "n": 9
+  },
+  {
+   "num": 9,
+   "title": "State what is not established",
+   "cells": {
+    "S01": [],
+    "S02": [
+     {
+      "num": 33,
+      "kind": "formal",
+      "level": "research",
+      "work": "S02"
+     }
+    ],
+    "S03": [
+     {
+      "num": 39,
+      "kind": "machine",
+      "level": "entry",
+      "work": "S03"
+     }
+    ],
+    "S04": [
+     {
+      "num": 40,
+      "kind": "math",
+      "level": "research",
+      "work": "S04"
+     },
+     {
+      "num": 43,
+      "kind": "machine",
+      "level": "entry",
+      "work": "S04"
+     }
+    ],
+    "S05": [
+     {
+      "num": 44,
+      "kind": "formal",
+      "level": "programme",
+      "work": "S05"
+     },
+     {
+      "num": 45,
+      "kind": "math",
+      "level": "research",
+      "work": "S05"
+     },
+     {
+      "num": 48,
+      "kind": "math",
+      "level": "entry",
+      "work": "S05"
+     }
+    ],
+    "S06": [
+     {
+      "num": 49,
+      "kind": "formal",
+      "level": "entry",
+      "work": "S06"
+     }
+    ],
+    "S07": [
+     {
+      "num": 53,
+      "kind": "math",
+      "level": "research",
+      "work": "S07"
+     },
+     {
+      "num": 54,
+      "kind": "math",
+      "level": "research",
+      "work": "S07"
+     }
+    ]
+   },
+   "n": 10
+  },
+  {
+   "num": 10,
+   "title": "Discovery is recursive",
+   "cells": {
+    "S01": [
+     {
+      "num": 2,
+      "kind": "formal",
+      "level": "programme",
+      "work": "S01"
+     },
+     {
+      "num": 3,
+      "kind": "machine",
+      "level": "research",
+      "work": "S01"
+     }
+    ],
+    "S02": [],
+    "S03": [],
+    "S04": [],
+    "S05": [],
+    "S06": [],
+    "S07": []
+   },
+   "n": 2
+  },
+  {
+   "num": 11,
+   "title": "Creating language",
+   "cells": {
+    "S01": [
+     {
+      "num": 14,
+      "kind": "machine",
+      "level": "programme",
+      "work": "S01"
+     }
+    ],
+    "S02": [],
+    "S03": [],
+    "S04": [],
+    "S05": [],
+    "S06": [],
+    "S07": [
+     {
+      "num": 57,
+      "kind": "formal",
+      "level": "research",
+      "work": "S07"
+     }
+    ]
+   },
+   "n": 2
+  },
+  {
+   "num": 12,
+   "title": "Judge a method by its open ledger",
+   "cells": {
+    "S01": [
+     {
+      "num": 13,
+      "kind": "machine",
+      "level": "entry",
+      "work": "S01"
+     }
+    ],
+    "S02": [],
+    "S03": [],
+    "S04": [
+     {
+      "num": 42,
+      "kind": "math",
+      "level": "research",
+      "work": "S04"
+     }
+    ],
+    "S05": [
+     {
+      "num": 46,
+      "kind": "math",
+      "level": "entry",
+      "work": "S05"
+     }
+    ],
+    "S06": [
+     {
+      "num": 50,
+      "kind": "machine",
+      "level": "research",
+      "work": "S06"
+     }
+    ],
+    "S07": []
+   },
+   "n": 4
+  }
+ ],
+ "cols": {
+  "S01": 17,
+  "S02": 18,
+  "S03": 4,
+  "S04": 4,
+  "S05": 5,
+  "S06": 4,
+  "S07": 5
+ },
+ "total": 57,
+ "kinds": [
+  [
+   "math",
+   "25 MATHEMATICAL"
+  ],
+  [
+   "machine",
+   "19 MACHINE"
+  ],
+  [
+   "formal",
+   "13 FORMALIZATION"
+  ]
+ ]
+}

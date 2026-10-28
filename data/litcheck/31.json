@@ -1,0 +1,408 @@
+{
+ "problem": 31,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "routing tie breaking mixture of experts nondeterminism",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "routing tie breaking mixture of experts nondeterminism",
+   "status": 200,
+   "results": [
+    {
+     "title": "Expert Selections In MoE Models Reveal (Almost) As Much As Text",
+     "year": 2026,
+     "authors": [
+      "Amir Nuriyev",
+      "Gabriel Kulp"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2602.04105"
+    },
+    {
+     "title": "Routing Is Least Learnable Where It Is Most Valuable: Bounds on Representation Routing for Web Agents",
+     "year": 2026,
+     "authors": [
+      "Jiaming Wei",
+      "Zekun Wu",
+      "Adriano Koshiyama",
+      "María Pérez‐Ortiz"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.06171"
+    },
+    {
+     "title": "From Transfer Probes to Expert Grouping: Evidence from LoRA Post-Training",
+     "year": 2026,
+     "authors": [
+      "Xueyang Wu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.14437"
+    },
+    {
+     "title": "Measuring and Reducing Cross-Vendor Mismatch in Language Models",
+     "year": 2026,
+     "authors": [
+      "Erland Hilman Fuadi",
+      "Chong Tian",
+      "Xiaosong Ma",
+      "Qirong Ho"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.05458"
+    },
+    {
+     "title": "SonicMoE: Accelerating MoE with IO and Tile-aware Optimizations",
+     "year": 2025,
+     "authors": [
+      "Guo, Wentao",
+      "Mishra, Mayank",
+      "Xinle Cheng",
+      "Ion Gabriel Stoica",
+      "Tri Dao"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2512.14080"
+    },
+    {
+     "title": "Decoupled DiLoCo for Resilient Distributed Pre-training",
+     "year": 2026,
+     "authors": [
+      "Arthur Douillard",
+      "Keith Rush",
+      "Yani Donchev",
+      "Zachary Charles",
+      "Nova Fallen",
+      "Ayush Dubey"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2604.21428"
+    },
+    {
+     "title": "Human in the Loop AI EDA for Chip Design",
+     "year": 2026,
+     "authors": [
+      "Lei Zhang"
+     ],
+     "venue": "Journal of Computer Technology and Applied Mathematics",
+     "id": "https://doi.org/10.70393/6a6374616d.333732"
+    },
+    {
+     "title": "A Sense of Proprioception in Language Models",
+     "year": 2026,
+     "authors": [
+      "Jonas Geiping"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.17495"
+    },
+    {
+     "title": "Opti-Q: A Constraint-Based Optimization Framework for Multi-LLM Question Planning",
+     "year": 2026,
+     "authors": [
+      "Aamir Hamid",
+      "Bharg Barot",
+      "Satvik Racharla",
+      "Tim Finin",
+      "Primal Pappachan",
+      "Roberto Yus"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.22621"
+    },
+    {
+     "title": "Leyline: KV Cache Directives for Agentic Inference",
+     "year": 2026,
+     "authors": [
+      "Bole Ma",
+      "Jan Eitzinger",
+      "Harald Koestler"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.01065"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "routing tie breaking mixture of experts nondeterminism",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "routing tie breaking mixture of experts nondeterminism",
+   "status": 200,
+   "results": [
+    {
+     "title": "Cooling-Aware Routing in Mixture-of-Experts Models: Optimizing Expert Assignment Under Routing-Deviation Constraints",
+     "year": 2026,
+     "authors": [
+      "Shreyasi Saxena"
+     ],
+     "venue": "",
+     "id": "doi:10.58445/rars.4177"
+    },
+    {
+     "title": "Intelligent LLM Orchestration: Advanced Mixture of Experts Routing for Large Language Model Systems",
+     "year": 2025,
+     "authors": [
+      "Sanjeeva Reddy Bora",
+      "Srinivas Kishan Anapu"
+     ],
+     "venue": "International Journal of Science and Research (IJSR)",
+     "id": "doi:10.21275/sr25627232328"
+    },
+    {
+     "title": "Novel Token-Level Recurrent Routing for Enhanced Mixture-of-Experts Performance",
+     "year": 2024,
+     "authors": [
+      "Ethan Pedicir",
+      "Lucas Miller",
+      "Liam Robinson"
+     ],
+     "venue": "",
+     "id": "doi:10.22541/au.172479156.65470023/v1"
+    },
+    {
+     "title": "Interpretable Mixture-of-Experts via Soft Decision Tree Routing and Additive Networks",
+     "year": 2025,
+     "authors": [
+      "Brandon Schwab",
+      "Judith C. Schneider"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.5810123"
+    },
+    {
+     "title": "Mixture of Experts with Spatial Routing in a Weather Foundation Model: Early Results from WeatherGenerator",
+     "year": 2026,
+     "authors": [
+      "Wael Almikaeel",
+      ""
+     ],
+     "venue": "",
+     "id": "doi:10.5194/egusphere-egu26-14545"
+    },
+    {
+     "title": "MoEMory: Long-Term User Memory as a Routing Policy on Frozen\nMixture-of-Experts Language Models",
+     "year": 2026,
+     "authors": [
+      "Chenxi He"
+     ],
+     "venue": "",
+     "id": "doi:10.21203/rs.3.rs-10770216/v1"
+    },
+    {
+     "title": "Tie-Breaking Rules with Aligned Preferences: The Case for the Multiple Tie-Breaking Rule",
+     "year": 2026,
+     "authors": [
+      "Sumeyra Akin"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.7001315"
+    },
+    {
+     "title": "Efficient Routing in Sparse Mixture-of-Experts",
+     "year": 2024,
+     "authors": [
+      "Masoumeh Zareapoor",
+      "Pourya Shamsolmoali",
+      "Fateme Vesaghati"
+     ],
+     "venue": "2024 International Joint Conference on Neural Networks (IJCNN)",
+     "id": "doi:10.1109/ijcnn60899.2024.10650737"
+    },
+    {
+     "title": "SpeechMoE: Scaling to Large Acoustic Models with Dynamic Routing Mixture of Experts",
+     "year": 2021,
+     "authors": [
+      "Zhao You",
+      "Shulin Feng",
+      "Dan Su",
+      "Dong Yu"
+     ],
+     "venue": "Interspeech 2021",
+     "id": "doi:10.21437/interspeech.2021-478"
+    },
+    {
+     "title": "AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models",
+     "year": 2024,
+     "authors": [
+      "Zihao Zeng",
+      "Yibo Miao",
+      "Hongcheng Gao",
+      "Hao Zhang",
+      "Zhijie Deng"
+     ],
+     "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+     "id": "doi:10.18653/v1/2024.findings-emnlp.361"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "gauge indeterminacy sheaf neural network invariants",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "gauge indeterminacy sheaf neural network invariants",
+   "status": 200,
+   "results": [
+    {
+     "title": "Riemannian geometry meets fMRI: the advantages of modeling correlation manifolds and eigenvector subspaces",
+     "year": 2026,
+     "authors": [
+      "Mario Severino",
+      "Manuela Moretto",
+      "Robert A. McCutcheon",
+      "Mattia Veronese"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W7162219027"
+    },
+    {
+     "title": "Schrödinger's Cat and Blindsight: An Investigation into Perception and Quantum Mechanics",
+     "year": 2025,
+     "authors": [
+      "Moninder Singh Modgil",
+      "Dnyandeo Dattatray Patil"
+     ],
+     "venue": "Preprints.org",
+     "id": "https://doi.org/10.20944/preprints202510.1536.v1"
+    },
+    {
+     "title": "Communication Protocols and QECCs from the Perspective of TQFT, Part I: Constructing LOCC Protocols and QECCs from TQFTs",
+     "year": 2024,
+     "authors": [
+      "Chris Fields",
+      "James F. Glazebrook",
+      "Antonino Marcianò"
+     ],
+     "venue": "Fortschritte der Physik",
+     "id": "https://doi.org/10.1002/prop.202400049"
+    },
+    {
+     "title": "統合数理科学 : 現象解明を通した数学の発展 : 中間成果報告書",
+     "year": null,
+     "authors": [
+      "慶應義塾大学21世紀COEプログラム統合数理科学研究センター"
+     ],
+     "venue": "Institutional Repositories DataBase (IRDB)",
+     "id": "https://openalex.org/W7145020476"
+    },
+    {
+     "title": "Symmetry in Quantum Theory of Gravity",
+     "year": 2022,
+     "authors": [
+      "Chris Fields",
+      "Antonino Marcianò"
+     ],
+     "venue": "MDPI eBooks",
+     "id": "https://doi.org/10.3390/books978-3-0365-5392-4"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "gauge indeterminacy sheaf neural network invariants",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "gauge indeterminacy sheaf neural network invariants",
+   "status": 200,
+   "results": [
+    {
+     "title": "Elementary Sheaf Theory",
+     "year": null,
+     "authors": [],
+     "venue": "Springer Monographs in Mathematics Topological Invariants of Stratified Spaces",
+     "id": "doi:10.1007/3-540-38587-8_1"
+    },
+    {
+     "title": "New singularity invariants: the sheaf β_X^•''",
+     "year": 2021,
+     "authors": [
+      "Daniel Barlet"
+     ],
+     "venue": "Journal of Singularities",
+     "id": "doi:10.5427/jsing.2021.23c"
+    },
+    {
+     "title": "A Categorical and Sheaf-Theoretic Diagnostic Framework for Agile Delivery Architectures: Invariants, Failure, Repair, and Use Cases",
+     "year": 2026,
+     "authors": [
+      "J.  J. Segura"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6634506"
+    },
+    {
+     "title": "Recognizing image invariants in a neural network architecture",
+     "year": 1988,
+     "authors": [
+      "Pawlicki"
+     ],
+     "venue": "IEEE International Conference on Neural Networks",
+     "id": "doi:10.1109/icnn.1988.23921"
+    },
+    {
+     "title": "A neural network to register invariants in object-relative position under observer locomotion",
+     "year": 1988,
+     "authors": [],
+     "venue": "Neural Networks",
+     "id": "doi:10.1016/0893-6080(88)90552-7"
+    },
+    {
+     "title": "Quantum gravity and gauge neural network",
+     "year": 2021,
+     "authors": [
+      "Vitaly Kuyukov"
+     ],
+     "venue": "",
+     "id": "doi:10.31219/osf.io/qwh2r"
+    },
+    {
+     "title": "Classification of trajectories—Extracting invariants with a neural network",
+     "year": 1993,
+     "authors": [
+      "Margit Kinder",
+      "Wilfried Brauer"
+     ],
+     "venue": "Neural Networks",
+     "id": "doi:10.1016/s0893-6080(09)80010-5"
+    },
+    {
+     "title": "Sheaf of conformal blocks",
+     "year": 2008,
+     "authors": [],
+     "venue": "Fields Institute Monographs Conformal Field Theory with Gauge Symmetry",
+     "id": "doi:10.1090/fim/024/04"
+    },
+    {
+     "title": "Elementary Particles: Sheaf-Theoretic Classification, by Spin-Structure, According to Selesnick’s Correspondence Principle",
+     "year": null,
+     "authors": [],
+     "venue": "Modern Differential Geometry in Gauge Theories",
+     "id": "doi:10.1007/0-8176-4474-1_2"
+    },
+    {
+     "title": "11. Topological invariants",
+     "year": 1987,
+     "authors": [],
+     "venue": "Geometrodynamics of Gauge Fields",
+     "id": "doi:10.1515/9783112766071-013"
+    }
+   ]
+  }
+ ]
+}

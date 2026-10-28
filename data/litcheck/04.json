@@ -1,0 +1,470 @@
+{
+ "problem": 4,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "minimal conservative extension automated theory formation",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "minimal conservative extension automated theory formation",
+   "status": 200,
+   "results": [
+    {
+     "title": "A Minimal Conservative Registration Model for Interaction-Triggered Choice and Persistent Records",
+     "year": 2026,
+     "authors": [
+      "EUGENE CATRAMBONE"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.21542339"
+    },
+    {
+     "title": "Conservative Extension in Positive/Negative Conditional Term Rewriting with Applications to Software Renovation Factories",
+     "year": 1999,
+     "authors": [
+      "Wan J. Fokkink",
+      "Chris Verhoef"
+     ],
+     "venue": "Lecture notes in computer science",
+     "id": "https://doi.org/10.1007/978-3-540-49020-3_7"
+    },
+    {
+     "title": "Path tracking control of automated vehicles : theory and experiment",
+     "year": 1993,
+     "authors": [
+      "Mostafa G. Mehrabi"
+     ],
+     "venue": "Spectrum Research Repository (Concordia University)",
+     "id": "https://openalex.org/W30405991"
+    },
+    {
+     "title": "Eliminating reversals from cubical type theories",
+     "year": 2026,
+     "authors": [
+      "Evan Cavallo",
+      "Christian Sattler"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W7161452440"
+    },
+    {
+     "title": "Eliminating Reversals from Cubical Type Theories",
+     "year": 2026,
+     "authors": [
+      "Evan Cavallo",
+      "Christian Sattler"
+     ],
+     "venue": "DROPS (Schloss Dagstuhl – Leibniz Center for Informatics)",
+     "id": "https://doi.org/10.4230/lipics.lics.2026.27"
+    },
+    {
+     "title": "Automated in Silico Design of Homogeneous Catalysts",
+     "year": 2020,
+     "authors": [
+      "Marco Foscato",
+      "Vidar Remi Jensen"
+     ],
+     "venue": "ACS Catalysis",
+     "id": "https://doi.org/10.1021/acscatal.9b04952"
+    },
+    {
+     "title": "Control of connected and automated vehicles: State of the art and future challenges",
+     "year": 2018,
+     "authors": [
+      "Jacopo Guanetti",
+      "Yeojun Kim",
+      "Francesco Borrelli"
+     ],
+     "venue": "Annual Reviews in Control",
+     "id": "https://doi.org/10.1016/j.arcontrol.2018.04.011"
+    },
+    {
+     "title": "Non-normal modal logics and conditional logics: Semantic analysis and proof theory",
+     "year": 2021,
+     "authors": [
+      "Jinsheng Chen",
+      "Giuseppe Greco",
+      "Alessandra Palmigiano",
+      "Apostolos Tzimoulis"
+     ],
+     "venue": "Information and Computation",
+     "id": "https://doi.org/10.1016/j.ic.2021.104756"
+    },
+    {
+     "title": "Will Automated Vehicles Negatively Impact Traffic Flow?",
+     "year": 2017,
+     "authors": [
+      "Simeon C. Calvert",
+      "Wouter Schakel",
+      "Hans van Lint"
+     ],
+     "venue": "Journal of Advanced Transportation",
+     "id": "https://doi.org/10.1155/2017/3082781"
+    },
+    {
+     "title": "Automated crack detection and measurement based on digital image correlation",
+     "year": 2020,
+     "authors": [
+      "Nicola Gehri",
+      "Jaime Mata‐Falcón",
+      "W. Kaufmann"
+     ],
+     "venue": "Construction and Building Materials",
+     "id": "https://doi.org/10.1016/j.conbuildmat.2020.119383"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "minimal conservative extension automated theory formation",
+   "status": 200,
+   "results": [
+    {
+     "title": "EQUADIFF 2003. Proceedings of the international conference on differential equations, Hasselt, Belgium, July 22--26, 2003",
+     "year": "2005",
+     "authors": [],
+     "venue": null,
+     "id": "zbMATH 1089.34001"
+    }
+   ]
+  },
+  {
+   "source": "Crossref",
+   "query": "minimal conservative extension automated theory formation",
+   "status": 200,
+   "results": [
+    {
+     "title": "A minimal extension that is not conservative.",
+     "year": 1974,
+     "authors": [
+      "Robert G. Phillips"
+     ],
+     "venue": "Michigan Mathematical Journal",
+     "id": "doi:10.1307/mmj/1029001205"
+    },
+    {
+     "title": "A minimal extension of Bayesian decision theory",
+     "year": 2015,
+     "authors": [
+      "Ken Binmore"
+     ],
+     "venue": "Theory and Decision",
+     "id": "doi:10.1007/s11238-015-9505-0"
+    },
+    {
+     "title": "Reset and Restoration. The Looming Conservative Turn of Management Theory: An Extension of Foss et al.",
+     "year": 2023,
+     "authors": [
+      "Steffen Roth"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.4507680"
+    },
+    {
+     "title": "Extension of minimal transformation groups",
+     "year": 1971,
+     "authors": [
+      "Karl E. Petersen"
+     ],
+     "venue": "Mathematical Systems Theory",
+     "id": "doi:10.1007/bf01694081"
+    },
+    {
+     "title": "SINGH’S PERSPECTIVE ON MULTISET THEORY - A CONSERVATIVE EXTENSION OF STANDARD SET THEORY",
+     "year": 2025,
+     "authors": [
+      "Chinedu Peter",
+      "Balarabe Abdullahi"
+     ],
+     "venue": "FUDMA JOURNAL OF SCIENCES",
+     "id": "doi:10.33003/fjs-2025-0904-3309"
+    },
+    {
+     "title": "Periodic bounce solutions of dynamical conservative systems and their minimal period",
+     "year": 1990,
+     "authors": [
+      "Fabio Giannoni"
+     ],
+     "venue": "Nonlinear Analysis: Theory, Methods &amp; Applications",
+     "id": "doi:10.1016/0362-546x(90)90033-d"
+    },
+    {
+     "title": "Minimal lipschitz extension",
+     "year": null,
+     "authors": [
+      "Thanh Viet Phan"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/e4044d51zb488z448bzabfbzc6d9e807e7d1"
+    },
+    {
+     "title": "Automated Theory Formation in Pure Mathematics",
+     "year": 2002,
+     "authors": [
+      "Simon Colton"
+     ],
+     "venue": "",
+     "id": "doi:10.1007/978-1-4471-0147-5"
+    },
+    {
+     "title": "A linear conservative extension of Zermelo-Fraenkel set theory",
+     "year": 1996,
+     "authors": [
+      "Masaru Shirahata"
+     ],
+     "venue": "Studia Logica",
+     "id": "doi:10.1007/bf00372772"
+    },
+    {
+     "title": "Epistemic set theory is a conservative extension of intuitionistic set theory",
+     "year": 1985,
+     "authors": [
+      "R. C. Flagg"
+     ],
+     "venue": "Journal of Symbolic Logic",
+     "id": "doi:10.2307/2273979"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "theory extension to resolve obstruction automated reasoning",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "theory extension to resolve obstruction automated reasoning",
+   "status": 200,
+   "results": [
+    {
+     "title": "PAAR-2012: Proceedings of the Third Workshop on Practical Aspects of Automated Reasoning",
+     "year": 2012,
+     "authors": [],
+     "venue": "Research Explorer (The University of Manchester)",
+     "id": "https://openalex.org/W7111746326"
+    },
+    {
+     "title": "Sheaf-Theoretic Transport and Obstruction for Detecting Scientific Theory Shift in AI Agents",
+     "year": 2026,
+     "authors": [
+      "David N. Olivieri",
+      "Roque J. Hernández"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.14033"
+    },
+    {
+     "title": "QoEReasoner: An Agentic Reasoning Framework for Automated and Explainable QoE Diagnosis in RANs",
+     "year": 2026,
+     "authors": [
+      "Qizhe Li",
+      "Haolong Chen",
+      "Shan Dai",
+      "Zhuo Li",
+      "Zhiwei Hu",
+      "Xuan Li"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.01925"
+    },
+    {
+     "title": "Geometric reasoning about assembly tools",
+     "year": 1998,
+     "authors": [
+      "Randall H. Wilson"
+     ],
+     "venue": "Artificial Intelligence",
+     "id": "https://doi.org/10.1016/s0004-3702(97)00062-3"
+    },
+    {
+     "title": "A Domain-Specific Probabilistic Programming Language for Reasoning About Reasoning (or: a memo on memo)",
+     "year": 2025,
+     "authors": [
+      "Kartik Chandra",
+      "Tony Chen",
+      "Joshua B. Tenenbaum",
+      "Jonathan Ragan‐Kelley"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.31234/osf.io/pt863"
+    },
+    {
+     "title": "Automated Conjecture Resolution with Formal Verification",
+     "year": 2026,
+     "authors": [
+      "Haocheng Ju",
+      "Guoxiong Gao",
+      "Jiedong Jiang",
+      "Bin Wu",
+      "Zeming Sun",
+      "Shurui Liu"
+     ],
+     "venue": "SuperIntelligence - Robotics - Safety & Alignment",
+     "id": "https://doi.org/10.70777/si.v3i3.18746"
+    },
+    {
+     "title": "A Domain-Specific Probabilistic Programming Language for Reasoning About Reasoning (or: a memo on memo)",
+     "year": 2025,
+     "authors": [
+      "Kartik Chandra",
+      "Tony Chen",
+      "Joshua B. Tenenbaum",
+      "Jonathan Ragan‐Kelley"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.31234/osf.io/pt863_v3"
+    },
+    {
+     "title": "A Domain-Specific Probabilistic Programming Language for Reasoning About Reasoning (or: a memo on memo)",
+     "year": 2025,
+     "authors": [
+      "Kartik Chandra",
+      "Tony Chen",
+      "Joshua B. Tenenbaum",
+      "Jonathan Ragan‐Kelley"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.31234/osf.io/pt863_v2"
+    },
+    {
+     "title": "Norms and value based reasoning: justifying compliance and violation",
+     "year": 2017,
+     "authors": [
+      "Trevor J. M. Bench-Capon",
+      "Sanjay Modgil"
+     ],
+     "venue": "Artificial Intelligence and Law",
+     "id": "https://doi.org/10.1007/s10506-017-9194-9"
+    },
+    {
+     "title": "Multiobjective Preexpectation Reasoning for Probabilistic Programs",
+     "year": 2026,
+     "authors": [
+      "Lena Verscht",
+      "Hannah Mertens",
+      "Kevin Batz",
+      "Sebastian Junges",
+      "Benjamin Lucien Kaminski",
+      "Joost-Pieter Katoen"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.13268"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "theory extension to resolve obstruction automated reasoning",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "theory extension to resolve obstruction automated reasoning",
+   "status": 200,
+   "results": [
+    {
+     "title": "Theory Extension in ACL2(r)",
+     "year": 2006,
+     "authors": [
+      "R. Gamboa",
+      "J. Cowles"
+     ],
+     "venue": "Journal of Automated Reasoning",
+     "id": "doi:10.1007/s10817-006-9043-0"
+    },
+    {
+     "title": "Measure Construction by Extension in Dependent Type Theory with Application to Integration",
+     "year": 2023,
+     "authors": [
+      "Reynald Affeldt",
+      "Cyril Cohen"
+     ],
+     "venue": "Journal of Automated Reasoning",
+     "id": "doi:10.1007/s10817-023-09671-5"
+    },
+    {
+     "title": "Stable and extension class theory for logic programs and default logics",
+     "year": 1992,
+     "authors": [
+      "Chitta R. Baral",
+      "V. S. Subrahmanian"
+     ],
+     "venue": "Journal of Automated Reasoning",
+     "id": "doi:10.1007/bf02341854"
+    },
+    {
+     "title": "Knowledge Compilation Using the Extension Rule",
+     "year": 2004,
+     "authors": [
+      "Lin Hai",
+      "Sun Jigui"
+     ],
+     "venue": "Journal of Automated Reasoning",
+     "id": "doi:10.1023/b:jars.0000029959.45572.44"
+    },
+    {
+     "title": "Theorem Proving Based on the Extension Rule",
+     "year": 2003,
+     "authors": [
+      "Lin Hai",
+      "Sun Jigui",
+      "Zhang Yimin"
+     ],
+     "venue": "Journal of Automated Reasoning",
+     "id": "doi:10.1023/a:1027339205632"
+    },
+    {
+     "title": "Automated deduction by theory resolution",
+     "year": 1985,
+     "authors": [
+      "MarkE. Stickel"
+     ],
+     "venue": "Journal of Automated Reasoning",
+     "id": "doi:10.1007/bf00244275"
+    },
+    {
+     "title": "An extension of the Boyer-Moore Theorem Prover to support first-order quantification",
+     "year": 1992,
+     "authors": [
+      "Matt Kaufmann"
+     ],
+     "venue": "Journal of Automated Reasoning",
+     "id": "doi:10.1007/bf00245295"
+    },
+    {
+     "title": "Formalizing Synthetic Domain Theory",
+     "year": 1999,
+     "authors": [
+      "Bernhard Reus"
+     ],
+     "venue": "Journal of Automated Reasoning",
+     "id": "doi:10.1023/a:1006258506401"
+    },
+    {
+     "title": "Cooperation of Background Reasoners in Theory Reasoning by Residue Sharing",
+     "year": 2003,
+     "authors": [
+      "Cesare Tinelli"
+     ],
+     "venue": "Journal of Automated Reasoning",
+     "id": "doi:10.1023/a:1022587501759"
+    },
+    {
+     "title": "Automated deduction in von Neumann-Bernays-G�del set theory",
+     "year": 1992,
+     "authors": [
+      "Art Quaife"
+     ],
+     "venue": "Journal of Automated Reasoning",
+     "id": "doi:10.1007/bf00263451"
+    }
+   ]
+  }
+ ]
+}

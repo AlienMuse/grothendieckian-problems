@@ -1,0 +1,24 @@
+title: "The Rising-Sea Theses"
+subtitle: "Twelve Theses on Mathematics and Machine Reasoning"
+shorttitle: "The Rising-Sea Theses"
+author: "Vincent Liu"
+affiliation: "WiseMotif.ai"
+affiliationurl: "https://wisemotif.ai"
+email: "vincent.liu@wisemotif.ai"
+orcid: "https://orcid.org/0009-0000-8718-222X"
+version: "Preprint · Version 1.0"
+date: "28 October 2026"
+licence: "CC BY 4.0"
+doi: "10.5281/zenodo.23734424"             # reserved on Zenodo (draft 23734424), S4
+msc: "Primary 00A35; Secondary 68T01, 68V15, 18F10"
+keywords: "Grothendieckian Programme, machine reasoning, epistemic status, descent, formal verification, recursive mathematical discovery"
+abstract: |
+  The Grothendieckian Programme is a set of seven works on machine reasoning about mathematics (34 volumes, 26,021
+  pages), released openly in October 2026 as first drafts that have not been peer-reviewed. This paper draws from them twelve
+  theses on how mathematics and machine reasoning should be combined. Each thesis is stated in one sentence, argued,
+  tied to the passages of the seven works on which it rests, related to existing work, and paired with an
+  observation that would refute it. The theses concern the unit of mathematical knowledge for a reasoning system, the
+  place of epistemic status, the latent space of mathematical reasoning, attention, failure, authority, and the
+  method of discovery. The paper adds no mathematical result to the seven works; none of them claims a proof of the
+  Riemann Hypothesis, the Birch and Swinnerton-Dyer conjecture, the Hodge conjecture, the abc conjecture or the
+  Langlands correspondence.

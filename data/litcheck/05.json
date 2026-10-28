@@ -1,0 +1,555 @@
+{
+ "problem": 5,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "autoformalization faithfulness formal statement",
+   "status": 200,
+   "results": [
+    {
+     "title": "Generalized Tree Edit Distance (GTED): A Faithful Evaluation Metric for Statement Autoformalization",
+     "year": "2025",
+     "authors": [
+      "Yuntian Liu",
+      "Tao Zhu",
+      "Xiaoyang Liu",
+      "Yu Chen",
+      "Zhaoxuan Liu",
+      "Qingfeng Guo"
+     ],
+     "id": "arXiv:2507.07399v2"
+    },
+    {
+     "title": "The Faithfulness Gap: Certifying Semantic Equivalence Between Natural-Language and Formal Mathematical Statements",
+     "year": "2026",
+     "authors": [
+      "Noor Islam S. Mohammad",
+      "Tamim Sheikh"
+     ],
+     "id": "arXiv:2606.16541v1"
+    },
+    {
+     "title": "Aligning Faithfulness for Theory-Scale Autoformalization",
+     "year": "2026",
+     "authors": [
+      "Yuming Feng",
+      "Tadd Mao",
+      "Dhruva Arekar",
+      "Tianjun Zhong",
+      "Jiani Huang",
+      "Xujie Si"
+     ],
+     "id": "arXiv:2610.18498v1"
+    },
+    {
+     "title": "SemantEq: Faithful Bidirectional Equivalence of Formal Statements",
+     "year": "2026",
+     "authors": [
+      "Xinrui Li",
+      "Pawan Sasanka Ammanamanchi",
+      "Siddharth Bhat",
+      "Rianna Jamdar",
+      "Yongxi Lin",
+      "Stella Biderman"
+     ],
+     "id": "arXiv:2610.32919v1"
+    },
+    {
+     "title": "Beyond Compilation: Evaluating Faithful Natural-Language-to-Lean Statement Formalization",
+     "year": "2026",
+     "authors": [
+      "Ke Zhang",
+      "Patricio Gallardo Candela",
+      "Sudhir Murthy",
+      "Yi Xie",
+      "Zhi Wang",
+      "Maziar Raissi"
+     ],
+     "id": "arXiv:2606.31002v4"
+    },
+    {
+     "title": "Does the Proof Prove It That Way? Faithful Formalization of Elements Proofs",
+     "year": "2026",
+     "authors": [
+      "Tadd Mao",
+      "Tianjun Zhong",
+      "Dhruva Arekar",
+      "Yuming Feng",
+      "One An",
+      "Jiani Huang"
+     ],
+     "id": "arXiv:2608.15432v1"
+    },
+    {
+     "title": "FormalEvolve: Neuro-Symbolic Evolutionary Search for Diverse Autoformalization",
+     "year": "2026",
+     "authors": [
+      "Haijian Lu",
+      "Wei Wang",
+      "Jing Liu"
+     ],
+     "id": "arXiv:2603.19828v4"
+    },
+    {
+     "title": "Efficient Test-Time Optimization for Multi-Agent Proof Autoformalization",
+     "year": "2026",
+     "authors": [
+      "Tian-Shuo Liu",
+      "Shiyuan Zhang",
+      "Zijie Geng",
+      "Haoyu Liu",
+      "Runjie Xu",
+      "Pengyuan Wang"
+     ],
+     "id": "arXiv:2607.11307v1"
+    },
+    {
+     "title": "MathForm: Scaling Mathematical Autoformalization with Knowledge Retrieval and Verification-Guided Refinement",
+     "year": "2026",
+     "authors": [
+      "Lushi Pu",
+      "Weiming Zhang",
+      "Xinheng Xie",
+      "Zixuan Fu",
+      "Bingxiang He",
+      "Hengyu Zhao"
+     ],
+     "id": "arXiv:2608.14221v1"
+    },
+    {
+     "title": "MechGeo: Autoformalizing and Proving Euclidean Geometry in Lean 4",
+     "year": "2026",
+     "authors": [
+      "Hao Shen",
+      "Junyu Guo",
+      "Tian Cui",
+      "Yuxuan Xiao",
+      "Lihong Zhi"
+     ],
+     "id": "arXiv:2608.02295v1"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "autoformalization faithfulness formal statement",
+   "status": 200,
+   "results": [
+    {
+     "title": "Aligning Faithfulness for Theory-Scale Autoformalization",
+     "year": 2026,
+     "authors": [
+      "Yuming Feng",
+      "Tadd Mao",
+      "Dhruva Arekar",
+      "Tianjun Zhong",
+      "Jiani Huang",
+      "Xujie Si"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.18498"
+    },
+    {
+     "title": "Faithful Autoformalization of Natural Language Assertions",
+     "year": 2026,
+     "authors": [
+      "Hongyi Liu",
+      "P. Madhusudan",
+      "Adithya Murali"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.13303"
+    },
+    {
+     "title": "Faithful Autoformalization via Roundtrip Verification and Repair",
+     "year": 2026,
+     "authors": [
+      "Daneshvar Amrollahi",
+      "Jerry Lopez",
+      "Clark Barrett"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2604.25031"
+    },
+    {
+     "title": "The Faithfulness Gap: Certifying Semantic Equivalence Between Natural-Language and Formal Mathematical Statements",
+     "year": 2026,
+     "authors": [
+      "Noor Islam S. Mohammad",
+      "Tamim sheikh"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.16541"
+    },
+    {
+     "title": "FormalEvolve: Neuro-Symbolic Evolutionary Search for Diverse Autoformalization",
+     "year": 2026,
+     "authors": [
+      "Haijian Lu",
+      "Wei Wang",
+      "Jing Liu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2603.19828"
+    },
+    {
+     "title": "Structure-Aware Equivalence for Evaluating Autoformalized Statements",
+     "year": 2026,
+     "authors": [
+      "Yi Yu",
+      "Yu-Hsuan Wu",
+      "Guang Lin",
+      "Yuhui Zhang",
+      "Yuxiang Peng"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.25018"
+    },
+    {
+     "title": "Theory-Level Autoformalization: From Isolated Statements to Unified Formal Knowledge Bases",
+     "year": 2026,
+     "authors": [
+      "Marcus J. Min",
+      "Mike He",
+      "Zhaoyu Li",
+      "Zixuan Yi",
+      "Sharad Malik",
+      "A. Gupta"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W7169633685"
+    },
+    {
+     "title": "Reliable Evaluation and Benchmarks for Statement Autoformalization",
+     "year": 2025,
+     "authors": [
+      "Auguste Poiroux",
+      "Gail Weiss",
+      "Viktor Kunčak",
+      "Antoine Bosselut"
+     ],
+     "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+     "id": "https://doi.org/10.18653/v1/2025.emnlp-main.907"
+    },
+    {
+     "title": "Autoformalizer with Tool Feedback",
+     "year": 2025,
+     "authors": [
+      "Qi Guo",
+      "Jianing Wang",
+      "Jianfei Zhang",
+      "Kong, Deyang",
+      "Huang, Xiangzhou",
+      "Xiangyu Xi"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2510.06857"
+    },
+    {
+     "title": "MechGeo: Autoformalizing and Proving Euclidean Geometry in Lean 4",
+     "year": 2026,
+     "authors": [
+      "Hao Shen",
+      "Junyu Guo",
+      "Tian Cui",
+      "Yuxuan Xiao",
+      "Lihong Zhi"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.02295"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "autoformalization faithfulness formal statement",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "autoformalization faithfulness formal statement",
+   "status": 200,
+   "results": [
+    {
+     "title": "Financial Statement Relevance, Representational Faithfulness, and Comparability",
+     "year": 2023,
+     "authors": [
+      "Michael Neel",
+      "Irfan Safdar"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.4567125"
+    },
+    {
+     "title": "The Semantic Irrecoverability of Formal Proofs: An Information-Theoretic Limit Analysis of Lean 4 Autoformalization via DPI",
+     "year": 2026,
+     "authors": [
+      "Boduen Wang"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.7218360"
+    },
+    {
+     "title": "Theory-Level Autoformalization: From Isolated Statements to Unified Formal Knowledge Bases",
+     "year": 2026,
+     "authors": [
+      "Marcus J. Min",
+      "Mike He",
+      "Zhaoyu Li",
+      "Zixuan Yi",
+      "Sharad Malik",
+      "Aarti Gupta"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6922158"
+    },
+    {
+     "title": "Bootstrapping Hierarchical Autoregressive Formal Reasoner with Chain-of-Proxy-Autoformalization",
+     "year": 2025,
+     "authors": [
+      "Qi Liu",
+      "Xinhao Zheng",
+      "Renqiu Xia",
+      "Qinxiang Cao",
+      "Junchi Yan"
+     ],
+     "venue": "Advances in Neural Information Processing Systems 38",
+     "id": "doi:10.52202/085713-0683"
+    },
+    {
+     "title": "Reliable Evaluation and Benchmarks for Statement Autoformalization",
+     "year": 2025,
+     "authors": [
+      "Auguste Poiroux",
+      "Gail Weiss",
+      "Viktor Kunčak",
+      "Antoine Bosselut"
+     ],
+     "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+     "id": "doi:10.18653/v1/2025.emnlp-main.907"
+    },
+    {
+     "title": "Statement Logic",
+     "year": null,
+     "authors": [],
+     "venue": "Formal Logic",
+     "id": "doi:10.2307/j.ctt5hjr95.6"
+    },
+    {
+     "title": "Financial statement relevance, representational faithfulness, and comparability",
+     "year": 2023,
+     "authors": [
+      "Michael Neel",
+      "Irfan Safdar"
+     ],
+     "venue": "Review of Quantitative Finance and Accounting",
+     "id": "doi:10.1007/s11156-023-01205-9"
+    },
+    {
+     "title": "On the faithfulness of formal models",
+     "year": 1991,
+     "authors": [
+      "Zohar Manna",
+      "Amir Pnueli"
+     ],
+     "venue": "Lecture Notes in Computer Science Mathematical Foundations of Computer Science 1991",
+     "id": "doi:10.1007/3-540-54345-7_46"
+    },
+    {
+     "title": "The Mathematical Approach to Statement Logic",
+     "year": null,
+     "authors": [],
+     "venue": "Formal Logic",
+     "id": "doi:10.2307/j.ctt5hjr95.8"
+    },
+    {
+     "title": "GIL-Zaragoza at SemEval 2026 Task 11: Comparing Classification, Autoformalization, and Ontologies for Formal Reasoning Capabilities",
+     "year": 2026,
+     "authors": [
+      "Francisco Lopez-Ponce",
+      "Lucia Pitarch",
+      "Iván Saavedra Martínez",
+      "Ignacio Huitzil",
+      "Sergio Ojeda Trueba",
+      "Fernando Bobillo"
+     ],
+     "venue": "Proceedings of the 20th International Workshop on Semantic Evaluation (2026)",
+     "id": "doi:10.18653/v1/2026.semeval-1.308"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "misformalization theorem statement fidelity Lean",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "misformalization theorem statement fidelity Lean",
+   "status": 200,
+   "results": [
+    {
+     "title": "LeanMarathon: Toward Reliable AI Co-Mathematicians through Long-Horizon Lean Autoformalization",
+     "year": 2026,
+     "authors": [
+      "Yuanhe Zhang",
+      "Yuekai Sun",
+      "Taiji Suzuki",
+      "Jason D. Lee",
+      "Fanghui Liu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.05400"
+    },
+    {
+     "title": "Pursuit of Truth and Beauty in Lean 4: Formally Verified Theory of Grammars, Optimization, Matroids",
+     "year": 2026,
+     "authors": [
+      "Martin Dvorak"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W7129180479"
+    },
+    {
+     "title": "Formal Conjectures: An Open and Evolving Benchmark for Verified Discovery in Mathematics",
+     "year": 2026,
+     "authors": [
+      "Moritz Firsching",
+      "Paul Lezeau",
+      "Salvatore Mercuri",
+      "Miklós Z. Horváth",
+      "Yael Dillies",
+      "Calle Sönne"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.13171"
+    },
+    {
+     "title": "Olympiad-level formal mathematical reasoning with reinforcement learning",
+     "year": 2025,
+     "authors": [
+      "Thomas Hubert",
+      "Rishi Mehta",
+      "Laurent Sartran",
+      "Miklós Z. Horváth",
+      "Goran Žužić",
+      "Eric Wieser"
+     ],
+     "venue": "Nature",
+     "id": "https://doi.org/10.1038/s41586-025-09833-y"
+    },
+    {
+     "title": "ISTA Thesis",
+     "year": 2026,
+     "authors": [
+      "Martin Dvorak"
+     ],
+     "venue": "Institute of Science and Technology Austria",
+     "id": "https://openalex.org/W7148180758"
+    },
+    {
+     "title": "Full supercongruence towers for exponential transforms of factorial ratios, their iterates and their Lagrange companions",
+     "year": 2026,
+     "authors": [
+      "Tom Adamczewski"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.11941"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "misformalization theorem statement fidelity Lean",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "misformalization theorem statement fidelity Lean",
+   "status": 200,
+   "results": [
+    {
+     "title": "Review for \"Formalizing chemical physics using the Lean theorem prover\"",
+     "year": 2023,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1039/d3dd00077j/v1/review1"
+    },
+    {
+     "title": "Review for \"Formalizing chemical physics using the Lean theorem prover\"",
+     "year": 2023,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1039/d3dd00077j/v1/review3"
+    },
+    {
+     "title": "Review for \"Formalizing chemical physics using the Lean theorem prover\"",
+     "year": 2023,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1039/d3dd00077j/v2/review2"
+    },
+    {
+     "title": "Review for \"Formalizing chemical physics using the Lean theorem prover\"",
+     "year": 2023,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1039/d3dd00077j/v1/review2"
+    },
+    {
+     "title": "Review for \"Formalizing chemical physics using the Lean theorem prover\"",
+     "year": 2023,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1039/d3dd00077j/v2/review3"
+    },
+    {
+     "title": "Review for \"Formalizing chemical physics using the Lean theorem prover\"",
+     "year": 2023,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1039/d3dd00077j/v2/review1"
+    },
+    {
+     "title": "Statement of the Main Theorem",
+     "year": 1993,
+     "authors": [],
+     "venue": "Differential Algebras in Topology",
+     "id": "doi:10.1201/9781439864593-16"
+    },
+    {
+     "title": "General Statement towards “P versus NP” Theorem Disproof",
+     "year": 2026,
+     "authors": [
+      "Mirzakhmet Syzdykov"
+     ],
+     "venue": "",
+     "id": "doi:10.33774/coe-2026-1f8h3"
+    },
+    {
+     "title": "Intersection Numbers and the Statement of the Disc Embedding Theorem",
+     "year": 2021,
+     "authors": [
+      "Mark Powell",
+      "Arunima Ray"
+     ],
+     "venue": "The Disc Embedding Theorem",
+     "id": "doi:10.1093/oso/9780198841319.003.0011"
+    },
+    {
+     "title": "CHAPTER I. STATEMENT OF THE THEOREM OUTLINE OF THE PROOF",
+     "year": 1965,
+     "authors": [
+      "A. Borel"
+     ],
+     "venue": "Seminar on Atiyah-Singer Index Theorem. (AM-57)",
+     "id": "doi:10.1515/9781400882045-002"
+    }
+   ]
+  }
+ ]
+}

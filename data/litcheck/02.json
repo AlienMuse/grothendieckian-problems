@@ -1,0 +1,442 @@
+{
+ "problem": 2,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "co-evolution mathematical language theory fixed point verification",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "co-evolution mathematical language theory fixed point verification",
+   "status": 200,
+   "results": [
+    {
+     "title": "Complexity, Language, and Life: Mathematical Approaches",
+     "year": 1986,
+     "authors": [
+      "John L. Casti",
+      "Anders Karlqvist"
+     ],
+     "venue": "Biomathematics",
+     "id": "https://doi.org/10.1007/978-3-642-70953-1"
+    },
+    {
+     "title": "Joint attention and language evolution",
+     "year": 2008,
+     "authors": [
+      "Johan Kwisthout",
+      "Paul Vogt",
+      "Pim Haselager",
+      "Ton Dijkstra"
+     ],
+     "venue": "Connection Science",
+     "id": "https://doi.org/10.1080/09540090802091958"
+    },
+    {
+     "title": "Mind and language : evolution in contemporary theories of cognition",
+     "year": 2006,
+     "authors": [
+      "Tanya de Villiers-Botha"
+     ],
+     "venue": "SUNScholar (Stellenbosch University)",
+     "id": "https://openalex.org/W54042588"
+    },
+    {
+     "title": "The Fixed-Point of Distrust: A Formal Theory of Perceived Systemic Incompetence",
+     "year": 2026,
+     "authors": [
+      "Weilin Zhou"
+     ],
+     "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+     "id": "https://doi.org/10.1609/aaai.v40i46.41318"
+    },
+    {
+     "title": "Mathematical Control Theory of Coupled PDEs",
+     "year": 2003,
+     "authors": [
+      "Irena Lasiecka",
+      "G. C. Gaunaurd"
+     ],
+     "venue": "Applied Mechanics Reviews",
+     "id": "https://doi.org/10.1115/1.1523354"
+    },
+    {
+     "title": "The Mathematical Evolution of Addressing: From Yushchenko's Address Programming Language to A Mathematics of Arrays How Addressing Evolved into a Mathematical Theory of Indexing, Array Computation, and Machine Realization",
+     "year": 2026,
+     "authors": [
+      "Lenore Mullin",
+      "Gaétan Hains"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.23854"
+    },
+    {
+     "title": "A Theorical Point Of View Of Reality, Perception And Language",
+     "year": 2015,
+     "authors": [
+      "Josué Antonio Nescolarde‐Selva",
+      "J. L. Usó-Doménech"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.34775"
+    },
+    {
+     "title": "From Logic to Language: Matrix–Tensor Mathematics and the Evolution from the Web to Large Language Models",
+     "year": 2026,
+     "authors": [
+      "Murali Krishna Pasupuleti"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.62311/nesx/rb-978-81-999716-7-7"
+    },
+    {
+     "title": "Co-Evolution of Policy and Internal Reward for Language Agents",
+     "year": 2026,
+     "authors": [
+      "Xinyu Wang",
+      "Wu, Hanwei",
+      "Jingwei Song",
+      "Shuyuan Zhang",
+      "Zhang, Jiayi",
+      "Fanqi Kong"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2604.03098"
+    },
+    {
+     "title": "“In Mathematical Language”: On Mathematical Foundations of Quantum Foundations",
+     "year": 2024,
+     "authors": [
+      "Arkady Plotnitsky"
+     ],
+     "venue": "Entropy",
+     "id": "https://doi.org/10.3390/e26110989"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "co-evolution mathematical language theory fixed point verification",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "co-evolution mathematical language theory fixed point verification",
+   "status": 200,
+   "results": [
+    {
+     "title": "About periodicity of impulsive evolution equations through fixed point theory",
+     "year": 2015,
+     "authors": [
+      "Jin Liang",
+      "Ti-Jun Xiao",
+      "He Yang"
+     ],
+     "venue": "Fixed Point Theory and Applications",
+     "id": "doi:10.1186/s13663-015-0479-y"
+    },
+    {
+     "title": "Mathematical analysis of the dynamics of a fractional economic cycle model and the existence of solutions by means of fixed point theory",
+     "year": 2024,
+     "authors": [],
+     "venue": "Advances in Fixed Point Theory",
+     "id": "doi:10.28919/afpt/8350"
+    },
+    {
+     "title": "Semilinear evolution equations with distributed measures",
+     "year": 2015,
+     "authors": [
+      "Adrian Petruşel",
+      "Bianca Satco"
+     ],
+     "venue": "Fixed Point Theory and Applications",
+     "id": "doi:10.1186/s13663-015-0392-4"
+    },
+    {
+     "title": "Evolution of the 1984 KKM theorem of Ky Fan",
+     "year": 2012,
+     "authors": [
+      "Sehie Park"
+     ],
+     "venue": "Fixed Point Theory and Applications",
+     "id": "doi:10.1186/1687-1812-2012-146"
+    },
+    {
+     "title": "Mathematical modeling and analysis of the dynamics of a nonlinear finance system via Hattaf fractional derivative and fixed point theory",
+     "year": 2026,
+     "authors": [
+      "Khadija Toufiq",
+      "Sara Lasfar",
+      "Khalid Hattaf",
+      "Khalid Adnaoui"
+     ],
+     "venue": "Adv. Fixed Point Theory",
+     "id": "doi:10.28919/afpt/9690"
+    },
+    {
+     "title": "Existence and uniqueness of solutions in mathematical equations: exploring novel approaches in a metric space",
+     "year": 2024,
+     "authors": [],
+     "venue": "Advances in Fixed Point Theory",
+     "id": "doi:10.28919/afpt/8675"
+    },
+    {
+     "title": "Hybrid fixed point theorems with application to fractional evolution equations",
+     "year": 2017,
+     "authors": [
+      "He Yang",
+      "Elyasa Ibrahim",
+      "Jin Ma"
+     ],
+     "venue": "Journal of Fixed Point Theory and Applications",
+     "id": "doi:10.1007/s11784-017-0449-6"
+    },
+    {
+     "title": "Origin and evolution of the Palais–Smale condition in critical point theory",
+     "year": 2010,
+     "authors": [
+      "Jean Mawhin",
+      "Michel Willem"
+     ],
+     "venue": "Journal of Fixed Point Theory and Applications",
+     "id": "doi:10.1007/s11784-010-0019-7"
+    },
+    {
+     "title": "Some new fixed point theorems of rational type contraction with an application to coupled fixed point theory",
+     "year": 2024,
+     "authors": [],
+     "venue": "Advances in Fixed Point Theory",
+     "id": "doi:10.28919/afpt/8714"
+    },
+    {
+     "title": "Epsilon Nielsen fixed point theory",
+     "year": 2006,
+     "authors": [
+      "Robert F Brown"
+     ],
+     "venue": "Fixed Point Theory and Applications",
+     "id": "doi:10.1155/fpta/2006/29470"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "proof obligation preserving transition system invariant theorem proving",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "proof obligation preserving transition system invariant theorem proving",
+   "status": 200,
+   "results": [
+    {
+     "title": "Verifying invariants using theorem proving",
+     "year": 1996,
+     "authors": [
+      "Susanne Graf",
+      "Hassen Saı̈di"
+     ],
+     "venue": "Lecture notes in computer science",
+     "id": "https://doi.org/10.1007/3-540-61474-5_69"
+    },
+    {
+     "title": "Proving Local Invariants in ASTDs",
+     "year": 2023,
+     "authors": [
+      "Quelen Cartellier",
+      "Marc Frappier",
+      "Amel Mammar"
+     ],
+     "venue": "Lecture notes in computer science",
+     "id": "https://doi.org/10.1007/978-981-99-7584-6_14"
+    },
+    {
+     "title": "Proof Tactics for Theorem Proving Graph Grammars through Rodin",
+     "year": 2015,
+     "authors": [
+      "Luiz Carlos Lemor",
+      "Simone André da Costa Cavalheiro",
+      "Luciana Foss"
+     ],
+     "venue": "Revista de Informática Teórica e Aplicada",
+     "id": "https://doi.org/10.22456/2175-2745.50383"
+    },
+    {
+     "title": "ASM Refinement Preserving Invariants",
+     "year": 2020,
+     "authors": [
+      "Gerhard Schellhorn"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.3217/jucs-014-12-1929"
+    },
+    {
+     "title": "Inspection of Concurrent Systems: Combining Tables, Theorem Proving and Model Checking",
+     "year": 2005,
+     "authors": [
+      "Vera Pantelic"
+     ],
+     "venue": "University of Limerick Institutional Repository (University of Limerick)",
+     "id": "https://doi.org/10.34961/9064"
+    },
+    {
+     "title": "Security invariants in discrete transition systems",
+     "year": 2012,
+     "authors": [
+      "Thai Son Hoang"
+     ],
+     "venue": "Formal Aspects of Computing",
+     "id": "https://doi.org/10.1007/s00165-012-0256-1"
+    },
+    {
+     "title": "Liquid Haskell: Haskell as a Theorem Prover",
+     "year": 2016,
+     "authors": [
+      "Niki Vazou"
+     ],
+     "venue": "eScholarship (California Digital Library)",
+     "id": "https://openalex.org/W2580272185"
+    },
+    {
+     "title": "Encoding TLA+ proof obligations safely for SMT",
+     "year": 2024,
+     "authors": [
+      "Rosalie Defourné"
+     ],
+     "venue": "Science of Computer Programming",
+     "id": "https://doi.org/10.1016/j.scico.2024.103178"
+    },
+    {
+     "title": "On theorem prover-based testing",
+     "year": 2012,
+     "authors": [
+      "Achim D. Brucker",
+      "Burkhart Wolff"
+     ],
+     "venue": "Formal Aspects of Computing",
+     "id": "https://doi.org/10.1007/s00165-012-0222-y"
+    },
+    {
+     "title": "Reasoning with inductively defined relations in the HOL theorem prover",
+     "year": 2021,
+     "authors": [
+      "Juanito Camilleri",
+      "Tom Melham"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.48456/tr-265"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "proof obligation preserving transition system invariant theorem proving",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "proof obligation preserving transition system invariant theorem proving",
+   "status": 200,
+   "results": [
+    {
+     "title": "Conditional and Preferential Logics: Proof Methods and Theorem Proving",
+     "year": 2010,
+     "authors": [
+      "Pozzato Gian Luca"
+     ],
+     "venue": "Frontiers in Artificial Intelligence and Applications Conditional and Preferential Logics: Proof Methods and Theorem Proving",
+     "id": "doi:10.3233/978-1-60750-095-7-i"
+    },
+    {
+     "title": "Agent-based proof support for interactive theorem proving",
+     "year": null,
+     "authors": [
+      "",
+      "Christopher Hunter"
+     ],
+     "venue": "",
+     "id": "doi:10.14264/da6cfd2"
+    },
+    {
+     "title": "Proof Based Computation",
+     "year": null,
+     "authors": [
+      "M.C. Newey"
+     ],
+     "venue": "1991., International Workshop on the HOL Theorem Proving System and Its Applications",
+     "id": "doi:10.1109/hol.1991.596302"
+    },
+    {
+     "title": "Applications of Foundational Proof Certificates in theorem proving",
+     "year": null,
+     "authors": [
+      "Roberto Blanco Martínez"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/61bfbf53z121az472ez8c91ze9f6166c9a6a"
+    },
+    {
+     "title": "Proof Of Program Transformations",
+     "year": null,
+     "authors": [
+      "R. Roxas",
+      "M. Newey"
+     ],
+     "venue": "1991., International Workshop on the HOL Theorem Proving System and Its Applications",
+     "id": "doi:10.1109/hol.1991.596289"
+    },
+    {
+     "title": "Visual Theorem Proving with the Incredible Proof Machine",
+     "year": 2016,
+     "authors": [
+      "Joachim Breitner"
+     ],
+     "venue": "Lecture Notes in Computer Science Interactive Theorem Proving",
+     "id": "doi:10.1007/978-3-319-43144-4_8"
+    },
+    {
+     "title": "Elementary algebra proof exercies using a theorem proving system",
+     "year": 2013,
+     "authors": [
+      "Bing Li",
+      "Wei Su",
+      "Yi Yang",
+      "Lian Li"
+     ],
+     "venue": "IEEE Conference Anthology",
+     "id": "doi:10.1109/anthology.2013.6784786"
+    },
+    {
+     "title": "Proving The Kervaire Invariant Theorem",
+     "year": 2021,
+     "authors": [],
+     "venue": "Equivariant Stable Homotopy Theory and the Kervaire Invariant Problem",
+     "id": "doi:10.1017/9781108917278.013"
+    },
+    {
+     "title": "The Interactive Proof Editor An Experiment in Interactive Theorem Proving",
+     "year": 1989,
+     "authors": [
+      "Brian Ritchie",
+      "Paul Taylor"
+     ],
+     "venue": "Current Trends in Hardware Verification and Automated Theorem Proving",
+     "id": "doi:10.1007/978-1-4612-3658-0_7"
+    },
+    {
+     "title": "Automated Theorem Proving",
+     "year": 2015,
+     "authors": [],
+     "venue": "Computation, Proof, Machine",
+     "id": "doi:10.1017/cbo9781139026581.011"
+    }
+   ]
+  }
+ ]
+}

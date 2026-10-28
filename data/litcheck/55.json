@@ -1,0 +1,417 @@
+{
+ "problem": 55,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "miraculous duality Bun_G",
+   "status": 200,
+   "results": [
+    {
+     "title": "Duality for automorphic sheaves with nilpotent singular support",
+     "year": "2020",
+     "authors": [
+      "D. Arinkin",
+      "D. Gaitsgory",
+      "D. Kazhdan",
+      "S. Raskin",
+      "N. Rozenblyum",
+      "Y. Varshavsky"
+     ],
+     "id": "arXiv:2012.07665v2"
+    },
+    {
+     "title": "Picard-Lefschetz oscillators for the Drinfeld-Lafforgue-Vinberg degeneration for SL_2",
+     "year": "2014",
+     "authors": [
+      "Simon Schieder"
+     ],
+     "id": "arXiv:1411.4206v3"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "miraculous duality Bun_G",
+   "status": 200,
+   "results": [
+    {
+     "title": "Duality for automorphic sheaves with nilpotent singular support",
+     "year": 2020,
+     "authors": [
+      "D. Arinkin",
+      "Dennis Gaitsgory",
+      "David Kazhdan",
+      "Sam Raskin",
+      "Nick Rozenblyum",
+      "Yakov Varshavsky"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2012.07665"
+    },
+    {
+     "title": "Compact generation of the category of D-modules on the stack of G-bundles on a curve",
+     "year": 2011,
+     "authors": [
+      "Vladimir Drinfeld",
+      "Dennis Gaitsgory"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1112.2402"
+    },
+    {
+     "title": "Compact Generation of the Category of D-Modules on the Stack of G-Bundles on a Curve",
+     "year": 2013,
+     "authors": [
+      "Dennis Gaitsgory",
+      "Vladimir Drinfeld"
+     ],
+     "venue": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+     "id": "https://openalex.org/W4294656992"
+    },
+    {
+     "title": "On the geometric Ramanujan conjecture",
+     "year": 2021,
+     "authors": [
+      "Dario Beraldo"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2103.17211"
+    },
+    {
+     "title": "Geometric Bernstein Asymptotics and the Drinfeld-Lafforgue-Vinberg degeneration for arbitrary reductive groups",
+     "year": 2016,
+     "authors": [
+      "Simon Schieder"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1607.00586"
+    },
+    {
+     "title": "Non-vanishing of geometric Whittaker coefficients for reductive groups",
+     "year": 2022,
+     "authors": [
+      "Joakim Færgeman",
+      "Sam Raskin"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2207.02955"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "miraculous duality Bun_G",
+   "status": 200,
+   "results": [
+    {
+     "title": "Duality for automorphic sheaves with nilpotent singular support",
+     "year": "2020",
+     "authors": [
+      "D. Arinkin",
+      "D. Gaitsgory",
+      "D. Kazhdan",
+      "S. Raskin",
+      "N. Rozenblyum",
+      "Y. Varshavsky"
+     ],
+     "venue": null,
+     "id": "zbMATH arXiv:2012.07665"
+    }
+   ]
+  },
+  {
+   "source": "Crossref",
+   "query": "miraculous duality Bun_G",
+   "status": 200,
+   "results": [
+    {
+     "title": "A ‘strange' functional equation for Eisenstein series and miraculous duality on the moduli stack of bundles",
+     "year": 2018,
+     "authors": [
+      "Dennis GAITSGORY"
+     ],
+     "venue": "Annales Scientifiques de l'École Normale Supérieure",
+     "id": "doi:10.24033/asens.2341"
+    },
+    {
+     "title": "Bun foot",
+     "year": 2008,
+     "authors": [
+      "Gordon Campbell"
+     ],
+     "venue": "Oxford Art Online",
+     "id": "doi:10.1093/gao/9781884446054.article.t2071182"
+    },
+    {
+     "title": "Miraculous Transformation",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.3998/mpub.11486286.cmp.160"
+    },
+    {
+     "title": "Miraculous Images",
+     "year": 2016,
+     "authors": [
+      "Frank Graziano"
+     ],
+     "venue": "Miraculous Images and Votive Offerings in Mexico",
+     "id": "doi:10.1093/acprof:oso/9780199790869.003.0001"
+    },
+    {
+     "title": "Miraculous Transformation II",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.3998/mpub.11486286.cmp.165"
+    },
+    {
+     "title": "Lam Bun-ching",
+     "year": 2001,
+     "authors": [
+      "Harrison Ryker"
+     ],
+     "venue": "Oxford Music Online",
+     "id": "doi:10.1093/gmo/9781561592630.article.42734"
+    },
+    {
+     "title": "The Miraculous Flying House of Loreto",
+     "year": 2018,
+     "authors": [
+      "Karin Vélez"
+     ],
+     "venue": "",
+     "id": "doi:10.23943/princeton/9780691174006.001.0001"
+    },
+    {
+     "title": "Antioxidants-the Miraculous Molecules",
+     "year": 2017,
+     "authors": [],
+     "venue": "Journal of Nutrition &amp; Health",
+     "id": "doi:10.13188/2469-4185.1000029"
+    },
+    {
+     "title": "The Miraculous, the Fantastic and the Fatalistic",
+     "year": 2019,
+     "authors": [],
+     "venue": "The Marvellous and the Miraculous in María de Zayas",
+     "id": "doi:10.2307/j.ctv16kkz5m.8"
+    },
+    {
+     "title": "The Idea of the Miraculous",
+     "year": 1990,
+     "authors": [
+      "T. C. Williams"
+     ],
+     "venue": "The Idea of the Miraculous",
+     "id": "doi:10.1007/978-1-349-20848-7_2"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "ambidexterity automorphic sheaves arithmetic",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "ambidexterity automorphic sheaves arithmetic",
+   "status": 200,
+   "results": [
+    {
+     "title": "Spherochromatism in representation theory and arithmetic geometry",
+     "year": 2025,
+     "authors": [
+      "Devalapurkar, Sanath"
+     ],
+     "venue": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+     "id": "https://openalex.org/W7113005136"
+    },
+    {
+     "title": "What is the Geometric Langlands Correspondence about?",
+     "year": 2026,
+     "authors": [
+      "David Ben-Zvi"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.23167"
+    },
+    {
+     "title": "Whittaker coefficients in quantum geometric Langlands program",
+     "year": 2026,
+     "authors": [
+      "Ekaterina Bogdanova"
+     ],
+     "venue": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+     "id": "https://openalex.org/W7164274262"
+    },
+    {
+     "title": "Motivic realization of rigid G-local systems on curves and tamely ramified geometric Langlands",
+     "year": 2026,
+     "authors": [
+      "Joakim Færgeman"
+     ],
+     "venue": "Selecta Mathematica",
+     "id": "https://doi.org/10.1007/s00029-026-01213-2"
+    },
+    {
+     "title": "Mackey formulas for smooth stacks",
+     "year": 2026,
+     "authors": [
+      "Chenjing Bu",
+      "Lucien Hennecart"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.29970"
+    },
+    {
+     "title": "The Dolbeault geometric Langlands correspondence for type A groups beyond the elliptic locus",
+     "year": 2026,
+     "authors": [
+      "Yukinobu Toda"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.28878"
+    },
+    {
+     "title": "Proof of the geometric Langlands conjecture V: the multiplicity one theorem",
+     "year": 2024,
+     "authors": [
+      "Dennis Gaitsgory",
+      "Sam Raskin"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2409.09856"
+    },
+    {
+     "title": "Non-Archimedean Geometry and Applications",
+     "year": 2025,
+     "authors": [
+      "Johannes Nicaise",
+      "Peter Scholze",
+      "Michael Temkin",
+      "Annette Werner"
+     ],
+     "venue": "Oberwolfach Reports",
+     "id": "https://doi.org/10.4171/owr/2025/29"
+    },
+    {
+     "title": "Meromorphic vector bundles on the Fargues–Fontaine curve",
+     "year": 2026,
+     "authors": [
+      "Ian Gleason",
+      "Alexander B. Ivanov",
+      "Felix Zillinger"
+     ],
+     "venue": "Journal of the European Mathematical Society",
+     "id": "https://doi.org/10.4171/jems/1789"
+    },
+    {
+     "title": "On Galois extensions of geometric fixed point spectra",
+     "year": 2026,
+     "authors": [
+      "Jack Morgan Davies"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.14510"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "ambidexterity automorphic sheaves arithmetic",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "ambidexterity automorphic sheaves arithmetic",
+   "status": 200,
+   "results": [
+    {
+     "title": "Automorphic Forms and Geometry of Arithmetic Varieties",
+     "year": 1989,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1016/c2013-0-07357-4"
+    },
+    {
+     "title": "Automorphic forms and automorphic representations for general arithmetic groups",
+     "year": 2009,
+     "authors": [],
+     "venue": "AMS/IP Studies in Advanced Mathematics Arithmetic Groups and Their Generalizations",
+     "id": "doi:10.1090/amsip/043/12"
+    },
+    {
+     "title": "NON-REDUCTIVE CYCLES AND TWISTED ARITHMETIC TRANSFERS FOR SHIMURA CURVES (Arithmetic aspects of automorphic forms and automorphic representations)",
+     "year": 2025,
+     "authors": [
+      "ZHIYU ZHANG"
+     ],
+     "venue": "RIMS Kokyuroku",
+     "id": "doi:10.17983/303269"
+    },
+    {
+     "title": "Cohomology of arithmetic groups, automorphic forms and L-functions",
+     "year": 1990,
+     "authors": [
+      "Joachim Schwermer"
+     ],
+     "venue": "Lecture Notes in Mathematics Cohomology of Arithmetic Groups and Automorphic Forms",
+     "id": "doi:10.1007/bfb0085724"
+    },
+    {
+     "title": "Nearby Cycles of Automorphic Étale Sheaves, II",
+     "year": 2018,
+     "authors": [
+      "Kai-Wen Lan",
+      "Benoît Stroh"
+     ],
+     "venue": "Springer Proceedings in Mathematics &amp; Statistics Cohomology of Arithmetic Groups",
+     "id": "doi:10.1007/978-3-319-95549-0_4"
+    },
+    {
+     "title": "",
+     "year": 2009,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.55776/p21090"
+    },
+    {
+     "title": "Copyright",
+     "year": 1989,
+     "authors": [],
+     "venue": "Automorphic Forms and Geometry of Arithmetic Varieties",
+     "id": "doi:10.1016/b978-0-12-330580-0.50002-1"
+    },
+    {
+     "title": "Dedication",
+     "year": 1989,
+     "authors": [],
+     "venue": "Automorphic Forms and Geometry of Arithmetic Varieties",
+     "id": "doi:10.1016/b978-0-12-330580-0.50006-9"
+    },
+    {
+     "title": "CONCRETE CONSTRUCTIONS OF AUTOMORPHIC REPRESENTATIONS AND CENTRAL VALUES OF L-FUNCTIONS (Arithmetic aspects of automorphic forms and automorphic representations)",
+     "year": 2025,
+     "authors": [
+      "BIN XU"
+     ],
+     "venue": "RIMS Kokyuroku",
+     "id": "doi:10.17983/303259"
+    },
+    {
+     "title": "",
+     "year": 2023,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.3030/101054336"
+    }
+   ]
+  }
+ ]
+}

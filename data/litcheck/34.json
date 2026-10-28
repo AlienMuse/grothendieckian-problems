@@ -1,0 +1,561 @@
+{
+ "problem": 34,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "independent type checker Lean 4 kernel",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "independent type checker Lean 4 kernel",
+   "status": 200,
+   "results": [
+    {
+     "title": "Two Verifiers, One Substrate Cubical Agda and Lean 4 Co-Verifying a Constructive Fibonacci Canonicalization, Four Applied Surfaces, and a Mutation Gate That Rejecte",
+     "year": 2026,
+     "authors": [
+      "The Institute for Applied Ontological Mathematics"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.23304078"
+    },
+    {
+     "title": "PBLean: Pseudo-Boolean Proof Certificates for Lean 4",
+     "year": 2026,
+     "authors": [
+      "Stefan Szeider"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2602.08692"
+    },
+    {
+     "title": "Artifact for \"Checking a Nonlinear Computer-Assisted Proof in Lean's Kernel: An Experience Report\" (FormaliSE 2027)",
+     "year": 2026,
+     "authors": [
+      "Tejasvi Singh Tomar"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.5281/zenodo.23004306"
+    },
+    {
+     "title": "PARALLAX-5 / EVMYulLean Integration Verification: Machine-Checked Composition of an Abstract Refinement Substrate with a Production EVM Semantics in Lean 4",
+     "year": 2026,
+     "authors": [
+      "Benjamin P. Duncan"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.20386867"
+    },
+    {
+     "title": "TorchLean: Formalizing Neural Networks in Lean",
+     "year": 2026,
+     "authors": [
+      "Robert Joseph George",
+      "Jennifer Cruden",
+      "Will Adkisson",
+      "Xiangru Zhong",
+      "Huan Zhang",
+      "Animashree Anandkumar"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2602.22631"
+    },
+    {
+     "title": "AXLE: A Cloud Infrastructure for Lean 4 Theorem Proving Utilities",
+     "year": 2026,
+     "authors": [
+      "Jimmy Xin",
+      "Alex Schneidman",
+      "Cummins, Chris",
+      "Karun Ram",
+      "S Ganesh",
+      "Jannis Limperg"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.26442"
+    },
+    {
+     "title": "Proving LLM-Generated GPU Kernels Correct and Safe: Floating-Point Verification in Lean and VerCors",
+     "year": 2026,
+     "authors": [
+      "Archibald Browne",
+      "Eugene Lee",
+      "Cristopher Salvi"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.24548"
+    },
+    {
+     "title": "Game Hopping in Lean",
+     "year": 2026,
+     "authors": [
+      "Stefan Dziembowski",
+      "Grzegorz Fabiański",
+      "Daniele Micciancio",
+      "Rafał Stefański"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.06261"
+    },
+    {
+     "title": "ProofSketcher: Hybrid LLM + Lightweight Proof Checker for Reliable Math/Logic Reasoning",
+     "year": 2026,
+     "authors": [
+      "Kranthi Kommuru",
+      "Kunal Khanvilkar",
+      "Gaurav Parekh"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2604.06401"
+    },
+    {
+     "title": "Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4",
+     "year": 2026,
+     "authors": [
+      "Haotian Deng",
+      "Chris Farber",
+      "Sonal Narasimha",
+      "Samskrithi Sivakumar",
+      "Yexiang Xue"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.26942"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "independent type checker Lean 4 kernel",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "independent type checker Lean 4 kernel",
+   "status": 200,
+   "results": [
+    {
+     "title": "STATIC TYPE CHECKER TOOLS FOR DART",
+     "year": null,
+     "authors": [
+      "Snigdha Mokkapati"
+     ],
+     "venue": "",
+     "id": "doi:10.31979/etd.xpj3-y2sa"
+    },
+    {
+     "title": "TrustedBox: a kernel-level integrity checker",
+     "year": null,
+     "authors": [
+      "P. Iglio"
+     ],
+     "venue": "Proceedings 15th Annual Computer Security Applications Conference (ACSAC'99)",
+     "id": "doi:10.1109/csac.1999.816027"
+    },
+    {
+     "title": "Is Self-triage by Patients Using a Symptom-checker Safe?",
+     "year": 2019,
+     "authors": [
+      ""
+     ],
+     "venue": "Case Medical Research",
+     "id": "doi:10.31525/ct1-nct04055298"
+    },
+    {
+     "title": "Brisk Kernel Independent Component Analysis",
+     "year": 2007,
+     "authors": [
+      "Stefanie Jegelka",
+      "Arthur Gretton"
+     ],
+     "venue": "Large-Scale Kernel Machines",
+     "id": "doi:10.7551/mitpress/7496.003.0012"
+    },
+    {
+     "title": "Verified type-checker for Jolie",
+     "year": 2017,
+     "authors": [
+      "Evgenii Akentev",
+      "Alexander Tchitchigin",
+      "Larisa Safina",
+      "Manuel Mazzara"
+     ],
+     "venue": "",
+     "id": "doi:10.31224/osf.io/3hv82"
+    },
+    {
+     "title": "Vitamin D Supplementation in Lean PCOS Patients",
+     "year": 2019,
+     "authors": [
+      ""
+     ],
+     "venue": "Case Medical Research",
+     "id": "doi:10.31525/ct1-nct03898934"
+    },
+    {
+     "title": "Novel Equations for Estimating Lean Body Mass",
+     "year": 2019,
+     "authors": [
+      ""
+     ],
+     "venue": "Case Medical Research",
+     "id": "doi:10.31525/ct1-nct04074278"
+    },
+    {
+     "title": "Lipid Challenge in Lean and Obese Adults",
+     "year": 2019,
+     "authors": [
+      ""
+     ],
+     "venue": "Case Medical Research",
+     "id": "doi:10.31525/ct1-nct03948295"
+    },
+    {
+     "title": "Stitch: the sound type-indexed type checker (functional pearl)",
+     "year": 2020,
+     "authors": [
+      "Richard A. Eisenberg"
+     ],
+     "venue": "Proceedings of the 13th ACM SIGPLAN International Symposium on Haskell",
+     "id": "doi:10.1145/3406088.3409015"
+    },
+    {
+     "title": "Reducing Iodine Dose Based on Lean Body Weight",
+     "year": 2019,
+     "authors": [
+      ""
+     ],
+     "venue": "Case Medical Research",
+     "id": "doi:10.31525/ct1-nct04027556"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "Lean4Lean verified Lean typechecker",
+   "status": 200,
+   "results": [
+    {
+     "title": "Lean4Lean: Verifying a Typechecker for Lean, in Lean",
+     "year": "2024",
+     "authors": [
+      "Mario Carneiro"
+     ],
+     "id": "arXiv:2403.14064v3"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "Lean4Lean verified Lean typechecker",
+   "status": 200,
+   "results": [
+    {
+     "title": "Lean4Lean: Verifying a Typechecker for Lean, in Lean",
+     "year": 2024,
+     "authors": [
+      "Mario Carneiro"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.4230/lipics.types.2025.2"
+    },
+    {
+     "title": "LeanCSP: A Framework for Certifying Constraint Reformulation and Solving in Lean",
+     "year": 2026,
+     "authors": [
+      "Pablo Manrique",
+      "Stefan Szeider"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.28459"
+    },
+    {
+     "title": "A Term-Patching Framework for Eliminating Definitional Equalities in Lean (Work-in-Progress)",
+     "year": 2024,
+     "authors": [
+      "Vaishnav, Rishikesh"
+     ],
+     "venue": "HAL",
+     "id": "https://openalex.org/W4404983620"
+    },
+    {
+     "title": "Nested Inductive Types: Justified and Usable Nested Inductive Types in Lean and Rocq",
+     "year": 2025,
+     "authors": [
+      "Lamiaux, Thomas",
+      "Forster, Yannick",
+      "Matthieu Sozeau",
+      "Nicolas Tabareau"
+     ],
+     "venue": "HAL",
+     "id": "https://openalex.org/W7106095442"
+    },
+    {
+     "title": "Proof Architecture in the OpenAI Lean Library: Representation, Locality, and Semantic Transport",
+     "year": 2026,
+     "authors": [
+      "Robin Gounder"
+     ],
+     "venue": "SSRN Electronic Journal",
+     "id": "https://doi.org/10.2139/ssrn.7589458"
+    },
+    {
+     "title": "Formally Verified Patent Analysis via Dependent Type Theory: Machine-Checkable Certificates from a Hybrid AI + Lean 4 Pipeline",
+     "year": 2026,
+     "authors": [
+      "George Koomullil"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2604.18882"
+    },
+    {
+     "title": "EconCSLib: AI-Assisted Lean Formalization for Economics & Computation research",
+     "year": 2026,
+     "authors": [
+      "Nikhil Garg"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.13306"
+    },
+    {
+     "title": "Type-Checked Compliance: Deterministic Guardrails for Agentic Financial Systems Using Lean 4 Theorem Proving",
+     "year": 2026,
+     "authors": [
+      "Devakh Rashie",
+      "Veda Rashi"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2604.01483"
+    },
+    {
+     "title": "Foundational Constraint Solving for Expressive Refinement Typing",
+     "year": 2026,
+     "authors": [
+      "Jam Kabeer Ali Khan",
+      "Petros Markopoulos",
+      "Nico Lehmann",
+      "Ranjit Jhala"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.12226"
+    },
+    {
+     "title": "The Future of AI-assisted Physics: Discovering, Verifying and Organizing Results via Formalization",
+     "year": 2026,
+     "authors": [
+      "Sven Krippendorf",
+      "Leopoldo Sarra",
+      "Joseph Tooby‐Smith"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.14059"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "Lean4Lean verified Lean typechecker",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "Lean4Lean verified Lean typechecker",
+   "status": 200,
+   "results": [
+    {
+     "title": "A verified typechecker",
+     "year": 1995,
+     "authors": [
+      "Robert Pollack"
+     ],
+     "venue": "Lecture Notes in Computer Science Typed Lambda Calculi and Applications",
+     "id": "doi:10.1007/bfb0014065"
+    },
+    {
+     "title": "K-Lean: Machine-Verified Formal Proofs\nfor Computational Biology",
+     "year": 2026,
+     "authors": [
+      "Heime Jorgen"
+     ],
+     "venue": "",
+     "id": "doi:10.21203/rs.3.rs-10086537/v1"
+    },
+    {
+     "title": "From Itô to Black-scholes: A Machine-verified Derivation in Lean 4",
+     "year": 2026,
+     "authors": [
+      "Tamas Nagy"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6336503"
+    },
+    {
+     "title": "A Source-Scoped Lean-Verified Proof of WOWII Conjecture 19",
+     "year": 2026,
+     "authors": [
+      "Zhipeng Chen",
+      "Qisheng Wang",
+      "Yan Feng"
+     ],
+     "venue": "",
+     "id": "doi:10.20944/preprints202607.0114.v1"
+    },
+    {
+     "title": "The Affe typechecker",
+     "year": 2020,
+     "authors": [
+      "Gabriel Radanne",
+      "Hannes Saffrich",
+      "Peter Thiemann"
+     ],
+     "venue": "Artifact Digital Object Group",
+     "id": "doi:10.1145/3410232"
+    },
+    {
+     "title": "Testing, Credible Compilation, and Verification in the Axon Verified Compiler in Lean and Claude Code",
+     "year": 2026,
+     "authors": [
+      "Martin C. Rinard"
+     ],
+     "venue": "Proceedings of the 2026 ACM SIGPLAN International Workshop on Principles of Agentic Engineering",
+     "id": "doi:10.1145/3819802.3820579"
+    },
+    {
+     "title": "Prototype Typechecker for the Article 'On Type-Cases, Union Elimination, and Occurrence Typing'",
+     "year": 2022,
+     "authors": [
+      "Giuseppe Castagna",
+      "Mickaël Laurent",
+      "Kim Nguyễn",
+      "Matthew Lutze"
+     ],
+     "venue": "Artifact Digital Object Group",
+     "id": "doi:10.1145/3462306"
+    },
+    {
+     "title": "Verified Java Bytecode Verification (Verified Java Bytecode Verification)",
+     "year": 2005,
+     "authors": [
+      "Gerwin Klein"
+     ],
+     "venue": "it - Information Technology",
+     "id": "doi:10.1524/itit.47.2.107.62257"
+    },
+    {
+     "title": "The Theory of Classification, Part 2: The Scratch-Built Typechecker.",
+     "year": 2002,
+     "authors": [
+      "Anthony J.H. Simons"
+     ],
+     "venue": "The Journal of Object Technology",
+     "id": "doi:10.5381/jot.2002.1.2.c4"
+    },
+    {
+     "title": "verified off-hook",
+     "year": null,
+     "authors": [],
+     "venue": "SpringerReference",
+     "id": "doi:10.1007/springerreference_28125"
+    }
+   ]
+  },
+  {
+   "source": "GitHub code search leanprover/lean4",
+   "query": "lean4lean",
+   "status": 200,
+   "results": [
+    {
+     "path": "script/lean4lean-minimal-init.sh",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/script/lean4lean-minimal-init.sh"
+    },
+    {
+     "path": "src/LeanChecker.lean",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/src/LeanChecker.lean"
+    },
+    {
+     "path": "LICENSES",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/LICENSES"
+    },
+    {
+     "path": "src/CMakeLists.txt",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/src/CMakeLists.txt"
+    },
+    {
+     "path": "stage0/src/CMakeLists.txt",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/stage0/src/CMakeLists.txt"
+    },
+    {
+     "path": "src/lake/Lake/CLI/Help.lean",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/src/lake/Lake/CLI/Help.lean"
+    },
+    {
+     "path": "src/lake/Lake/CLI/Check.lean",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/src/lake/Lake/CLI/Check.lean"
+    },
+    {
+     "path": "tests/pkg/lean4lean/run_test.sh",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/tests/pkg/lean4lean/run_test.sh"
+    },
+    {
+     "path": "tests/lake/tests/check-paranoid/test.sh",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/tests/lake/tests/check-paranoid/test.sh"
+    },
+    {
+     "path": ".github/workflows/build-template.yml",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/.github/workflows/build-template.yml"
+    }
+   ]
+  },
+  {
+   "source": "GitHub code search leanprover/lean4",
+   "query": "nanoda",
+   "status": 200,
+   "results": [
+    {
+     "path": "src/lake/Lake/CLI/Check.lean",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/src/lake/Lake/CLI/Check.lean"
+    },
+    {
+     "path": "LICENSES",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/LICENSES"
+    },
+    {
+     "path": "src/CMakeLists.txt",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/src/CMakeLists.txt"
+    },
+    {
+     "path": "src/lake/Lake/CLI/Help.lean",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/src/lake/Lake/CLI/Help.lean"
+    },
+    {
+     "path": "stage0/src/CMakeLists.txt",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/stage0/src/CMakeLists.txt"
+    },
+    {
+     "path": "src/LeanExport/Basic.lean",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/src/LeanExport/Basic.lean"
+    },
+    {
+     "path": "tests/pkg/nanoda/run_test.sh",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/tests/pkg/nanoda/run_test.sh"
+    },
+    {
+     "path": "tests/lake/tests/check-paranoid/test.sh",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/tests/lake/tests/check-paranoid/test.sh"
+    },
+    {
+     "path": "tests/lake/tests/comparator-json/test.sh",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/tests/lake/tests/comparator-json/test.sh"
+    },
+    {
+     "path": "tests/lake/tests/comparator-json/clash.json",
+     "url": "https://github.com/leanprover/lean4/blob/85b462f23c73be9493e258db7d86fc941fa0f815/tests/lake/tests/comparator-json/clash.json"
+    }
+   ]
+  }
+ ]
+}

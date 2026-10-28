@@ -1,0 +1,459 @@
+{
+ "problem": 14,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "automated invention of mathematical notation",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "automated invention of mathematical notation",
+   "status": 200,
+   "results": [
+    {
+     "title": "Automating \"Human-Like\" Example-Use in Mathematics.",
+     "year": 2018,
+     "authors": [
+      "Alison Pease",
+      "Ursula Martin"
+     ],
+     "venue": "Discovery Research Portal (University of Dundee)",
+     "id": "https://openalex.org/W2912941548"
+    },
+    {
+     "title": "Ghosts of inventions: Patent law’s digital mediations",
+     "year": 2018,
+     "authors": [
+      "Hyo Yoon Kang"
+     ],
+     "venue": "History of Science",
+     "id": "https://doi.org/10.1177/0073275318770773"
+    },
+    {
+     "title": "Notation Cultures: Towards an Ethnomusicology of Notation",
+     "year": 2019,
+     "authors": [
+      "Floris Schuiling"
+     ],
+     "venue": "Journal of the Royal Musical Association",
+     "id": "https://doi.org/10.1080/02690403.2019.1651508"
+    },
+    {
+     "title": "Mathematical methods for automated flow injection analysis",
+     "year": 2009,
+     "authors": [
+      "Lee, Oliver"
+     ],
+     "venue": "cIRcle (University of British Columbia)",
+     "id": "https://doi.org/10.14288/1.0059495"
+    },
+    {
+     "title": "Scheme-based theorem discovery and concept invention",
+     "year": 2011,
+     "authors": [
+      "Omar Montaño-Rivas",
+      "Roy L. McCasland",
+      "Lucas Dixon",
+      "Alan Bundy"
+     ],
+     "venue": "Expert Systems with Applications",
+     "id": "https://doi.org/10.1016/j.eswa.2011.06.055"
+    },
+    {
+     "title": "Graffiti3 : Compact Theory Libraries for Automated Mathematical Discovery",
+     "year": 2026,
+     "authors": [
+      "Randy Davila"
+     ],
+     "venue": "Research Square",
+     "id": "https://doi.org/10.21203/rs.3.rs-8493329/v1"
+    },
+    {
+     "title": "How to frame innovation in mathematics",
+     "year": 2023,
+     "authors": [
+      "Bernhard Fisseni",
+      "Deniz Sarikaya",
+      "Bernhard Schröder"
+     ],
+     "venue": "Synthese",
+     "id": "https://doi.org/10.1007/s11229-023-04310-3"
+    },
+    {
+     "title": "Does Technology Kill Mathematical Invention? Evidence from a Quasi-Experimental Study in Algerian Middle Schools",
+     "year": 2025,
+     "authors": [
+      "Saddam Hussein Zeraoulia",
+      "Rafik Zeraoulia"
+     ],
+     "venue": "Preprints.org",
+     "id": "https://doi.org/10.20944/preprints202512.2106.v1"
+    },
+    {
+     "title": "A model for automated topic spotting in a mobile chat based mathematics tutoring environment",
+     "year": 2012,
+     "authors": [
+      "Laura Lee Butgereit"
+     ],
+     "venue": "Nelson Mandela University Research Repository",
+     "id": "https://openalex.org/W3164523564"
+    },
+    {
+     "title": "Argument Invention with the Carneades Argumentation System",
+     "year": 2017,
+     "authors": [
+      "Douglas Walton",
+      "Thomas F. Gordon"
+     ],
+     "venue": "SCRIPTed A Journal of Law Technology & Society",
+     "id": "https://doi.org/10.2966/scrip.140217.168"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "automated invention of mathematical notation",
+   "status": 200,
+   "results": [
+    {
+     "title": "The metamorphoses of the calculus. An amazing history of mathematics",
+     "year": "2007",
+     "authors": [
+      "Dowek, Gilles"
+     ],
+     "venue": null,
+     "id": "zbMATH 1161.01001"
+    }
+   ]
+  },
+  {
+   "source": "Crossref",
+   "query": "automated invention of mathematical notation",
+   "status": 200,
+   "results": [
+    {
+     "title": "The Invention of Writing and Number Notation",
+     "year": 2016,
+     "authors": [
+      "Annette Imhausen"
+     ],
+     "venue": "Mathematics in Ancient Egypt",
+     "id": "doi:10.23943/princeton/9780691117133.003.0002"
+    },
+    {
+     "title": "The Carolingian Invention of Music Writing",
+     "year": null,
+     "authors": [],
+     "venue": "Writing Sounds in Carolingian Europe",
+     "id": "doi:10.1017/9781108368605.012"
+    },
+    {
+     "title": "Bibliography",
+     "year": null,
+     "authors": [],
+     "venue": "Writing Sounds in Carolingian Europe",
+     "id": "doi:10.1017/9781108368605.014"
+    },
+    {
+     "title": "Preface",
+     "year": null,
+     "authors": [],
+     "venue": "Writing Sounds in Carolingian Europe",
+     "id": "doi:10.1017/9781108368605.001"
+    },
+    {
+     "title": "Table 2: Mathematical notation.",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7717/peerj-cs.758/table-2"
+    },
+    {
+     "title": "Frankish Scripts",
+     "year": null,
+     "authors": [],
+     "venue": "Writing Sounds in Carolingian Europe",
+     "id": "doi:10.1017/9781108368605.006"
+    },
+    {
+     "title": "Writing Sounds in Carolingian Europe",
+     "year": 2018,
+     "authors": [
+      "Susan Rankin"
+     ],
+     "venue": "",
+     "id": "doi:10.1017/9781108368605"
+    },
+    {
+     "title": "Invention of Musical Notation Applying the Musical Notation to the Cinematic Art Language",
+     "year": 2015,
+     "authors": [
+      "Wen-Shing Ho"
+     ],
+     "venue": "Proceedings of the 2015 International Conference on Arts, Design and Contemporary Education",
+     "id": "doi:10.2991/icadce-15.2015.31"
+    },
+    {
+     "title": "Palaeofrankish Script",
+     "year": null,
+     "authors": [],
+     "venue": "Writing Sounds in Carolingian Europe",
+     "id": "doi:10.1017/9781108368605.008"
+    },
+    {
+     "title": "Writing Music",
+     "year": null,
+     "authors": [],
+     "venue": "Writing Sounds in Carolingian Europe",
+     "id": "doi:10.1017/9781108368605.002"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "machine concept formation mathematical definitions",
+   "status": 200,
+   "results": [
+    {
+     "title": "Turing Patterns with Turing Machines: Emergence and Low-level Structure Formation",
+     "year": "2012",
+     "authors": [
+      "Hector Zenil"
+     ],
+     "id": "arXiv:1210.1572v1"
+    },
+    {
+     "title": "Extending the Machine Learning Abstraction Boundary: A Complex Systems Approach to Incorporate Societal Context",
+     "year": "2020",
+     "authors": [
+      "Donald Martin",
+      "Vinodkumar Prabhakaran",
+      "Jill Kuhlberg",
+      "Andrew Smart",
+      "William S. Isaac"
+     ],
+     "id": "arXiv:2006.09663v1"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "machine concept formation mathematical definitions",
+   "status": 200,
+   "results": [
+    {
+     "title": "Concept Formation in Mathematics",
+     "year": 2011,
+     "authors": [
+      "Jörgen Sjögren"
+     ],
+     "venue": "Gothenburg University Publications Electronic Archive (Gothenburg University)",
+     "id": "https://openalex.org/W1897327810"
+    },
+    {
+     "title": "Cross Domain Mathematical Concept Formation",
+     "year": 2000,
+     "authors": [
+      "Graham Steel",
+      "Simon Colton",
+      "Alan Bundy",
+      "Toby Walsh"
+     ],
+     "venue": "ERA",
+     "id": "https://openalex.org/W1483704371"
+    },
+    {
+     "title": "Mathematical aspects of concept analysis",
+     "year": 1996,
+     "authors": [
+      "Sergei O. Kuznetsov"
+     ],
+     "venue": "Journal of Mathematical Sciences",
+     "id": "https://doi.org/10.1007/bf02362847"
+    },
+    {
+     "title": "An Approach to Facilitate Coherent Concept Image Formation via Guided Reinvention",
+     "year": 2017,
+     "authors": [
+      "Kell Hiu Fai Cheng",
+      "Siu Cheung Kong"
+     ],
+     "venue": "Springer eBooks",
+     "id": "https://doi.org/10.1007/978-981-10-3344-5_15"
+    },
+    {
+     "title": "What Machine Learning Tells Us About the Mathematical Structure of Concepts",
+     "year": 2024,
+     "authors": [
+      "Jun Otsuka"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2408.15507"
+    },
+    {
+     "title": "A Proposal for a Formal Definition of the Design Concept",
+     "year": 2009,
+     "authors": [
+      "Paul Ralph",
+      "Yair Wand"
+     ],
+     "venue": "Lecture notes in business information processing",
+     "id": "https://doi.org/10.1007/978-3-540-92966-6_6"
+    },
+    {
+     "title": "Towards a mathematical theory of machine discovery from facts",
+     "year": 1995,
+     "authors": [
+      "Yasuhito Mukouchi",
+      "Setsuo Arikawa"
+     ],
+     "venue": "Theoretical Computer Science",
+     "id": "https://doi.org/10.1016/0304-3975(95)91135-d"
+    },
+    {
+     "title": "Formal logics of discovery and hypothesis formation by machine",
+     "year": 2003,
+     "authors": [
+      "Petr Hájek",
+      "Martin Holeňa"
+     ],
+     "venue": "Theoretical Computer Science",
+     "id": "https://doi.org/10.1016/s0304-3975(02)00175-5"
+    },
+    {
+     "title": "Mathematical practice, crowdsourcing, and social machines",
+     "year": 2013,
+     "authors": [
+      "Ursula Martin",
+      "Alison Pease"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1305.0900"
+    },
+    {
+     "title": "Machine heuristic: concept explication and development of a measurement scale",
+     "year": 2024,
+     "authors": [
+      "Hyun Jin Yang",
+      "S. Shyam Sundar"
+     ],
+     "venue": "Journal of Computer-Mediated Communication",
+     "id": "https://doi.org/10.1093/jcmc/zmae019"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "machine concept formation mathematical definitions",
+   "status": 200,
+   "results": [
+    {
+     "title": "A knowledge representation practionary. Guidelines based on Charles Sanders Peirce",
+     "year": "2018",
+     "authors": [
+      "Bergman, Michael K."
+     ],
+     "venue": null,
+     "id": "zbMATH 1437.68004"
+    }
+   ]
+  },
+  {
+   "source": "Crossref",
+   "query": "machine concept formation mathematical definitions",
+   "status": 200,
+   "results": [
+    {
+     "title": "Political Science Concept Formation (Part III) - Different Approaches &amp; Different Definitions",
+     "year": 2013,
+     "authors": [
+      "Jurg Martin Gabriel"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.2280253"
+    },
+    {
+     "title": "Mathematical Concept Formation and Cognitive Tools",
+     "year": 2008,
+     "authors": [],
+     "venue": "Rigorous Mathematical Thinking",
+     "id": "doi:10.1017/cbo9780511814655.006"
+    },
+    {
+     "title": "Definitions Matter: Reflections on Political Science Concept Formation",
+     "year": 2011,
+     "authors": [
+      "Jürg Martin Gabriel"
+     ],
+     "venue": "SSRN Electronic Journal",
+     "id": "doi:10.2139/ssrn.1958766"
+    },
+    {
+     "title": "DESIGNING OF THE ELECTIVE COURSE «MATHEMATICAL CONCEPTS AND THEIR DEFINITIONS» AS A MEANS OF STUDENTS’ CONCEPT FORMATION IN SPECIALIZED SCHOOL",
+     "year": 2015,
+     "authors": [
+      "Irina Vladimirovna Antonova",
+      "Anastasiya Andreevna Ableeva"
+     ],
+     "venue": "V mire nauchnykh otkrytiy",
+     "id": "doi:10.12731/wsd-2015-7.4-17"
+    },
+    {
+     "title": "Machine Learning and Concept Formation",
+     "year": 1987,
+     "authors": [
+      "Pat Langley"
+     ],
+     "venue": "Machine Learning",
+     "id": "doi:10.1023/a:1022896407371"
+    },
+    {
+     "title": "The Morgan Kaufmann Series in Machine Learning",
+     "year": 1991,
+     "authors": [],
+     "venue": "Concept Formation",
+     "id": "doi:10.1016/b978-1-4832-0773-5.50001-8"
+    },
+    {
+     "title": "Machine learning and concept formation",
+     "year": 1987,
+     "authors": [
+      "Pat Langley"
+     ],
+     "venue": "Machine Learning",
+     "id": "doi:10.1007/bf00114263"
+    },
+    {
+     "title": "Mathematical Discovery and Concept Formation",
+     "year": 1966,
+     "authors": [
+      "Charles S. Chihara"
+     ],
+     "venue": "Wittgenstein",
+     "id": "doi:10.1007/978-1-349-15269-8_17"
+    },
+    {
+     "title": "Concept Formation During Interactive Theory Revision",
+     "year": 1994,
+     "authors": [
+      "Stefan Wrobel"
+     ],
+     "venue": "Machine Learning",
+     "id": "doi:10.1023/a:1022674116380"
+    },
+    {
+     "title": "Experiments with Incremental Concept Formation: UNIMEM",
+     "year": 1987,
+     "authors": [
+      "Michael Lebowitz"
+     ],
+     "venue": "Machine Learning",
+     "id": "doi:10.1023/a:1022800624210"
+    }
+   ]
+  }
+ ]
+}

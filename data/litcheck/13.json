@@ -1,0 +1,503 @@
+{
+ "problem": 13,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "counterexample discovery benchmark mathematics",
+   "status": 200,
+   "results": [
+    {
+     "title": "Discovering mathematical concepts through a multi-agent system",
+     "year": "2026",
+     "authors": [
+      "Daattavya Aggarwal",
+      "Oisin Kim",
+      "Carl Henrik Ek",
+      "Challenger Mishra"
+     ],
+     "id": "arXiv:2603.04528v2"
+    },
+    {
+     "title": "EPOCH: Reliable Discovery through Evidence-Governed Search",
+     "year": "2026",
+     "authors": [
+      "Binjie Guo",
+      "Aisheng Mo",
+      "Ruitong Li",
+      "Xinle Deng"
+     ],
+     "id": "arXiv:2610.06986v1"
+    },
+    {
+     "title": "Neurosymbolic Discovery of Algebraic Graph Constructions",
+     "year": "2026",
+     "authors": [
+      "David Seka",
+      "Stefan Szeider"
+     ],
+     "id": "arXiv:2608.08118v1"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "counterexample discovery benchmark mathematics",
+   "status": 200,
+   "results": [
+    {
+     "title": "Attitudes in mathematical discovery processes:",
+     "year": 2024,
+     "authors": [
+      "Carolin Danzer"
+     ],
+     "venue": "LUMAT International Journal on Math Science and Technology Education",
+     "id": "https://doi.org/10.31129/lumat.12.1.2131"
+    },
+    {
+     "title": "Formal Conjectures: An Open and Evolving Benchmark for Verified Discovery in Mathematics",
+     "year": 2026,
+     "authors": [
+      "Moritz Firsching",
+      "Paul Lezeau",
+      "Salvatore Mercuri",
+      "Miklós Z. Horváth",
+      "Yael Dillies",
+      "Calle Sönne"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.13171"
+    },
+    {
+     "title": "EternalMath: A Living Benchmark of Frontier Mathematics that Evolves with Human Discovery",
+     "year": 2026,
+     "authors": [
+      "Jicheng Ma",
+      "Guohua Wang",
+      "Xinhua Feng",
+      "Yiming Liu",
+      "Zhichao Hu",
+      "Yuhong Liu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2601.01400"
+    },
+    {
+     "title": "Discovering mathematical concepts through a multi-agent system",
+     "year": 2026,
+     "authors": [
+      "Daattavya Aggarwal",
+      "Oisin Kim",
+      "Carl Henrik Ek",
+      "Challenger Mishra"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2603.04528"
+    },
+    {
+     "title": "A counterexample to Köthe's conjecture and a question of Rowen",
+     "year": 2026,
+     "authors": [
+      "Tom Adamczewski",
+      "Bernhard Böhmler",
+      "René Marczinzik"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.07996"
+    },
+    {
+     "title": "EPOCH: Reliable Discovery through Evidence-Governed Search",
+     "year": 2026,
+     "authors": [
+      "Binjie Guo",
+      "Aisheng Mo",
+      "Ruitong Li",
+      "Xinle Deng"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.06986"
+    },
+    {
+     "title": "On The Main Challenges And New Perspectives On Generating Robust Benchmark Datasets For Large Language Models In Modern Advanced Mathematics",
+     "year": 2026,
+     "authors": [
+      "Danny Arlen de Jesus Gomez-Ramirez"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.18667352"
+    },
+    {
+     "title": "Infinite Counterexamples to Written on the Wall II Conjecture 194",
+     "year": 2026,
+     "authors": [
+      "Cameron Beeley"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.5281/zenodo.21498167"
+    },
+    {
+     "title": "OptCE: A Counterexample-Guided Inductive Optimization Solver",
+     "year": 2017,
+     "authors": [
+      "Higo F. Albuquerque",
+      "Rodrigo F. Araújo",
+      "Iury Valente de Bessa",
+      "Lucas Carvalho Cordeiro",
+      "Eddie B. de Lima Filho"
+     ],
+     "venue": "Lecture notes in computer science",
+     "id": "https://doi.org/10.1007/978-3-319-70848-5_9"
+    },
+    {
+     "title": "Artificial Intelligence for Modern Mathematical Discovery",
+     "year": 2026,
+     "authors": [
+      "Sunilkumar Kuwarlal Shende Ashwin Dakram Wasnik"
+     ],
+     "venue": "International Journal of Advanced Research in Science Communication and Technology",
+     "id": "https://doi.org/10.48175/ijarsct-36851"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "counterexample discovery benchmark mathematics",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "counterexample discovery benchmark mathematics",
+   "status": 200,
+   "results": [
+    {
+     "title": "Counterexample of the Riemann Hypothesis",
+     "year": 2022,
+     "authors": [
+      "Frank Vega"
+     ],
+     "venue": "",
+     "id": "doi:10.33774/coe-2022-kxpg8-v8"
+    },
+    {
+     "title": "Counterexample of the Riemann Hypothesis",
+     "year": 2022,
+     "authors": [
+      "Frank Vega"
+     ],
+     "venue": "",
+     "id": "doi:10.33774/coe-2022-kxpg8-v9"
+    },
+    {
+     "title": "Possible Counterexample of the Riemann Hypothesis",
+     "year": 2022,
+     "authors": [
+      "Frank Vega"
+     ],
+     "venue": "",
+     "id": "doi:10.33774/coe-2022-kxpg8"
+    },
+    {
+     "title": "Counterexample of the Riemann Hypothesis",
+     "year": 2022,
+     "authors": [
+      "Frank Vega"
+     ],
+     "venue": "",
+     "id": "doi:10.33774/coe-2022-kxpg8-v6"
+    },
+    {
+     "title": "Counterexample of the Riemann Hypothesis",
+     "year": 2022,
+     "authors": [
+      "Frank Vega"
+     ],
+     "venue": "",
+     "id": "doi:10.33774/coe-2022-kxpg8-v7"
+    },
+    {
+     "title": "Possible Counterexample of the Riemann Hypothesis",
+     "year": 2022,
+     "authors": [
+      "Frank Vega"
+     ],
+     "venue": "",
+     "id": "doi:10.33774/coe-2022-kxpg8-v4"
+    },
+    {
+     "title": "Possible Counterexample of the Riemann Hypothesis",
+     "year": 2022,
+     "authors": [
+      "Frank Vega"
+     ],
+     "venue": "",
+     "id": "doi:10.33774/coe-2022-kxpg8-v3"
+    },
+    {
+     "title": "Possible Counterexample of the Riemann Hypothesis",
+     "year": 2022,
+     "authors": [
+      "Frank Vega"
+     ],
+     "venue": "",
+     "id": "doi:10.33774/coe-2022-kxpg8-v2"
+    },
+    {
+     "title": "Counterexample to a conjecture of Jeurissen",
+     "year": 1978,
+     "authors": [
+      "P.D. Seymour"
+     ],
+     "venue": "Discrete Mathematics",
+     "id": "doi:10.1016/0012-365x(78)90103-6"
+    },
+    {
+     "title": "Hidden Participation and the Timing of Price Discovery: Exact Bayesian Inference and a Dynamic Linear-Projection Benchmark",
+     "year": 2026,
+     "authors": [
+      "Yisi Liu",
+      "Qiang Zhang",
+      "Xia Liu",
+      "Shancun Liu"
+     ],
+     "venue": "Mathematics",
+     "id": "doi:10.3390/math14163019"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "theorem proving benchmark contamination frozen versioned",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "theorem proving benchmark contamination frozen versioned",
+   "status": 200,
+   "results": [
+    {
+     "title": "Benchmarking Agents for Proving Theorems in Quantum Algorithms and Quantum Information",
+     "year": 2026,
+     "authors": [
+      "Lei Zhang",
+      "Yusheng Zhao",
+      "Y Cao",
+      "Ranyiliu Chen",
+      "Mingrui Jing",
+      "Jizhe Lai"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.21533"
+    },
+    {
+     "title": "When Is Benchmark Contamination Detectable? Information Limits and Power-Calibrated Audits",
+     "year": 2026,
+     "authors": [
+      "Ibne Farabi Shihab",
+      "Sanjeda Akter",
+      "Anuj Sharma"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.07914"
+    },
+    {
+     "title": "Re$^2$Math: Benchmarking Theorem Retrieval in Research-Level Mathematics",
+     "year": 2026,
+     "authors": [
+      "Zicheng Lyu",
+      "Wenjie Yang",
+      "Shengzhong Zhang",
+      "Zengfeng Huang"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.09012"
+    },
+    {
+     "title": "SCOPE: Certified Theorem Proving with a Language Model as the Policy Planner",
+     "year": 2026,
+     "authors": [
+      "Hanchao Zhou",
+      "Jialei Li"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.08319"
+    },
+    {
+     "title": "QED-Nano: Teaching a Tiny Model to Prove Hard Theorems",
+     "year": 2026,
+     "authors": [
+      "LM-Provers",
+      "Yuxiao Qu",
+      "Amrith Setlur",
+      "Jasper Dekoninck",
+      "Edward Beeching",
+      "Jia Wei LI"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2604.04898"
+    },
+    {
+     "title": "Growing an Agent/Prover Interface: Evolutionary Tool Design for Cost-Efficient Theorem Proving in Rocq and Lean",
+     "year": 2026,
+     "authors": [
+      "Jules Viennot",
+      "Guillaume Baudart",
+      "Marc Lelarge"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.39544"
+    },
+    {
+     "title": "Auditing LLM Benchmarks with Item Response Theory",
+     "year": 2026,
+     "authors": [
+      "Land, Sander",
+      "Daniel M. Bikel"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.30504"
+    },
+    {
+     "title": "Formal Conjectures: An Open and Evolving Benchmark for Verified Discovery in Mathematics",
+     "year": 2026,
+     "authors": [
+      "Moritz Firsching",
+      "Paul Lezeau",
+      "Salvatore Mercuri",
+      "Miklós Z. Horváth",
+      "Yael Dillies",
+      "Calle Sönne"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.13171"
+    },
+    {
+     "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
+     "year": 2026,
+     "authors": [
+      "Zhiyi Xiang",
+      "Zerui Chen",
+      "Yunbo Tang",
+      "Zhimin Wei",
+      "Ruqin Ning",
+      "Yujie Lin"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.01071"
+    },
+    {
+     "title": "QuickScope: Certifying Hard Questions in Dynamic LLM Benchmarks",
+     "year": 2026,
+     "authors": [
+      "Taylor Lundy",
+      "Narun K. Raman",
+      "Kevin Leyton‐Brown"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2604.17842"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "theorem proving benchmark contamination frozen versioned",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "theorem proving benchmark contamination frozen versioned",
+   "status": 200,
+   "results": [
+    {
+     "title": "Probabilistic Analysis Using Theorem Proving",
+     "year": null,
+     "authors": [],
+     "venue": "Formalized Probability Theory and Applications Using Theorem Proving",
+     "id": "doi:10.4018/978-1-4666-8315-0.ch003"
+    },
+    {
+     "title": "A Note on Interactive Theorem Proving with Theorem Continuation Functions",
+     "year": 1993,
+     "authors": [
+      "Ching-Tsun Chou"
+     ],
+     "venue": "Higher Order Logic Theorem Proving and its Applications",
+     "id": "doi:10.1016/b978-0-444-89880-7.50010-3"
+    },
+    {
+     "title": "Geometry Theorem Proving Using The Gröbner Basis Method",
+     "year": 1988,
+     "authors": [
+      "Shang-Ching Chou"
+     ],
+     "venue": "Mechanical Geometry Theorem Proving",
+     "id": "doi:10.1007/978-94-009-4037-6_5"
+    },
+    {
+     "title": "Automated Theorem Proving",
+     "year": 1978,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1016/c2009-0-12705-8"
+    },
+    {
+     "title": "A Lazy Approach to Fully-Expansive Theorem Proving",
+     "year": 1993,
+     "authors": [
+      "Richard J. Boulton"
+     ],
+     "venue": "Higher Order Logic Theorem Proving and its Applications",
+     "id": "doi:10.1016/b978-0-444-89880-7.50008-5"
+    },
+    {
+     "title": "PVS Theorem Proving Enhancements.",
+     "year": 1997,
+     "authors": [
+      "Natarajan Shankar"
+     ],
+     "venue": "",
+     "id": "doi:10.21236/ada326917"
+    },
+    {
+     "title": "Geometry Theorem Proving",
+     "year": 2001,
+     "authors": [
+      "Jacques Fleuriot"
+     ],
+     "venue": "A Combination of Geometry Theorem Proving and Nonstandard Analysis with Application to Newton’s Principia",
+     "id": "doi:10.1007/978-0-85729-329-9_2"
+    },
+    {
+     "title": "Free-Style Theorem Proving",
+     "year": 2002,
+     "authors": [
+      "David Delahaye"
+     ],
+     "venue": "Lecture Notes in Computer Science Theorem Proving in Higher Order Logics",
+     "id": "doi:10.1007/3-540-45685-6_12"
+    },
+    {
+     "title": "Mechanization of theorem proving in geometry and Hilbert’s mechanization theorem",
+     "year": 1994,
+     "authors": [
+      "Wen-tsün Wu"
+     ],
+     "venue": "Texts and Monographs in Symbolic Computation Mechanical Theorem Proving in Geometries",
+     "id": "doi:10.1007/978-3-7091-6639-0_4"
+    },
+    {
+     "title": "The Propositional Complexity of First-Order Theorem Proving Strategies",
+     "year": 1999,
+     "authors": [
+      "David A. Plaisted",
+      "Yunshan Zhu"
+     ],
+     "venue": "The Efficiency of Theorem Proving Strategies",
+     "id": "doi:10.1007/978-3-663-07847-0_1"
+    }
+   ]
+  }
+ ]
+}

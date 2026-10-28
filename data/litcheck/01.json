@@ -1,0 +1,440 @@
+{
+ "problem": 1,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "rising sea Grothendieck automated mathematical discovery",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "rising sea Grothendieck automated mathematical discovery",
+   "status": 200,
+   "results": [
+    {
+     "title": "Deep Disagreement in Mathematics",
+     "year": 2023,
+     "authors": [
+      "Andrew Aberdein"
+     ],
+     "venue": "Global Philosophy",
+     "id": "https://doi.org/10.1007/s10516-023-09653-7"
+    },
+    {
+     "title": "A philosophical look at mathematics and related sciences from the beginning to the future",
+     "year": 2022,
+     "authors": [
+      "Elmar Wagner"
+     ],
+     "venue": "Ciencia Nicolaita",
+     "id": "https://doi.org/10.35830/cn.vi83.578"
+    },
+    {
+     "title": "From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier",
+     "year": 2026,
+     "authors": [
+      "Eric Jiang",
+      "Xiao Liang",
+      "Yingjia Wan",
+      "Mengting Li",
+      "Haikang Deng",
+      "Alex Taylor"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.07779"
+    },
+    {
+     "title": "Will AI kill us all---or just make mathematicians obsolete?",
+     "year": 2026,
+     "authors": [
+      "Sergiù Klainerman"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.29713"
+    },
+    {
+     "title": "An Introduction to the Science of Cinematography",
+     "year": 2026,
+     "authors": [
+      "Gordon Arkenberg"
+     ],
+     "venue": "Routledge eBooks",
+     "id": "https://doi.org/10.4324/9781003371748"
+    },
+    {
+     "title": "Constraints on 3- and 4-loop β-functions in a general four-dimensional Quantum Field Theory",
+     "year": 2019,
+     "authors": [
+      "Colin Poole",
+      "Anders Eller Thomsen"
+     ],
+     "venue": "Journal of High Energy Physics",
+     "id": "https://doi.org/10.1007/jhep09(2019)055"
+    },
+    {
+     "title": "References",
+     "year": 2020,
+     "authors": [
+      "Jean-François Sigrist"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.1002/9781119694731.refs"
+    },
+    {
+     "title": "Long-term population decline and recombination heterogeneity shape genomic diversity in the American alligator",
+     "year": 2026,
+     "authors": [
+      "Taylor Szasz-Green",
+      "John D. Konvalina",
+      "Benjamin B. Parrott",
+      "Eric A. Hoffman",
+      "Amy L. Dapper"
+     ],
+     "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+     "id": "https://doi.org/10.64898/2026.06.15.732480"
+    },
+    {
+     "title": "From Poetics to Logic: Exploring Some Neglected Aspects of Aristotle's Organon",
+     "year": 2005,
+     "authors": [
+      "Olavo de Carvalho"
+     ],
+     "venue": "PhilPapers (PhilPapers Foundation)",
+     "id": "https://openalex.org/W188892217"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "rising sea Grothendieck automated mathematical discovery",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "rising sea Grothendieck automated mathematical discovery",
+   "status": 200,
+   "results": [
+    {
+     "title": "The rising sea: Grothendieck on simplicity and generality",
+     "year": 2011,
+     "authors": [],
+     "venue": "History of Mathematics Episodes in the History of Modern Algebra (1800–1950)",
+     "id": "doi:10.1090/hmath/032/14"
+    },
+    {
+     "title": "AlphaMath: Automated Mathematical Discovery using Artificial Intelligence",
+     "year": 2026,
+     "authors": [
+      "Mohammad Raeini"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6803018"
+    },
+    {
+     "title": "About Grothendieck Fibrations",
+     "year": 2024,
+     "authors": [
+      "Giuseppe Rosolini"
+     ],
+     "venue": "Chapman Mathematical Notes The Mathematical and Philosophical Legacy of Alexander Grothendieck",
+     "id": "doi:10.1007/978-3-031-68934-5_8"
+    },
+    {
+     "title": "The Birkhoff-Grothendieck Theorem",
+     "year": 2024,
+     "authors": [
+      "Oumar Wone"
+     ],
+     "venue": "Chapman Mathematical Notes The Mathematical and Philosophical Legacy of Alexander Grothendieck",
+     "id": "doi:10.1007/978-3-031-68934-5_3"
+    },
+    {
+     "title": "Grothendieck and Differential Equations",
+     "year": 2024,
+     "authors": [
+      "Yves André"
+     ],
+     "venue": "Chapman Mathematical Notes The Mathematical and Philosophical Legacy of Alexander Grothendieck",
+     "id": "doi:10.1007/978-3-031-68934-5_2"
+    },
+    {
+     "title": "Grothendieck and Teichmüller Modular Spaces",
+     "year": 2024,
+     "authors": [
+      "Christian Houzel"
+     ],
+     "venue": "Chapman Mathematical Notes The Mathematical and Philosophical Legacy of Alexander Grothendieck",
+     "id": "doi:10.1007/978-3-031-68934-5_19"
+    },
+    {
+     "title": "Graffiti3 : Compact Theory Libraries for Automated Mathematical Discovery",
+     "year": 2026,
+     "authors": [
+      "Randy Davila"
+     ],
+     "venue": "",
+     "id": "doi:10.21203/rs.3.rs-8493329/v1"
+    },
+    {
+     "title": "Why the Sea Is Rising",
+     "year": 2010,
+     "authors": [],
+     "venue": "The Rising Sea",
+     "id": "doi:10.2307/jj.41003811.5"
+    },
+    {
+     "title": "People and the Rising Sea",
+     "year": 2010,
+     "authors": [],
+     "venue": "The Rising Sea",
+     "id": "doi:10.2307/jj.41003811.10"
+    },
+    {
+     "title": "Grothendieck and Model Theory: Five Characters in Search of a Theme",
+     "year": 2024,
+     "authors": [
+      "Andrés Villaveces Niño"
+     ],
+     "venue": "Chapman Mathematical Notes The Mathematical and Philosophical Legacy of Alexander Grothendieck",
+     "id": "doi:10.1007/978-3-031-68934-5_17"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "automated theory exploration structural extension obstruction",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "automated theory exploration structural extension obstruction",
+   "status": 200,
+   "results": [
+    {
+     "title": "Sheaf-Theoretic Transport and Obstruction for Detecting Scientific Theory Shift in AI Agents",
+     "year": 2026,
+     "authors": [
+      "David N. Olivieri",
+      "Roque J. Hernández"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.14033"
+    },
+    {
+     "title": "An in-depth exploration of structural pose estimation strategies and datasets",
+     "year": 2025,
+     "authors": [
+      "Ruchi Jayaswal",
+      "Mohd. Aquib Ansari",
+      "Arvind Mewada",
+      "Preksha Pareek",
+      "Shahnawaz Ahmad"
+     ],
+     "venue": "Discover Computing",
+     "id": "https://doi.org/10.1007/s10791-025-09726-8"
+    },
+    {
+     "title": "Automated high-throughput Wannierisation",
+     "year": 2020,
+     "authors": [
+      "Valerio Vitale",
+      "Giovanni Pizzi",
+      "Antimo Marrazzo",
+      "Jonathan R. Yates",
+      "Nicola Marzari",
+      "Arash A. Mostofi"
+     ],
+     "venue": "npj Computational Materials",
+     "id": "https://doi.org/10.1038/s41524-020-0312-y"
+    },
+    {
+     "title": "A Timed Obstruction Logic for Dynamic Game Models",
+     "year": 2025,
+     "authors": [
+      "David Cortés",
+      "Jean Leneutre",
+      "Vadim Malvone",
+      "James Ortiz"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2510.06045"
+    },
+    {
+     "title": "Automated high-throughput Wannierisation",
+     "year": 2019,
+     "authors": [
+      "Valerio Vitale",
+      "Giovanni Pizzi",
+      "Antimo Marrazzo",
+      "Jonathan R. Yates",
+      "Nicola Marzari",
+      "Arash A. Mostofi"
+     ],
+     "venue": "Apollo (University of Cambridge)",
+     "id": "https://doi.org/10.17863/cam.64685"
+    },
+    {
+     "title": "Fiber-Reinforced Clay: An Exploratory Study on Automated Thread Insertion for Enhanced Structural Integrity in LDM",
+     "year": 2023,
+     "authors": [
+      "Hui-Qin Yang",
+      "Christina Klug",
+      "Thomas Schmitz"
+     ],
+     "venue": "Ceramics",
+     "id": "https://doi.org/10.3390/ceramics6030084"
+    },
+    {
+     "title": "Counterexamples, Spectral Obstructions, and Deletion Stability for WOW-284",
+     "year": 2026,
+     "authors": [
+      "Samuil Petkov"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.27452"
+    },
+    {
+     "title": "Structural design and assessment of an urban railway viaduct for the Riyadh Metro Line 2 extension",
+     "year": 2026,
+     "authors": [
+      "Mihail-Asen Todorov"
+     ],
+     "venue": "UPCommons institutional repository (Universitat Politècnica de Catalunya)",
+     "id": "https://openalex.org/W7162229657"
+    },
+    {
+     "title": "Artistic Exploration of Synesthesia",
+     "year": 2025,
+     "authors": [
+      "James, Lexi"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.56902/etdcrp.2025.17"
+    },
+    {
+     "title": "Computerized Accounting Systems: Measuring Structural Characteristics",
+     "year": 2020,
+     "authors": [
+      "Akamanwam Effiong Itang"
+     ],
+     "venue": "Research Journal of Finance and Accounting",
+     "id": "https://doi.org/10.7176/rjfa/11-16-05"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "automated theory exploration structural extension obstruction",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "automated theory exploration structural extension obstruction",
+   "status": 200,
+   "results": [
+    {
+     "title": "Theory Exploration: Automated Conjecturing for Programs and Proofs",
+     "year": null,
+     "authors": [
+      "Sólrún Einarsdóttir"
+     ],
+     "venue": "",
+     "id": "doi:10.63959/chalmers.dt/5776"
+    },
+    {
+     "title": "The metaphorical extension of classifiers in TawrãMishmi: an exploration",
+     "year": 2025,
+     "authors": [
+      "Rolf Hotz"
+     ],
+     "venue": "ENERGEIA. ONLINE JOURNAL FOR LINGUISTICS, LANGUAGE PHILOSOPHY AND HISTORY OF LINGUISTICS",
+     "id": "doi:10.55245/energeia.2025.08"
+    },
+    {
+     "title": "Pondering Theory within Extension &amp; Community Education: An Exploration of New Frontiers &amp; Frameworks",
+     "year": 2025,
+     "authors": [
+      "Bryan Hains",
+      "Kristina Hains"
+     ],
+     "venue": "Journal of International Agricultural and Extension Education",
+     "id": "doi:10.4148/2831-5960.1500"
+    },
+    {
+     "title": "Strengthening Agricultural Research Capacity for Viable Extension Policies in Nigeria: An Exploration of Ricoeur’s Hermeneutic Theory for Analysing Extension Research",
+     "year": 2014,
+     "authors": [
+      "FO Ismail",
+      "YI Ismaila",
+      "Z Chado",
+      "J Mosugu"
+     ],
+     "venue": "Journal of Agricultural Extension",
+     "id": "doi:10.4314/jae.v18i1.8"
+    },
+    {
+     "title": "Automated Structural Health Monitoring for Aging Offshore Platform Life Extension",
+     "year": 2026,
+     "authors": [
+      "J. McLennan",
+      "K. Jayasinghe",
+      "C. Thomas",
+      "A. Kilner",
+      "L. Blair"
+     ],
+     "venue": "Offshore Technology Conference",
+     "id": "doi:10.4043/36849-ms"
+    },
+    {
+     "title": "A new obstruction to the extension problem for Sobolev maps between manifolds",
+     "year": 2014,
+     "authors": [
+      "Fabrice Bethuel"
+     ],
+     "venue": "Journal of Fixed Point Theory and Applications",
+     "id": "doi:10.1007/s11784-014-0185-0"
+    },
+    {
+     "title": "Search for Ferroelectric Binary Oxides: Chemical and Structural Space Exploration Guided by Group Theory and Computations",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1021/acs.chemmater.9b05324.s001"
+    },
+    {
+     "title": "Spectral Theory in Non-Separable Banach Spaces: Generalizations, New Properties and Structural Extension",
+     "year": 2025,
+     "authors": [
+      "",
+      "Juan Alberto Molina García"
+     ],
+     "venue": "Thermodynamics Research: Open Access",
+     "id": "doi:10.33140/troa.02.01.03"
+    },
+    {
+     "title": "Exploration of Structural Code Relationship Space for Context Collection",
+     "year": 2025,
+     "authors": [
+      "Constantinos Sofianos"
+     ],
+     "venue": "2025 40th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)",
+     "id": "doi:10.1109/asew67777.2025.00076"
+    },
+    {
+     "title": "Obstruction Theory in 3-Dimensional Topology: An Extension Theorem",
+     "year": 1978,
+     "authors": [
+      "Harrie Hendriks"
+     ],
+     "venue": "Journal of the London Mathematical Society",
+     "id": "doi:10.1112/jlms/s2-18.1.192-s"
+    }
+   ]
+  }
+ ]
+}

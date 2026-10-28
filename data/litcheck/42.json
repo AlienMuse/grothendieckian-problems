@@ -1,0 +1,461 @@
+{
+ "problem": 42,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "elliptic curve rank prediction small primes a_p statistics",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "elliptic curve rank prediction small primes a_p statistics",
+   "status": 200,
+   "results": [
+    {
+     "title": "The Action Potential Of Principia Mathematica & Gedanc: An Analytic–Geometric Framework Bridging Hodge Theory and the Riemann ζ-Function.",
+     "year": 2025,
+     "authors": [
+      "Hassan Rabbani"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.33774/coe-2025-nt32q"
+    },
+    {
+     "title": "The Action Potential Of Principia Mathematica & Gedanke: An Analytic–Geometric Framework Bridging Hodge Theory and the Riemann ζ-Function.",
+     "year": 2025,
+     "authors": [
+      "Hassan Rabbani"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.33774/coe-2025-nt32q-v2"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "elliptic curve rank prediction small primes a_p statistics",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "elliptic curve rank prediction small primes a_p statistics",
+   "status": 200,
+   "results": [
+    {
+     "title": "RELATION OF PRIMES IN RANK OF ELLIPTIC CURVE",
+     "year": 2017,
+     "authors": [
+      "Shin-Wook Kim"
+     ],
+     "venue": "Far East Journal of Mathematical Sciences (FJMS)",
+     "id": "doi:10.17654/ms102050995"
+    },
+    {
+     "title": "Distinct primes in elliptic curve y2=x3-pqx",
+     "year": 2024,
+     "authors": [
+      "Shin-Wook Kim"
+     ],
+     "venue": "International Journal of Algebra",
+     "id": "doi:10.12988/ija.2024.91854"
+    },
+    {
+     "title": "Elliptic curve y2=x3+pqx with distinct odd primes",
+     "year": 2026,
+     "authors": [
+      "Shin-Wook Kim"
+     ],
+     "venue": "International Journal of Algebra",
+     "id": "doi:10.12988/ija.2026.92008"
+    },
+    {
+     "title": "Forms of primes in elliptic curve y2=x3-pqx",
+     "year": 2024,
+     "authors": [
+      "Shin-Wook Kim"
+     ],
+     "venue": "International Journal of Algebra",
+     "id": "doi:10.12988/ija.2024.91917"
+    },
+    {
+     "title": "TMVP-Friendly Primes for Efficient Elliptic Curve Cryptography",
+     "year": 2020,
+     "authors": [
+      "Halil Kemal Taskin",
+      "Murat Cenk"
+     ],
+     "venue": "2020 International Conference on Information Security and Cryptology (ISCTURKEY)",
+     "id": "doi:10.1109/iscturkey51113.2020.9307999"
+    },
+    {
+     "title": "Compositions of distinct primes in elliptic curve y2=x3-pqx",
+     "year": 2024,
+     "authors": [
+      "Shin-Wook Kim"
+     ],
+     "venue": "International Journal of Algebra",
+     "id": "doi:10.12988/ija.2024.91862"
+    },
+    {
+     "title": "Classifying elliptic curve rank computations over function fields with applications to Crimean agricultural output cycles",
+     "year": 2025,
+     "authors": [
+      "Nicolas Petit"
+     ],
+     "venue": "International Journal of Statistics and Applied Mathematics",
+     "id": "doi:10.22271/maths.2025.v10.i4b.2410"
+    },
+    {
+     "title": "Forms of distinct odd primes in elliptic curve y2=x3-pqx",
+     "year": 2026,
+     "authors": [
+      "Shin-Wook Kim"
+     ],
+     "venue": "International Journal of Algebra",
+     "id": "doi:10.12988/ija.2026.92031"
+    },
+    {
+     "title": "An elliptic curve test for Mersenne primes",
+     "year": 2005,
+     "authors": [
+      "Benedict H. Gross"
+     ],
+     "venue": "Journal of Number Theory",
+     "id": "doi:10.1016/j.jnt.2003.11.011"
+    },
+    {
+     "title": "Elliptic curve involving subfamilies of rank at least 5 over $\\mathbb{Q}(t)$ or $\\mathbb{Q}(t,k)$",
+     "year": 2021,
+     "authors": [
+      "Ahmed El Amine YOUMBAI",
+      "A. Muhammed ULUDAĞ",
+      "Djilali BEHLOUL"
+     ],
+     "venue": "Hacettepe Journal of Mathematics and Statistics",
+     "id": "doi:10.15672/hujms.708945"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "murmurations elliptic curves rank machine learning",
+   "status": 200,
+   "results": [
+    {
+     "title": "Murmurations, Mestre--Nagao sums, and Convolutional Neural Networks for elliptic curves",
+     "year": "2026",
+     "authors": [
+      "Joanna Bieri",
+      "Edgar Costa",
+      "Alyson Deines",
+      "Kyu-Hwan Lee",
+      "David Lowry-Duda",
+      "Thomas Oliver"
+     ],
+     "id": "arXiv:2603.17681v2"
+    },
+    {
+     "title": "Murmurations of elliptic curves",
+     "year": "2022",
+     "authors": [
+      "Yang-Hui He",
+      "Kyu-Hwan Lee",
+      "Thomas Oliver",
+      "Alexey Pozdnyakov"
+     ],
+     "id": "arXiv:2204.10140v2"
+    },
+    {
+     "title": "Unveiling Arithmetic Statistics of Congruent Number Elliptic Curves via Data Science and Machine Learning",
+     "year": "2025",
+     "authors": [
+      "Priyavrat Deshpande",
+      "Aditya Karnataki",
+      "Pratiksha Shingavekar"
+     ],
+     "id": "arXiv:2509.03129v1"
+    },
+    {
+     "title": "Applications of Moments of Dirichlet Coefficients in Elliptic Curve Families",
+     "year": "2023",
+     "authors": [
+      "Zoë Batterman",
+      "Aditya Jambhale",
+      "Steven J. Miller",
+      "Akash L. Narayanan",
+      "Kishan Sharma",
+      "Andrew Yang"
+     ],
+     "id": "arXiv:2311.17215v2"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "murmurations elliptic curves rank machine learning",
+   "status": 200,
+   "results": [
+    {
+     "title": "Murmurations of Elliptic Curves",
+     "year": 2024,
+     "authors": [
+      "Yang‐Hui He",
+      "Kyu‐Hwan Lee",
+      "Thomas Oliver",
+      "Alexey Pozdnyakov"
+     ],
+     "venue": "Experimental Mathematics",
+     "id": "https://doi.org/10.1080/10586458.2024.2382361"
+    },
+    {
+     "title": "BSD Invariants and Murmurations of Elliptic Curves",
+     "year": 2026,
+     "authors": [
+      "Dane Wachs"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W7134094490"
+    },
+    {
+     "title": "Murmurations and Sato–Tate conjectures for high rank zetas of elliptic curves",
+     "year": 2025,
+     "authors": [
+      "Shi Zhan",
+      "Lin Weng"
+     ],
+     "venue": "Journal of Number Theory",
+     "id": "https://doi.org/10.1016/j.jnt.2025.07.006"
+    },
+    {
+     "title": "Unveiling Arithmetic Statistics of Congruent Number Elliptic Curves via Data Science and Machine Learning",
+     "year": 2025,
+     "authors": [
+      "Priyavrat Deshpande",
+      "Aditya Karnataki",
+      "Pratiksha Shingavekar"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2509.03129"
+    },
+    {
+     "title": "Murmurations, Mestre–Nagao sums, and convolutional neural networks for elliptic curves",
+     "year": 2026,
+     "authors": [
+      "Joanna A. Bieri",
+      "Edgar Costa",
+      "Alyson Deines",
+      "Kyu-Hwan Lee",
+      "David Lowry-Duda",
+      "Thomas Oliver"
+     ],
+     "venue": "Research in Number Theory",
+     "id": "https://doi.org/10.1007/s40993-026-00784-5"
+    },
+    {
+     "title": "Machine learning invariants of arithmetic curves",
+     "year": 2022,
+     "authors": [
+      "Yang‐Hui He",
+      "Kyu‐Hwan Lee",
+      "Thomas Oliver"
+     ],
+     "venue": "Journal of Symbolic Computation",
+     "id": "https://doi.org/10.1016/j.jsc.2022.08.017"
+    },
+    {
+     "title": "Machine learning approaches to the Shafarevich-Tate group of elliptic curves",
+     "year": 2026,
+     "authors": [
+      "Angelica Babei",
+      "Barinder S. Banwait",
+      "AJ Fong",
+      "Xiaoyu Huang",
+      "Deependra Singh"
+     ],
+     "venue": "Advances in Theoretical and Mathematical Physics",
+     "id": "https://doi.org/10.4310/atmp.260412210820"
+    },
+    {
+     "title": "Certified Murmurations over Function Fields: Unconditional Rank Labels and Two-Witness Certificates",
+     "year": 2026,
+     "authors": [
+      "David Andries Barnard Van der Walt"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.23048461"
+    },
+    {
+     "title": "Applications of moments of Dirichlet coefficients in elliptic curve families",
+     "year": 2024,
+     "authors": [
+      "Zoë X. Batterman",
+      "Aditya Jambhale",
+      "Steven J. Miller",
+      "Akash L. Narayanan",
+      "Kishan Sharma",
+      "Andrew Yang"
+     ],
+     "venue": "International Journal of Data Science in the Mathematical Sciences",
+     "id": "https://doi.org/10.1142/s2810939224400033"
+    },
+    {
+     "title": "Ranks of elliptic curves and deep neural networks",
+     "year": 2023,
+     "authors": [
+      "Matija Kazalicki",
+      "Domagoj Vlah"
+     ],
+     "venue": "Research in Number Theory",
+     "id": "https://doi.org/10.1007/s40993-023-00462-w"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "murmurations elliptic curves rank machine learning",
+   "status": 200,
+   "results": [
+    {
+     "title": "zbMATH Open Web Interface contents unavailable due to conflicting licenses.",
+     "year": "2025",
+     "authors": [
+      "zbMATH Open Web Interface contents unavailable due to conflicting licenses.",
+      "zbMATH Open Web Interface contents unavailable due to conflicting licenses.",
+      "zbMATH Open Web Interface contents unavailable due to conflicting licenses.",
+      "zbMATH Open Web Interface contents unavailable due to conflicting licenses."
+     ],
+     "venue": "Experimental Mathematics",
+     "id": "zbMATH 8098023"
+    },
+    {
+     "title": "Murmurations",
+     "year": "2025",
+     "authors": [
+      "Zubrilina, Nina"
+     ],
+     "venue": "Inventiones Mathematicae",
+     "id": "zbMATH 1581.11064"
+    },
+    {
+     "title": "Applications of Moments of Dirichlet Coefficients in Elliptic Curve Families",
+     "year": "2023",
+     "authors": [
+      "Zoë Batterman",
+      "Aditya Jambhale",
+      "Steven J. Miller",
+      "Akash L. Narayanan",
+      "Kishan Sharma",
+      "Andrew Yang"
+     ],
+     "venue": null,
+     "id": "zbMATH arXiv:2311.17215"
+    }
+   ]
+  },
+  {
+   "source": "Crossref",
+   "query": "murmurations elliptic curves rank machine learning",
+   "status": 200,
+   "results": [
+    {
+     "title": "Murmurations and Sato–Tate conjectures for high rank zetas of elliptic curves",
+     "year": 2026,
+     "authors": [
+      "Zhan Shi",
+      "Lin Weng"
+     ],
+     "venue": "Journal of Number Theory",
+     "id": "doi:10.1016/j.jnt.2025.07.006"
+    },
+    {
+     "title": "Elliptic curves, rank in families and random matrices",
+     "year": 2007,
+     "authors": [
+      "E. Kowalski"
+     ],
+     "venue": "Ranks of Elliptic Curves and Random Matrix Theory",
+     "id": "doi:10.1017/cbo9780511735158.002"
+    },
+    {
+     "title": "Murmurations and Sato–Tate conjecture for high rank zetas of elliptic curves II: Beyond Riemann hypothesis",
+     "year": 2025,
+     "authors": [
+      "Zhan Shi",
+      "Lin Weng"
+     ],
+     "venue": "International Journal of Data Science in the Mathematical Sciences",
+     "id": "doi:10.1142/s2810939225400027"
+    },
+    {
+     "title": "Twists of elliptic curves of rank at least four",
+     "year": 2007,
+     "authors": [
+      "K. Rubin",
+      "A. Silverberg"
+     ],
+     "venue": "Ranks of Elliptic Curves and Random Matrix Theory",
+     "id": "doi:10.1017/cbo9780511735158.009"
+    },
+    {
+     "title": "A Dirichlet Theorem for Rank-1 Elliptic Curves",
+     "year": null,
+     "authors": [
+      "David Robert Lambert"
+     ],
+     "venue": "",
+     "id": "doi:10.12794/metadc2482632"
+    },
+    {
+     "title": "Murmurations of Elliptic Curves",
+     "year": 2024,
+     "authors": [
+      "Yang-Hui He",
+      "Kyu-Hwan Lee",
+      "Thomas Oliver",
+      "Alexey Pozdnyakov"
+     ],
+     "venue": "Experimental Mathematics",
+     "id": "doi:10.1080/10586458.2024.2382361"
+    },
+    {
+     "title": "Chapter 7. The rank",
+     "year": 2003,
+     "authors": [],
+     "venue": "Elliptic Curves",
+     "id": "doi:10.1515/9783110198010.198"
+    },
+    {
+     "title": "The derivative of SO(2N +1) characteristic polynomials and rank 3 elliptic curves",
+     "year": 2007,
+     "authors": [
+      "N. C. Snaith"
+     ],
+     "venue": "Ranks of Elliptic Curves and Random Matrix Theory",
+     "id": "doi:10.1017/cbo9780511735158.005"
+    },
+    {
+     "title": "Rank Lifting From Rank-Zero Elliptic Curves Via Quadratic Twists",
+     "year": 2026,
+     "authors": [
+      "Kouakou Vincent",
+      "Soro Fousséni"
+     ],
+     "venue": "Pure and Applied Mathematics Journal",
+     "id": "doi:10.11648/j.pamj.20261501.11"
+    },
+    {
+     "title": "Construction of Elliptic Curves of Large Rank",
+     "year": 1989,
+     "authors": [
+      "Jean-Pierre Serre"
+     ],
+     "venue": "Lectures on the Mordell-Weil Theorem",
+     "id": "doi:10.1007/978-3-663-14060-3_11"
+    }
+   ]
+  }
+ ]
+}

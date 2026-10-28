@@ -1,0 +1,452 @@
+{
+ "problem": 3,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "conjecture generation from failed proof attempts",
+   "status": 200,
+   "results": [
+    {
+     "title": "On affirmative solution to Michael's acclaimed problem in the theory of Fréchet algebras, with applications to automatic continuity theory",
+     "year": "2020",
+     "authors": [
+      "S. R. Patel"
+     ],
+     "id": "arXiv:2006.11134v3"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "conjecture generation from failed proof attempts",
+   "status": 200,
+   "results": [
+    {
+     "title": "Proof plans for the correction of false conjectures",
+     "year": 1994,
+     "authors": [
+      "Raúl Monroy",
+      "Alan Bundy",
+      "Andrew Ireland"
+     ],
+     "venue": "Lecture notes in computer science",
+     "id": "https://doi.org/10.1007/3-540-58216-9_29"
+    },
+    {
+     "title": "Conjectures, Tests and Proofs: An Overview of Theory Exploration",
+     "year": 2021,
+     "authors": [
+      "Moa Johansson",
+      "Nicholas Smallbone"
+     ],
+     "venue": "Electronic Proceedings in Theoretical Computer Science",
+     "id": "https://doi.org/10.4204/eptcs.341.1"
+    },
+    {
+     "title": "Constructing-Evaluating-Refining Mathematical Conjectures and Proofs",
+     "year": 2020,
+     "authors": [
+      "Zülfiye Zeybek Şimşek"
+     ],
+     "venue": "International Journal for Mathematics Teaching and Learning",
+     "id": "https://doi.org/10.4256/ijmtl.v21i2.263"
+    },
+    {
+     "title": "Theory Exploration: Automated Conjecturing for Programs and Proofs",
+     "year": 2025,
+     "authors": [
+      "Sólrún Halla Einarsdóttir"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.63959/chalmers.dt/5776"
+    },
+    {
+     "title": "Outline of the proof of the geometric Langlands conjecture for GL(2)",
+     "year": 2013,
+     "authors": [
+      "Dennis Gaitsgory"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1302.2506"
+    },
+    {
+     "title": "Model Checking Failed Conjectures in Theorem Proving: A Case Study",
+     "year": 2013,
+     "authors": [
+      "Lee Pike",
+      "Paul S. Miner",
+      "Wilfredo Torres-Pomales"
+     ],
+     "venue": "NASA Technical Reports Server (NASA)",
+     "id": "https://openalex.org/W2107617279"
+    },
+    {
+     "title": "A Complete Proof of the Collatz Conjecture Using Generator Functions",
+     "year": 2025,
+     "authors": [
+      "Eduardo Diedrich"
+     ],
+     "venue": "Preprints.org",
+     "id": "https://doi.org/10.20944/preprints202502.1308.v1"
+    },
+    {
+     "title": "Weak gravity conjecture",
+     "year": 2023,
+     "authors": [
+      "Daniel Harlow",
+      "Ben Heidenreich",
+      "Matthew Reece B",
+      "Tom Rudelius"
+     ],
+     "venue": "Reviews of Modern Physics",
+     "id": "https://doi.org/10.1103/revmodphys.95.035003"
+    },
+    {
+     "title": "Conjecture Synthesis for Inductive Theories",
+     "year": 2010,
+     "authors": [
+      "Moa Johansson",
+      "Lucas Dixon",
+      "Alan Bundy"
+     ],
+     "venue": "Journal of Automated Reasoning",
+     "id": "https://doi.org/10.1007/s10817-010-9193-y"
+    },
+    {
+     "title": "On the stokes conjecture for the wave of extreme form",
+     "year": 1982,
+     "authors": [
+      "Charles J. Amick",
+      "Ludwig Edward Fraenkel",
+      "John Francis Toland"
+     ],
+     "venue": "Acta Mathematica",
+     "id": "https://doi.org/10.1007/bf02392728"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "conjecture generation from failed proof attempts",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "conjecture generation from failed proof attempts",
+   "status": 200,
+   "results": [
+    {
+     "title": "The Collatz Conjecture: A Proof Through Inverse Generation Analysis",
+     "year": 2025,
+     "authors": [
+      "Eduardo Diedrich"
+     ],
+     "venue": "",
+     "id": "doi:10.20944/preprints202502.1308.v2"
+    },
+    {
+     "title": "An approach to automated reparation of failed proof attempts in propositional linear logic sequent calculus",
+     "year": 2012,
+     "authors": [
+      "Tatjana Lutovac"
+     ],
+     "venue": "Proceedings of the Fifth Balkan Conference in Informatics",
+     "id": "doi:10.1145/2371316.2371329"
+    },
+    {
+     "title": "Failed Attempts at Proof",
+     "year": 2008,
+     "authors": [
+      "Peter Borwein",
+      "Stephen Choi",
+      "Brendan Rooney",
+      "Andrea Weirathmueller"
+     ],
+     "venue": "CMS Books in Mathematics The Riemann Hypothesis",
+     "id": "doi:10.1007/978-0-387-72126-2_8"
+    },
+    {
+     "title": "Invariant Discovery via Failed Proof Attempts",
+     "year": 1999,
+     "authors": [
+      "Jamie Stark",
+      "Andrew Ireland"
+     ],
+     "venue": "Lecture Notes in Computer Science Logic-Based Program Synthesis and Transformation",
+     "id": "doi:10.1007/3-540-48958-4_15"
+    },
+    {
+     "title": "The Proof of Faltings’s Theorem",
+     "year": 2022,
+     "authors": [],
+     "venue": "The Mordell Conjecture",
+     "id": "doi:10.1017/9781108991445.006"
+    },
+    {
+     "title": "What Is the Mordell Conjecture (Faltings’s Theorem)?",
+     "year": 2022,
+     "authors": [],
+     "venue": "The Mordell Conjecture",
+     "id": "doi:10.1017/9781108991445.002"
+    },
+    {
+     "title": "Scientific Methods — Failed Attempts",
+     "year": 2022,
+     "authors": [],
+     "venue": "Philosophy of Science",
+     "id": "doi:10.1142/9789811261176_0007"
+    },
+    {
+     "title": "Notation",
+     "year": 2022,
+     "authors": [],
+     "venue": "The Mordell Conjecture",
+     "id": "doi:10.1017/9781108991445.008"
+    },
+    {
+     "title": "Preface",
+     "year": 2022,
+     "authors": [],
+     "venue": "The Mordell Conjecture",
+     "id": "doi:10.1017/9781108991445.001"
+    },
+    {
+     "title": "Preliminaries for the Proof of Faltings’s Theorem",
+     "year": 2022,
+     "authors": [],
+     "venue": "The Mordell Conjecture",
+     "id": "doi:10.1017/9781108991445.005"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "automated conjecture generation counterexample falsification",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "automated conjecture generation counterexample falsification",
+   "status": 200,
+   "results": [
+    {
+     "title": "An FPGA based approach for Černý conjecture falsification",
+     "year": 2018,
+     "authors": [
+      "Çağla Koca"
+     ],
+     "venue": "Sabanci University",
+     "id": "https://openalex.org/W2929032306"
+    },
+    {
+     "title": "Counterexample-Guided Quantifier Instantiation for Synthesis in SMT",
+     "year": 2015,
+     "authors": [
+      "Andrew Reynolds",
+      "Morgan Deters",
+      "Viktor Kunčak",
+      "Cesare Tinelli",
+      "Clark Barrett"
+     ],
+     "venue": "Lecture notes in computer science",
+     "id": "https://doi.org/10.1007/978-3-319-21668-3_12"
+    },
+    {
+     "title": "Theory Exploration: Automated Conjecturing for Programs and Proofs",
+     "year": 2025,
+     "authors": [
+      "Sólrún Halla Einarsdóttir"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.63959/chalmers.dt/5776"
+    },
+    {
+     "title": "Self-Verifying Knowledge Evolution Systems (SVKES): A Deductive Framework Unifying Conjecture–Counterexample Dynamics, Compositional Knowledge Synthesis, and Kernel-Protected Self-Modification within the ZFC Axiomatic Bridge",
+     "year": 2026,
+     "authors": [
+      "Seonggil Lee"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.23557137"
+    },
+    {
+     "title": "Automated conjecture making in number theory using HR, Otter and Maple",
+     "year": 2005,
+     "authors": [
+      "Simon Colton"
+     ],
+     "venue": "Journal of Symbolic Computation",
+     "id": "https://doi.org/10.1016/j.jsc.2004.12.003"
+    },
+    {
+     "title": "Machine Learning for Pattern Recognition and Mathematical Conjecture Generation",
+     "year": 2026,
+     "authors": [
+      "Freya L. Andersen"
+     ],
+     "venue": "Revista Infoacceso",
+     "id": "https://openalex.org/W7220340925"
+    },
+    {
+     "title": "Counterexample Generation via Per-Theorem Symbolic Verifiers: When Imitation Hurts and Reinforcement Repairs",
+     "year": 2026,
+     "authors": [
+      "Omar Farouk Zouak",
+      "Houssam Eddine Boukhalfa",
+      "Soumaya Lakehal",
+      "Shiv A. Katiyar",
+      "Samia Nefti-Meziani"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.02444"
+    },
+    {
+     "title": "Falsification, Not Exposure: An Internally Preregistered Placebo-Controlled Decomposition of Self-Repair Feedback in Frozen Small Code Models",
+     "year": 2026,
+     "authors": [
+      "Mehmet İşcan"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.31511"
+    },
+    {
+     "title": "On Counterexample Guided Quantifier Instantiation for Synthesis in CVC4",
+     "year": 2015,
+     "authors": [
+      "Andrew Reynolds",
+      "Morgan Deters",
+      "Viktor Kunčak",
+      "Cesare Tinelli",
+      "Clark Barrett"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1502.04464"
+    },
+    {
+     "title": "Falsification and Control of CPS using the Language Set of Discrete-Time Temporal Logic",
+     "year": 2025,
+     "authors": [
+      "Christian Abou-Mrad",
+      "Tanmay Khandait",
+      "Giulia Pedrielli",
+      "Houssam Abbas"
+     ],
+     "venue": "ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)",
+     "id": "https://doi.org/10.1145/3716550.3722040"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "automated conjecture generation counterexample falsification",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "automated conjecture generation counterexample falsification",
+   "status": 200,
+   "results": [
+    {
+     "title": "A Counterexample to the Hodge Conjecture via the Fermat Quintic",
+     "year": 2025,
+     "authors": [
+      "Fujioka Tomori"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.5180689"
+    },
+    {
+     "title": "A counterexample to the complex polynomial Koebe radius conjecture",
+     "year": 2026,
+     "authors": [
+      "Aran S. Ziegler"
+     ],
+     "venue": "",
+     "id": "doi:10.21203/rs.3.rs-11340098/v1"
+    },
+    {
+     "title": "Counterexample to Euler’s Conjecture for Fifth Power",
+     "year": 2020,
+     "authors": [
+      "Arij Zulfi Mufassaroh",
+      "Adib Rifqi Setiawan"
+     ],
+     "venue": "",
+     "id": "doi:10.31237/osf.io/ybh6k"
+    },
+    {
+     "title": "A six-taxon counterexample to the Xu–Ané distance-split-tree conjecture",
+     "year": 2026,
+     "authors": [
+      "Stan Rasschaert"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.7292396"
+    },
+    {
+     "title": "A potential smooth counterexample in dimension 4 to the Poincare conjecture, the Schoenflies conjecture, and the Andrews-Curtis conjecture",
+     "year": 1985,
+     "authors": [
+      "Selman Akbulut",
+      "Robion Kirby"
+     ],
+     "venue": "Topology",
+     "id": "doi:10.1016/0040-9383(85)90010-2"
+    },
+    {
+     "title": "Counterexample to Euler’s Conjecture for Eighth Power",
+     "year": 2020,
+     "authors": [
+      "Arij Zulfi Mufassaroh",
+      "Adib Rifqi Setiawan"
+     ],
+     "venue": "",
+     "id": "doi:10.31237/osf.io/m27pc"
+    },
+    {
+     "title": "Counterexample to Euler’s Conjecture for Seventh Power",
+     "year": 2020,
+     "authors": [
+      "Arij Zulfi Mufassaroh",
+      "Adib Rifqi Setiawan"
+     ],
+     "venue": "",
+     "id": "doi:10.31237/osf.io/9yg3j"
+    },
+    {
+     "title": "Beal conjecture disproved as no common prime factors in 3 Counterexample",
+     "year": 2024,
+     "authors": [
+      "James T. Struck BA BS AA MLIS"
+     ],
+     "venue": "Global Research Review in Business and Economics",
+     "id": "doi:10.56805/grrbe.24.10.4.41"
+    },
+    {
+     "title": "The Mathematical Constraint of the Counterexample of Goldbach's Strong Conjecture is Impossible to Achieve",
+     "year": 2026,
+     "authors": [
+      "Ahmad Hazaymeh"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6233058"
+    },
+    {
+     "title": "The mathematical constraint of the counterexample of Goldbach's strong conjecture",
+     "year": 2020,
+     "authors": [
+      "ahmad hazaymeh",
+      "Khaled Hazaymeh",
+      "Sukaina Hazaymeh"
+     ],
+     "venue": "",
+     "id": "doi:10.31221/osf.io/wk62g"
+    }
+   ]
+  }
+ ]
+}

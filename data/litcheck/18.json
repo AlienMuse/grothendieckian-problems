@@ -1,0 +1,499 @@
+{
+ "problem": 18,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "learning sheaf structure from data restriction maps",
+   "status": 200,
+   "results": [
+    {
+     "title": "Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks",
+     "year": "2026",
+     "authors": [
+      "Yoshihiro Maruyama"
+     ],
+     "id": "arXiv:2607.03798v4"
+    },
+    {
+     "title": "Cellular Sheaf Neural Operators for Structure-Preserving Surrogate Modeling of Constrained PDEs",
+     "year": "2026",
+     "authors": [
+      "Lennon J. Shikhman",
+      "Shane Gilbertie"
+     ],
+     "id": "arXiv:2606.00937v1"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "learning sheaf structure from data restriction maps",
+   "status": 200,
+   "results": [
+    {
+     "title": "Learning Sheaf Laplacian Optimizing Restriction Maps",
+     "year": 2024,
+     "authors": [
+      "Leonardo Di Nino",
+      "Sergio Barbarossa",
+      "Paolo Di Lorenzo"
+     ],
+     "venue": "Asilomar Conference on Signals, Systems and Computers (ACSSC)",
+     "id": "https://doi.org/10.1109/ieeeconf60004.2024.10942997"
+    },
+    {
+     "title": "Sheaf Neural Networks: Geometric Architectures for Graph-Structured Data",
+     "year": 2025,
+     "authors": [
+      "Gunaputra Nagendra Pavan Yedida"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.17764241"
+    },
+    {
+     "title": "Sheaf Neural Networks: Geometric Architectures for Graph-Structured Data",
+     "year": 2026,
+     "authors": [
+      "Gunaputra Nagendra Pavan Yedida"
+     ],
+     "venue": "SSRN Electronic Journal",
+     "id": "https://doi.org/10.2139/ssrn.5853004"
+    },
+    {
+     "title": "Local-to-Global Latent Atlas Learning via Sheaf-VAE: An Engineering Sheaf-Theoretic Comparison with K-means",
+     "year": 2026,
+     "authors": [
+      "Tetsuya MORIZUMI"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.20088252"
+    },
+    {
+     "title": "Structured Sheaf Learning of Consistent Connection Graphs",
+     "year": 2026,
+     "authors": [
+      "Leonardo Di Nino",
+      "Gabriele D’Acunto",
+      "Sergio Barbarossa",
+      "Paolo Di Lorenzo"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.08710"
+    },
+    {
+     "title": "Sheaf-Theoretic Stratification Learning",
+     "year": 2018,
+     "authors": [
+      "Adam Brown",
+      "Bei Wang"
+     ],
+     "venue": "DROPS (Schloss Dagstuhl – Leibniz Center for Informatics)",
+     "id": "https://doi.org/10.4230/lipics.socg.2018.14"
+    },
+    {
+     "title": "Sheaf-Based Federated Representation Learning",
+     "year": 2026,
+     "authors": [
+      "Gabriele D’Acunto",
+      "Enrico Grimaldi",
+      "Valeria Avino",
+      "Mario Edoardo Pandolfo",
+      "Leonardo Di Nino",
+      "Sergio Barbarossa"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.10016"
+    },
+    {
+     "title": "Sheaf HyperNetworks for Personalized Federated Learning",
+     "year": 2024,
+     "authors": [
+      "Bao Nguyen",
+      "Sani, Lorenzo",
+      "Xinchi Qiu",
+      "Píetro Lió",
+      "Nicholas D. Lane"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2405.20882"
+    },
+    {
+     "title": "Personalized Subgraph Federated Learning with Sheaf Collaboration",
+     "year": 2025,
+     "authors": [
+      "Wenfei Liang",
+      "Yanan Zhao",
+      "Rui She",
+      "Yiming Li",
+      "Wee Peng Tay"
+     ],
+     "venue": "Frontiers in artificial intelligence and applications",
+     "id": "https://doi.org/10.3233/faia251202"
+    },
+    {
+     "title": "Sheaf-Theoretic Stratification Learning from Geometric and Topological Perspectives",
+     "year": 2020,
+     "authors": [
+      "Adam Brown",
+      "Bei Wang"
+     ],
+     "venue": "Discrete & Computational Geometry",
+     "id": "https://doi.org/10.1007/s00454-020-00206-y"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "learning sheaf structure from data restriction maps",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "learning sheaf structure from data restriction maps",
+   "status": 200,
+   "results": [
+    {
+     "title": "Learning Sheaf Laplacian Optimizing Restriction Maps",
+     "year": 2024,
+     "authors": [
+      "Leonardo Di Nino",
+      "Sergio Barbarossa",
+      "Paolo Di Lorenzo"
+     ],
+     "venue": "2024 58th Asilomar Conference on Signals, Systems, and Computers",
+     "id": "doi:10.1109/ieeeconf60004.2024.10942997"
+    },
+    {
+     "title": "Self-Organizing Maps",
+     "year": 2022,
+     "authors": [],
+     "venue": "Inference and Learning from Data",
+     "id": "doi:10.1017/9781009218276.005"
+    },
+    {
+     "title": "GCG: Drawing Linear Restriction Maps",
+     "year": null,
+     "authors": [
+      "Reinhard Dölz"
+     ],
+     "venue": "Computer Analysis of Sequence Data, Part I",
+     "id": "doi:10.1385/0-89603-246-9:25"
+    },
+    {
+     "title": "GCGt Drawing Circular Restriction Maps",
+     "year": null,
+     "authors": [
+      "Reinhard Dölz"
+     ],
+     "venue": "Computer Analysis of Sequence Data, Part I",
+     "id": "doi:10.1385/0-89603-246-9:35"
+    },
+    {
+     "title": "DeepCryoRNA: deep learning-based RNA structure reconstruction from cryo-EM maps",
+     "year": 2025,
+     "authors": [
+      "Jun Li",
+      "Shi-Jie Chen"
+     ],
+     "venue": "",
+     "id": "doi:10.1101/2025.04.05.647396"
+    },
+    {
+     "title": "Machine learning for information extraction from topographic maps",
+     "year": 2001,
+     "authors": [],
+     "venue": "Geographic Data Mining and Knowledge Discovery",
+     "id": "doi:10.1201/b12382-24"
+    },
+    {
+     "title": "Deletion-restriction for sheaf homology of graded atomic lattices",
+     "year": 2022,
+     "authors": [
+      "Brent Everitt",
+      "Paul Turner"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "doi:10.1016/j.aim.2022.108354"
+    },
+    {
+     "title": "An efficient program to construct restriction maps from experimental data with realistic error levels",
+     "year": 1984,
+     "authors": [
+      "R. Durand",
+      "F. Bregegere"
+     ],
+     "venue": "Nucleic Acids Research",
+     "id": "doi:10.1093/nar/12.1part2.703"
+    },
+    {
+     "title": "Deep learning synthesis of Restriction Spectrum Imaging cellularity maps from conventional MRI in post-treatment glioblastoma",
+     "year": 2026,
+     "authors": [
+      "Yiğit Hasan Arı"
+     ],
+     "venue": "Magnetic Resonance Materials in Physics, Biology and Medicine",
+     "id": "doi:10.1007/s10334-026-01422-y"
+    },
+    {
+     "title": "Multi-resolution gridded maps of vegetation structure from GEDI",
+     "year": 2024,
+     "authors": [
+      "Patrick Burns",
+      "Christopher R. Hakkenberg",
+      "Scott J. Goetz"
+     ],
+     "venue": "Scientific Data",
+     "id": "doi:10.1038/s41597-024-03668-4"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "learning the topology of a sheaf neural network",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "learning the topology of a sheaf neural network",
+   "status": 200,
+   "results": [
+    {
+     "title": "Sheaf Neural Networks: Geometric Architectures for Graph-Structured Data",
+     "year": 2025,
+     "authors": [
+      "Gunaputra Nagendra Pavan Yedida"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.17764241"
+    },
+    {
+     "title": "Sheaf Neural Networks: Geometric Architectures for Graph-Structured Data",
+     "year": 2026,
+     "authors": [
+      "Gunaputra Nagendra Pavan Yedida"
+     ],
+     "venue": "SSRN Electronic Journal",
+     "id": "https://doi.org/10.2139/ssrn.5853004"
+    },
+    {
+     "title": "Bayesian Sheaf Neural Networks",
+     "year": 2024,
+     "authors": [
+      "Patrick Gillespie",
+      "Hamdan, Layal Bou",
+      "Ioannis D. Schizas",
+      "Boothe, David L.",
+      "Maroulas, Vasileios"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2410.09590"
+    },
+    {
+     "title": "Gaussian Sheaf Neural Networks",
+     "year": 2026,
+     "authors": [
+      "André Ribeiro",
+      "Ana Luiza Tenório",
+      "Tiago da Silva",
+      "Diego Mesquita"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.21435"
+    },
+    {
+     "title": "Cooperative Sheaf Neural Networks",
+     "year": 2025,
+     "authors": [
+      "Ribeiro, André",
+      "Ana Luiza Tenório",
+      "Juan Belieni",
+      "Amauri Holanda de Souza Junior",
+      "Diego Parente Paiva Mesquita"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2507.00647"
+    },
+    {
+     "title": "Equivariant Sheaf Neural Networks: Learning Geometric Transport on Graphs",
+     "year": 2026,
+     "authors": [
+      "Alessio Borgi",
+      "Mario Severino",
+      "Fabrizio Silvestri",
+      "Pietro Liò"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.28853"
+    },
+    {
+     "title": "Directional Sheaf Hypergraph Networks: Unifying Learning on Directed and Undirected Hypergraphs",
+     "year": 2025,
+     "authors": [
+      "Emanuele Mule",
+      "Fiorini, Stefano",
+      "Antonio Purificato",
+      "Federico Siciliano",
+      "Stefano Coniglio",
+      "Fabrizio Silvestri"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2510.04727"
+    },
+    {
+     "title": "Hierarchical Pooling for Sheaf Neural Networks",
+     "year": 2026,
+     "authors": [
+      "Dionisia Naddeo",
+      "Carlo Abate",
+      "Pietro Liò",
+      "Nicola Toschi",
+      "Filippo Maria Bianchi"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.20932"
+    },
+    {
+     "title": "Sheaf Neural Networks and biomedical applications",
+     "year": 2026,
+     "authors": [
+      "Aneeqa Mehrab",
+      "Jan Willem Van Looy",
+      "P. Demurtas",
+      "Stefano Iotti",
+      "Emil Malucelli",
+      "Francesca Romana Rossi"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2602.00159"
+    },
+    {
+     "title": "Directional Sheaf Hypergraph Networks: Unifying Learning on Directed and Undirected Hypergraphs",
+     "year": 2026,
+     "authors": [
+      "Emanuele Mule",
+      "Fiorini Stefano",
+      "Purificato Antonio",
+      "Siciliano F.",
+      "Coniglio Stefano",
+      "Silvestri Fabrizio"
+     ],
+     "venue": "IRIS Research product catalog (Sapienza University of Rome)",
+     "id": "https://openalex.org/W7172576509"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "learning the topology of a sheaf neural network",
+   "status": 200,
+   "results": [
+    {
+     "title": "Neural Networks as Local-to-Global Computations",
+     "year": "2026",
+     "authors": [
+      "Vicente Bosca",
+      "Robert Ghrist"
+     ],
+     "venue": null,
+     "id": "zbMATH arXiv:2603.14831"
+    }
+   ]
+  },
+  {
+   "source": "Crossref",
+   "query": "learning the topology of a sheaf neural network",
+   "status": 200,
+   "results": [
+    {
+     "title": "Gensep: A multiple neural network learning system with modifiable network topology",
+     "year": 1988,
+     "authors": [],
+     "venue": "Neural Networks",
+     "id": "doi:10.1016/0893-6080(88)90162-1"
+    },
+    {
+     "title": "Topology of a Neural Network",
+     "year": 2011,
+     "authors": [
+      "Risto Miikkulainen"
+     ],
+     "venue": "Encyclopedia of Machine Learning",
+     "id": "doi:10.1007/978-0-387-30164-8_837"
+    },
+    {
+     "title": "Sheaf Theory",
+     "year": 2003,
+     "authors": [
+      "Claudia Centazzo",
+      "Enrico M. Vitale"
+     ],
+     "venue": "Categorical Foundations",
+     "id": "doi:10.1017/cbo9781107340985.010"
+    },
+    {
+     "title": "Sheaf Cohomology of Rectangular-Matrix Chains to Develop Deep-Machine-Learning Multiple Sequencing",
+     "year": 2024,
+     "authors": [
+      "Orchidea Maria Lecian"
+     ],
+     "venue": "International Journal of Topology",
+     "id": "doi:10.3390/ijt1010005"
+    },
+    {
+     "title": "Appendix (Revisiting Topology)",
+     "year": 2022,
+     "authors": [],
+     "venue": "Sheaf Theory through Examples",
+     "id": "doi:10.7551/mitpress/12581.003.0015"
+    },
+    {
+     "title": "Sheaf cohomology on network codings: maxflow-mincut theorem",
+     "year": 2017,
+     "authors": [
+      "Miradain Atontsa Nguemo",
+      "Calvin Tcheka"
+     ],
+     "venue": "Applied General Topology",
+     "id": "doi:10.4995/agt.2017.3371"
+    },
+    {
+     "title": "Topology of a Neural Network",
+     "year": 2014,
+     "authors": [
+      "Risto Miikkulainen"
+     ],
+     "venue": "Encyclopedia of Machine Learning and Data Mining",
+     "id": "doi:10.1007/978-1-4899-7502-7_843-1"
+    },
+    {
+     "title": "Topology of a Neural Network",
+     "year": null,
+     "authors": [],
+     "venue": "SpringerReference",
+     "id": "doi:10.1007/springerreference_179549"
+    },
+    {
+     "title": "Topology of a Neural Network",
+     "year": 2022,
+     "authors": [
+      "Risto Miikkulainen"
+     ],
+     "venue": "Encyclopedia of Machine Learning and Data Science",
+     "id": "doi:10.1007/978-1-4899-7502-7_843-2"
+    },
+    {
+     "title": "Topology of a Neural Network",
+     "year": 2017,
+     "authors": [
+      "Risto Miikkulainen"
+     ],
+     "venue": "Encyclopedia of Machine Learning and Data Mining",
+     "id": "doi:10.1007/978-1-4899-7687-1_843"
+    }
+   ]
+  }
+ ]
+}

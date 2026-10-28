@@ -1,0 +1,107 @@
+{
+ "id": "method",
+ "number": 2,
+ "size_mm": [
+  132.0,
+  138.0
+ ],
+ "footer": "The Grothendieckian Programme: An Overview · Vincent Liu · doi:10.5281/zenodo.23734422 · CC BY 4.0",
+ "title": "RECURSIVE MATHEMATICAL DISCOVERY",
+ "right": "SERIES 03–07",
+ "steps": [
+  {
+   "code": "PROPOSE",
+   "lines": [
+    "a structure, raised",
+    "around the problem"
+   ]
+  },
+  {
+   "code": "TEST",
+   "lines": [
+    "against the cases in",
+    "which the answer",
+    "is already known"
+   ]
+  },
+  {
+   "code": "ABSTRACT",
+   "lines": [
+    "what survives,",
+    "into a new setting"
+   ]
+  },
+  {
+   "code": "ASK AGAIN",
+   "lines": [
+    "the question,",
+    "at the new level"
+   ]
+  }
+ ],
+ "tests": [
+  {
+   "head": "LANGLANDS · SERIES 07",
+   "text": "the function-field case · the de Rham limit · the local fields · the abelian case · the curve of conductor eleven"
+  },
+  {
+   "head": "HODGE · SERIES 05",
+   "text": "divisors · dimension at most three · cubic fourfolds · abelian surfaces"
+  },
+  {
+   "head": "RIEMANN · SERIES 03",
+   "text": "every proposed mechanism is run on four published counter-models before it is admitted, each chosen to expose one source of overreach"
+  }
+ ],
+ "kept": [
+  [
+   "SERIES 03",
+   "A mechanism that failed for a structural reason became a no-go theorem"
+  ],
+  [
+   "SERIES 04 · 05",
+   "what fails is recorded as an obstruction"
+  ],
+  [
+   "SERIES 06",
+   "What fails is recorded as a proof obligation."
+  ],
+  [
+   "SERIES 07",
+   "What fails is recorded where it fails."
+  ]
+ ],
+ "labels": [
+  [
+   "SERIES 01",
+   "E · S · D · R · C · O · Q"
+  ],
+  [
+   "SERIES 02",
+   "LICENCE GRADE · FALSIFICATION CONDITION"
+  ],
+  [
+   "SERIES 03",
+   "[T] · [C] · [O] · [E] · [N] · [K]"
+  ],
+  [
+   "SERIES 04 · 05",
+   "KNOWN · CONDITIONAL · NEW · OPEN"
+  ],
+  [
+   "SERIES 06",
+   "+ REPROVED · DISPUTED"
+  ],
+  [
+   "SERIES 07",
+   "ESTABLISHED · THEOREM · CONJECTURE · DESIGN · FORMAL TARGET"
+  ]
+ ],
+ "rule": "No result is presented at a strength greater than its proof.",
+ "heads": [
+  "TESTED AGAINST WHAT IS KNOWN",
+  "WHAT DOES NOT SURVIVE IS KEPT",
+  "THE STATUS OF EVERY STATEMENT"
+ ],
+ "source": "THE SERIES NOTE OF THE FIVE WORKS"
+}

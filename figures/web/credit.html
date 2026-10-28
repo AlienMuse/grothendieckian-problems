@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Figure 4 — Participation And Credit</title>
+<!-- written by tools/figures.py; the figure is fig-credit.js, the design lib.js (Series 00) -->
+<link rel="stylesheet" href="style.css">
+<style>@page { size: 132.0mm 88.0mm; margin: 0; }
+#figure, #gl, #glimg, #hud { width: 132.0mm; height: 88.0mm; }</style>
+<script type="importmap">
+{ "imports": { "three": "./vendor/three/build/three.module.js" } }
+</script>
+</head>
+<body>
+<main id="figure">
+  <canvas id="gl"></canvas>
+  <img id="glimg" alt="" src="gl-credit.png" decoding="sync">
+  <svg id="hud" xmlns="http://www.w3.org/2000/svg" aria-label="Figure 4: Participation And Credit"></svg>
+</main>
+<script type="module">
+import { run } from './lib.js';
+import * as F from './fig-credit.js';
+await run(F, 'data-credit.json');
+</script>
+</body>
+</html>

@@ -1,0 +1,692 @@
+{
+ "problem": 8,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "relative consistency dependent type theory model mechanized",
+   "status": 200,
+   "results": [
+    {
+     "title": "Self-Consistent Hopping Theory of Activated Relaxation and Diffusion of Dilute Penetrants in Dense Crosslinked Polymer Networks",
+     "year": "2023",
+     "authors": [
+      "Baicheng Mei",
+      "Tsai-Wei Lin",
+      "Charles E. Sing",
+      "Kenneth S. Schweizer"
+     ],
+     "id": "arXiv:2301.05353v2"
+    },
+    {
+     "title": "Nonparametric Copula Models for Multivariate, Mixed, and Missing Data",
+     "year": "2022",
+     "authors": [
+      "Joseph Feldman",
+      "Daniel R. Kowal"
+     ],
+     "id": "arXiv:2210.14988v2"
+    },
+    {
+     "title": "Constraining Brown Dwarf Desert Formation Mechanisms Through Bayesian Statistical Comparison of Observed and Simulated Populations",
+     "year": "2025",
+     "authors": [
+      "Behrooz Karamiqucham"
+     ],
+     "id": "arXiv:2509.08737v2"
+    },
+    {
+     "title": "Finsler Branes and Quantum Gravity Phenomenology with Lorentz Symmetry Violations",
+     "year": "2010",
+     "authors": [
+      "Sergiu I. Vacaru"
+     ],
+     "id": "arXiv:1008.4912v3"
+    },
+    {
+     "title": "Theoretical modeling of approximate universality of tidally deformed neutron stars",
+     "year": "2025",
+     "authors": [
+      "Takuya Katagiri",
+      "Gowtham Rishi Mukkamala",
+      "Kent Yagi"
+     ],
+     "id": "arXiv:2505.05429v2"
+    },
+    {
+     "title": "Tidal deformability of white dwarfs in Eddington-inspired Born-Infeld gravity",
+     "year": "2026",
+     "authors": [
+      "Santanu Pradhan",
+      "Tapobrata Sarkar"
+     ],
+     "id": "arXiv:2610.19629v1"
+    },
+    {
+     "title": "Characterization of phospholipid-cholesterol bilayers as self-assembled amphiphile block polymers that contain headgroups",
+     "year": "2025",
+     "authors": [
+      "Xiaoyuan Wang",
+      "Fredric S. Cohen",
+      "Shixin Xu",
+      "Yongqiang Cai"
+     ],
+     "id": "arXiv:2505.12726v2"
+    },
+    {
+     "title": "Reversing Neel Vector in PT-Antiferromagnets by Nonreciprocal Light Scattering",
+     "year": "2025",
+     "authors": [
+      "Q. Xue",
+      "J. Zhou"
+     ],
+     "id": "arXiv:2503.13825v1"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "relative consistency dependent type theory model mechanized",
+   "status": 200,
+   "results": [
+    {
+     "title": "Higher-Dimensional Types in the Mechanization of Homotopy Theory",
+     "year": 2017,
+     "authors": [
+      "Kuen-Bang Hou"
+     ],
+     "venue": "KiltHub Repository",
+     "id": "https://doi.org/10.1184/r1/6719840"
+    },
+    {
+     "title": "Intrinsically-Typed Mechanized Semantics for Session Types",
+     "year": 2019,
+     "authors": [
+      "Peter J. Thiemann"
+     ],
+     "venue": "International Symposium on Principles and Practice of Declarative Programming (PPDP)",
+     "id": "https://doi.org/10.1145/3354166.3354184"
+    },
+    {
+     "title": "Mechanizing structural induction",
+     "year": 1976,
+     "authors": [
+      "Raymond Aubin"
+     ],
+     "venue": "ERA",
+     "id": "https://openalex.org/W1481699584"
+    },
+    {
+     "title": "Primitive Recursive Dependent Type Theory",
+     "year": 2024,
+     "authors": [
+      "Ulrik Torben Buchholtz",
+      "Johannes Schipp von Branitz"
+     ],
+     "venue": "ACM/IEEE Symposium on Logic in Computer Science (LICS)",
+     "id": "https://doi.org/10.1145/3661814.3662136"
+    },
+    {
+     "title": "A contribution to modeling of mechanized tunnel excavation",
+     "year": 2018,
+     "authors": [
+      "Chenyang Zhao"
+     ],
+     "venue": null,
+     "id": "https://openalex.org/W2948458985"
+    },
+    {
+     "title": "Normalization by evaluation for modal dependent type theory",
+     "year": 2023,
+     "authors": [
+      "Jason Z. S. Hu",
+      "Junyoung Jang",
+      "Brigitte Pientka"
+     ],
+     "venue": "Journal of Functional Programming",
+     "id": "https://doi.org/10.1017/s0956796823000060"
+    },
+    {
+     "title": "Are Dependent Types in Set Theory Feasible?",
+     "year": 2026,
+     "authors": [
+      "Yunsong Yang",
+      "Simon Guilloud",
+      "Viktor Kunčak"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2603.12827"
+    },
+    {
+     "title": "Mechanized verification of fine-grained concurrent programs",
+     "year": 2015,
+     "authors": [
+      "Ilya Sergey",
+      "Aleksandar Nanevski",
+      "Anindya Banerjee"
+     ],
+     "venue": "ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)",
+     "id": "https://doi.org/10.1145/2737924.2737964"
+    },
+    {
+     "title": "Certified Programming with Dependent Types",
+     "year": 2013,
+     "authors": [
+      "Adam J. Chlipala"
+     ],
+     "venue": "The MIT Press eBooks",
+     "id": "https://doi.org/10.7551/mitpress/9153.001.0001"
+    },
+    {
+     "title": "Computationally Efficient Simulation in Urban Mechanized Tunneling Based on Multilevel BIM Models",
+     "year": 2019,
+     "authors": [
+      "Jelena Ninić",
+      "Hoang‐Giang Bui",
+      "Christian Koch",
+      "Günther Meschke"
+     ],
+     "venue": "Journal of Computing in Civil Engineering",
+     "id": "https://doi.org/10.1061/(asce)cp.1943-5487.0000822"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "relative consistency dependent type theory model mechanized",
+   "status": 200,
+   "results": [
+    {
+     "title": "Logic and theory of algorithms. 4th conference on computability in Europe, CiE 2008, Athens, Greece, June 15--20, 2008. Proceedings",
+     "year": "2008",
+     "authors": [],
+     "venue": "Lecture Notes in Computer Science",
+     "id": "zbMATH 1137.68002"
+    }
+   ]
+  },
+  {
+   "source": "Crossref",
+   "query": "relative consistency dependent type theory model mechanized",
+   "status": 200,
+   "results": [
+    {
+     "title": "A mechanized theory of regular trees in dependent type theory",
+     "year": null,
+     "authors": [
+      "Régis Spadotti"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/5e0f5705z8360z4a62zb884z5db7671051c1"
+    },
+    {
+     "title": "The Relative Consistency of the Axiom of Choice — Mechanized Using Isabelle/ZF",
+     "year": null,
+     "authors": [
+      "Lawrence C. Paulson"
+     ],
+     "venue": "Lecture Notes in Computer Science Logic and Theory of Algorithms",
+     "id": "doi:10.1007/978-3-540-69407-6_52"
+    },
+    {
+     "title": "The Relative Consistency of the Axiom of Choice Mechanized Using Isabelle⁄zf",
+     "year": 2003,
+     "authors": [
+      "Lawrence C. Paulson"
+     ],
+     "venue": "LMS Journal of Computation and Mathematics",
+     "id": "doi:10.1112/s1461157000000449"
+    },
+    {
+     "title": "Proofs of relative consistency. The method of interpretation",
+     "year": 1999,
+     "authors": [],
+     "venue": "Set Theory",
+     "id": "doi:10.1017/cbo9780511623561.023"
+    },
+    {
+     "title": "Proofs of relative consistency. The method of models",
+     "year": 1999,
+     "authors": [],
+     "venue": "Set Theory",
+     "id": "doi:10.1017/cbo9780511623561.024"
+    },
+    {
+     "title": "A Mechanized Theory of Regular Trees in Dependent Type Theory",
+     "year": 2015,
+     "authors": [
+      "Régis Spadotti"
+     ],
+     "venue": "Lecture Notes in Computer Science Interactive Theorem Proving",
+     "id": "doi:10.1007/978-3-319-22102-1_27"
+    },
+    {
+     "title": "Relative Consistency",
+     "year": 2023,
+     "authors": [],
+     "venue": "The SAGE Encyclopedia of Theory in Science, Technology, Engineering, and Mathematics",
+     "id": "doi:10.4135/9781071872383.n176"
+    },
+    {
+     "title": "3.7. Formal properties and consistency of the theory",
+     "year": 1983,
+     "authors": [],
+     "venue": "Biophysical Theory of Radiation Action",
+     "id": "doi:10.1515/9783112618943-020"
+    },
+    {
+     "title": "Relative error prediction: Strong uniform consistency for censoring time series model",
+     "year": 2021,
+     "authors": [
+      "Feriel Bouhadjera",
+      "Ould Saïd Elias",
+      "Remita Mohamed Riad"
+     ],
+     "venue": "Communications in Statistics - Theory and Methods",
+     "id": "doi:10.1080/03610926.2021.1979584"
+    },
+    {
+     "title": "Dependent Type Theory",
+     "year": 2025,
+     "authors": [],
+     "venue": "Introduction to Homotopy Type Theory",
+     "id": "doi:10.1017/9781108933568.003"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "conservativity type theory extension proof",
+   "status": 200,
+   "results": [
+    {
+     "title": "Towards coherence theorems for equational extensions of type theories",
+     "year": "2023",
+     "authors": [
+      "Rafaël Bocquet"
+     ],
+     "id": "arXiv:2304.10343v1"
+    },
+    {
+     "title": "Conservativity of Type Theory over Higher-order Arithmetic",
+     "year": "2023",
+     "authors": [
+      "Benno van den Berg",
+      "Daniël Otten"
+     ],
+     "id": "arXiv:2308.15288v1"
+    },
+    {
+     "title": "Coherence of strict equalities in dependent type theories",
+     "year": "2020",
+     "authors": [
+      "Rafaël Bocquet"
+     ],
+     "id": "arXiv:2010.14166v1"
+    },
+    {
+     "title": "A Reasonably Gradual Type Theory",
+     "year": "2022",
+     "authors": [
+      "Kenji Maillard",
+      "Meven Lennon-Bertrand",
+      "Nicolas Tabareau",
+      "Éric Tanter"
+     ],
+     "id": "arXiv:2209.00975v1"
+    },
+    {
+     "title": "Syntactic categories for dependent type theory: sketching and adequacy",
+     "year": "2020",
+     "authors": [
+      "Daniel Gratzer",
+      "Jonathan Sterling"
+     ],
+     "id": "arXiv:2012.10783v2"
+    },
+    {
+     "title": "An Infinitary Proof Theory of Linear Logic Ensuring Fair Termination in the Linear $π$-Calculus",
+     "year": "2022",
+     "authors": [
+      "Luca Ciccone",
+      "Luca Padovani"
+     ],
+     "id": "arXiv:2207.03749v1"
+    },
+    {
+     "title": "Bidirectional Type Class Instances (Extended Version)",
+     "year": "2019",
+     "authors": [
+      "Koen Pauwels",
+      "Georgios Karachalias",
+      "Michiel Derhaeg",
+      "Tom Schrijvers"
+     ],
+     "id": "arXiv:1906.12242v2"
+    },
+    {
+     "title": "Propositional Equality for Gradual Dependently Typed Programming",
+     "year": "2022",
+     "authors": [
+      "Joseph Eremondi",
+      "Ronald Garcia",
+      "Éric Tanter"
+     ],
+     "id": "arXiv:2205.01241v1"
+    },
+    {
+     "title": "From Rewrite Rules to Axioms in the $λ$$Π$-Calculus Modulo Theory",
+     "year": "2024",
+     "authors": [
+      "Valentin Blot",
+      "Gilles Dowek",
+      "Thomas Traversié",
+      "Théo Winterhalter"
+     ],
+     "id": "arXiv:2402.09024v1"
+    },
+    {
+     "title": "$\\mathsf{LLF}_{\\cal P}$: a logical framework for modeling external evidence, side conditions, and proof irrelevance using monads",
+     "year": "2017",
+     "authors": [
+      "Furio Honsell",
+      "Luigi Liquori",
+      "Petar Maksimovic",
+      "Ivan Scagnetto"
+     ],
+     "id": "arXiv:1702.07214v3"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "conservativity type theory extension proof",
+   "status": 200,
+   "results": [
+    {
+     "title": "Type Theories of Natural Numbers: A Study of Conservative Extension",
+     "year": 2023,
+     "authors": [
+      "Aleksandar Babunović"
+     ],
+     "venue": "Gothenburg University Publications Electronic Archive (Gothenburg University)",
+     "id": "https://openalex.org/W7216829976"
+    },
+    {
+     "title": "Extensional concepts in intensional type theory",
+     "year": 1995,
+     "authors": [
+      "Martin O. Hofmann"
+     ],
+     "venue": "ERA",
+     "id": "https://openalex.org/W1773829243"
+    },
+    {
+     "title": "Conservativity of equality reflection over intensional type theory",
+     "year": 1996,
+     "authors": [
+      "Martin O. Hofmann"
+     ],
+     "venue": "Lecture notes in computer science",
+     "id": "https://doi.org/10.1007/3-540-61780-9_68"
+    },
+    {
+     "title": "Safe Proof Checking in Type Theory with Y",
+     "year": 1999,
+     "authors": [
+      "Herman Geuvers",
+      "Erik Poll",
+      "Jan Zwanenburg"
+     ],
+     "venue": "Lecture notes in computer science",
+     "id": "https://doi.org/10.1007/3-540-48168-0_31"
+    },
+    {
+     "title": "Proof-Theoretic Conservative Extension of HOL with Ad-hoc Overloading",
+     "year": 2020,
+     "authors": [
+      "Arve Gengelbach",
+      "Tjark Weber"
+     ],
+     "venue": "Lecture notes in computer science",
+     "id": "https://doi.org/10.1007/978-3-030-64276-1_2"
+    },
+    {
+     "title": "Conservativity of Type Theory over Higher-order Arithmetic",
+     "year": 2023,
+     "authors": [
+      "Benno van den Berg",
+      "Daniël Otten"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2308.15288"
+    },
+    {
+     "title": "Conservativity of Equational Theories in Typed Lambda Calculi1",
+     "year": 1993,
+     "authors": [
+      "Val Breazu-Tannen",
+      "Albert R. Meyer"
+     ],
+     "venue": "Fundamenta Informaticae",
+     "id": "https://doi.org/10.3233/fi-1993-191-203"
+    },
+    {
+     "title": "Towards coherence theorems for equational extensions of type theories",
+     "year": 2023,
+     "authors": [
+      "Rafaël Bocquet"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2304.10343"
+    },
+    {
+     "title": "Dynamic typing: syntax and proof theory",
+     "year": 1994,
+     "authors": [
+      "Fritz Henglein"
+     ],
+     "venue": "Science of Computer Programming",
+     "id": "https://doi.org/10.1016/0167-6423(94)00004-2"
+    },
+    {
+     "title": "An Extension of System F with Subtyping",
+     "year": 1994,
+     "authors": [
+      "Luca Cardelli",
+      "Simone Martini",
+      "John C. Mitchell",
+      "Andre Scedrov"
+     ],
+     "venue": "Information and Computation",
+     "id": "https://doi.org/10.1006/inco.1994.1013"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "conservativity type theory extension proof",
+   "status": 200,
+   "results": [
+    {
+     "title": "Coercion completion and conservativity in coercive subtyping",
+     "year": "2002",
+     "authors": [
+      "Soloviev, Sergei",
+      "Luo, Zhaohui"
+     ],
+     "venue": "Annals of Pure and Applied Logic",
+     "id": "zbMATH 1011.03017"
+    },
+    {
+     "title": "Coercive subtyping: theory and implementation",
+     "year": "2013",
+     "authors": [
+      "Luo, Zhaohui",
+      "Soloviev, S.",
+      "Xue, Taoxue"
+     ],
+     "venue": "Information and Computation",
+     "id": "zbMATH 1267.03042"
+    },
+    {
+     "title": "The enriched effect calculus: syntax and semantics",
+     "year": "2014",
+     "authors": [
+      "Egger, Jeff",
+      "Møgelberg, Rasmus Ejlers",
+      "Simpson, Alex"
+     ],
+     "venue": "Journal of Logic and Computation",
+     "id": "zbMATH 1338.03014"
+    },
+    {
+     "title": "A higher-order calculus and theory abstraction",
+     "year": "1991",
+     "authors": [
+      "Luo, Zhaohui"
+     ],
+     "venue": "Information and Computation",
+     "id": "zbMATH 0719.03004"
+    },
+    {
+     "title": "Finite investigation of infinite derivations",
+     "year": "1975",
+     "authors": [
+      "Minc, G. E."
+     ],
+     "venue": "Zapiski Nauchnykh Seminarov Leningradskogo Otdeleniya Matematicheskogo Instituta Imeni V. A. Steklova",
+     "id": "zbMATH 0341.02020"
+    },
+    {
+     "title": "Recursively saturated nonstandard models of arithmetic",
+     "year": "1981",
+     "authors": [
+      "Smorynski, C."
+     ],
+     "venue": "The Journal of Symbolic Logic",
+     "id": "zbMATH 0501.03044"
+    },
+    {
+     "title": "\\(\\lambda \\)Z: Zermelo's set theory as a PTS with 4 sorts",
+     "year": "2006",
+     "authors": [
+      "Miquel, Alexandre"
+     ],
+     "venue": null,
+     "id": "zbMATH 1172.03306"
+    },
+    {
+     "title": "Safe proof checking in type theory with \\(Y\\)",
+     "year": "1999",
+     "authors": [
+      "Geuvers, Herman",
+      "Poll, Erik",
+      "Zwanenburg, Jan"
+     ],
+     "venue": null,
+     "id": "zbMATH 0944.03008"
+    },
+    {
+     "title": "Non-Invertible dynamical systems. Volume 1. Ergodic theory -- finite and infinite, thermodynamic formalism, symbolic dynamics and distance expanding maps",
+     "year": "2022",
+     "authors": [
+      "Urbański, Mariusz",
+      "Roy, Mario",
+      "Munday, Sara"
+     ],
+     "venue": "De Gruyter Expositions in Mathematics",
+     "id": "zbMATH 1493.37003"
+    }
+   ]
+  },
+  {
+   "source": "Crossref",
+   "query": "conservativity type theory extension proof",
+   "status": 200,
+   "results": [
+    {
+     "title": "Extension of λC with definitions",
+     "year": 2014,
+     "authors": [],
+     "venue": "Type Theory and Formal Proof",
+     "id": "doi:10.1017/cbo9781139567725.012"
+    },
+    {
+     "title": "PROOF THEORY AND CONSTRUCTIVE TYPE THEORY",
+     "year": 2001,
+     "authors": [],
+     "venue": "Structural Proof Theory",
+     "id": "doi:10.1017/cbo9780511527340.013"
+    },
+    {
+     "title": "On a new notion of partial conservativity",
+     "year": 1984,
+     "authors": [
+      "Petr Hájek"
+     ],
+     "venue": "Lecture Notes in Mathematics Computation and Proof Theory",
+     "id": "doi:10.1007/bfb0099487"
+    },
+    {
+     "title": "Proof theory of higher-order equations: conservativity, normal forms and term rewriting",
+     "year": 2003,
+     "authors": [
+      "K. Meinke"
+     ],
+     "venue": "Journal of Computer and System Sciences",
+     "id": "doi:10.1016/s0022-0000(03)00048-5"
+    },
+    {
+     "title": "SIMPLE TYPE THEORY AND CATEGORIAL GRAMMAR",
+     "year": 2001,
+     "authors": [],
+     "venue": "Structural Proof Theory",
+     "id": "doi:10.1017/cbo9780511527340.012"
+    },
+    {
+     "title": "A type theory with definitional proof-irrelevance",
+     "year": null,
+     "authors": [
+      "Gaëtan Gilbert"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/edb2bdbcz9127z4457zb323z5bddb713a299"
+    },
+    {
+     "title": "Conservativity of equality reflection over intensional type theory",
+     "year": 1996,
+     "authors": [
+      "Martin Hofmann"
+     ],
+     "venue": "Lecture Notes in Computer Science Types for Proofs and Programs",
+     "id": "doi:10.1007/3-540-61780-9_68"
+    },
+    {
+     "title": "Extension of Martin-Löf’s type theory with record types and subtyping",
+     "year": 1998,
+     "authors": [
+      "Gustavo Betarte",
+      "Alvaro Tasistro"
+     ],
+     "venue": "Twenty Five Years of Constructive Type Theory",
+     "id": "doi:10.1093/oso/9780198501275.003.0004"
+    },
+    {
+     "title": "Definitions",
+     "year": 2014,
+     "authors": [],
+     "venue": "Type Theory and Formal Proof",
+     "id": "doi:10.1017/cbo9781139567725.011"
+    },
+    {
+     "title": "Preface",
+     "year": 2014,
+     "authors": [],
+     "venue": "Type Theory and Formal Proof",
+     "id": "doi:10.1017/cbo9781139567725.002"
+    }
+   ]
+  }
+ ]
+}

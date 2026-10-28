@@ -1,0 +1,4 @@
+[
+  {"pattern": "Cases of BSD established 0", "reason": "Quotes the row of [S04, Table 56.1] that records zero cases of the conjecture established."},
+  {"pattern": "The Riemann hypothesis is true up to 3", "reason": "Title of a cited paper (Platt–Trudgian 2021) on a finite verification of zeros, printed as published."}
+]

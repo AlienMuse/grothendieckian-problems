@@ -1,0 +1,53 @@
+{
+ "id": "triangle",
+ "number": 5,
+ "size_mm": [
+  132.0,
+  114.0
+ ],
+ "footer": "The Rising-Sea Theses · Vincent Liu · doi:10.5281/zenodo.23734424 · CC BY 4.0",
+ "title": "A WORKED EXAMPLE",
+ "right": "SERIES 01 · VOL. III · §61.18 · P. 9227",
+ "pass": "All three edge predicates pass.",
+ "excluded": "an unrelated fourth chart",
+ "keeps": [
+  "the hashes of the three sections",
+  "the three local receipts",
+  "the oriented face",
+  "the transition digests",
+  "the two composite results",
+  "the normalisation rule",
+  "the equality predicate",
+  "the checker and its environment",
+  "the counterexample"
+ ],
+ "acts": [
+  {
+   "num": 1,
+   "text": "make the failure locatable"
+  },
+  {
+   "num": 2,
+   "text": "keep the pairwise receipts valid while the triangle fails"
+  },
+  {
+   "num": 5,
+   "text": "an obstruction with a location rather than a score"
+  },
+  {
+   "num": 6,
+   "text": "the refusal to read three successful comparisons as a successful gluing"
+  },
+  {
+   "num": 10,
+   "text": "the failure becomes the input of a proposal"
+  }
+ ],
+ "quote": "The three pairwise receipts remain historically valid; they simply do not establish the failed triangular law.",
+ "heads": [
+  "THREE CHARTS · THREE PASSING COMPARISONS",
+  "THE RECORD KEEPS",
+  "EXCLUDED",
+  "WHERE THE THESES ACT"
+ ]
+}

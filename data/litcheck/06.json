@@ -1,0 +1,463 @@
+{
+ "problem": 6,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "checking universal properties constraint solving category theory",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "checking universal properties constraint solving category theory",
+   "status": 200,
+   "results": [
+    {
+     "title": "Very early parameter setting and the unique checking constraint: A new explanation of the optional infinitive stage",
+     "year": 1998,
+     "authors": [
+      "Kenneth N. Wexler"
+     ],
+     "venue": "Lingua",
+     "id": "https://doi.org/10.1016/s0024-3841(98)00029-1"
+    },
+    {
+     "title": "Fusion categories and homotopy theory",
+     "year": 2010,
+     "authors": [
+      "Pavel I. Etingof",
+      "Dmitri Nikshych",
+      "Victor Ostrik"
+     ],
+     "venue": "Quantum Topology",
+     "id": "https://doi.org/10.4171/qt/6"
+    },
+    {
+     "title": "Weakly group-theoretical and solvable fusion categories",
+     "year": 2010,
+     "authors": [
+      "Pavel I. Etingof",
+      "Dmitri Nikshych",
+      "Victor Ostrik"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "https://doi.org/10.1016/j.aim.2010.06.009"
+    },
+    {
+     "title": "A theory of category projection and its applications",
+     "year": 1986,
+     "authors": [
+      "Naoki Fukui"
+     ],
+     "venue": "DSpace@MIT (Massachusetts Institute of Technology)",
+     "id": "https://openalex.org/W1594897963"
+    },
+    {
+     "title": "Constraint solving for finite model finding in SMT solvers",
+     "year": 2017,
+     "authors": [
+      "Andrew Reynolds",
+      "Cesare Tinelli",
+      "Clark Barrett"
+     ],
+     "venue": "Theory and Practice of Logic Programming",
+     "id": "https://doi.org/10.1017/s1471068417000175"
+    },
+    {
+     "title": "An overview of machine learning techniques in constraint solving",
+     "year": 2021,
+     "authors": [
+      "Andrei Popescu",
+      "Seda Polat Erdeniz",
+      "Alexander Felfernig",
+      "Mathias Uta",
+      "Müslüm Atas",
+      "Viet-Man Le"
+     ],
+     "venue": "Journal of Intelligent Information Systems",
+     "id": "https://doi.org/10.1007/s10844-021-00666-5"
+    },
+    {
+     "title": "Topological superconductors and category theory",
+     "year": 2017,
+     "authors": [
+      "Bogdan Andrei Bernevig",
+      "Titus Neupert"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.1093/acprof:oso/9780198785781.003.0002"
+    },
+    {
+     "title": "Practical Constraint Solving for Generating System Test Data",
+     "year": 2020,
+     "authors": [
+      "Ghanem Soltana",
+      "Mehrdad Sabetzadeh",
+      "Lionel C. Briand"
+     ],
+     "venue": "ACM Transactions on Software Engineering and Methodology",
+     "id": "https://doi.org/10.1145/3381032"
+    },
+    {
+     "title": "Inalienability and the Theory of Property Rights",
+     "year": 1985,
+     "authors": [
+      "Susan Rose‐Ackerman"
+     ],
+     "venue": "Columbia Law Review",
+     "id": "https://doi.org/10.2307/1122458"
+    },
+    {
+     "title": "Microscopic universal theory of symmetry-enriched topological quantum spin liquids",
+     "year": 2026,
+     "authors": [
+      "Yingcheng Li",
+      "Liujun Zou"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.08558"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "checking universal properties constraint solving category theory",
+   "status": 200,
+   "results": [
+    {
+     "title": "42nd international symposium on mathematical foundations of computer science, MFCS 2017, August 21--25, 2017, Aalborg, Denmark",
+     "year": "2017",
+     "authors": [],
+     "venue": "LIPIcs -- Leibniz International Proceedings in Informatics",
+     "id": "zbMATH 1376.68011"
+    }
+   ]
+  },
+  {
+   "source": "Crossref",
+   "query": "checking universal properties constraint solving category theory",
+   "status": 200,
+   "results": [
+    {
+     "title": "Universal properties",
+     "year": 2022,
+     "authors": [],
+     "venue": "The Joy of Abstraction",
+     "id": "doi:10.1017/9781108769389.020"
+    },
+    {
+     "title": "Combining Type Checking and Set Constraint Solving to Improve Automated Software Verification",
+     "year": 2024,
+     "authors": [
+      "MAXIMILIANO CRISTIÁ",
+      "GIANFRANCO ROSSI"
+     ],
+     "venue": "Theory and Practice of Logic Programming",
+     "id": "doi:10.1017/s1471068424000206"
+    },
+    {
+     "title": "Category Theory and Universal Algebra",
+     "year": 1981,
+     "authors": [
+      "P. M. Cohn"
+     ],
+     "venue": "Universal Algebra",
+     "id": "doi:10.1007/978-94-009-8399-1_8"
+    },
+    {
+     "title": "Constraint Solving for Interpolation",
+     "year": null,
+     "authors": [
+      "Andrey Rybalchenko",
+      "Viorica Sofronie-Stokkermans"
+     ],
+     "venue": "Lecture Notes in Computer Science Verification, Model Checking, and Abstract Interpretation",
+     "id": "doi:10.1007/978-3-540-69738-1_25"
+    },
+    {
+     "title": "Checking Theory and Grammatical Functions in Universal Grammar",
+     "year": 2000,
+     "authors": [
+      "Hiroyuki Ura"
+     ],
+     "venue": "",
+     "id": "doi:10.1093/oso/9780195118391.001.0001"
+    },
+    {
+     "title": "Category Theory and Universal Models: Adjoints and Brain Functors",
+     "year": 2009,
+     "authors": [
+      "David Ellerman"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.1368856"
+    },
+    {
+     "title": "Preface",
+     "year": 2000,
+     "authors": [
+      "Hiroyuki Ura"
+     ],
+     "venue": "Checking Theory and Grammatical Functions in Universal Grammar",
+     "id": "doi:10.1093/oso/9780195118391.002.0003"
+    },
+    {
+     "title": "Introduction",
+     "year": 2000,
+     "authors": [
+      "Hiroyuki Ura"
+     ],
+     "venue": "Checking Theory and Grammatical Functions in Universal Grammar",
+     "id": "doi:10.1093/oso/9780195118391.003.0001"
+    },
+    {
+     "title": "Abbreviations",
+     "year": 2000,
+     "authors": [
+      "Hiroyuki Ura"
+     ],
+     "venue": "Checking Theory and Grammatical Functions in Universal Grammar",
+     "id": "doi:10.1093/oso/9780195118391.002.0004"
+    },
+    {
+     "title": "Dedication",
+     "year": 2000,
+     "authors": [
+      "Hiroyuki Ura"
+     ],
+     "venue": "Checking Theory and Grammatical Functions in Universal Grammar",
+     "id": "doi:10.1093/oso/9780195118391.002.0002"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "verified encoding universal property SAT SMT",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "verified encoding universal property SAT SMT",
+   "status": 200,
+   "results": [
+    {
+     "title": "Efficient Sampling of SAT and SMT Solutions for Testing and Verification",
+     "year": 2019,
+     "authors": [
+      "Rafael Dutra"
+     ],
+     "venue": "eScholarship (California Digital Library)",
+     "id": "https://openalex.org/W3013760975"
+    },
+    {
+     "title": "Refinement reflection: complete verification with SMT",
+     "year": 2017,
+     "authors": [
+      "Niki Vazou",
+      "Anish Tondwalkar",
+      "Vikraman Choudhury",
+      "Ryan G. Scott",
+      "Ryan Rhodes Newton",
+      "Philip Wadler"
+     ],
+     "venue": "Proceedings of the ACM on Programming Languages",
+     "id": "https://doi.org/10.1145/3158141"
+    },
+    {
+     "title": "SMT Safety Verification of Ontology-Based Processes",
+     "year": 2023,
+     "authors": [
+      "Diego Calvanese",
+      "Alessandro Gianola",
+      "Andrea Mazzullo",
+      "Marco Montali"
+     ],
+     "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+     "id": "https://doi.org/10.1609/aaai.v37i5.25772"
+    },
+    {
+     "title": "Exploiting SAT and SMT Techniques for Automated Reasoning and Ontology Manipulation in Description Logics",
+     "year": 2011,
+     "authors": [
+      "Michele Vescovi"
+     ],
+     "venue": "Unitn-eprints PhD (University of Trento)",
+     "id": "https://doi.org/10.15168/11572_368051"
+    },
+    {
+     "title": "Encoding Linear Constraints into SAT",
+     "year": 2020,
+     "authors": [
+      "Ignasi Abío",
+      "Mayer-Eichberger, Valentin",
+      "Stuckey, Peter"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2005.02073"
+    },
+    {
+     "title": "SMT-Based Nonlinear PDDL+ Planning",
+     "year": 2015,
+     "authors": [
+      "Daniel Bryce",
+      "Sicun Gao",
+      "David J. Musliner",
+      "Robert P. Goldman"
+     ],
+     "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+     "id": "https://doi.org/10.1609/aaai.v29i1.9646"
+    },
+    {
+     "title": "An Effective SMT Engine for Formal Verification",
+     "year": 2009,
+     "authors": [
+      "Alberto Griggio"
+     ],
+     "venue": "Unitn-eprints PhD (University of Trento)",
+     "id": "https://doi.org/10.15168/11572_368265"
+    },
+    {
+     "title": "Verifying Properties of Binarized Deep Neural Networks",
+     "year": 2018,
+     "authors": [
+      "Nina Narodytska",
+      "Shiva Prasad Kasiviswanathan",
+      "Leonid Ryzhyk",
+      "Mooly Sagiv",
+      "Toby Walsh"
+     ],
+     "venue": "AAAI Publications (The Association for the Advancement of Artificial Intelligence (AAAI))",
+     "id": "https://doi.org/10.1609/aaai.v32i1.12206"
+    },
+    {
+     "title": "Scalable verification of border gateway protocol configurations with an SMT solver",
+     "year": 2016,
+     "authors": [
+      "Konstantin Weitz",
+      "Doug Woos",
+      "Emina Torlak",
+      "Michael D. Ernst",
+      "Arvind Krishnamurthy",
+      "Zachary Tatlock"
+     ],
+     "venue": "Conference on Object-Oriented Programming Systems, Languages, and Applications",
+     "id": "https://doi.org/10.1145/2983990.2984012"
+    },
+    {
+     "title": "Static Analysis of Memory Models for SMT Encodings",
+     "year": 2023,
+     "authors": [
+      "Thomas Haas",
+      "René Pascasl Maseli",
+      "Roland Meyer",
+      "Hernán Ponce-de-León"
+     ],
+     "venue": "Proceedings of the ACM on Programming Languages",
+     "id": "https://doi.org/10.1145/3622855"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "verified encoding universal property SAT SMT",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "verified encoding universal property SAT SMT",
+   "status": 200,
+   "results": [
+    {
+     "title": "",
+     "year": 2022,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.67599/anr-21-ce25-0010"
+    },
+    {
+     "title": "",
+     "year": 2021,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.55776/t1306"
+    },
+    {
+     "title": "Encoding the law into digital libraries",
+     "year": 1999,
+     "authors": [
+      "Pamela Samuelson"
+     ],
+     "venue": "Intellectual property in the age of universal access",
+     "id": "doi:10.1145/318536.318548"
+    },
+    {
+     "title": "[ErgoFast] Amélioration de performances du solveur SMT Alt-Ergo grâce à l’intégration d’un solveur SAT efficace",
+     "year": null,
+     "authors": [
+      "Albin Coquereau"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/8a989d62z1c1dz43a8z8cf8z55ea4f322bd9"
+    },
+    {
+     "title": "Successful SAT Encoding Techniques",
+     "year": 2009,
+     "authors": [
+      "Magnus Björk"
+     ],
+     "venue": "Journal on Satisfiability, Boolean Modeling and Computation",
+     "id": "doi:10.3233/sat190085"
+    },
+    {
+     "title": "The Verified Property Record (VPR) Canonical Property Representation for the Cognitive Web",
+     "year": 2026,
+     "authors": [
+      "Marco Patrone"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6217398"
+    },
+    {
+     "title": "Exploring Predictability of SAT/SMT Solvers",
+     "year": null,
+     "authors": [
+      "Robert Brummayer",
+      "Duckki Oe",
+      "Aaron Stump"
+     ],
+     "venue": "EPiC Series in Computing",
+     "id": "doi:10.29007/h5vg"
+    },
+    {
+     "title": "A Verified SAT Solver Framework including Optimization and Partial Valuations",
+     "year": null,
+     "authors": [
+      "Mathias Fleury",
+      "Christoph Weidenbach"
+     ],
+     "venue": "EPiC Series in Computing",
+     "id": "doi:10.29007/96wb"
+    },
+    {
+     "title": "A Case Study: Huffman Encoding and Decoding",
+     "year": 2016,
+     "authors": [],
+     "venue": "Verified Functional Programming in Agda",
+     "id": "doi:10.1145/2841316.2841325"
+    },
+    {
+     "title": "WAPA: A Microarchitecture- and Workload-Agnostic Universal SMT Scheduler_supp1-3688931.pdf",
+     "year": null,
+     "authors": [
+      "Marta Navarro"
+     ],
+     "venue": "",
+     "id": "doi:10.1109/tpds.2026.3688931/mm1"
+    }
+   ]
+  }
+ ]
+}

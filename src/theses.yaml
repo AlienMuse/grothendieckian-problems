@@ -1,0 +1,269 @@
+# The Rising-Sea Theses: single source of the twelve theses (paper I, the repository's THESES.md, problems.json).
+# claim: the one-sentence thesis (gate A wording). problems: must equal the cards whose `thesis` is this one (paper_gates). evidence: passages of the seven works, quoted verbatim between “ ”
+# on the pages named (quote_gate). [@key, locator] cites src/refs.yaml. problems: the problems of paper II under it.
+- num: 1
+  title: "Worlds, not isolated theorems"
+  claim: "For a reasoning system, the unit of mathematical knowledge is a typed, verifiable world, not an isolated theorem."
+  argument: |
+    A theorem holds relative to definitions, hypotheses, an ambient category, a base and a system of coefficients. A
+    mathematician carries this context implicitly and restores it when a result is used; a system that stores
+    statements as text or as vectors loses it, and the errors that follow are errors of transport — a result applied
+    after a change of base, of coefficients or of variance that it does not survive. The relative point of view of
+    Grothendieck’s school makes the context part of the object: one works with objects over a base and asks which
+    statements are stable under base change [@SGA4]. The thesis transfers that practice to machine reasoning. The
+    stored object is a world — its logic, objects, maps, variance, base, coefficients and bounds, each explicit — and
+    a result is admitted only together with the world in which it holds and the evidence that licenses each transport
+    out of it. Retrieval, comparison and reuse then become operations on worlds, with a record of what each
+    preserves, loses or leaves unknown.
+  evidence:
+    - {work: S01, pages: ["iv"], text: "The Series Note of [@S01] states the architectural obligation as “to express mathematical worlds as typed, versioned, provenance-bearing artifacts that can be searched, compared, formalized, computed with, and evolved without allowing statistical confidence to masquerade as proof.”"}
+    - {work: S01, pages: ["8218"], text: "The contract of the mathematical-universe system: “A result is valid only relative to the world in which it was formed and to the preservation evidence attached to any transport.” It “therefore works with a family of worlds and maps rather than with a single undifferentiated mathematical memory.” [@S01, Vol. III, Ch. 14, p. 8218]"}
+  relation: |
+    Mathematical knowledge management has long separated statements from their context of definitions and theories
+    [@CaretteFarmer2009]; proof assistants enforce context through types and type classes, as in Mathlib [@mathlib2020]. What the thesis adds is that transports between contexts are first-class records, with their
+    preservation and loss stated, rather than coercions resolved silently by the elaborator.
+  refutation: "A system that stores statements without world records and makes no more transport errors — after base change, change of coefficients or change of variance — than one that stores worlds, on a corpus of the kind specified for Problem 15."
+  problems: [4, 15]
+
+- num: 2
+  title: "Status is part of the type"
+  claim: "The epistemic status of a statement belongs to its type."
+  argument: |
+    A confidence score places statements on one scale; a status records what kind of support a statement has. The two
+    are different kinds of object. A checked theorem, a definition proposed by the project, a research construction
+    that may fail, a conjecture, an unmet obligation and a disputed claim do not lie on a line: they license different
+    uses, and the composition of two of them has a status determined by rules, not by averaging. A system that
+    collapses status into a number loses the distinction at exactly the point where a downstream user needs it, and
+    allows, for example, a disputed premise to support an established conclusion. Making status part of the type
+    puts the rules of composition where a checker can enforce them. The seven works apply the discipline to
+    themselves: every statement is printed with its status, and each work publishes the counts.
+  evidence:
+    - {work: S01, pages: ["7974"], text: "“The series-wide codes E/S/D/R/C/O/Q are not confidence labels.” They are established (E), source-grounded synthesis (S), project-native definition (D), falsifiable research construction (R), conjecture (C), obligation (O) and disputed (Q), and “Validation state and epistemic status are orthogonal”. [@S01, Vol. III, §1.3]"}
+    - {work: S06, pages: ["xvii"], text: "The census of [@S06]: “[ NEW ] 646 first proved here, unconditionally [ CONDITIONAL ] 177 proved from named obligations [ OPEN ] 48 not proved here [ DISPUTED ] 4 disagreement recorded, not adjudicated”, together with 223 statements established elsewhere and 322 known statements reproved."}
+  relation: |
+    The proposal that speculative mathematics be labelled as such goes back at least to Jaffe and Quinn
+    [@JaffeQuinn1993], and the debate it provoked [@Thurston1994] concerned exactly what a label must record. Proof assistants distinguish declarations that are proved from those that depend on an admitted step (in Lean, `sorry`) or on added axioms, and report the difference; the thesis extends that distinction from formal proofs to every artefact a reasoning system produces,
+    including conjectures, obligations and disputed sources.
+  refutation: "A scalar ordering of statements that preserves, under the composition rules of [@S01, Vol. III, §56.15], every distinction drawn by the seven codes; or a controlled study in which a calibrated confidence score supports the same downstream decisions with no more errors."
+  problems: [7, 8, 31]
+
+- num: 3
+  title: "A structured latent space"
+  claim: "Mathematical reasoning needs a structured, non-vectorial latent space."
+  argument: |
+    An embedding in a vector space supports similarity and interpolation. It does not carry maps between objects, the
+    variance of a construction, the identity strength of a comparison, or the place where a comparison fails; and a
+    nearest neighbour is not a morphism. The thesis is that the carrier on which a system reasons about mathematics —
+    as distinct from the index it searches — must be a structure of that kind: typed objects, maps, finite diagrams,
+    gradings and filtrations, comparison faces and recorded residuals. In [@S01] this carrier is the Motivic
+    Unification Engine, whose objects are finite and inspectable proxies (Nori-style diagrams, factorisation records,
+    realisation prisms), each labelled as a proxy, with claims about motives reserved for the evidence appropriate to
+    them. The thesis does not say that vector representations have no use; retrieval and ranking may use them. It says
+    that a symbol used in reasoning must denote a typed referent.
+  evidence:
+    - {work: S01, pages: ["7955"], text: "“The Mathematical Universe Engine provides structured, non-vectorial carriers for geometric, cohomological, representation-theoretic, and realization data.” “Their value lies precisely in being inspectable and bounded, with general motivic claims reserved for the mathematical evidence appropriate to that stronger scope.”"}
+    - {work: S01, pages: ["8250", "8251"], text: "“MUE is not exposed to GMLS as an opaque vector store.” “A symbol cannot denote “the latent meaning” without a typed referent.” [@S01, Vol. III, §15.4]"}
+  relation: |
+    Geometric deep learning builds symmetry into representations [@Bronstein2021]; categorical deep learning proposes
+    algebraic theories of architectures [@Gavranovic2024]; sheaf neural networks attach structured stalks and
+    restriction maps to graphs [@HansenGebhart2020; @Bodnar2022]. These keep a vector space at each point. The thesis
+    asks for more: that the objects reasoned about be the mathematical structures themselves, as finite proxies with
+    their maps, in the sense of Nori’s diagrams [@HuberMullerStach2017].
+  refutation: "A vector representation that performs as well as a typed carrier on tasks requiring transport and failure reporting — the counterexample and proof strata of the benchmark of Problem 13 — or a proof that the typed structure is recoverable from the embedding at no loss."
+  problems: [6, 18]
+
+- num: 4
+  title: "Attention as descent"
+  claim: "Attention can be rebuilt as descent."
+  argument: |
+    In a transformer, attention forms weighted averages of value vectors, the weights given by similarity [@Vaswani2017]; nothing in the operation requires the averaged values to be expressed in a common frame. Descent offers a different discipline: before local data are combined, they are
+    carried along restriction maps into the stalk of the overlap where they can be compared, and the combination
+    either glues to a global section or returns the obstruction. [@S02] builds a reasoning kernel in which these steps
+    are operations — cover, assign, transport, glue, obstruct, decide, change base — and in which a mixture of experts
+    becomes a cover by open sub-topoi. The thesis is a design thesis: such a kernel can be built, and its components
+    are mathematics before they are architecture. Its scope is fixed by what has been proved and what has not. The
+    source corrects its own first formulation — attention is not a coend without further data — and records that
+    nothing has yet been trained or measured.
+  evidence:
+    - {work: S02, pages: ["viii"], text: "“Attention is rebuilt as descent: values are carried along restriction maps into the shared stalk of an overlap and compared there, so that what is mixed has first been made comparable.” [@S02, Preface]"}
+    - {work: S02, pages: ["21"], text: "The correction: “Thus attention remains a barycentric numerical kernel unless a separate functor and universal property are supplied.” [@S02, §1.2.4]"}
+    - {work: S02, pages: ["23"], text: "The present position: “the mathematics is written and partly proved, one finite instance has been computed, and nothing has been trained or measured.” [@S02, §1.2.6]"}
+  relation: |
+    Sheaf diffusion and sheaf neural networks introduced restriction maps into graph learning [@HansenGhrist2019;
+    @Bodnar2022]; topos-theoretic designs for language models have been proposed [@Mahadevan2025]; circuit-complexity
+    results bound what constant-depth attention computes [@MerrillSabharwal2023]. The thesis differs in making gluing
+    and obstruction outputs of the kernel, and in stating each architectural claim with its grade.
+  refutation: "The null outcomes of the registered comparisons of Problems 19, 20 and 22; or a proof that transport along restriction maps adds no expressive power over attention in a stated class."
+  problems: [19, 20, 22, 24, 25, 27, 28, 35]
+
+- num: 5
+  title: "Report failure; abstain without evidence"
+  claim: "A reasoning system should report where local information fails to glue, and abstain when independent overlap data are absent."
+  argument: |
+    When local results do not combine, the useful output is the location and size of the failure, not a number that
+    averages it away. Obstruction theory gives the failure a mathematical form: a class, supported on the overlaps
+    where it lives, that vanishes when the local data glue. The thesis makes this an obligation of a reasoning system:
+    report the obstruction as an output, distinguish pairwise compatibility from higher coherence and from the
+    existence of a global object, and abstain when the data needed to decide are missing rather than inventing them.
+    The obligation has a cost and a limit. The cost is that some questions are left without an answer. The limit is
+    that local checks cannot detect a falsehood that is consistent everywhere; [@S02] records that it has no defence
+    against such a falsehood.
+  evidence:
+    - {work: S02, pages: ["viii"], text: "“What fails to glue is measured as a class, located on the overlaps where it lives, and returned as an output; a head that cannot obtain independent overlap data abstains rather than inventing it.” [@S02, Preface]"}
+    - {work: S02, pages: ["xi"], text: "“none of them returns a number in place of an answer it does not have.” [@S02, The disciplines of a layer]"}
+    - {work: S01, pages: ["9264"], text: "In [@S01, Vol. III, §63.4] compatibility, higher coherence, effectivity and gluing are separate coordinates: “Neither establishes that a global object exists.”"}
+  relation: |
+    Obstruction classes in non-abelian cohomology [@Giraud1971]; selective classification, in which a classifier may
+    abstain [@ElYanivWiener2010]; detection of unsupported answers of language models by semantic entropy
+    [@Farquhar2024] and proposals to assess consistency with sheaves [@Huntsman2024]. The thesis asks for a
+    certified class where these methods give a score.
+  refutation: "A system that never abstains and reports scores only, with fewer errors at equal coverage than one that reports obstructions and abstains; or a proof that the obstruction cannot be computed at useful cost (Problem 21)."
+  problems: [9, 16, 17, 21, 23, 30, 32, 47]
+
+- num: 6
+  title: "A chain of non-implications"
+  claim: "Operational completion does not imply mathematical validity, which does not imply epistemic promotion, which does not imply publication."
+  argument: |
+    A distributed computation can finish without error while producing no mathematical object; a kernel can accept a
+    proof of a statement that is not the statement intended; a valid result can rest on a premise whose status does
+    not permit promotion; and a promoted result can still lack the authority to be published. Each passage requires
+    its own input: a check of the mathematics, a check of fidelity to the intended statement, a decision on status,
+    and an act of authorisation. The thesis is that a reasoning system must keep the four apart and must never infer one from another. Two of the inferences are easy to make without noticing: that a job which finished has produced a result, and that a kernel-checked proof of a formal statement proves the mathematics that the statement was meant to express.
+  evidence:
+    - {work: S01, pages: ["8004"], text: "“The central rule is: operational completion ⇏ mathematical validity ⇏ epistemic promotion ⇏ publication. Every implication requires a separately named input, judgment, and authority.” [@S01, Vol. III, Ch. 3]"}
+    - {work: S01, pages: ["9119"], text: "“The central architectural error is to convert operational completion into global meaning.” [@S01, Vol. III, §56.1]"}
+    - {work: S01, pages: ["8574"], text: "A machine proof remains a candidate “until source-target fidelity, kernel replay, and axiom-closure review pass under the same canonical subject key.” [@S01, Vol. III, §30.10]"}
+  relation: |
+    The de Bruijn criterion separates proof search from proof checking by a small trusted kernel
+    [@BarendregtWiedijk2005]; proof-carrying code separates the producer of a proof from its checker [@Necula1997];
+    the autoformalization literature measures the gap between a formal statement and its informal source [@Wu2022],
+    and public benchmarks of formal statements record misformalizations [@FormalConjectures2026].
+  refutation: "A class of problems in which one of the passages is shown to need no separate input — for example a fidelity checker that makes validity of the formal statement imply validity of the intended mathematics (Problem 5)."
+  problems: [5, 12, 26, 29, 34]
+
+- num: 7
+  title: "Machines propose; humans authorize"
+  claim: "Machines may propose; humans authorize publication."
+  argument: |
+    A system that can make its own output authoritative has no external check, however good its internal checks are.
+    The thesis separates the right to propose from the right to promote and to publish, and places the second outside
+    the producing system. It is a statement about capabilities, and can be stated and proved as such: a component
+    without signing capability cannot produce a trusted signature; adding evidence to an artefact does not raise its
+    status without an authorised transition. The seven works apply the same rule to their own production: machine
+    assistance is recorded in their provenance, and the author is responsible for every claim. In 2026 the question
+    has become practical for mathematics: a repository announced in October 2026 accepts works generated entirely by
+    language models, and its listings record for each work the extent of machine generation and of human
+    understanding [@Antieau2026].
+  evidence:
+    - {work: S01, pages: ["7966"], text: "“Retrieval may supply candidate evidence but cannot change truth status.” “Humans authorize publication.” [@S01, Architectural Prospectus]"}
+    - {work: S01, pages: ["11913"], text: "Under its hypotheses, “a non-root module cannot, through a conforming Volume V interface, make its own output both authoritative and active.” [@S01, Vol. V, Proposition 1.3]"}
+    - {work: S06, pages: ["xiv"], text: "“Machine assistance is part of the provenance, not a co-author and not a substitute for proof.” [@S06, Preface]"}
+  relation: |
+    Separation of privilege and capability-based protection [@SaltzerSchroeder1975; @DennisVanHorn1966]; Thurston’s
+    account of proof as a social process of understanding [@Thurston1994]; reward hacking, the failure that the
+    separation guards against in self-improving systems [@Skalse2022].
+  refutation: "A publication process without human authorisation whose rate of retraction and correction is no higher than that of a human-authorised process on comparable work; or a capability model in which the separation cannot be enforced."
+  problems: [10, 11]
+
+- num: 8
+  title: "The rising sea"
+  claim: "Hard problems are better approached by raising the surrounding theory than by direct attack."
+  argument: |
+    Grothendieck described two ways of opening a hard nut: by blows, or by immersing it until it softens and opens
+    under the hand [@McLarty2007]. The Weil conjectures are the model case: étale cohomology [@SGA4] made the zeta function of a variety over a finite field a characteristic polynomial of Frobenius and the functional equation a consequence of duality, and the remaining statement, on the absolute values of the eigenvalues of Frobenius, was proved by Deligne [@Deligne1974]. The thesis takes the
+    image as a method for machine reasoning, and the seven works make it operational: a rising-sea event begins from an
+    explicit obstruction, proposes a typed extension, tests it, records what it costs, and is judged against the
+    original difficulty. The thesis is a heuristic and is held to its outcomes. The five research subjects of the
+    Programme report where the sea has risen and where it has not.
+  evidence:
+    - {work: S03, pages: ["viii"], text: "“The Weil conjectures were not proved by attacking the zeta function of a variety directly.” “This book does not claim that such a sea has been raised around the Riemann Hypothesis.” [@S03, Preface]"}
+    - {work: S07, pages: ["xi"], text: "“The sea has not risen far enough: the base is specified, its local charts are established mathematics, and its global assembly rests on conjectures of the first rank of difficulty.” [@S07, The place of this work in the Programme]"}
+    - {work: S01, pages: ["8034"], text: "“Volume III does not turn that strategy into a universal theorem of problem solving. It turns it into a falsifiable campaign record.” [@S01, Vol. III, §5.1]"}
+  relation: |
+    McLarty’s study of Grothendieck on simplicity and generality [@McLarty2007]; the image gives its title to a recent
+    textbook of algebraic geometry [@Vakil2025]. Lakatos’ account of proofs and refutations describes a different
+    dynamics, in which the concept changes under counterexamples [@Lakatos1976]; machine-guided discovery has so far
+    worked mostly by search over a fixed space [@Davies2021; @RomeraParedes2024].
+  refutation: "Comparative evidence that, for a reasoning system at equal cost, direct search settles more problems than theory-building does; or the research subjects of the Programme yielding no result that the extended setting made tractable."
+  problems: [1, 36, 37, 38, 41, 51, 52, 55, 56]
+
+- num: 9
+  title: "State what is not established"
+  claim: "A result is not complete until it states what it does not establish."
+  argument: |
+    A theorem states what follows from its hypotheses. A reader also needs to know what does not follow: which converse fails, which extension is unproved, which reading of the result is wrong. For machine-produced mathematics the second statement matters more, because the volume of output can exceed what readers can check, so that the limits of a result must be stated where the result is stated. The thesis makes the negative statement part of the result: each
+    chapter closes with what it does not establish, each programme states in advance what would falsify it, and a
+    computation is reported as a finite computation. A result stated this way can be refuted, and a result that
+    cannot be refuted has not said what it claims.
+  evidence:
+    - {work: S03, pages: ["x"], text: "Each chapter of [@S03] “closes with a section entitled “What this chapter does not establish”.”"}
+    - {work: S02, pages: ["3176"], text: "“A book that cannot be refuted has said nothing.” [@S02, §13.16.11]"}
+    - {work: S04, pages: ["19"], text: "“A programme that cannot say what would falsify it is not a programme”. [@S04, §2.8.1]"}
+  relation: |
+    Falsifiability as a criterion of empirical content [@Popper2002]; preregistration, which fixes in advance what a
+    study will count as evidence [@Nosek2018]; the labelling of speculative mathematics [@JaffeQuinn1993].
+  refutation: "Evidence that statements of what is not established add nothing that the hypotheses of the positive statement do not already convey — for example, that they can be generated mechanically from the hypotheses — or that readers misuse results no less often without them."
+  problems: [33, 39, 40, 43, 44, 45, 48, 49, 53, 54]
+
+- num: 10
+  title: "Discovery is recursive"
+  claim: "Mathematical discovery is recursive: propose, test against what is known, abstract what survives, ask again."
+  argument: |
+    A proposed structure is tested first against the cases in which the answer is already known. What survives is
+    abstracted into a new setting, and the question is asked again there; what does not survive is kept, as an
+    obligation, an obstruction, a conjecture or a falsification test, with its status and its place in the record. The
+    thesis is that this recursion, carried out in the open, is a method a machine can execute and a mathematician can
+    check. The five research subjects of the Programme are records of it, and each ends not in a claimed solution but
+    in a ledger of what was proved, what was excluded and what must still be constructed. In machine form, a failure
+    becomes input: a typed obstruction is turned into a scoped conjecture with a falsifier.
+  evidence:
+    - {work: S03, pages: ["iv"], text: "The Series Note shared by [@S03; @S04; @S05; @S06; @S07]: a discipline of recursive mathematical discovery, “in which a proposed structure is tested, what survives the test is abstracted into a new setting, and the question is posed again in that setting.”"}
+    - {work: S03, pages: ["ix"], text: "“What survived the procedure was abstracted, and the question was posed again at the new level. This is the recursion the Programme calls recursive mathematical discovery, and the book is its record.” [@S03, Preface]"}
+    - {work: S07, pages: ["xi"], text: "“What does not survive is not discarded. It becomes a conjecture, a gap or a falsification test, with a statement, a status and a place in the ledger, and it is carried forward as part of the result.”"}
+  relation: |
+    Lakatos’ method of proofs and refutations [@Lakatos1976]; automated conjecturing [@Fajtlowicz1988;
+    @Raayoni2021]; search loops with an external evaluator [@RomeraParedes2024; @Trinh2024]. The thesis differs in
+    requiring that the failures be kept as typed records and carried forward.
+  refutation: "Machine runs of the recursion that, on problems where the answer is known, rediscover no known result and produce no conjecture that survives its falsifiers (Problem 3); or a body of discoveries in which no abstraction step can be identified."
+  problems: [2, 3]
+
+- num: 11
+  title: "Creating language"
+  claim: "A mathematical reasoning system must be able to create notation and language, not only use them."
+  argument: |
+    Advances in mathematics often take the form of new language: a definition that names a recurring structure, a
+    notation that makes an argument short, a framework in which a family of problems becomes one problem. Schemes and
+    topoi are examples [@SGA4]. A system confined to a fixed language can search that language but cannot make such
+    advances. The thesis requires the capacity to create language, and requires that the creation be accountable: a new
+    primitive must be grounded in the structures and counterexamples that motivated it; a notation must declare what
+    it compresses and what it loses; and the metatheory of a new language — substitution, preservation, conservativity
+    — is an obligation to be discharged, not a property to be assumed.
+  evidence:
+    - {work: S01, pages: ["7956"], text: "“The language forge follows a deliberately articulated cycle: collect, mine, name, notate, ground, reconstruct, axiomatize, grow, re-encode, and validate.” “A language can be concise, expressive, elegant, or machine-tractable while semantic adequacy and soundness remain open.”"}
+    - {work: S01, pages: ["8873"], text: "“Notation earns trust by declaring what it compresses, what it preserves, and what it cannot recover.” [@S01, Vol. III, §43.14]"}
+  relation: |
+    The linguistic and philosophical study of mathematical language [@Ganesalingam2013]; mathematical knowledge
+    management [@CaretteFarmer2009]; modal and multimodal type theories as languages with several modes
+    [@Gratzer2021].
+  refutation: "A system restricted to a fixed language that matches a language-creating system on discovery tasks of the kind of Problem 14; or a language-creating system whose new primitives never survive review."
+  problems: [14, 57]
+
+- num: 12
+  title: "Judge a method by its open ledger"
+  claim: "A method should be judged by an open ledger of what it establishes, what it reduces to stated hypotheses, and what it leaves open."
+  argument: |
+    A framework that addresses a hard problem invites two misreadings: that it has solved the problem, and that it has
+    done nothing. A ledger answers both. It lists what has been proved unconditionally, what has been proved from
+    named hypotheses, what remains open and what is disputed, and it can be checked entry by entry. The thesis is that
+    a method — and in particular a method of machine reasoning — should be assessed by such a ledger, published with
+    the work, rather than by its most ambitious statement. The seven works publish ledgers whose counts include their
+    negative results: the number of cases of a conjecture established, which may be zero, is part of the record.
+  evidence:
+    - {work: S04, pages: ["437"], text: "The output of [@S04] by status includes the row “Cases of BSD established 0”, and the source states: “That ratio — eleven of twelve against, one of twelve in favour — is the single most informative number in the book”."}
+    - {work: S07, pages: ["v"], text: "The recursion of [@S07] “ends in a statement ledger of one hundred and eleven items, twenty-eight axioms and eighty-three entries, fifty-three of them conjectural”."}
+  relation: |
+    Registered reports and preregistration in the empirical sciences [@Nosek2018]; Jaffe and Quinn’s proposal for
+    labelled speculative mathematics [@JaffeQuinn1993]; benchmarks that record each item’s status and provenance
+    [@FormalConjectures2026].
+  refutation: "Ledgers that cannot be made checkable at the scale of a book — [@S06] itself records that the soundness of its ledger is not established — or that readers find less informative than the positive statements."
+  problems: [13, 42, 46, 50]

@@ -1,0 +1,469 @@
+{
+ "problem": 7,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "de Bruijn criterion small trusted kernel",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "de Bruijn criterion small trusted kernel",
+   "status": 200,
+   "results": [
+    {
+     "title": "A kernel-checked bound Lambda <= 9/32 for the de Bruijn-Newman constant from OpenAI's quasi-Riemann hypothesis; v1.1: Lambda <= 0.2811857 from Liu's improved half-plane",
+     "year": 2026,
+     "authors": [
+      "Bryan W. Daugherty",
+      "Shawn Ryan",
+      "Gregory Ward"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.12234"
+    },
+    {
+     "title": "Proof-Carrying Certificates for LLM Pipelines: A Trust-Boundary Architecture",
+     "year": 2026,
+     "authors": [
+      "George Koomullil"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.16407"
+    },
+    {
+     "title": "Applications des Certificats de Preuve Fondamentaux à la démonstration automatique de théorèmes",
+     "year": 2017,
+     "authors": [
+      "Roberto Blanco Martínez"
+     ],
+     "venue": "HAL",
+     "id": "https://doi.org/10.70675/61bfbf53z121az472ez8c91ze9f6166c9a6a"
+    },
+    {
+     "title": "Trust Service Broker: A proposal to overcome global distrust in information infrastructures",
+     "year": 2013,
+     "authors": [
+      "C. Karypidis"
+     ],
+     "venue": "Research Repository (Delft University of Technology)",
+     "id": "https://openalex.org/W424886691"
+    },
+    {
+     "title": "Certification d'une chaine de vérification déductive de programmes",
+     "year": 2013,
+     "authors": [
+      "Paolo Herms"
+     ],
+     "venue": "HAL",
+     "id": "https://doi.org/10.70675/4b04bdb9zceb9z4c69z9219z3f60495b0a48"
+    },
+    {
+     "title": "Between Qed and Truth: The Permanent Axiom Trust Boundary in Machine-Verified Mathematics: A Historical Survey of Seventeen Classical Theorems (1919–1989) Underlying the First Coq-Verified Navier-Stokes Formalisation",
+     "year": null,
+     "authors": [
+      "Ryan Fields"
+     ],
+     "venue": "PhilPapers (PhilPapers Foundation)",
+     "id": "https://openalex.org/W7164448245"
+    },
+    {
+     "title": "A tutorial in small molecule identification via electrospray ionization‐mass spectrometry: The practical art of structural elucidation",
+     "year": 2017,
+     "authors": [
+      "Thomas De Vijlder",
+      "Dirk Valkenborg",
+      "Filip Lemière",
+      "Edwin P. Romijn",
+      "Kris Laukens",
+      "Filip Cuyckens"
+     ],
+     "venue": "Mass Spectrometry Reviews",
+     "id": "https://doi.org/10.1002/mas.21551"
+    },
+    {
+     "title": "Coq Coq correct! verification of type checking and erasure for Coq, in Coq",
+     "year": 2019,
+     "authors": [
+      "Matthieu Sozeau",
+      "Simon Boulier",
+      "Yannick Forster",
+      "Nicolas Tabareau",
+      "Théo Winterhalter"
+     ],
+     "venue": "Proceedings of the ACM on Programming Languages",
+     "id": "https://doi.org/10.1145/3371076"
+    },
+    {
+     "title": "Social Media Stories. Détection d'événements dans des flux de documents hétérogènes appliquée à l'étude de la diffusion de l'information entre réseaux sociaux et médias",
+     "year": 2020,
+     "authors": [
+      "Mazoyer, Béatrice"
+     ],
+     "venue": "theses.fr (ABES)",
+     "id": "https://doi.org/10.70675/44b771a8ze470z4c54zbdd7z1ffa400cfafe"
+    },
+    {
+     "title": "Algèbres de Kleene, réécriture modulo AC et circuits en coq",
+     "year": 2012,
+     "authors": [
+      "Thomas Braibant"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.70675/95c684b9zf764z4097za548z3be3c0279ee1"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "de Bruijn criterion small trusted kernel",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "de Bruijn criterion small trusted kernel",
+   "status": 200,
+   "results": [
+    {
+     "title": "Dynamic trusted measurement model of operating system kernel",
+     "year": 2013,
+     "authors": [
+      "Si-yuan XIN",
+      "Yong ZHAO",
+      "Jian-hua LIAO",
+      "Ting WANG"
+     ],
+     "venue": "Journal of Computer Applications",
+     "id": "doi:10.3724/sp.j.1087.2012.00953"
+    },
+    {
+     "title": "Formal Specifications of KVM/370 Kernel and Trusted Processes",
+     "year": 1978,
+     "authors": [
+      "B. D. Gold",
+      "D. H. Thompson"
+     ],
+     "venue": "",
+     "id": "doi:10.21236/ada109317"
+    },
+    {
+     "title": "A trusted mobile phone reference architecturevia secure kernel",
+     "year": 2007,
+     "authors": [
+      "Xinwen Zhang",
+      "Onur Acıiçmez",
+      "Jean-Pierre Seifert"
+     ],
+     "venue": "Proceedings of the 2007 ACM workshop on Scalable trusted computing",
+     "id": "doi:10.1145/1314354.1314359"
+    },
+    {
+     "title": "Driving small and mediumsized enterprises towards environmental management",
+     "year": 2017,
+     "authors": [
+      "Theo de Bruijn",
+      "Kris Lulofs"
+     ],
+     "venue": "Small and Medium-Sized Enterprises and the Environment",
+     "id": "doi:10.4324/9781351282840-22"
+    },
+    {
+     "title": "Validity of the One-Criterion Threshold for an Alcohol Abuse Diagnosis",
+     "year": 2005,
+     "authors": [
+      "CARLA de BRUIJN",
+      "WIM van den BRINK"
+     ],
+     "venue": "American Journal of Psychiatry",
+     "id": "doi:10.1176/appi.ajp.162.12.2400"
+    },
+    {
+     "title": "Adaptive kernel regression and energy concentration criterion for infrared dim small target detection",
+     "year": 2021,
+     "authors": [
+      "Mingyang Ma",
+      "Dejiang Wang",
+      "He Sun",
+      "Tao Zhang"
+     ],
+     "venue": "Optical Engineering",
+     "id": "doi:10.1117/1.oe.60.12.123101"
+    },
+    {
+     "title": "Antifragility as a design criterion for modelling dynamic systems",
+     "year": 2019,
+     "authors": [
+      "Harald de Bruijn",
+      "Andreas Größler",
+      "Nuno Videira"
+     ],
+     "venue": "Systems Research and Behavioral Science",
+     "id": "doi:10.1002/sres.2574"
+    },
+    {
+     "title": "Counting small cycles in generalized de Bruijn digraphs",
+     "year": 1997,
+     "authors": [
+      "Toru Hasunuma",
+      "Yukio Shibata"
+     ],
+     "venue": "Networks",
+     "id": "doi:10.1002/(sici)1097-0037(199701)29:1<39::aid-net4>3.0.co;2-d"
+    },
+    {
+     "title": "Using Kernel Fisher Criterion for Gaussian Kernel Optimization",
+     "year": 2015,
+     "authors": [
+      "Li Yun Zhong",
+      "Yu Ze Liu"
+     ],
+     "venue": "Applied Mechanics and Materials",
+     "id": "doi:10.4028/www.scientific.net/amm.734.534"
+    },
+    {
+     "title": "Driving small and medium-sized enterprises towards environmental management: Policy implementation in networks",
+     "year": null,
+     "authors": [
+      "Theo de Bruijn",
+      "Kris Lulofs"
+     ],
+     "venue": "Small and Medium-Sized Enterprises and the Environment: Business Imperatives",
+     "id": "doi:10.9774/gleaf.978-1-909493-11-7_23"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "mechanized metatheory type checker decidability of definitional equality",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "mechanized metatheory type checker decidability of definitional equality",
+   "status": 200,
+   "results": [
+    {
+     "title": "Mechanizing metatheory in a logical framework",
+     "year": 2007,
+     "authors": [
+      "Robert W. Harper",
+      "Daniel R. Licata"
+     ],
+     "venue": "Journal of Functional Programming",
+     "id": "https://doi.org/10.1017/s0956796807006430"
+    },
+    {
+     "title": "Mechanizing the Metatheory of LF",
+     "year": 2008,
+     "authors": [
+      "Christian Urban",
+      "James Cheney",
+      "Stefan Berghofer"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.48550/arxiv.0804.1667"
+    },
+    {
+     "title": "Mechanized metatheory for a $$\\lambda $$-calculus with trust types",
+     "year": 2013,
+     "authors": [
+      "Rodrigo Geraldo Ribeiro",
+      "Lucília Figueiredo",
+      "Carlos Camarão"
+     ],
+     "venue": "Journal of the Brazilian Computer Society",
+     "id": "https://doi.org/10.1007/s13173-013-0119-5"
+    },
+    {
+     "title": "Extensible Metatheory Mechanization via Family Polymorphism",
+     "year": 2023,
+     "authors": [
+      "Ende Jin",
+      "Nada Amin",
+      "Yizhou Zhang"
+     ],
+     "venue": "Proceedings of the ACM on Programming Languages",
+     "id": "https://doi.org/10.1145/3591286"
+    },
+    {
+     "title": "Engineering formal metatheory",
+     "year": 2008,
+     "authors": [
+      "Brian Emre Aydemir",
+      "Arthur Charguéraud",
+      "Benjamin C. Pierce",
+      "Randy Pollack",
+      "Stephanie Weirich"
+     ],
+     "venue": "ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL)",
+     "id": "https://doi.org/10.1145/1328438.1328443"
+    },
+    {
+     "title": "Mechanized Metatheory and Certified Compilation for The Rocq Prover",
+     "year": 2026,
+     "authors": [
+      "Matthieu Sozeau"
+     ],
+     "venue": "HAL",
+     "id": "https://openalex.org/W7134995363"
+    },
+    {
+     "title": "Mechanizing Refinement Types",
+     "year": 2024,
+     "authors": [
+      "Michael H. Borkowski",
+      "Niki Vazou",
+      "Ranjit Jhala"
+     ],
+     "venue": "Proceedings of the ACM on Programming Languages",
+     "id": "https://doi.org/10.1145/3632912"
+    },
+    {
+     "title": "Constructive Galois connections: taming the Galois connection framework for mechanized metatheory",
+     "year": 2016,
+     "authors": [
+      "David Darais",
+      "David Van Horn"
+     ],
+     "venue": "ACM SIGPLAN International Conference on Functional Programming (ICFP)",
+     "id": "https://doi.org/10.1145/2951913.2951934"
+    },
+    {
+     "title": "Constructive Galois Connections: Taming the Galois Connection Framework for Mechanized Metatheory",
+     "year": 2015,
+     "authors": [
+      "David Darais",
+      "David Van Horn"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1511.06965"
+    },
+    {
+     "title": "Mechanizing Refinement Types (extended)",
+     "year": 2022,
+     "authors": [
+      "Michael Borkowski",
+      "Niki Vazou",
+      "Ranjit Jhala"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2207.05617"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "mechanized metatheory type checker decidability of definitional equality",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "mechanized metatheory type checker decidability of definitional equality",
+   "status": 200,
+   "results": [
+    {
+     "title": "αCheck: A mechanized metatheory model checker",
+     "year": 2017,
+     "authors": [
+      "JAMES CHENEY",
+      "ALBERTO MOMIGLIANO"
+     ],
+     "venue": "Theory and Practice of Logic Programming",
+     "id": "doi:10.1017/s1471068417000035"
+    },
+    {
+     "title": "Mechanized Metatheory Revisited",
+     "year": 2018,
+     "authors": [
+      "Dale Miller"
+     ],
+     "venue": "Journal of Automated Reasoning",
+     "id": "doi:10.1007/s10817-018-9483-3"
+    },
+    {
+     "title": "A metatheory of a mechanized object theory",
+     "year": 1996,
+     "authors": [
+      "Fausto Giunchiglia",
+      "Paolo Traverso"
+     ],
+     "venue": "Artificial Intelligence",
+     "id": "doi:10.1016/0004-3702(95)00002-x"
+    },
+    {
+     "title": "Mechanized metatheory model-checking",
+     "year": 2007,
+     "authors": [
+      "James Cheney",
+      "Alberto Momigliano"
+     ],
+     "venue": "Proceedings of the 9th ACM SIGPLAN international conference on Principles and practice of declarative programming",
+     "id": "doi:10.1145/1273920.1273931"
+    },
+    {
+     "title": "HOMOMORPHISMS: DECIDABILITY, EQUALITY AND TEST SETS1",
+     "year": 1980,
+     "authors": [
+      "Karel Culik"
+     ],
+     "venue": "Formal Language Theory",
+     "id": "doi:10.1016/b978-0-12-115350-2.50012-9"
+    },
+    {
+     "title": "About Models for Intuitionistic Type Theories and the Notion of Definitional Equality",
+     "year": 1975,
+     "authors": [],
+     "venue": "Studies in Logic and the Foundations of Mathematics Proceedings of the Third Scandinavian Logic Symposium",
+     "id": "doi:10.1016/s0049-237x(08)70727-4"
+    },
+    {
+     "title": "Towards a mechanized metatheory of standard ML",
+     "year": 2007,
+     "authors": [
+      "Daniel K. Lee",
+      "Karl Crary",
+      "Robert Harper"
+     ],
+     "venue": "ACM SIGPLAN Notices",
+     "id": "doi:10.1145/1190215.1190245"
+    },
+    {
+     "title": "Mechanized Proof and Model Checker for Article: Revamping Hardware Persistency Models",
+     "year": 2021,
+     "authors": [
+      "Kyeongmin Cho",
+      "Sung-Hwan Lee",
+      "Azalea Raad",
+      "Jeehoon Kang"
+     ],
+     "venue": "Artifact Digital Object Group",
+     "id": "doi:10.1145/3410292"
+    },
+    {
+     "title": "Constructive Galois connections: taming the Galois connection framework for mechanized metatheory",
+     "year": 2016,
+     "authors": [
+      "David Darais",
+      "David Van Horn"
+     ],
+     "venue": "Proceedings of the 21st ACM SIGPLAN International Conference on Functional Programming",
+     "id": "doi:10.1145/2951913.2951934"
+    },
+    {
+     "title": "A type theory with definitional proof-irrelevance",
+     "year": null,
+     "authors": [
+      "Gaëtan Gilbert"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/edb2bdbcz9127z4457zb323z5bddb713a299"
+    }
+   ]
+  }
+ ]
+}

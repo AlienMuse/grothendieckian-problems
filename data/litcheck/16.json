@@ -1,0 +1,387 @@
+{
+ "problem": 16,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "gluing descent compatibility effectivity errors mathematical arguments",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "gluing descent compatibility effectivity errors mathematical arguments",
+   "status": 200,
+   "results": [
+    {
+     "title": "Separation and Gluing of Explanations on Sites of Dynamical Systems",
+     "year": 2026,
+     "authors": [
+      "Paul Z. Wang"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2603.17141"
+    },
+    {
+     "title": "Semantic Stabilization in Algebraic Geometry: Structural Resilience, Categorical Transport, and the Persistence of Mathematical Meaning",
+     "year": null,
+     "authors": [
+      "Sulin Zhang"
+     ],
+     "venue": "PhilPapers (PhilPapers Foundation)",
+     "id": "https://openalex.org/W7211981649"
+    },
+    {
+     "title": "Efficient gluing of numerical continuation and a multiple solution method for elliptic PDEs",
+     "year": 2015,
+     "authors": [
+      "Christian Kuehn"
+     ],
+     "venue": "Applied Mathematics and Computation",
+     "id": "https://doi.org/10.1016/j.amc.2015.05.120"
+    },
+    {
+     "title": "Categorical Belief Propagation: Sheaf-Theoretic Inference via Descent and Holonomy",
+     "year": 2026,
+     "authors": [
+      "Enrique ter Horst",
+      "Sridhar Mahadevan",
+      "Juan Diego Zambrano"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2601.04456"
+    },
+    {
+     "title": "Recursive Operator Localization and Spectral Gap Descent via the Geometry of Local Spectral Expansion",
+     "year": 2026,
+     "authors": [
+      "R. Hayakawa"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.23695"
+    },
+    {
+     "title": "What the Machine Invented: Mining New Mathematical Instruments from OpenAI's October 2026 Release of AI-Generated Mathematics",
+     "year": 2026,
+     "authors": [
+      "Ying Xie"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.5281/zenodo.23319144"
+    },
+    {
+     "title": "Mathematical Imaging and Surface Processing",
+     "year": 2025,
+     "authors": [
+      "Mirela Ben‐Chen",
+      "Antonin Chambolle",
+      "Benedikt Wirth"
+     ],
+     "venue": "Oberwolfach Reports",
+     "id": "https://doi.org/10.4171/owr/2025/5"
+    },
+    {
+     "title": "From _In Intellectu_ to _In Praesentatione_: Sketches, Classifying Categories and the Ontological Argument",
+     "year": null,
+     "authors": [
+      "Lorand Bruhacs"
+     ],
+     "venue": "PhilPapers (PhilPapers Foundation)",
+     "id": "https://openalex.org/W7212407382"
+    },
+    {
+     "title": "Mathematical tools in a digital world",
+     "year": 2012,
+     "authors": [
+      "Anthony Durity"
+     ],
+     "venue": "Jyväskylä University Digital Archive (University of Jyväskylä)",
+     "id": "https://openalex.org/W2341703551"
+    },
+    {
+     "title": "A Panorama Of Physical Mathematics c. 2022",
+     "year": 2022,
+     "authors": [
+      "Ibrahima Bah",
+      "Daniel S. Freed",
+      "Gregory W. Moore",
+      "Nikita Alexandrovich Nekrasov",
+      "Shlomo S. Razamat",
+      "Sakura Schäfer‐Nameki"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2211.04467"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "gluing descent compatibility effectivity errors mathematical arguments",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "gluing descent compatibility effectivity errors mathematical arguments",
+   "status": 200,
+   "results": [
+    {
+     "title": "The Compatibility-based Arguments",
+     "year": 2022,
+     "authors": [
+      "Ravza Altuntaş-Çakır"
+     ],
+     "venue": "A Political Theory of Muslim Democracy",
+     "id": "doi:10.3366/edinburgh/9781474479523.003.0005"
+    },
+    {
+     "title": "Gluing II: boundary localization and gluing formulas",
+     "year": 2021,
+     "authors": [
+      "Mykola Dedushenko"
+     ],
+     "venue": "Letters in Mathematical Physics",
+     "id": "doi:10.1007/s11005-021-01355-8"
+    },
+    {
+     "title": "Metaphysical Errors",
+     "year": 2013,
+     "authors": [],
+     "venue": "Nietzsche",
+     "id": "doi:10.4324/9781315008806-10"
+    },
+    {
+     "title": "Characteristic Gluing with $$\\Lambda $$: III. High-Differentiability Nonlinear Gluing",
+     "year": 2026,
+     "authors": [
+      "Piotr T. Chruściel",
+      "Wan Cong",
+      "Finnian Gray"
+     ],
+     "venue": "Communications in Mathematical Physics",
+     "id": "doi:10.1007/s00220-025-05514-z"
+    },
+    {
+     "title": "Deconstructing Descent",
+     "year": 2021,
+     "authors": [
+      "Ioan M. Lewis"
+     ],
+     "venue": "Arguments with Ethnography",
+     "id": "doi:10.4324/9781003136293-3"
+    },
+    {
+     "title": "How to avoid errors",
+     "year": 2012,
+     "authors": [],
+     "venue": "ADHESION ADHESIVES&amp;SEALANTS",
+     "id": "doi:10.1365/s35784-012-0045-5"
+    },
+    {
+     "title": "3 THE COMPATIBILITY-BASED ARGUMENTS",
+     "year": 2022,
+     "authors": [],
+     "venue": "A Political Theory of Muslim Democracy",
+     "id": "doi:10.1515/9781474479547-008"
+    },
+    {
+     "title": "Gluing an Infinite Number of Instantons",
+     "year": 2007,
+     "authors": [
+      "Masaki Tsukamoto"
+     ],
+     "venue": "Nagoya Mathematical Journal",
+     "id": "doi:10.1017/s0027763000009466"
+    },
+    {
+     "title": "On Buchsbaum rings obtained by gluing",
+     "year": 1975,
+     "authors": [
+      "Shiro Goto"
+     ],
+     "venue": "Nagoya Mathematical Journal",
+     "id": "doi:10.1017/s0027763000019449"
+    },
+    {
+     "title": "A stability index for local effectivity functions",
+     "year": 2010,
+     "authors": [
+      "Joseph Abdou"
+     ],
+     "venue": "Mathematical Social Sciences",
+     "id": "doi:10.1016/j.mathsocsci.2009.12.003"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "preregistered study local-to-global reasoning errors sheaf gluing",
+   "status": 200,
+   "results": [],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "OpenAlex",
+   "query": "preregistered study local-to-global reasoning errors sheaf gluing",
+   "status": 200,
+   "results": [
+    {
+     "title": "Global Coherence: When Every Agent Is Right and the Team Is Still Wrong - A Local-to-Global Semantic Foundation for Multi-Agent Collaboration",
+     "year": 2026,
+     "authors": [
+      "Xin Heng"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.02036"
+    },
+    {
+     "title": "Space as an Interventional Invariant: Cross-Modal Predictive Geometry for Stratified Cities and Em-Spaced Intelligence",
+     "year": 2026,
+     "authors": [
+      "Tao Yang",
+      "Xuhui Lin",
+      "Kunyao Li",
+      "Haijiang Li"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.11959"
+    },
+    {
+     "title": "Capability Sheaves for Compositional Agent-Harness Repair: Controlled Quotients and a Real-Repository Stress Test",
+     "year": 2026,
+     "authors": [
+      "Saveliy Batruin"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.13228"
+    },
+    {
+     "title": "The Complete International HoloPhase Programme: A Unified Master Reference Edition",
+     "year": null,
+     "authors": [
+      "Mohammed Layiq Sediqi"
+     ],
+     "venue": "PhilPapers (PhilPapers Foundation)",
+     "id": "https://openalex.org/W7222912582"
+    },
+    {
+     "title": "We Built a Mirror and Mistook It for a Mind: Causal Liability and the Fallacy of AI Consciousness",
+     "year": 2026,
+     "authors": [
+      "Afshin Khadangi"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.06715"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "preregistered study local-to-global reasoning errors sheaf gluing",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "preregistered study local-to-global reasoning errors sheaf gluing",
+   "status": 200,
+   "results": [
+    {
+     "title": "From Attention to Gluing: A Sheaf-State Architecture for Lower-Complexity Language Models",
+     "year": 2026,
+     "authors": [
+      "Juan J. Segura"
+     ],
+     "venue": "",
+     "id": "doi:10.21203/rs.3.rs-10204001/v1"
+    },
+    {
+     "title": "From local Reactions to Global Emergence: Sheaf-theoretic Insights into Prebiotic Chemical Evolution",
+     "year": 2026,
+     "authors": [
+      "Javier Burgos Salcedo"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6211518"
+    },
+    {
+     "title": "Equivariant Gluing at Conifold Degenerations: Local Extension Channels and Global Relation Sectors",
+     "year": 2026,
+     "authors": [
+      "Abdul Rahman"
+     ],
+     "venue": "",
+     "id": "doi:10.20944/preprints202609.2651.v1"
+    },
+    {
+     "title": "Dissociating visual perspective taking and belief reasoning using a novel integrated paradigm:  A preregistered online study",
+     "year": 2022,
+     "authors": [
+      "Rachel Green",
+      "Daniel Shaw",
+      "Klaus Kessler"
+     ],
+     "venue": "",
+     "id": "doi:10.31234/osf.io/rnxum"
+    },
+    {
+     "title": "Sheaf-Based Semantics for Context-Aware Reasoning in Knowledge Graphs",
+     "year": 2026,
+     "authors": [
+      "Moses Boudourides"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6615259"
+    },
+    {
+     "title": "Local Reasoning for Global Graph Properties",
+     "year": 2021,
+     "authors": [
+      "Siddharth Krishna",
+      "Alex Summers"
+     ],
+     "venue": "",
+     "id": "doi:10.26226/morressier.6052140bb625b5ccab534260"
+    },
+    {
+     "title": "V The Nature of Local / Global Distinctions, Group Actions, and Phases: A Sheaf- Theoretic Approach to Quantum Geometric Spectra",
+     "year": null,
+     "authors": [
+      "Elias Zafiris"
+     ],
+     "venue": "Coding as Literacy",
+     "id": "doi:10.1515/9783035606492-008"
+    },
+    {
+     "title": "Dissociating visual perspective taking and belief reasoning using a novel integrated paradigm: A preregistered online study",
+     "year": 2023,
+     "authors": [
+      "Rachel Green",
+      "Daniel Joel Shaw",
+      "Klaus Kessler"
+     ],
+     "venue": "Cognition",
+     "id": "doi:10.1016/j.cognition.2023.105397"
+    },
+    {
+     "title": "From local Reactions to Global Emergence: Sheaf-theoretic Insights into Prebiotic Chemical Evolution",
+     "year": 2026,
+     "authors": [
+      "Javier Burgos Salcedo"
+     ],
+     "venue": "Chemistry and Biochemistry: Research Progress Vol. 9",
+     "id": "doi:10.9734/bpi/cbrp/v9/6861"
+    },
+    {
+     "title": "Primality Sheaf via Local Filters and Derived Equalizers",
+     "year": 2025,
+     "authors": [
+      "Ga Hyun Lee"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.5679842"
+    }
+   ]
+  }
+ ]
+}

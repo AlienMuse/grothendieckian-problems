@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Figure 1 — The 57 Grothendieckian Problems</title>
+<!-- written by tools/figures.py; the figure is fig-rose.js, the design lib.js (Series 00) -->
+<link rel="stylesheet" href="style.css">
+<style>@page { size: 132.0mm 160.0mm; margin: 0; }
+#figure, #gl, #glimg, #hud { width: 132.0mm; height: 160.0mm; }</style>
+<script type="importmap">
+{ "imports": { "three": "./vendor/three/build/three.module.js" } }
+</script>
+</head>
+<body>
+<main id="figure">
+  <canvas id="gl"></canvas>
+  <img id="glimg" alt="" src="gl-rose.png" decoding="sync">
+  <svg id="hud" xmlns="http://www.w3.org/2000/svg" aria-label="Figure 1: The 57 Grothendieckian Problems"></svg>
+</main>
+<script type="module">
+import { run } from './lib.js';
+import * as F from './fig-rose.js';
+await run(F, 'data-rose.json');
+</script>
+</body>
+</html>

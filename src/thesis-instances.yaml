@@ -1,0 +1,77 @@
+# One worked instance per thesis (paper I, field "An instance"). Quotations are checked by quote_gate in the work and
+# on the page of the citation that follows them in the same paragraph.
+1: |
+  Two local sections report a flux across the boundary of an overlap, one in watts per square metre with outward
+  orientation, the other in milliwatts per square centimetre with inward orientation. “A shape-only checker compares the
+  numerals and reports conflict. A permissive checker takes absolute values and reports agreement. Both are wrong
+  because neither binds the transformation.” [@S01, Vol. III, §61.19, p. 9227] The typed comparison converts units by
+  an exact scale map, applies the orientation through a declared sign representation, checks variance, and only then
+  compares; a missing orientation witness makes the comparison ill-typed rather than compatible or incompatible. Each
+  of these steps is a fact about the world in which each section was formed, and none is visible in the numbers.
+2: |
+  The two kinds of record a status type keeps apart are spelled out in [@S01]: “A kernel-replayed lemma about a
+  project-native structure does not change the structure’s definition status from D. A disputed source record remains
+  Q even when it has been parsed flawlessly.” [@S01, Vol. III, §1.3, p. 7974] A machine check raises the confidence that
+  a lemma is proved; it does not turn a definition chosen by the project into established mathematics, and a parser
+  that reads a contested source without error does not settle the contest.
+3: |
+  A finite computation may produce an object that behaves like a motive. In [@S01] its name must say that it is a
+  proxy: “A primitive named Motive(X) is therefore inadmissible if its denotation is only a selected finite Nori
+  diagram.” [@S01, Vol. III, §15.4, p. 8252] A notation that records the bound, the diagram, the degree and the
+  coefficient profile is admissible, because the reader can recover what was computed. A structured carrier makes this
+  rule enforceable; in an embedding the difference between a motive and a finite proxy of one has no representation.
+4: |
+  Sheaf neural networks learn restriction maps together with the other parameters, and “they were observed, again and
+  again, to learn the identity sheaf and become ordinary graph networks.” [@S02, Preface, p. xiv] [@S02] traces the
+  collapse to a loss whose minimiser does not depend on the data, and of the remedies it proves, it would build on
+  heterogeneous stalks, “because it does not only disincentivise the trivial solution — it makes it inexpressible.”
+  [@S02, §1.2.4, p. 22] Rebuilding attention as descent is therefore not a change of vocabulary: it requires that
+  transport carry information that the trivial solution cannot.
+5: |
+  An instrument can look like an obstruction and measure nothing. [@S02] withdraws one of its own: on a graph, and on
+  the nerve of a full simplex, second cohomology vanishes, and a first determinant construction of a gerbe class “is not
+  only unproved but exactly zero” [@S02, §9.1.7, p. 1766], since the cochain it defines is a coboundary by construction.
+  The instrument is withdrawn, may not produce a gate decision, and may be reinstated only with a worked non-zero example
+  and a zero control computed before the labels are revealed. Reporting failure includes reporting the failure of an
+  instrument.
+6: |
+  For the integration of a large system, [@S01] applies the chain to the notion of a milestone: “A date, merged branch,
+  authored chapter, installed service, successful demonstration, or dashboard showing green is not an integration
+  milestone.” A milestone exists only when its scope, gates, thresholds and decision authorities “were frozen before
+  candidate evidence was inspected.” [@S01, Vol. III, §90.1, p. 9711] Each item in the first list is an instance of
+  operational completion; none of them, on its own, is evidence that the integrated system does what it should.
+7: |
+  The proposition that a non-root module cannot make its own output authoritative is stated with its failure cases.
+  “If a worker can write directly to the status store, if an evaluator shares mutable code or keys with the candidate,
+  if a signature is detached from the artifact hash, or if a promotion service accepts a producer’s boolean assertion
+  instead of replayable receipts, the proposition does not apply and the system has failed its constitution.” [@S01,
+  Vol. V, Proposition 1.3, pp. 11913–11914] The separation of proposing from authorising is a property of capabilities
+  that can be tested, and each of the four cases is a test.
+8: |
+  [@S07] places the arithmetic Langlands programme between the two ways of opening the nut: “Most of the theorems of six
+  decades on the arithmetic side are of the first kind: Taylor–Wiles patching, the stabilised trace formula and the
+  Langlands–Kottwitz method are each a precise blow at one point. The geometric programme over a curve is of the second
+  kind, and it has succeeded there.” [@S07, p. xi] The work tries the second way over $\mathbb Z$, and reports that the
+  sea has not risen far enough; the problems it leaves are stated in *The 57 Grothendieckian Problems*.
+9: |
+  [@S03] measures the inertia of sixty-three Gram matrices of the pole-removed Weil form and finds one negative
+  direction in every case. It proves, under the Riemann Hypothesis, that there is at most one; it then states what it
+  has not shown: “The equality 𝑛−(𝐵𝑁) = 1 is therefore, in this book, an [E] measurement (Proposition 46.5) and not a
+  theorem, conditional or otherwise.” [@S03, Warning 46.12, p. 919] The measurement becomes Problem 39 of *The 57 Grothendieckian Problems*.
+10: |
+  The recursion of [@S03] can be followed step by step. “The positive-definite polarization, in the form first
+  considered, is stronger than RH rather than a mechanism from which RH follows.” [@S03, Preface, p. ix] The failure was
+  kept and analysed, and the next formulation came out of it: “The refutation of the positive polarization is the step
+  that identified the index-one formulation.” [@S03, p. ix] A failure that is discarded yields nothing; one that is
+  recorded with its reason changes the question.
+11: |
+  A notation is accountable for what it compresses. In [@S01], a round trip from one representation to another and back
+  is evidence of exactly one thing: “A successful round trip establishes the equivalence promised by its profile. It does
+  not establish semantic identity unless that judgment is separately supplied. It does not establish truth. It does not
+  constitute proof.” [@S01, Vol. III, §43.14, p. 8873] A system that creates language must keep these four judgments
+  apart in the same way as the passages of Thesis 6.
+12: |
+  A ledger is itself a claim and can be wrong. [@S06] says so of its own: “Whether the ledger of this volume is sound in
+  the sense of Definition 55.6.7 is not established.” [@S06, Criterion 55.6.10, p. 1152] The ledger is offered as an
+  object to be checked, and the same work names the most useful kind of reader: one “who finds a false obligation, a
+  circular dependency, or a certified failure of a locked comparison” [@S06, Preface, p. xiv].

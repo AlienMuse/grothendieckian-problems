@@ -1,0 +1,604 @@
+{
+ "problem": 38,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "Pin(2)-equivariant topological Hochschild homology",
+   "status": 200,
+   "results": [
+    {
+     "title": "Equivariant Higher Hochschild Homology and Topological Field Theories",
+     "year": "2018",
+     "authors": [
+      "Lukas Müller",
+      "Lukas Woike"
+     ],
+     "id": "arXiv:1809.06695v2"
+    },
+    {
+     "title": "Equivariant Witt Complexes and Twisted Topological Hochschild Homology",
+     "year": "2024",
+     "authors": [
+      "Anna Marie Bohmann",
+      "Teena Gerhardt",
+      "Cameron Krulewski",
+      "Sarah Petersen",
+      "Lucy Yang"
+     ],
+     "id": "arXiv:2409.05965v2"
+    },
+    {
+     "title": "Equivariant operations in topological Hochschild homology",
+     "year": "2025",
+     "authors": [
+      "Po Hu",
+      "Igor Kriz",
+      "Petr Somberg",
+      "Foling Zou"
+     ],
+     "id": "arXiv:2504.07064v1"
+    },
+    {
+     "title": "Computations in Equivariant Topological Hochschild Homology",
+     "year": "2026",
+     "authors": [
+      "David Chan",
+      "Marc Gotliboym",
+      "Inbar Klang",
+      "Noah Wisdom"
+     ],
+     "id": "arXiv:2608.11376v1"
+    },
+    {
+     "title": "Computational tools for twisted topological Hochschild homology of equivariant spectra",
+     "year": "2020",
+     "authors": [
+      "Katharine Adamyk",
+      "Teena Gerhardt",
+      "Kathryn Hess",
+      "Inbar Klang",
+      "Hana Jia Kong"
+     ],
+     "id": "arXiv:2001.06602v2"
+    },
+    {
+     "title": "A shadow perspective on equivariant Hochschild homologies",
+     "year": "2021",
+     "authors": [
+      "Katharine Adamyk",
+      "Teena Gerhardt",
+      "Kathryn Hess",
+      "Inbar Klang",
+      "Hana Jia Kong"
+     ],
+     "id": "arXiv:2111.04152v3"
+    },
+    {
+     "title": "Computational tools for Real topological Hochschild homology",
+     "year": "2024",
+     "authors": [
+      "Chloe Lewis"
+     ],
+     "id": "arXiv:2408.07188v1"
+    },
+    {
+     "title": "Spoke topological Hochschild homology",
+     "year": "2025",
+     "authors": [
+      "Gabriel Angelini-Knoll",
+      "Foling Zou"
+     ],
+     "id": "arXiv:2512.11338v3"
+    },
+    {
+     "title": "Stable real K-theory and real topological Hochschild homology",
+     "year": "2012",
+     "authors": [
+      "Emanuele Dotto"
+     ],
+     "id": "arXiv:1212.4310v1"
+    },
+    {
+     "title": "Cyclotomic structure in the topological Hochschild homology of $DX$",
+     "year": "2015",
+     "authors": [
+      "Cary Malkiewich"
+     ],
+     "id": "arXiv:1505.06778v4"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "Pin(2)-equivariant topological Hochschild homology",
+   "status": 200,
+   "results": [
+    {
+     "title": "Computations in Equivariant Topological Hochschild Homology",
+     "year": 2026,
+     "authors": [
+      "David Chan",
+      "Marc Gotliboym",
+      "Inbar Klang",
+      "Noah Wisdom"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.11376"
+    },
+    {
+     "title": "Topological ΔG-homology of rings with twisted G-action",
+     "year": 2026,
+     "authors": [
+      "Gabriel Angelini‐Knoll",
+      "Mona Merling",
+      "Maximilien Péroux"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "https://doi.org/10.1016/j.aim.2026.110907"
+    },
+    {
+     "title": "Spoke topological Hochschild homology",
+     "year": 2025,
+     "authors": [
+      "Angelini-Knoll, Gabriel",
+      "Zou, Foling"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2512.11338"
+    },
+    {
+     "title": "On S3‐equivariant homology",
+     "year": 2001,
+     "authors": [
+      "Mohamed Elhamdadi"
+     ],
+     "venue": "International Journal of Mathematics and Mathematical Sciences",
+     "id": "https://doi.org/10.1155/s0161171201005804"
+    },
+    {
+     "title": "A Note on Topological Hochschild Homology Relative to $\\Sphere_{W(k)}[x_0,x_1,\\ldots,x_n]$",
+     "year": 2026,
+     "authors": [
+      "Jingbang Guo"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.19829"
+    },
+    {
+     "title": "Logarithmic Hochschild co/homology via formality of derived intersections",
+     "year": 2025,
+     "authors": [
+      "Márton Hablicsek",
+      "Leo Herr",
+      "Francesca Leonardi"
+     ],
+     "venue": "Journal of Algebra",
+     "id": "https://doi.org/10.1016/j.jalgebra.2025.07.048"
+    },
+    {
+     "title": "Higher topological cyclic homology and the Segal conjecture for tori",
+     "year": 2010,
+     "authors": [
+      "Gunnar Carlsson",
+      "Christopher L. Douglas",
+      "Bjørn Ian Dundas"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "https://doi.org/10.1016/j.aim.2010.08.016"
+    },
+    {
+     "title": "Higher topological cyclic homology and the Segal conjecture for tori",
+     "year": 2008,
+     "authors": [
+      "Gunnar Carlsson",
+      "Christopher L. Douglas",
+      "Bjørn Ian Dundas"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.0803.2745"
+    },
+    {
+     "title": "Hochschild homology of mod-$p$ motivic cohomology over algebraically closed fields",
+     "year": 2022,
+     "authors": [
+      "Bjørn Ian Dundas",
+      "Hill, Michael A.",
+      "Kyle Ormsby",
+      "Paul Arne Østvær"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2204.00441"
+    },
+    {
+     "title": "Counterexamples to Hochschild--Kostant--Rosenberg in characteristic $p$",
+     "year": 2019,
+     "authors": [
+      "Benjamin Antieau",
+      "Bhatt, Bhargav",
+      "Akhil Mathew"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1909.11437"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "Pin(2)-equivariant topological Hochschild homology",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "Pin(2)-equivariant topological Hochschild homology",
+   "status": 200,
+   "results": [
+    {
+     "title": "Equivariant higher Hochschild homology and topological field theories",
+     "year": 2020,
+     "authors": [
+      "Lukas Müller",
+      "Lukas Woike"
+     ],
+     "venue": "Homology, Homotopy and Applications",
+     "id": "doi:10.4310/hha.2020.v22.n1.a3"
+    },
+    {
+     "title": "Equivariant operations in topological Hochschild homology",
+     "year": 2025,
+     "authors": [
+      "Po Hu",
+      "Igor Kriz",
+      "Petr Somberg",
+      "Foling Zou"
+     ],
+     "venue": "Mathematische Zeitschrift",
+     "id": "doi:10.1007/s00209-025-03760-4"
+    },
+    {
+     "title": "On the equivariant motivic filtration of the topological Hochschild homology of polynomial algebras",
+     "year": 2023,
+     "authors": [
+      "Po Hu",
+      "Igor Kriz",
+      "Petr Somberg"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "doi:10.1016/j.aim.2022.108803"
+    },
+    {
+     "title": "Equivariant Witt complexes and twisted topological Hochschild homology",
+     "year": 2025,
+     "authors": [
+      "Anna Marie Bohmann",
+      "Teena Gerhardt",
+      "Cameron Krulewski",
+      "Sarah Petersen",
+      "Lucy Yang"
+     ],
+     "venue": "Topology and its Applications",
+     "id": "doi:10.1016/j.topol.2025.109444"
+    },
+    {
+     "title": "The Hochschild homology and the Hochschild cohomology of a topological algebra",
+     "year": 1989,
+     "authors": [
+      "Reinhold Hübl"
+     ],
+     "venue": "Lecture Notes in Mathematics Traces of Differential Forms and Hochschild Homology",
+     "id": "doi:10.1007/bfb0098408"
+    },
+    {
+     "title": "Computational tools for twisted topological Hochschild homology of equivariant spectra",
+     "year": 2022,
+     "authors": [
+      "Katharine Adamyk",
+      "Teena Gerhardt",
+      "Kathryn Hess",
+      "Inbar Klang",
+      "Hana Jia Kong"
+     ],
+     "venue": "Topology and its Applications",
+     "id": "doi:10.1016/j.topol.2022.108102"
+    },
+    {
+     "title": "Localization theorems in topological Hochschild homology and topological cyclic homology",
+     "year": 2012,
+     "authors": [
+      "Andrew J Blumberg",
+      "Michael A Mandell"
+     ],
+     "venue": "Geometry &amp; Topology",
+     "id": "doi:10.2140/gt.2012.16.1053"
+    },
+    {
+     "title": "Derived invariants from topological Hochschild homology",
+     "year": 2022,
+     "authors": [
+      "Benjamin Antieau",
+      "Daniel Bragg"
+     ],
+     "venue": "Algebraic Geometry",
+     "id": "doi:10.14231/ag-2022-011"
+    },
+    {
+     "title": "Symmetric Spectra and Topological Hochschild Homology",
+     "year": 2000,
+     "authors": [
+      "Brooke Shipley"
+     ],
+     "venue": "K-Theory",
+     "id": "doi:10.1023/a:1007892801533"
+    },
+    {
+     "title": "Topological Hochschild homology of $K/p$ as a $K_p^\\wedge$ module",
+     "year": 2017,
+     "authors": [
+      "Samik Basu"
+     ],
+     "venue": "Homology, Homotopy and Applications",
+     "id": "doi:10.4310/hha.2017.v19.n1.a13"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "quaternionic real topological Hochschild homology",
+   "status": 200,
+   "results": [
+    {
+     "title": "Topological $ΔG$ homology of rings with twisted $G$-action",
+     "year": "2024",
+     "authors": [
+      "Gabriel Angelini-Knoll",
+      "Mona Merling",
+      "Maximilien Péroux"
+     ],
+     "id": "arXiv:2409.18187v5"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "quaternionic real topological Hochschild homology",
+   "status": 200,
+   "results": [
+    {
+     "title": "Spoke topological Hochschild homology",
+     "year": 2025,
+     "authors": [
+      "Angelini-Knoll, Gabriel",
+      "Zou, Foling"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2512.11338"
+    },
+    {
+     "title": "Computational tools for Real topological Hochschild homology",
+     "year": 2024,
+     "authors": [
+      "Lewis, Chloe"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2408.07188"
+    },
+    {
+     "title": "Topological ΔG-homology of rings with twisted G-action",
+     "year": 2026,
+     "authors": [
+      "Gabriel Angelini‐Knoll",
+      "Mona Merling",
+      "Maximilien Péroux"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "https://doi.org/10.1016/j.aim.2026.110907"
+    },
+    {
+     "title": "Topological Hochschild homology, truncated Brown-Peterson spectra, and a topological Sen operator",
+     "year": 2023,
+     "authors": [
+      "Sanath K. Devalapurkar"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2303.17344"
+    },
+    {
+     "title": "Topological symmetric and braid homologies",
+     "year": 2026,
+     "authors": [
+      "Gabriel Angelini‐Knoll",
+      "David Chan",
+      "Teena Gerhardt",
+      "Mona Merling",
+      "Maximilien Péroux"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.22946"
+    },
+    {
+     "title": "The slices of quaternionic Eilenberg–Mac Lane spectra",
+     "year": 2025,
+     "authors": [
+      "Bertrand Guillou",
+      "Carissa Slone"
+     ],
+     "venue": "Algebraic & Geometric Topology",
+     "id": "https://doi.org/10.2140/agt.2025.25.3341"
+    },
+    {
+     "title": "Reflexive homology",
+     "year": 2023,
+     "authors": [
+      "Daniel Graves"
+     ],
+     "venue": "Proceedings of the Royal Society of Edinburgh Section A Mathematics",
+     "id": "https://doi.org/10.1017/prm.2023.69"
+    },
+    {
+     "title": "Motivic cohomology of quaternionic Shimura varieties and level raising",
+     "year": 2019,
+     "authors": [
+      "Zhou Rong"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1901.01954"
+    },
+    {
+     "title": "Free loop space and homology",
+     "year": 2015,
+     "authors": [
+      "Jean-Louis Loday"
+     ],
+     "venue": "IRMA lectures in mathematics and theoretical physics",
+     "id": "https://doi.org/10.4171/153/4"
+    },
+    {
+     "title": "On S3‐equivariant homology",
+     "year": 2001,
+     "authors": [
+      "Mohamed Elhamdadi"
+     ],
+     "venue": "International Journal of Mathematics and Mathematical Sciences",
+     "id": "https://doi.org/10.1155/s0161171201005804"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "quaternionic real topological Hochschild homology",
+   "status": 200,
+   "results": [
+    {
+     "title": "Some properties of the Thom spectrum over loop suspension of complex projective space",
+     "year": "2014",
+     "authors": [
+      "Baker, Andrew",
+      "Richter, Birgit"
+     ],
+     "venue": null,
+     "id": "zbMATH 1339.55010"
+    },
+    {
+     "title": "Topological \\(\\Delta \\mathbf{G}\\)-homology of rings with twisted \\(G\\)-action",
+     "year": "2026",
+     "authors": [
+      "Angelini-Knoll, Gabriel",
+      "Merling, Mona",
+      "Péroux, Maximilien"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "zbMATH 8198477"
+    }
+   ]
+  },
+  {
+   "source": "Crossref",
+   "query": "quaternionic real topological Hochschild homology",
+   "status": 200,
+   "results": [
+    {
+     "title": "The Hochschild homology and the Hochschild cohomology of a topological algebra",
+     "year": 1989,
+     "authors": [
+      "Reinhold Hübl"
+     ],
+     "venue": "Lecture Notes in Mathematics Traces of Differential Forms and Hochschild Homology",
+     "id": "doi:10.1007/bfb0098408"
+    },
+    {
+     "title": "Real topological Hochschild homology and the Segal conjecture",
+     "year": 2021,
+     "authors": [
+      "Jeremy Hahn",
+      "Dylan Wilson"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "doi:10.1016/j.aim.2021.107839"
+    },
+    {
+     "title": "Real topological Hochschild homology of perfectoid rings",
+     "year": 2025,
+     "authors": [
+      "Jens Hornbostel",
+      "Doosung Park"
+     ],
+     "venue": "Journal of Topology",
+     "id": "doi:10.1112/topo.70032"
+    },
+    {
+     "title": "Real topological Hochschild homology via the norm and Real Witt vectors",
+     "year": 2025,
+     "authors": [
+      "Gabriel Angelini-Knoll",
+      "Teena Gerhardt",
+      "Michael A. Hill"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "doi:10.1016/j.aim.2025.110568"
+    },
+    {
+     "title": "Localization theorems in topological Hochschild homology and topological cyclic homology",
+     "year": 2012,
+     "authors": [
+      "Andrew J Blumberg",
+      "Michael A Mandell"
+     ],
+     "venue": "Geometry &amp; Topology",
+     "id": "doi:10.2140/gt.2012.16.1053"
+    },
+    {
+     "title": "Real topological Hochschild homology",
+     "year": 2020,
+     "authors": [
+      "Emanuele Dotto",
+      "Kristian Moi",
+      "Irakli Patchkoria",
+      "Sune Precht Reeh"
+     ],
+     "venue": "Journal of the European Mathematical Society",
+     "id": "doi:10.4171/jems/1007"
+    },
+    {
+     "title": "Derived invariants from topological Hochschild homology",
+     "year": 2022,
+     "authors": [
+      "Benjamin Antieau",
+      "Daniel Bragg"
+     ],
+     "venue": "Algebraic Geometry",
+     "id": "doi:10.14231/ag-2022-011"
+    },
+    {
+     "title": "Equivariant higher Hochschild homology and topological field theories",
+     "year": 2020,
+     "authors": [
+      "Lukas Müller",
+      "Lukas Woike"
+     ],
+     "venue": "Homology, Homotopy and Applications",
+     "id": "doi:10.4310/hha.2020.v22.n1.a3"
+    },
+    {
+     "title": "REAL TOPOLOGICAL HOCHSCHILD HOMOLOGY OF SCHEMES",
+     "year": 2023,
+     "authors": [
+      "Jens Hornbostel",
+      "Doosung Park"
+     ],
+     "venue": "Journal of the Institute of Mathematics of Jussieu",
+     "id": "doi:10.1017/s1474748023000178"
+    },
+    {
+     "title": "Symmetric Spectra and Topological Hochschild Homology",
+     "year": 2000,
+     "authors": [
+      "Brooke Shipley"
+     ],
+     "venue": "K-Theory",
+     "id": "doi:10.1023/a:1007892801533"
+    }
+   ]
+  }
+ ]
+}

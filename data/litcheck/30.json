@@ -1,0 +1,428 @@
+{
+ "problem": 30,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "monotone instrument under cover refinement",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "monotone instrument under cover refinement",
+   "status": 200,
+   "results": [
+    {
+     "title": "Monotone models for prediction in data mining",
+     "year": 2006,
+     "authors": [
+      "Marina Velikova"
+     ],
+     "venue": "Data Archiving and Networked Services (DANS)",
+     "id": "https://openalex.org/W2141021815"
+    },
+    {
+     "title": "Using scalability coefficients and conditional association to assess monotone homogeneity",
+     "year": 2012,
+     "authors": [
+      "J. Hendrik Straat"
+     ],
+     "venue": "Data Archiving and Networked Services (DANS)",
+     "id": "https://openalex.org/W2548127149"
+    },
+    {
+     "title": "Predicting Dividend Cuts in U.S. REITs under Interest-Rate Shocks: A Regime-Gated Monotone Additive Model with Conformal Risk Control",
+     "year": 2026,
+     "authors": [
+      "Owen Hart",
+      "Samuel Keller",
+      "Rebecca Collins"
+     ],
+     "venue": "International Journal of Business and Social Science Studies",
+     "id": "https://doi.org/10.66795/ijbsss60"
+    },
+    {
+     "title": "Monotone Allocations without Single-Crossing: When to Bunch and When to Jump",
+     "year": 2026,
+     "authors": [
+      "A. Araujo",
+      "Carolina Parra",
+      "Sergei Vieira"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.19474"
+    },
+    {
+     "title": "A Memorization Floor for LLM Refinement of Decompiled Code",
+     "year": 2026,
+     "authors": [
+      "Muhammad Asjad"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W7213473453"
+    },
+    {
+     "title": "Refinement And Initial Testing Of An Engineering Student Presentation Scoring System",
+     "year": 2020,
+     "authors": [
+      "Tristan T. Utschig",
+      "Judith Shaul Norback"
+     ],
+     "venue": "ASEE Annual Conference & Exposition",
+     "id": "https://doi.org/10.18260/1-2--16824"
+    },
+    {
+     "title": "A Certificate Layer for Multi-Objective Training Across Refinement Scales",
+     "year": 2025,
+     "authors": [
+      "Camilla Josephson"
+     ],
+     "venue": "Preprints.org",
+     "id": "https://doi.org/10.20944/preprints202512.1864.v1"
+    },
+    {
+     "title": "Dynamic Logic for an Intermediate Language: Verification, Interaction and Refinement",
+     "year": 2013,
+     "authors": [
+      "Mattias Ulbrich"
+     ],
+     "venue": "Repository KITopen (Karlsruhe Institute of Technology)",
+     "id": "https://doi.org/10.5445/ir/1000041169"
+    },
+    {
+     "title": "Measurement and Instrument Development in the Human Sciences",
+     "year": 2026,
+     "authors": [
+      "Mariam Thalos"
+     ],
+     "venue": "Philosophy of the Social Sciences",
+     "id": "https://doi.org/10.1177/00483931261483173"
+    },
+    {
+     "title": "Residual Calibration via Local Feature-Space Refinement",
+     "year": 2026,
+     "authors": [
+      "Xihao Wang",
+      "Chengyao Yu",
+      "Ruixing Ming"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.30652"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "monotone instrument under cover refinement",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "monotone instrument under cover refinement",
+   "status": 200,
+   "results": [
+    {
+     "title": "Sharp Bound for Average Treatment Effects with Monotone Instrument Variables",
+     "year": 2025,
+     "authors": [
+      "Kyungtae Park"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.5131175"
+    },
+    {
+     "title": "An Instrument for Aiming Guns under Cover",
+     "year": 1902,
+     "authors": [],
+     "venue": "Nature",
+     "id": "doi:10.1038/066493a0"
+    },
+    {
+     "title": "A topological space is strongly paracompact if and only if for any monotone increasing open cover of it there exists a star-finite open refinement",
+     "year": 2008,
+     "authors": [
+      "Qu Han-Zhang"
+     ],
+     "venue": "Czechoslovak Mathematical Journal",
+     "id": "doi:10.1007/s10587-008-0030-y"
+    },
+    {
+     "title": "Monotone σ-complete groups with unbounded refinement",
+     "year": 1996,
+     "authors": [
+      "Friedrich Wehrung"
+     ],
+     "venue": "Fundamenta Mathematicae",
+     "id": "doi:10.4064/fm-151-2-177-187"
+    },
+    {
+     "title": "Global Coordination under Monotone Sampling *",
+     "year": 2026,
+     "authors": [
+      "Yuval Heller",
+      "Srinivas Arigapudi"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6681838"
+    },
+    {
+     "title": "Research of characteristic harmonics analysis based on spectral refinement and interpolation",
+     "year": 2014,
+     "authors": [
+      "Da Zhang",
+      "Lijun Jin"
+     ],
+     "venue": "JOURNAL OF ELECTRONIC MEASUREMENT AND INSTRUMENT",
+     "id": "doi:10.3724/sp.j.1187.2013.00298"
+    },
+    {
+     "title": "Cover",
+     "year": null,
+     "authors": [],
+     "venue": "Business-Coaching als unterstützendes Instrument im Strategischen Management",
+     "id": "doi:10.3726/978-3-653-02306-0/1"
+    },
+    {
+     "title": "Refinement of integral inequalities for monotone functions",
+     "year": 2012,
+     "authors": [
+      "Saad Ihsan Butt",
+      "Josip Pečarić",
+      "Ivan Perić"
+     ],
+     "venue": "Journal of Inequalities and Applications",
+     "id": "doi:10.1186/1029-242x-2012-301"
+    },
+    {
+     "title": "4. Peak shapes: Instrument o microstructure",
+     "year": 2018,
+     "authors": [],
+     "venue": "Rietveld Refinement",
+     "id": "doi:10.1515/9783110461381-004"
+    },
+    {
+     "title": "Cover",
+     "year": null,
+     "authors": [],
+     "venue": "Stellvertretung als Instrument der Sicherung und Stärkung der Patientenautonomie",
+     "id": "doi:10.3726/978-3-653-02853-9/1"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "refinement of covers cohomology monotonicity",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "refinement of covers cohomology monotonicity",
+   "status": 200,
+   "results": [
+    {
+     "title": "Cohomology of open sets",
+     "year": 2023,
+     "authors": [
+      "Oliver Knill"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2305.12613"
+    },
+    {
+     "title": "Symplectic cohomology and Viterbo's theorem",
+     "year": 2013,
+     "authors": [
+      "Mohammed Abouzaid"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1312.3354"
+    },
+    {
+     "title": "Information structures and their cohomology",
+     "year": 2020,
+     "authors": [
+      "Juan Pablo Vigneaux"
+     ],
+     "venue": "Theory and applications of categories",
+     "id": "https://doi.org/10.70930/tac/o4v3tux5"
+    },
+    {
+     "title": "ON THE COHOMOLOGY OF TORELLI GROUPS",
+     "year": 2020,
+     "authors": [
+      "Alexander Kupers",
+      "Oscar Randal‐Williams"
+     ],
+     "venue": "Forum of Mathematics Pi",
+     "id": "https://doi.org/10.1017/fmp.2020.5"
+    },
+    {
+     "title": "Symplectic cohomology and duality for the wrapped Fukaya category",
+     "year": 2013,
+     "authors": [
+      "Sheel Ganatra"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1304.7312"
+    },
+    {
+     "title": "Floer cohomology and pencils of quadrics",
+     "year": 2010,
+     "authors": [
+      "Ivan Smith"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1006.1099"
+    },
+    {
+     "title": "Rigid Cohomology for Algebraic Stacks",
+     "year": 2010,
+     "authors": [
+      "David Michael Brown"
+     ],
+     "venue": "eScholarship (California Digital Library)",
+     "id": "https://openalex.org/W2149673503"
+    },
+    {
+     "title": "Boundary Depth and Deformations of Symplectic Cohomology",
+     "year": 2025,
+     "authors": [
+      "Yoel Groman"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2510.17607"
+    },
+    {
+     "title": "Equivariant Floer cohomology for contactomorphisms of quotient spaces",
+     "year": 2026,
+     "authors": [
+      "Dylan Cant",
+      "Eric Kilgore",
+      "Jun Feng Zhang"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2602.21152"
+    },
+    {
+     "title": "General homology and cohomology theories. Current state and typical applications",
+     "year": 1991,
+     "authors": [
+      "Evgenii Grigor'evich Sklyarenko"
+     ],
+     "venue": "Journal of Mathematical Sciences",
+     "id": "https://doi.org/10.1007/bf01099285"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "refinement of covers cohomology monotonicity",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "refinement of covers cohomology monotonicity",
+   "status": 200,
+   "results": [
+    {
+     "title": "Finite Galois covers, cohomology jump loci, formality properties, and multinets",
+     "year": 2011,
+     "authors": [
+      "Alexandru Dimca",
+      "Stefan Papadima"
+     ],
+     "venue": "ANNALI SCUOLA NORMALE SUPERIORE - CLASSE DI SCIENZE",
+     "id": "doi:10.2422/2036-2145.2011.2.01"
+    },
+    {
+     "title": "Kernels and cohomology groups for some finite covers",
+     "year": 2017,
+     "authors": [
+      "David M. Evans",
+      "Darren G. D. Gray"
+     ],
+     "venue": "Logic Colloquium '96",
+     "id": "doi:10.1017/9781316716816.004"
+    },
+    {
+     "title": "Amenable covers and relative bounded cohomology",
+     "year": 2025,
+     "authors": [
+      "Pietro Capovilla"
+     ],
+     "venue": "Proceedings of the American Mathematical Society",
+     "id": "doi:10.1090/proc/17087"
+    },
+    {
+     "title": "Integral Cohomology Groups of Real Toric Manifolds and Small Covers",
+     "year": 2021,
+     "authors": [
+      "Li Cai",
+      "Suyoung Choi"
+     ],
+     "venue": "Moscow Mathematical Journal",
+     "id": "doi:10.17323/1609-4514-2021-21-3-467-492"
+    },
+    {
+     "title": "Computation of First Cohomology Groups of Finite Covers",
+     "year": 1997,
+     "authors": [
+      "David M Evans"
+     ],
+     "venue": "Journal of Algebra",
+     "id": "doi:10.1006/jabr.1996.6987"
+    },
+    {
+     "title": "Bounded cohomology of amenable covers via classifying spaces",
+     "year": 2020,
+     "authors": [
+      "Clara Löh",
+      "Roman Sauer"
+     ],
+     "venue": "L’Enseignement Mathématique",
+     "id": "doi:10.4171/lem/66-1/2-8"
+    },
+    {
+     "title": "Galois structure of Zariski cohomology for weakly ramified covers of curves",
+     "year": 2004,
+     "authors": [
+      "Bernhard Köck"
+     ],
+     "venue": "American Journal of Mathematics",
+     "id": "doi:10.1353/ajm.2004.0037"
+    },
+    {
+     "title": "Cohomology of finite covers",
+     "year": 1976,
+     "authors": [
+      "Allan Calder"
+     ],
+     "venue": "Transactions of the American Mathematical Society",
+     "id": "doi:10.1090/s0002-9947-1976-0400205-0"
+    },
+    {
+     "title": "Three contributions to topology, algebraic geometry and representation\n                    theory",
+     "year": null,
+     "authors": [
+      "Yaping Yang"
+     ],
+     "venue": "",
+     "id": "doi:10.17760/d20005062"
+    },
+    {
+     "title": "Galois Structure of de Rham Cohomology of Tame Covers of Schemes",
+     "year": 1994,
+     "authors": [
+      "Ted Chinburg"
+     ],
+     "venue": "The Annals of Mathematics",
+     "id": "doi:10.2307/2946586"
+    }
+   ]
+  }
+ ]
+}

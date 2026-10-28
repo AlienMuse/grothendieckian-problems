@@ -1,0 +1,424 @@
+# The 57 Grothendieckian Problems — Part I, Series 01 (Problems 1–17). Single source for the paper, the repository
+# cards and problems.json. Quotation marks “…” enclose text quoted verbatim from the work and pages named in `pages`
+# (quote_gate). [@key, locator] cites src/refs.yaml. Literature checks: out/litcheck/NN.json (2026-10-28).
+- num: 1
+  title: "The first rising-sea event"
+  work: S01
+  kind: machine
+  level: programme
+  thesis: 8
+  source: "Vol. III, §5.1, p. 8034, and §5.8, p. 8039"
+  pages: ["8034", "8039"]
+  status: "S/R (source-grounded synthesis; falsifiable research construction)"
+  statement: |
+    Carry out one operational rising-sea event in the sense of [@S01, Vol. III, §5.1]. Such an event “must begin from
+    an explicit obstruction or language deficit, propose a typed extension, compile bounded probes, preserve or
+    explicitly surrender recovery, record costs and residuals, and submit any status request to authority outside the
+    producing engines.” The problem asks for an event of this kind after which the original difficulty, stated before
+    the event, has become tractable in the extended setting without the question having been changed.
+  established: |
+    The source fixes the sequence obstruction → typed extension → bounded execution and checking → computed, partial or
+    failed → recovery and transport → external request, observes that “Each arrow may fail”, and declines to promote
+    the strategy: “Volume III does not turn that strategy into a universal theorem of problem solving. It turns it into
+    a falsifiable campaign record.” It names four ways in which an extension changes the question instead of answering
+    it: an extension that “deletes the predicate expressing a contradiction, forgets the invariant detecting failure,
+    weakens equality until disagreement disappears, or renames an unknown as a new primitive has not resolved the
+    original obstruction.” Section 5.8 specifies the residual and non-equivalence records that a partial outcome must
+    leave. No event has been carried out.
+  proposer: "The image of the rising sea is Grothendieck’s [@McLarty2007]; its operational form and this problem are from [@S01]."
+  background: "[@McLarty2007]; [@Lakatos1976]; machine-guided discovery with an external evaluator [@Davies2021; @RomeraParedes2024]."
+  solved: |
+    A campaign record is published that a third party can replay, in which (i) every step of the §5.1 sequence is
+    present as a typed artifact; (ii) the target statement, frozen before the campaign, receives in the extended setting
+    a kernel-checked proof, a kernel-checked refutation, or a reduction to named hypotheses with their statuses
+    recorded; and (iii) a reviewer independent of the producing system certifies that none of the four failures of
+    §5.1 applies. A complete record of a failed campaign is listed as a partial result.
+  litcheck: "No published campaign record of this form was found. Machine-guided discovery systems [@Davies2021; @RomeraParedes2024; @Trinh2024] evaluate candidates externally but do not record the four failure patterns or a separate status request."
+
+- num: 2
+  title: "A bounded fixed point of the coupled world–language cycle"
+  work: S01
+  kind: formal
+  level: programme
+  thesis: 10
+  source: "Vol. III, §75.17, pp. 9503–9504; §75.11, pp. 9499–9500; §56.15, pp. 9130–9131"
+  pages: ["9503", "9504", "9499", "9500", "9130", "9131"]
+  status: "O (obligation)"
+  statement: |
+    Give a formal transition model of the coupled world–language cycle of [@S01, Vol. III, Ch. 71–78] and prove, in a
+    proof assistant, three properties of it: (a) the obligation-preservation inclusion
+    $O^{\mathrm{open}}_n \subseteq O^{\mathrm{open}}_{n+1} \cup O^{\mathrm{dis}}_{n+1} \cup O^{\mathrm{term}}_{n+1}$
+    of §75.11 holds for every accepted step; (b) the six conditions of §75.17 under which “A cycle reaches
+    BOUNDED_FIXED_POINT” are decidable from the records; and (c) every run terminates, since “A conforming campaign
+    therefore carries a well-founded repair measure or a hard policy bound.”
+  established: |
+    The conditions are stated as contracts; none is proved. Failure of the inclusion in (a) “is sufficient for refusal
+    or quarantine, regardless of the attractiveness of the new result.” The source limits what a fixed point means:
+    “This is not equality of world and language, global convergence, consistency, optimality, or future stability.”
+  proposer: "[@S01]."
+  background: "Transition systems and invariants in the style of [@HerlihyWing1990]; mechanised metatheory [@BarendregtWiedijk2005]."
+  solved: |
+    A machine-checked development (Lean, Rocq, Isabelle or Agda) that defines the model, documents its correspondence
+    with §§75.11 and 75.17 clause by clause, and proves (a)–(c); or a machine-checked counterexample showing that one
+    of them fails in every model faithful to the source.
+  litcheck: "No formal model of this cycle was found; the searches returned general work on invariants in refinement-based verification only."
+
+- num: 3
+  title: "From obstruction to conjecture"
+  work: S01
+  kind: machine
+  level: research
+  thesis: 10
+  source: "Vol. IV, §109.1, p. 11670, and §109.5, p. 11675 (algorithm ALG-118)"
+  pages: ["11670", "11675"]
+  status: "ALG-R (research algorithm)"
+  statement: |
+    Implement the obstruction-driven conjecture generator ALG-118 of [@S01, Vol. IV, Ch. 109], which takes replayable,
+    typed records of failed constructions or proof attempts and returns scoped conjectures, each with at least one executable falsifier, and run it until it produces a conjecture that is then settled by others.
+  established: |
+    The source specifies the contract and its limits: “An obstruction can explain why a particular construction,
+    proof route, or finite experiment failed. It does not by itself establish the negation, necessity, naturalness, or
+    novelty of a conjecture inferred from that failure.” Status is not affected by how a candidate looks: “Frequency,
+    linguistic plausibility, retrieval rank, model agreement, elegance, and apparent usefulness do not change its
+    epistemic status.” Falsifiers are part of the output, and “No finite search can certify an unrestricted
+    conjecture.” No implementation exists.
+  proposer: "[@S01]."
+  background: "[@Lakatos1976]; automated conjecturing [@Fajtlowicz1988; @Raayoni2021]; [@Davies2021]."
+  solved: |
+    An implementation run on a published set of typed obstructions, with the full record of every candidate and of its
+    falsifiers, such that at least one generated conjecture that is not in the frozen corpus (in the scoped sense of
+    [@S01, Vol. IV, §110.8]) is afterwards proved, or refuted by a replayed counterexample, by parties independent of
+    the generator.
+  litcheck: "Theory exploration and conjecturing systems were found [@Fajtlowicz1988; @Raayoni2021]; none takes typed obstruction records as input or attaches falsifiers to each output."
+
+- num: 4
+  title: "Minimal extension questions"
+  work: S01
+  kind: machine
+  level: research
+  thesis: 1
+  source: "Vol. III, §24.10, pp. 8440–8441"
+  pages: ["8440", "8441"]
+  status: "O (obligation)"
+  statement: |
+    “MinimalExtensionQuestion turns a diagnosed deficit into an ordered search over semantic deltas.” For a declared
+    class of mathematical worlds and a declared partial order on deltas, give a procedure that, from an independently
+    checked obstruction, returns an extension that is minimal for that order, consistent, conservative over the
+    predecessor world, and reopens the blocked obligation; or prove that no such procedure exists for the class.
+  established: |
+    The question belongs to the Topos New-Creation Architecture (TNCA), the engine of [@S01] that proposes successor
+    worlds. The source fixes the meaning of minimality — “Minimality is relative to that declared partial order, not to
+    implementation effort or textual brevity” — and gives the two failure modes it must avoid (jumping to a stronger
+    logic, and refusing an extension that is needed). It states what is missing: “TNCA has not shown existence,
+    consistency, conservativity, or usefulness of any answer.”
+  proposer: "[@S01]."
+  background: "Conservative extensions in logic and type theory; [@MacLane1998] for the categorical constructions involved."
+  solved: |
+    A stated class of worlds (for example finitely axiomatised first-order theories or finite presentations of
+    categories), a declared order on deltas, and a machine-checked proof that the procedure is correct on the class,
+    with an implementation evaluated on published obstructions; or a machine-checked impossibility result for a class
+    of comparable generality.
+  litcheck: "Work on conservative extension and minimal extensions in logic was found; no procedure with the inputs and guarantees of §24.10 was found."
+
+- num: 5
+  title: "Target fidelity"
+  work: S01
+  kind: machine
+  level: research
+  thesis: 6
+  source: "Vol. III, §30.10, p. 8574, and §64.17, p. 9294; Architectural Prospectus, p. 7966; Vol. IV, §5.16, p. 9846"
+  pages: ["8574", "9294", "7966", "9846"]
+  status: "O (obligation)"
+  statement: |
+    A proof kernel checks a proof against a formal statement; it does not check that the formal statement is the
+    mathematics it was meant to express. In the source: “A named, pinned formal kernel may check a proof term against a
+    formal target; target fidelity and publication authority remain separate obligations.” Give a certificate format
+    and checker for the fidelity of a formal statement to a statement in a source text, within a declared fragment of
+    mathematical language and a declared library.
+  established: |
+    The source treats every machine proof as a candidate “until source-target fidelity, kernel replay, and
+    axiom-closure review pass under the same canonical subject key”, and lists among the open obligations of the
+    formal layer to “verify that adapted definitions and rule candidates faithfully reflect the cited locators and
+    declared deltas” and “target-fidelity theorems connecting source constructs to generated declarations”.
+  proposer: "[@S01]; the question is shared with the autoformalization literature [@Wu2022; @FormalConjectures2026]."
+  background: "[@BarendregtWiedijk2005]; [@Wu2022]; misformalization records in [@FormalConjectures2026]."
+  solved: |
+    A certificate format that binds a formal target, a source locator and a declared map of definitions, and a checker
+    that rejects every certificate in a published adversarial suite of statement pairs with deliberately introduced
+    misformalizations (quantifier order, hypothesis loss, changed definitions) while accepting the faithful pairs,
+    with the suite, the checker and the results released for independent replay.
+  litcheck: "Many 2025–2026 preprints measure faithfulness of autoformalization by scores or round-trip tests; none found issues a fidelity certificate of the kind required here."
+
+- num: 6
+  title: "Verified encodings of universal properties"
+  work: S01
+  kind: formal
+  level: research
+  thesis: 3
+  source: "Vol. III, §18.5, p. 8307, and §21.16, item 8, p. 8370"
+  pages: ["8307", "8370"]
+  status: "O (obligation)"
+  statement: |
+    The component MUF-H (Motivic Universal Factorization Algorithm—Hybrid) of [@S01] solves universal-property constraints for finite proxies of categories. “A solver
+    that returns a satisfying assignment only proves satisfiability of the encoded finite constraints if the encoding
+    and certificate are independently checked. It does not establish that the encoding captures the intended universal
+    property.” For finite categories given by their composition tables, give an encoding of the statement that a cone (or cocone) is a limit (colimit) of a finite diagram into constraints a solver can decide, and prove the encoding correct.
+  established: |
+    The source requires that “Universality encodings still require an independently checked correspondence between
+    mathematical quantifiers and constraints”, and that existence of mediating maps and their uniqueness be recorded as
+    separate obligations, since “Universality requires a quantified mediating property and generally uniqueness at an
+    explicitly stated identity strength.”
+  proposer: "[@S01]."
+  background: "[@MacLane1998]; [@MacLaneMoerdijk1992]."
+  solved: |
+    A machine-checked theorem that, for every finite diagram in a finite category,
+    the solutions of the encoded constraints correspond bijectively to mediating morphisms and that the uniqueness
+    check is complete, together with a verified checker for solver certificates.
+  litcheck: "General work on constraint solving and finite model finding was found; no verified encoding of universal properties was found."
+
+- num: 7
+  title: "The AURORA-K0 kernel, I: syntax and checking"
+  work: S01
+  kind: formal
+  level: research
+  thesis: 2
+  source: "Vol. III, §70.19, pp. 9428–9429 (obligations K0-META-001 to K0-META-009)"
+  pages: ["9428", "9429"]
+  status: "O (“Every item begins OPEN”)"
+  statement: |
+    Mechanise AURORA-K0, the small formal kernel of the experimental calculus AURORA [@S01, Vol. III, Ch. 70], and discharge the first nine obligations of its registry, among them that the
+    “Concrete grammar has unique parsing after canonical Unicode normalization”, that “Substitution preserves K0
+    typing”, that “Registered reduction preserves typing”, that “Algorithmic checking agrees with declarative K0
+    rules”, and that the “Definitional equality procedure is decidable for the declared finite fragment”.
+  established: |
+    The registry lists each obligation with the evidence required before its status may change, and rules out the
+    shortcut: “No row may become RECEIPT_BOUND merely because a checker returns success.” No obligation is discharged.
+  proposer: "[@S01]."
+  background: "The de Bruijn criterion and small kernels [@BarendregtWiedijk2005]; [@deMouraUllrich2021]; [@Carneiro2024]."
+  solved: |
+    A development in a proof assistant that defines K0 as in the exact edition of Chapter 70 and proves
+    K0-META-001 to K0-META-009 using no axioms beyond the assistant’s standard ones; a machine-checked counterexample to
+    any item also counts and is recorded as a correction to the source.
+  litcheck: "Mechanised metatheory of type theories is an established field; no mechanisation of K0 was found."
+
+- num: 8
+  title: "The AURORA-K0 kernel, II: a model and relative consistency"
+  work: S01
+  kind: formal
+  level: research
+  thesis: 2
+  source: "Vol. III, §70.19, pp. 9428–9429 (obligations K0-META-010 to K0-META-012)"
+  pages: ["9428", "9429"]
+  status: "O"
+  statement: |
+    For the kernel K0 of Problem 7, discharge the semantic obligations of the registry: “At least one nontrivial model
+    validates the rules”; “Relative consistency, if pursued”, relative to a named base theory; and “Conservativity over
+    any source theory” for the source theories that the architecture embeds.
+  established: |
+    The registry requires an explicit model construction with independent validation, a proposition-exact
+    metatheorem for relative consistency, and an explicit interpretation with a conservativity proof, and records all
+    three as open.
+  proposer: "[@S01]."
+  background: "Models of type theory; [@HoTT2013]; conservativity results for extensions of type theory."
+  solved: "A machine-checked model of K0 that is not trivial in the sense of §70.19, and machine-checked proofs of relative consistency and of conservativity over at least one named source theory."
+  litcheck: "Mechanised relative-consistency proofs exist for other systems; none for K0 was found."
+
+- num: 9
+  title: "The seven obligations of descent execution"
+  work: S01
+  kind: formal
+  level: research
+  thesis: 5
+  source: "Vol. III, §56.15, pp. 9130–9132, and §56.1, p. 9119"
+  pages: ["9130", "9131", "9132", "9119"]
+  status: "O"
+  statement: |
+    The Grothendieckian Descent Reasoning Architecture (GDRA) of [@S01], the layer that executes local-to-global
+    campaigns, exists to prevent one error: “The central architectural error is to
+    convert operational completion into global meaning.” Give a formal transition model of GDRA campaigns and prove the
+    seven properties that §56.15 leaves open: “canonical serialization must preserve identity; every accepted
+    transition must preserve the invariants; forbidden authority effects must be noninterfering; budget events must
+    conserve declared dimensions; event replay must converge to the same eligible head under the stated delivery model;
+    counterevidence closure must be omission-resistant; and adapters must preserve the disjoint failure constructors.”
+  established: "The source states the seven properties and the delivery model (at-least-once delivery with idempotent effects), and records: “None has a supplied mechanized proof.”"
+  proposer: "[@S01]."
+  background: "Noninterference [@GoguenMeseguer1982]; linearizability [@HerlihyWing1990]."
+  solved: "Machine-checked proofs of all seven properties for a model whose correspondence with Chapter 56 is documented clause by clause, or a machine-checked counterexample to one of them."
+  litcheck: "Noninterference and replay-safety proofs exist for other systems; none for this model was found."
+
+- num: 10
+  title: "Non-self-authorization"
+  work: S01
+  kind: formal
+  level: research
+  thesis: 7
+  source: "Vol. V, Proposition 1.3, p. 11913; Proposition 5.1, p. 11940; Proposition 10.1, p. 11979"
+  pages: ["11913", "11940", "11979"]
+  status: "D/O (definition; obligation)"
+  statement: |
+    The rule that machines propose and humans authorise publication is stated in [@S01, Vol. V] as three
+    propositions, each conditional on assumptions about capabilities. Proposition 1.3 concludes that “a non-root module
+    cannot, through a conforming Volume V interface, make its own output both authoritative and active”; Proposition
+    10.1 that “adding a validated evidence edge to an artifact cannot by itself increase the artifact’s epistemic
+    class”. Give a formal model of capabilities, signing and status transitions in which the hypotheses of
+    Propositions 1.3, 5.1 and 10.1 are definitions, and prove the three conclusions.
+  established: |
+    The propositions are argued informally and marked D/O: “The proposition is conditional on correct capability
+    isolation and validator independence; those conditions are test obligations, not assumptions to be hidden.” The
+    negative cases (a worker writing to the status store, a signature detached from the artifact hash) are listed.
+  proposer: "[@S01]."
+  background: "[@DennisVanHorn1966]; [@SaltzerSchroeder1975]; [@GoguenMeseguer1982]."
+  solved: "Machine-checked proofs of the three propositions in a published model, and a test suite showing that each listed negative case is rejected by an implementation conforming to the model."
+  litcheck: "Verified capability machines and separation kernels exist; no formalisation of these three propositions was found."
+
+- num: 11
+  title: "Evolution without authority"
+  work: S01
+  kind: formal
+  level: research
+  thesis: 7
+  source: "Vol. VI, §11.11, p. 13204; Vol. III, §21.16, item 12, pp. 8370–8371"
+  pages: ["13204", "8370", "8371"]
+  status: "O (obligation O-V6-11-04)"
+  statement: |
+    A self-improving component may propose changes to itself but must not acquire authority. In [@S01, Vol. VI] the
+    obligation reads: “O-V6-11-04 — prove that no composition of EvolutionContract ports reaches signing, promotion,
+    activation, root mutation, or rollback capabilities”. Prove it for a formal model of the evolution interface.
+  established: |
+    In the released architecture “Evolution remains inert: telemetry cannot evaluate candidates, adapt routing, update
+    policy, canary, promote, deploy, or roll back.” The source does not claim more: “Until these obligations are
+    discharged, policy morphisms and version graphs are precise governance objects, not a claim that safe whole-system
+    evolution has been solved.”
+  proposer: "[@S01]."
+  background: "[@SaltzerSchroeder1975]; reward hacking as the failure this obligation guards against [@Skalse2022]."
+  solved: "A machine-checked reachability theorem over all finite compositions of the ports of the published EvolutionContract model, with the model’s correspondence to Vol. VI, Ch. 11 documented; or a composition that reaches a forbidden capability."
+  litcheck: "Recent work studies privilege escalation in AI agents empirically; no formal reachability proof for an evolution interface of this kind was found."
+
+- num: 12
+  title: "Deterministic identity across implementations"
+  work: S01
+  kind: machine
+  level: entry
+  thesis: 6
+  source: "Vol. V, Proposition 2.2, p. 11920, and Proposition 3.2, p. 11927"
+  pages: ["11920", "11927"]
+  status: "D/O"
+  statement: |
+    Build two independent implementations of the canonical serialization and replay profile of [@S01, Vol. V] and show
+    that they agree: identical canonical bytes and identifiers for the same artifacts (Proposition 2.2), and identical
+    kernel judgments under identical inputs and environments (Proposition 3.2).
+  established: |
+    Proposition 2.2 is “an interoperability obligation to be tested by cross-language fixtures.” For replay, “A
+    disagreement is a first-class incident”, and “The system does not choose the favorable result by majority vote.”
+    No second implementation exists.
+  proposer: "[@S01]."
+  background: "[@LambZacchiroli2022]; [@Necula1997]."
+  solved: "Two implementations in different languages by different authors, and a published fixture suite (Unicode normalisation, exact numbers, ordered and unordered collections, extension fields) on which they agree byte for byte, with every disagreement found during development recorded as an incident."
+  litcheck: "Reproducible-builds practice [@LambZacchiroli2022] addresses the same property for software artifacts; no implementation of this profile was found."
+
+- num: 13
+  title: "A frozen benchmark for counterexample and proof discovery"
+  work: S01
+  kind: machine
+  level: entry
+  thesis: 12
+  source: "Vol. IV, §113.1, p. 11744; §113.12.12 to §113.12.15, pp. 11763–11764"
+  pages: ["11744", "11763", "11764"]
+  status: "D (specified, not run)"
+  statement: |
+    Release the first version of the benchmark specified in [@S01, Vol. IV, Ch. 113]. “A benchmark is not merely a
+    directory of examples and a script that prints a score.” Before any run, it “must freeze the task, version,
+    population, split, metric, abstention policy, leakage boundary, resource model, and reporting semantics”, and it
+    must separate counterexample tasks into strata A–F and proof tasks into the seven types of §113.12.13.
+  established: |
+    The specification is complete and unexecuted. Its scoring rules include that “Stratum E evaluates whether the
+    system reports bounded unknown honestly; it does not reward a claim that the theorem is true”, and that “Hidden
+    proofs are protected evaluation assets, not canonical solution paths.”
+  proposer: "[@S01]."
+  background: "[@Zheng2022]; [@FormalConjectures2026]."
+  solved: "A release with the four boundaries of §113.1 frozen by digest, at least one item in every counterexample stratum and every proof-task type, a working challenge process (§113.12.15), and results for at least two systems reported stratum by stratum."
+  litcheck: "Benchmarks for formal and research mathematics exist [@Zheng2022; @FormalConjectures2026]; none found has the stratification, the abstention strata or the frozen constitution of Ch. 113."
+
+- num: 14
+  title: "The language forge, end to end"
+  work: S01
+  kind: machine
+  level: programme
+  thesis: 11
+  source: "Vol. III, Preface, p. 7956; §43.14, p. 8873; §44.16, pp. 8888–8889; §45.8, p. 8898"
+  pages: ["7956", "8873", "8888", "8889", "8898"]
+  status: "O"
+  statement: |
+    “The language forge follows a deliberately articulated cycle: collect, mine, name, notate, ground, reconstruct,
+    axiomatize, grow, re-encode, and validate.” Run the cycle of [@S01, Vol. III, Ch. 41–48] end to end on a published
+    corpus and produce a new notation and language package for a declared mathematical domain, with its metatheoretic
+    obligations discharged.
+  established: |
+    The source specifies each stage and leaves completeness open: “The order organizes a bounded language-formation
+    workflow and leaves completeness as an open research question.” It requires that “Notation earns trust by declaring
+    what it compresses, what it preserves, and what it cannot recover”, and that “An obligation is not promoted because
+    it is conventional for a language family or appears plausible from examples.”
+  proposer: "[@S01]."
+  background: "[@Ganesalingam2013]; [@CaretteFarmer2009]."
+  solved: "A package for a declared domain in which every introduced primitive is linked to the structural motifs and counterexamples that motivated it, whose substitution, preservation and conservativity obligations (§44.16) are machine-checked, and whose round trips (Ch. 43) pass on a held-out set of statements from the domain."
+  litcheck: "Work on mathematical concept formation and on the language of mathematics [@Ganesalingam2013] was found; no end-to-end language-formation system with these obligations was found."
+
+- num: 15
+  title: "A preregistered test of typed base change"
+  work: S01
+  kind: machine
+  level: entry
+  thesis: 1
+  source: "Vol. I, §11.12, p. 277 (Conjecture V1-CH-011-C001); definitions, pp. 275–276"
+  pages: ["277", "275", "276"]
+  status: "C (conjecture)"
+  statement: |
+    Test the conjecture of [@S01, Vol. I, §11.12]: “For a corpus whose categorical claims are already expressed as
+    finite typed diagrams, requiring an RCP/RCT pair for each use of “base change” will reduce orientation and
+    hypothesis errors relative to an untyped prose baseline.” Here an RCP (relative change passport) records the bases,
+    the base arrow and its variance, and an RCT (relative claim trace) records the status and hypotheses of the claim
+    made after the change (Definitions V1-CH-011-D003 and D004).
+  established: "“This is a falsifiable editorial-engineering conjecture. It requires a preregistered corpus, error taxonomy, reviewers, and comparison protocol; no performance result is claimed here.”"
+  proposer: "[@S01]."
+  background: "Preregistration [@Nosek2018]."
+  solved: "A study whose corpus, error taxonomy, reviewer assignment and analysis are registered before data are collected, with independent reviewers, reporting the result in either direction."
+  litcheck: "No study of this question was found."
+
+- num: 16
+  title: "A preregistered test of the four judgments of gluing"
+  work: S01
+  kind: machine
+  level: entry
+  thesis: 5
+  source: "Vol. I, §15.12, p. 361 (Conjecture V1-CH-015-C001)"
+  pages: ["361"]
+  status: "C"
+  statement: |
+    Test the conjecture of [@S01, Vol. I, §15.12]: “On a preregistered corpus of local-to-global mathematical
+    arguments, mandatory separation of compatibility, effectivity, uniqueness, and property return will reduce false
+    “gluing succeeds” judgments relative to an untyped prose baseline.”
+  established: "“Testing requires fixed cases, independent reviewers, and an error taxonomy; no empirical result is claimed here.”"
+  proposer: "[@S01]."
+  background: "[@Nosek2018]; descent in [@SGA4]."
+  solved: "A preregistered study as in Problem 15, reporting the result in either direction."
+  litcheck: "No study of this question was found."
+
+- num: 17
+  title: "A preregistered test of obstruction records"
+  work: S01
+  kind: machine
+  level: entry
+  thesis: 5
+  source: "Vol. I, Ch. 17, p. 404 (Conjecture V1-CH-017-C001)"
+  pages: ["404"]
+  status: "C"
+  statement: |
+    Test the conjecture of [@S01, Vol. I, Ch. 17]: “For a fixed benchmark of finite, fully enumerated lifting and
+    gluing problems with independently verified ground truth, requiring the fields of ObstructionRecordV1 will reduce
+    false “no solution” classifications relative to an otherwise identical checker that stores only a Boolean success
+    flag.”
+  established: "“This is an empirical systems conjecture, not a mathematical theorem.” The same section forbids the strengthening that every failed construction determines a cohomology class whose vanishing solves the problem."
+  proposer: "[@S01]."
+  background: "[@Nosek2018]; [@Giraud1971] for obstruction classes."
+  solved: "A preregistered comparison of the two checkers on a published benchmark with enumerated ground truth, reporting the false-negative rates of both with confidence intervals."
+  litcheck: "No study of this question was found."

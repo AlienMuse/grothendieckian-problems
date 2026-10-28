@@ -1,0 +1,472 @@
+{
+ "problem": 48,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "Voisin counterexample Hodge conjecture Kähler",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "Voisin counterexample Hodge conjecture Kähler",
+   "status": 200,
+   "results": [
+    {
+     "title": "Hodge conjecture",
+     "year": 2017,
+     "authors": [
+      "Baohua Fu"
+     ],
+     "venue": "Chinese Science Bulletin (Chinese Version)",
+     "id": "https://doi.org/10.1360/n972017-01397"
+    },
+    {
+     "title": "Hodge and generalized Hodge conjectures, coniveau and algebraic cycles",
+     "year": 2025,
+     "authors": [
+      "Claire Voisin"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.56994/jomp.001.001.002"
+    },
+    {
+     "title": "Topology of Lagrangian fibrations and Hodge theory of hyper-Kähler manifolds",
+     "year": 2021,
+     "authors": [
+      "Junliang Shen",
+      "Qizheng Yin"
+     ],
+     "venue": "Duke Mathematical Journal",
+     "id": "https://doi.org/10.1215/00127094-2021-0010"
+    },
+    {
+     "title": "Mumford Tate groups and the Hodge conjecture",
+     "year": 2023,
+     "authors": [
+      "Ananyo Dan",
+      "Inder Kaur"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2301.01005"
+    },
+    {
+     "title": "The Hodge conjecture: The complications of understanding the shape of geometric spaces",
+     "year": 2017,
+     "authors": [
+      "Vicente Muñoz Velázquez"
+     ],
+     "venue": "Mètode: Revista de difusió de la investigació de la Universitat de Valencia",
+     "id": "https://doi.org/10.7203/metode.8.8253"
+    },
+    {
+     "title": "Hodge classes of Chern character forms on compact Kähler manifolds",
+     "year": 2018,
+     "authors": [
+      "Andreas Andersson"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1808.03522"
+    },
+    {
+     "title": "Hodge Classes in Hodge Manifolds",
+     "year": 2025,
+     "authors": [
+      "Yong Seung Cho"
+     ],
+     "venue": "Advances in Pure Mathematics",
+     "id": "https://doi.org/10.4236/apm.2025.158026"
+    },
+    {
+     "title": "Beilinson's Hodge conjecture for smooth varieties",
+     "year": 2011,
+     "authors": [
+      "Rob de Jeu",
+      "Lewis, James D."
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1104.4364"
+    },
+    {
+     "title": "On the Kodaira problem for uniruled Kähler spaces",
+     "year": 2020,
+     "authors": [
+      "Patrick Graf",
+      "Martin Schwald"
+     ],
+     "venue": "Arkiv för matematik",
+     "id": "https://doi.org/10.4310/arkiv.2020.v58.n2.a3"
+    },
+    {
+     "title": "Evidence for a sublattice weak gravity conjecture",
+     "year": 2017,
+     "authors": [
+      "Ben Heidenreich",
+      "Matthew Reece B",
+      "Tom Rudelius"
+     ],
+     "venue": "Journal of High Energy Physics",
+     "id": "https://doi.org/10.1007/jhep08(2017)025"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "Voisin counterexample Hodge conjecture Kähler",
+   "status": 200,
+   "results": [
+    {
+     "title": "A counterexample to the Hodge conjecture extended to Kähler varieties.",
+     "year": "2002",
+     "authors": [
+      "Voisin, Claire"
+     ],
+     "venue": "IMRN. International Mathematics Research Notices",
+     "id": "zbMATH 1048.14004"
+    }
+   ]
+  },
+  {
+   "source": "Crossref",
+   "query": "Voisin counterexample Hodge conjecture Kähler",
+   "status": 200,
+   "results": [
+    {
+     "title": "A Counterexample to the Hodge Conjecture via the Fermat Quintic",
+     "year": 2025,
+     "authors": [
+      "Fujioka Tomori"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.5180689"
+    },
+    {
+     "title": "The Hodge Conjecture",
+     "year": 2016,
+     "authors": [
+      "Claire Voisin"
+     ],
+     "venue": "Open Problems in Mathematics",
+     "id": "doi:10.1007/978-3-319-32162-2_17"
+    },
+    {
+     "title": "On the Lefschetz standard conjecture for Lagrangian covered hyper-Kähler varieties",
+     "year": 2022,
+     "authors": [
+      "Claire Voisin"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "doi:10.1016/j.aim.2021.108108"
+    },
+    {
+     "title": "Kähler manifolds",
+     "year": 2016,
+     "authors": [],
+     "venue": "CRM Monograph Series A Survey of the Hodge Conjecture",
+     "id": "doi:10.1090/crmm/010/03"
+    },
+    {
+     "title": "A strong version of the Beauville–Voisin conjecture for certain hyper-Kähler fourfolds",
+     "year": 2026,
+     "authors": [
+      "Robert Laterveer"
+     ],
+     "venue": "manuscripta mathematica",
+     "id": "doi:10.1007/s00229-026-01733-3"
+    },
+    {
+     "title": "Some aspects of the Hodge conjecture",
+     "year": 2007,
+     "authors": [
+      "Claire Voisin"
+     ],
+     "venue": "Japanese Journal of Mathematics",
+     "id": "doi:10.1007/s11537-007-0639-x"
+    },
+    {
+     "title": "Analytic and topological necessities of the Kähler condition",
+     "year": 2016,
+     "authors": [],
+     "venue": "CRM Monograph Series A Survey of the Hodge Conjecture",
+     "id": "doi:10.1090/crmm/010/11"
+    },
+    {
+     "title": "Cohomologie non ramifiée et conjecture de Hodge entière",
+     "year": 2012,
+     "authors": [
+      "Jean-Louis Colliot-Thélène",
+      "Claire Voisin"
+     ],
+     "venue": "Duke Mathematical Journal",
+     "id": "doi:10.1215/00127094-1548389"
+    },
+    {
+     "title": "Hodge Theory, Algebraic Cycles of Hyper-Kähler Manifolds",
+     "year": null,
+     "authors": [
+      "Chenyu Bai"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/8d769e2azf999z476ez82dczc3ab1ed51171"
+    },
+    {
+     "title": "A counterexample to the complex polynomial Koebe radius conjecture",
+     "year": 2026,
+     "authors": [
+      "Aran S. Ziegler"
+     ],
+     "venue": "",
+     "id": "doi:10.21203/rs.3.rs-11340098/v1"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "Weil torus Hodge class not algebraic Kähler",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "Weil torus Hodge class not algebraic Kähler",
+   "status": 200,
+   "results": [
+    {
+     "title": "Hodge theory, algebraic cycles of hyper-Kähler manifolds",
+     "year": 2024,
+     "authors": [
+      "Chenyu Bai"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2407.19488"
+    },
+    {
+     "title": "Hodge theory on nearly Kähler manifolds",
+     "year": 2011,
+     "authors": [
+      "Misha Verbitsky"
+     ],
+     "venue": "Geometry & Topology",
+     "id": "https://doi.org/10.2140/gt.2011.15.2111"
+    },
+    {
+     "title": "Hyperkähler sixfolds, abelian fourfolds of Weil type and a Hodge class",
+     "year": 2026,
+     "authors": [
+      "Bert van Geemen",
+      "Antonio Rapagnetta"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.18341"
+    },
+    {
+     "title": "Hodge Classes in Hodge Manifolds",
+     "year": 2025,
+     "authors": [
+      "Yong Seung Cho"
+     ],
+     "venue": "Advances in Pure Mathematics",
+     "id": "https://doi.org/10.4236/apm.2025.158026"
+    },
+    {
+     "title": "Pseudo-Kähler Geometry of Properly Convex Projective Structures on the torus",
+     "year": 2024,
+     "authors": [
+      "Nicholas Rungi",
+      "Andrea Tamburelli"
+     ],
+     "venue": "Journal of Geometric Analysis",
+     "id": "https://doi.org/10.1007/s12220-023-01491-8"
+    },
+    {
+     "title": "Gromov–Hausdorff limits of Kähler manifolds and algebraic geometry, II",
+     "year": 2017,
+     "authors": [
+      "Simon K Donaldson",
+      "Song Sun"
+     ],
+     "venue": "Journal of Differential Geometry",
+     "id": "https://doi.org/10.4310/jdg/1506650422"
+    },
+    {
+     "title": "Kähler manifolds and transcendental techniques in algebraic geometry",
+     "year": 2007,
+     "authors": [
+      "Jean-Pierre Demailly"
+     ],
+     "venue": "Proceedings of the International Congress of Mathematicians Madrid, August 22–30, 2006",
+     "id": "https://doi.org/10.4171/022-1/8"
+    },
+    {
+     "title": "Non-abelian Hodge correspondence over singular Kähler spaces",
+     "year": 2026,
+     "authors": [
+      "Chuanjing Zhang",
+      "Zhang, Shiyu",
+      "Zhang, Xi"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2601.13071"
+    },
+    {
+     "title": "Hodge and generalized Hodge conjectures, coniveau and algebraic cycles",
+     "year": 2025,
+     "authors": [
+      "Claire Voisin"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.56994/jomp.001.001.002"
+    },
+    {
+     "title": "Ricci-Flat Kähler Metrics on Affine Algebraic Manifolds and Degenerations of Kähler–Einstein K3 Surfaces",
+     "year": 2018,
+     "authors": [
+      "Ryoichi Kobayashi"
+     ],
+     "venue": "Advanced studies in pure mathematics",
+     "id": "https://doi.org/10.2969/aspm/01820137"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "Weil torus Hodge class not algebraic Kähler",
+   "status": 200,
+   "results": [
+    {
+     "title": "A counterexample to the Hodge conjecture extended to Kähler varieties.",
+     "year": "2002",
+     "authors": [
+      "Voisin, Claire"
+     ],
+     "venue": "IMRN. International Mathematics Research Notices",
+     "id": "zbMATH 1048.14004"
+    },
+    {
+     "title": "Algebraic geometry versus Kähler geometry",
+     "year": "2010",
+     "authors": [
+      "Voisin, Claire"
+     ],
+     "venue": "Milan Journal of Mathematics",
+     "id": "zbMATH 1217.14009"
+    },
+    {
+     "title": "Footnotes to papers of O'Grady and Markman",
+     "year": "2022",
+     "authors": [
+      "Voisin, Claire"
+     ],
+     "venue": "Mathematische Zeitschrift",
+     "id": "zbMATH 1506.14017"
+    },
+    {
+     "title": "Fourfolds of Weil type and the spinor map",
+     "year": "2023",
+     "authors": [
+      "van Geemen, Bert"
+     ],
+     "venue": "Expositiones Mathematicae",
+     "id": "zbMATH 1522.14054"
+    }
+   ]
+  },
+  {
+   "source": "Crossref",
+   "query": "Weil torus Hodge class not algebraic Kähler",
+   "status": 200,
+   "results": [
+    {
+     "title": "Hodge Theory, Algebraic Cycles of Hyper-Kähler Manifolds",
+     "year": null,
+     "authors": [
+      "Chenyu Bai"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/8d769e2azf999z476ez82dczc3ab1ed51171"
+    },
+    {
+     "title": "Kähler Metrics",
+     "year": 2002,
+     "authors": [],
+     "venue": "Hodge Theory and Complex Algebraic Geometry I",
+     "id": "doi:10.1017/cbo9780511615344.004"
+    },
+    {
+     "title": "The Case of Kähler Manifolds",
+     "year": 2002,
+     "authors": [],
+     "venue": "Hodge Theory and Complex Algebraic Geometry I",
+     "id": "doi:10.1017/cbo9780511615344.007"
+    },
+    {
+     "title": "Kähler hyperbolicity and variations of Hodge structures",
+     "year": 1999,
+     "authors": [
+      "Philippe Eyssidieux"
+     ],
+     "venue": "New Trends in Algebraic Geometry",
+     "id": "doi:10.1017/cbo9780511721540.005"
+    },
+    {
+     "title": "Rational Hodge isometries of hyper-Kähler varieties of  type are algebraic",
+     "year": 2024,
+     "authors": [
+      "Eyal Markman"
+     ],
+     "venue": "Compositio Mathematica",
+     "id": "doi:10.1112/s0010437x24007048"
+    },
+    {
+     "title": "The cohomology of a variation of polarized Hodge structures over a quasi-compact Kähler manifold",
+     "year": 2007,
+     "authors": [
+      "Jürgen Jost",
+      "Yi-Hu Yang",
+      "Kang Zuo"
+     ],
+     "venue": "Journal of Algebraic Geometry",
+     "id": "doi:10.1090/s1056-3911-07-00468-7"
+    },
+    {
+     "title": "Mapping Class Groups of Simply Connected Kähler Manifolds",
+     "year": 2025,
+     "authors": [
+      "Richard Hain"
+     ],
+     "venue": "Simons Symposia Current Developments in Hodge Theory",
+     "id": "doi:10.1007/978-3-031-99683-2_9"
+    },
+    {
+     "title": "On Kähler Manifolds with Vanishing Canonical Class",
+     "year": 1957,
+     "authors": [
+      "Eugenio Calabi"
+     ],
+     "venue": "Algebraic Geometry and Topology",
+     "id": "doi:10.1515/9781400879915-006"
+    },
+    {
+     "title": "Asymptotics of a class of Weil–Petersson geodesics and divergence of Weil–Petersson geodesics",
+     "year": 2016,
+     "authors": [
+      "Babak Modami"
+     ],
+     "venue": "Algebraic &amp; Geometric Topology",
+     "id": "doi:10.2140/agt.2016.16.267"
+    },
+    {
+     "title": "The smooth Mordell–Weil group and mapping class groups of elliptic surfaces",
+     "year": 2025,
+     "authors": [
+      "Benson Farb",
+      "Eduard Looijenga"
+     ],
+     "venue": "Algebraic Geometry",
+     "id": "doi:10.14231/ag-2025-025"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,344 @@
+{
+ "problem": 35,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "cubical type theory transport external checker interoperability Lean",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "cubical type theory transport external checker interoperability Lean",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "cubical type theory transport external checker interoperability Lean",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "cubical type theory transport external checker interoperability Lean",
+   "status": 200,
+   "results": [
+    {
+     "title": "Spectral theorems of voigt type for linear Boltzmann equation with external field",
+     "year": 1998,
+     "authors": [
+      "J. Banasiak"
+     ],
+     "venue": "Transport Theory and Statistical Physics",
+     "id": "doi:10.1080/00411459808205623"
+    },
+    {
+     "title": "Internal Parametricity for Cubical Type Theory",
+     "year": 2021,
+     "authors": [
+      "Evan Cavallo",
+      "Robert Harper"
+     ],
+     "venue": "Logical Methods in Computer Science",
+     "id": "doi:10.46298/lmcs-17(4:5)2021"
+    },
+    {
+     "title": "Preliminaries",
+     "year": 2015,
+     "authors": [],
+     "venue": "Cubical Homotopy Theory",
+     "id": "doi:10.1017/cbo9781139343329.002"
+    },
+    {
+     "title": "Some category theory",
+     "year": 2015,
+     "authors": [],
+     "venue": "Cubical Homotopy Theory",
+     "id": "doi:10.1017/cbo9781139343329.008"
+    },
+    {
+     "title": "Appendix",
+     "year": 2015,
+     "authors": [],
+     "venue": "Cubical Homotopy Theory",
+     "id": "doi:10.1017/cbo9781139343329.012"
+    },
+    {
+     "title": "Canonicity for Cubical Type Theory",
+     "year": 2018,
+     "authors": [
+      "Simon Huber"
+     ],
+     "venue": "Journal of Automated Reasoning",
+     "id": "doi:10.1007/s10817-018-9469-1"
+    },
+    {
+     "title": "Normalization for Cubical Type Theory",
+     "year": 2021,
+     "authors": [
+      "Jonathan Sterling",
+      "Carlo Angiuli"
+     ],
+     "venue": "2021 36th Annual ACM/IEEE Symposium on Logic in Computer Science (LICS)",
+     "id": "doi:10.1109/lics52264.2021.9470719"
+    },
+    {
+     "title": "Implementation of Two Layers Type Theory in Dedukti and Application to Cubical Type Theory",
+     "year": 2021,
+     "authors": [
+      "Bruno Barras",
+      "Valentin Maestracci"
+     ],
+     "venue": "Electronic Proceedings in Theoretical Computer Science",
+     "id": "doi:10.4204/eptcs.332.4"
+    },
+    {
+     "title": "Applications",
+     "year": 2015,
+     "authors": [],
+     "venue": "Cubical Homotopy Theory",
+     "id": "doi:10.1017/cbo9781139343329.011"
+    },
+    {
+     "title": "References",
+     "year": 2015,
+     "authors": [],
+     "venue": "Cubical Homotopy Theory",
+     "id": "doi:10.1017/cbo9781139343329.013"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "univalence computation cubical Agda proof transfer",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "univalence computation cubical Agda proof transfer",
+   "status": 200,
+   "results": [
+    {
+     "title": "Cubical agda: a dependently typed programming language with univalence and higher inductive types",
+     "year": 2019,
+     "authors": [
+      "Andrea Vezzosi",
+      "Anders Mörtberg",
+      "Andreas M. Abel"
+     ],
+     "venue": "Proceedings of the ACM on Programming Languages",
+     "id": "https://doi.org/10.1145/3341691"
+    },
+    {
+     "title": "Internalizing representation independence with univalence",
+     "year": 2021,
+     "authors": [
+      "Carlo Angiuli",
+      "Evan Cavallo",
+      "Anders Mörtberg",
+      "Max Zeuner"
+     ],
+     "venue": "Proceedings of the ACM on Programming Languages",
+     "id": "https://doi.org/10.1145/3434293"
+    },
+    {
+     "title": "Computing Cohomology Rings in Cubical Agda",
+     "year": 2023,
+     "authors": [
+      "Thomas Lamiaux",
+      "Axel Ljungström",
+      "Anders Mörtberg"
+     ],
+     "venue": "ACM SIGPLAN International Conference on Certified Programs and Proofs (CPP)",
+     "id": "https://doi.org/10.1145/3573105.3575677"
+    },
+    {
+     "title": "Trocq: Proof Transfer for Free, With or Without Univalence",
+     "year": 2024,
+     "authors": [
+      "Cyril Cohen",
+      "Enzo Crance",
+      "Assia Mahboubi"
+     ],
+     "venue": "Lecture notes in computer science",
+     "id": "https://doi.org/10.1007/978-3-031-57262-3_10"
+    },
+    {
+     "title": "Trocq: Proof Transfer for Free, Beyond Equivalence and Univalence",
+     "year": 2025,
+     "authors": [
+      "Cyril Cohen",
+      "Enzo Crance",
+      "Assia Mahboubi"
+     ],
+     "venue": "ACM Transactions on Programming Languages and Systems",
+     "id": "https://doi.org/10.1145/3737283"
+    },
+    {
+     "title": "Formalizing the Real Numbers in Homotopy Type Theory with Cubical Agda",
+     "year": 2026,
+     "authors": [
+      "Jackson Brough"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2604.24782"
+    },
+    {
+     "title": "Formalising and Computing the Fourth Homotopy Group of the $3$-Sphere in Cubical Agda",
+     "year": 2023,
+     "authors": [
+      "Axel Ljungström",
+      "Anders Mörtberg"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2302.00151"
+    },
+    {
+     "title": "Decomposing the Univalence Axiom",
+     "year": 2017,
+     "authors": [
+      "Ian Orton",
+      "Andrew M. Pitts"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.4230/lipics.types.2017.6"
+    },
+    {
+     "title": "Univalence without function extensionality",
+     "year": 2026,
+     "authors": [
+      "Evan Cavallo",
+      "Jonas Höfer"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.00812"
+    },
+    {
+     "title": "Axioms for Modelling Cubical Type Theory in a Topos",
+     "year": 2016,
+     "authors": [
+      "Ian Orton",
+      "Andrew M. Pitts"
+     ],
+     "venue": "DROPS (Schloss Dagstuhl – Leibniz Center for Informatics)",
+     "id": "https://doi.org/10.4230/lipics.csl.2016.24"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "univalence computation cubical Agda proof transfer",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "univalence computation cubical Agda proof transfer",
+   "status": 200,
+   "results": [
+    {
+     "title": "Source code for examples from article Cubical Agda",
+     "year": 2019,
+     "authors": [
+      "Andrea Vezzosi",
+      "Anders M�rtberg",
+      "Andreas Abel"
+     ],
+     "venue": "Artifact Digital Object Group",
+     "id": "doi:10.1145/3342524"
+    },
+    {
+     "title": "Cubical Agda: A dependently typed programming language with univalence and higher inductive types",
+     "year": 2021,
+     "authors": [
+      "ANDREA VEZZOSI",
+      "ANDERS MÖRTBERG",
+      "ANDREAS ABEL"
+     ],
+     "venue": "Journal of Functional Programming",
+     "id": "doi:10.1017/s0956796821000034"
+    },
+    {
+     "title": "Cubical agda: a dependently typed programming language with univalence and higher inductive types",
+     "year": 2019,
+     "authors": [
+      "Andrea Vezzosi",
+      "Anders Mörtberg",
+      "Andreas Abel"
+     ],
+     "venue": "Proceedings of the ACM on Programming Languages",
+     "id": "doi:10.1145/3341691"
+    },
+    {
+     "title": "Introduction to Constructive Proof",
+     "year": 2016,
+     "authors": [],
+     "venue": "Verified Functional Programming in Agda",
+     "id": "doi:10.1145/2841316.2841319"
+    },
+    {
+     "title": "HIGHER SCHREIER THEORY IN CUBICAL AGDA",
+     "year": 2025,
+     "authors": [
+      "DAVID JAZ MYERS",
+      "ZYAD YASSER"
+     ],
+     "venue": "The Journal of Symbolic Logic",
+     "id": "doi:10.1017/jsl.2024.78"
+    },
+    {
+     "title": "Formalizing 𝜋-calculus in guarded cubical Agda",
+     "year": 2020,
+     "authors": [
+      "Niccolò Veltri",
+      "Andrea Vezzosi"
+     ],
+     "venue": "Proceedings of the 9th ACM SIGPLAN International Conference on Certified Programs and Proofs",
+     "id": "doi:10.1145/3372885.3373814"
+    },
+    {
+     "title": "Type-Level Computation",
+     "year": 2016,
+     "authors": [],
+     "venue": "Verified Functional Programming in Agda",
+     "id": "doi:10.1145/2841316.2841323"
+    },
+    {
+     "title": "Computing Cohomology Rings in Cubical Agda",
+     "year": 2023,
+     "authors": [
+      "Thomas Lamiaux",
+      "Axel Ljungström",
+      "Anders Mörtberg"
+     ],
+     "venue": "Proceedings of the 12th ACM SIGPLAN International Conference on Certified Programs and Proofs",
+     "id": "doi:10.1145/3573105.3575677"
+    },
+    {
+     "title": "Formalizing CCS and π-calculus in Guarded Cubical Agda",
+     "year": 2023,
+     "authors": [
+      "Niccolò Veltri",
+      "Andrea Vezzosi"
+     ],
+     "venue": "Journal of Logical and Algebraic Methods in Programming",
+     "id": "doi:10.1016/j.jlamp.2022.100846"
+    },
+    {
+     "title": "Three equivalent ordinal notation systems in cubical Agda",
+     "year": 2020,
+     "authors": [
+      "Fredrik Nordvall Forsberg",
+      "Chuangjie Xu",
+      "Neil Ghani"
+     ],
+     "venue": "Proceedings of the 9th ACM SIGPLAN International Conference on Certified Programs and Proofs",
+     "id": "doi:10.1145/3372885.3373835"
+    }
+   ]
+  }
+ ]
+}

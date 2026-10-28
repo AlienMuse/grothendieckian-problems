@@ -1,0 +1,442 @@
+{
+ "problem": 57,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "coherence theorem mode theory multimodal type theory",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "coherence theorem mode theory multimodal type theory",
+   "status": 200,
+   "results": [
+    {
+     "title": "Multimodal Dependent Type Theory",
+     "year": 2020,
+     "authors": [
+      "Daniel Gratzer",
+      "G. A. Kavvos",
+      "Andreas Nuyts",
+      "Lars Birkedal"
+     ],
+     "venue": "ACM/IEEE Symposium on Logic in Computer Science (LICS)",
+     "id": "https://doi.org/10.1145/3373718.3394736"
+    },
+    {
+     "title": "Multimodal Dependent Type Theory",
+     "year": 2021,
+     "authors": [
+      "Daniel Gratzer",
+      "G. A. Kavvos",
+      "Andreas Nuyts",
+      "Lars Birkedal"
+     ],
+     "venue": "Logical Methods in Computer Science",
+     "id": "https://doi.org/10.46298/lmcs-17(3:11)2021"
+    },
+    {
+     "title": "Normalization and coherence for $\\infty$-type theories",
+     "year": 2022,
+     "authors": [
+      "Taichi Uemura"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2212.11764"
+    },
+    {
+     "title": "Normalization for multimodal type theory",
+     "year": 2026,
+     "authors": [
+      "Daniel Gratzer"
+     ],
+     "venue": "Logical Methods in Computer Science",
+     "id": "https://doi.org/10.46298/lmcs-22(1:27)2026"
+    },
+    {
+     "title": "Semantics of multimodal adjoint type theory",
+     "year": 2023,
+     "authors": [
+      "Michael Shulman"
+     ],
+     "venue": "Electronic Notes in Theoretical Informatics and Computer Science",
+     "id": "https://doi.org/10.46298/entics.12300"
+    },
+    {
+     "title": "Unifying cubical and multimodal type theory",
+     "year": 2024,
+     "authors": [
+      "Frederik Lerbjerg Aagaard",
+      "Magnus Baunsgaard Kristensen",
+      "Daniel Gratzer",
+      "Lars Birkedal"
+     ],
+     "venue": "Logical Methods in Computer Science",
+     "id": "https://doi.org/10.46298/lmcs-20(4:25)2024"
+    },
+    {
+     "title": "The Yoneda embedding in simplicial type theory",
+     "year": 2025,
+     "authors": [
+      "Daniel Gratzer",
+      "Jonathan Weinberger",
+      "Ulrik Torben Buchholtz"
+     ],
+     "venue": "ACM/IEEE Symposium on Logic in Computer Science (LICS)",
+     "id": "https://doi.org/10.1109/lics65433.2025.00017"
+    },
+    {
+     "title": "Displayed type theory and semi-simplicial types",
+     "year": 2025,
+     "authors": [
+      "Astra Kolomatskaia",
+      "Michael Shulman"
+     ],
+     "venue": "Mathematical Structures in Computer Science",
+     "id": "https://doi.org/10.1017/s096012952510025x"
+    },
+    {
+     "title": "Homotopy type theory as a language for diagrams of $\\infty$-logoses",
+     "year": 2026,
+     "authors": [
+      "Taichi Uemura"
+     ],
+     "venue": "Logical Methods in Computer Science",
+     "id": "https://doi.org/10.46298/lmcs-22(1:25)2026"
+    },
+    {
+     "title": "Relative induction principles for type theories",
+     "year": 2021,
+     "authors": [
+      "Rafaël Bocquet",
+      "Ambrus Kaposi",
+      "Christian Sattler"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2102.11649"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "coherence theorem mode theory multimodal type theory",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "coherence theorem mode theory multimodal type theory",
+   "status": 200,
+   "results": [
+    {
+     "title": "The Hahn-Banach theorem in type theory",
+     "year": 1998,
+     "authors": [
+      "Jan Cederquist",
+      "Thierry Coquand"
+     ],
+     "venue": "Twenty Five Years of Constructive Type Theory",
+     "id": "doi:10.1093/oso/9780198501275.003.0006"
+    },
+    {
+     "title": "Coherence",
+     "year": 2000,
+     "authors": [],
+     "venue": "Character Theory for the Odd Order Theorem",
+     "id": "doi:10.1017/cbo9780511565861.008"
+    },
+    {
+     "title": "A coherence theorem for Martin-Löf's type theory",
+     "year": 1998,
+     "authors": [
+      "MICHAEL HEDBERG"
+     ],
+     "venue": "Journal of Functional Programming",
+     "id": "doi:10.1017/s0956796898003153"
+    },
+    {
+     "title": "Some Coherence Theorems",
+     "year": 2000,
+     "authors": [],
+     "venue": "Character Theory for the Odd Order Theorem",
+     "id": "doi:10.1017/cbo9780511565861.009"
+    },
+    {
+     "title": "Oka’s First Coherence Theorem",
+     "year": 2016,
+     "authors": [
+      "Junjiro Noguchi"
+     ],
+     "venue": "Analytic Function Theory of Several Variables",
+     "id": "doi:10.1007/978-981-10-0291-5_2"
+    },
+    {
+     "title": "Type Theory, Computation and Interactive Theorem Proving",
+     "year": 2015,
+     "authors": [
+      "Jeremy Avigad",
+      "Robert Harper"
+     ],
+     "venue": "",
+     "id": "doi:10.21236/ad1003773"
+    },
+    {
+     "title": "Power Transport Theorem Based Decoupling Mode Theory for Wave-guiding Structures",
+     "year": 2021,
+     "authors": [
+      "Renzun Lian",
+      "Mingyao Xia"
+     ],
+     "venue": "",
+     "id": "doi:10.36227/techrxiv.15145197"
+    },
+    {
+     "title": "A rewriting coherence theorem with applications in homotopy type theory",
+     "year": 2022,
+     "authors": [
+      "Nicolai Kraus",
+      "Jakob von Raumer"
+     ],
+     "venue": "Mathematical Structures in Computer Science",
+     "id": "doi:10.1017/s0960129523000026"
+    },
+    {
+     "title": "What is a mode? Smell, olfactory perception, and the notion of mode in multimodal mediated theory",
+     "year": 2013,
+     "authors": [
+      "Sigrid Norris"
+     ],
+     "venue": "Journal Multimodal Communication",
+     "id": "doi:10.1515/mc-2013-0008"
+    },
+    {
+     "title": "A coherence theorem for pseudo symmetric multifunctors",
+     "year": 2024,
+     "authors": [
+      "Diego Manco"
+     ],
+     "venue": "Theory and Applications of Categories",
+     "id": "doi:10.70930/tac/72o7futf"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "decidability 2-cells mode theory modal type theory",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "decidability 2-cells mode theory modal type theory",
+   "status": 200,
+   "results": [
+    {
+     "title": "Syntax and semantics of modal type theory",
+     "year": 2023,
+     "authors": [
+      "Daniel Gratzer"
+     ],
+     "venue": null,
+     "id": "https://openalex.org/W4412231425"
+    },
+    {
+     "title": "Multimodal Dependent Type Theory",
+     "year": 2020,
+     "authors": [
+      "Daniel Gratzer",
+      "G. A. Kavvos",
+      "Andreas Nuyts",
+      "Lars Birkedal"
+     ],
+     "venue": "ACM/IEEE Symposium on Logic in Computer Science (LICS)",
+     "id": "https://doi.org/10.1145/3373718.3394736"
+    },
+    {
+     "title": "Multimodal Dependent Type Theory",
+     "year": 2021,
+     "authors": [
+      "Daniel Gratzer",
+      "G. A. Kavvos",
+      "Andreas Nuyts",
+      "Lars Birkedal"
+     ],
+     "venue": "Logical Methods in Computer Science",
+     "id": "https://doi.org/10.46298/lmcs-17(3:11)2021"
+    },
+    {
+     "title": "Normalization for multimodal type theory",
+     "year": 2021,
+     "authors": [
+      "Daniel Gratzer"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2106.01414"
+    },
+    {
+     "title": "Normalization for multimodal type theory",
+     "year": 2026,
+     "authors": [
+      "Daniel Gratzer"
+     ],
+     "venue": "Logical Methods in Computer Science",
+     "id": "https://doi.org/10.46298/lmcs-22(1:27)2026"
+    },
+    {
+     "title": "Essentialism, modality and The Direct Reference Theory /",
+     "year": 2020,
+     "authors": [
+      "Thainá Coltro Demartini"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.47749/t/unicamp.2020.1129050"
+    },
+    {
+     "title": "{mitten}: A Flexible Multimodal Proof Assistant",
+     "year": 2023,
+     "authors": [
+      "Philipp Jan Andries Stassen",
+      "Daniel Gratzer",
+      "Lars Birkedal"
+     ],
+     "venue": "DROPS (Schloss Dagstuhl – Leibniz Center for Informatics)",
+     "id": "https://doi.org/10.4230/lipics.types.2022.6"
+    },
+    {
+     "title": "Homotopy Type Theory: The Logic of Space",
+     "year": 2021,
+     "authors": [
+      "Michael Shulman"
+     ],
+     "venue": "Cambridge University Press eBooks",
+     "id": "https://doi.org/10.1017/9781108854429.009"
+    },
+    {
+     "title": "Semantics of multimodal adjoint type theory",
+     "year": 2023,
+     "authors": [
+      "Michael Shulman"
+     ],
+     "venue": "Electronic Notes in Theoretical Informatics and Computer Science",
+     "id": "https://doi.org/10.46298/entics.12300"
+    },
+    {
+     "title": "Behavioural Types: from Theory to Tools",
+     "year": 2017,
+     "authors": [
+      "Simon L. Gay",
+      "António Ravara"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.13052/rp-9788793519817"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "decidability 2-cells mode theory modal type theory",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "decidability 2-cells mode theory modal type theory",
+   "status": 200,
+   "results": [
+    {
+     "title": "Decidability in Elementary Number Theory",
+     "year": 2025,
+     "authors": [],
+     "venue": "Introduction to Homotopy Type Theory",
+     "id": "doi:10.1017/9781108933568.010"
+    },
+    {
+     "title": "Modal Types",
+     "year": 2020,
+     "authors": [
+      "David Corfield"
+     ],
+     "venue": "Modal Homotopy Type Theory",
+     "id": "doi:10.1093/oso/9780198853404.003.0004"
+    },
+    {
+     "title": "Decidability of conversion for type theory in type theory",
+     "year": 2017,
+     "authors": [
+      "Andreas Abel",
+      "Joakim Öhman",
+      "Andrea Vezzosi"
+     ],
+     "venue": "Proceedings of the ACM on Programming Languages",
+     "id": "doi:10.1145/3158111"
+    },
+    {
+     "title": "Modal Homotopy Type Theory",
+     "year": 2020,
+     "authors": [
+      "David Corfield"
+     ],
+     "venue": "",
+     "id": "doi:10.1093/oso/9780198853404.001.0001"
+    },
+    {
+     "title": "The internal logic and decidability",
+     "year": 1994,
+     "authors": [],
+     "venue": "Computation and Reasoning",
+     "id": "doi:10.1093/oso/9780198538356.003.0005"
+    },
+    {
+     "title": "Decidability, undecidability and partial decidability",
+     "year": 1980,
+     "authors": [],
+     "venue": "Computability",
+     "id": "doi:10.1017/cbo9781139171496.008"
+    },
+    {
+     "title": "Conclusion",
+     "year": 2020,
+     "authors": [
+      "David Corfield"
+     ],
+     "venue": "Modal Homotopy Type Theory",
+     "id": "doi:10.1093/oso/9780198853404.003.0006"
+    },
+    {
+     "title": "Graded Modal Dependent Type Theory",
+     "year": 2021,
+     "authors": [
+      "Dominic Orchard",
+      "Harley Eades",
+      "Benjamin Moon"
+     ],
+     "venue": "",
+     "id": "doi:10.26226/morressier.604907f41a80aac83ca25d17"
+    },
+    {
+     "title": "Local Variations on a Loose Theme: Modal Logic and Decidability",
+     "year": null,
+     "authors": [
+      "Maarten Marx",
+      "Yde Venema"
+     ],
+     "venue": "Texts in Theoretical Computer Science an EATCS Series Finite Model Theory and Its Applications",
+     "id": "doi:10.1007/3-540-68804-8_7"
+    },
+    {
+     "title": "Spatial Types",
+     "year": 2020,
+     "authors": [
+      "David Corfield"
+     ],
+     "venue": "Modal Homotopy Type Theory",
+     "id": "doi:10.1093/oso/9780198853404.003.0005"
+    }
+   ]
+  }
+ ]
+}

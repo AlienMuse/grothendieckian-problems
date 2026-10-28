@@ -1,0 +1,80 @@
+{
+ "id": "selection",
+ "number": 2,
+ "size_mm": [
+  132.0,
+  106.0
+ ],
+ "footer": "The 57 Grothendieckian Problems · Vincent Liu · doi:10.5281/zenodo.23734427 · CC BY 4.0",
+ "title": "HOW THE PROBLEMS WERE CHOSEN",
+ "right": "SECTIONS 1.1 AND 1.3",
+ "works": [
+  {
+   "work": "S01",
+   "n": 73
+  },
+  {
+   "work": "S02",
+   "n": 113
+  },
+  {
+   "work": "S03",
+   "n": 111
+  },
+  {
+   "work": "S04",
+   "n": 136
+  },
+  {
+   "work": "S05",
+   "n": 179
+  },
+  {
+   "work": "S06",
+   "n": 204
+  },
+  {
+   "work": "S07",
+   "n": 224
+  }
+ ],
+ "total": 1040,
+ "rules": [
+  "The problem is stated in the source.",
+  "The problem is not a named conjecture.",
+  "The problem is open as far as we can determine.",
+  "The problem has a decision criterion."
+ ],
+ "searched": [
+  "arXiv · OpenAlex · zbMATH Open · Crossref",
+  "the Lean 4 repository, Mathlib and Formal Conjectures"
+ ],
+ "queries": 114,
+ "replaced": [
+  26,
+  39,
+  40,
+  45,
+  47
+ ],
+ "narrowed": [
+  34,
+  38
+ ],
+ "final": {
+  "n": 57,
+  "p1": 35,
+  "p2": 22,
+  "kinds": [
+   25,
+   19,
+   13
+  ]
+ },
+ "heads": [
+  "ITEMS STATED AS OPEN, CONDITIONAL, CONJECTURAL OR OWED",
+  "FOUR RULES",
+  "LITERATURE CHECK · 28 OCTOBER 2026",
+  "PROBLEMS"
+ ]
+}

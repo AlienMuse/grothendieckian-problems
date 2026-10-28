@@ -1,0 +1,427 @@
+{
+ "problem": 45,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "delta structure archimedean Hodge structure Frobenius lift",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "delta structure archimedean Hodge structure Frobenius lift",
+   "status": 200,
+   "results": [
+    {
+     "title": "An Archimedean Realization of Enhanced Hodge Atoms via Integral Stokes Structures",
+     "year": 2025,
+     "authors": [
+      "Platek, Nir"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.5281/zenodo.17926264"
+    },
+    {
+     "title": "Frobenius’ theta function and Arakelov invariants in genus three",
+     "year": 2020,
+     "authors": [
+      "Robin de Jong"
+     ],
+     "venue": "Pure and Applied Mathematics Quarterly",
+     "id": "https://doi.org/10.4310/pamq.2020.v16.n5.a2"
+    },
+    {
+     "title": "Pluripotential theory for tropical toric varieties and non-Archimedean Monge–Ampère equations",
+     "year": 2024,
+     "authors": [
+      "José Ignacio Burgos Gil",
+      "Walter Gubler",
+      "Philipp Jell",
+      "Klaus Künnemann"
+     ],
+     "venue": "Kyoto journal of mathematics",
+     "id": "https://doi.org/10.1215/21562261-2024-0010"
+    },
+    {
+     "title": "l-Adic étale cohomology of Shimura varieties of Hodge type with non-trivial coefficients",
+     "year": 2019,
+     "authors": [
+      "Paul Hamacher",
+      "Wansu Kim"
+     ],
+     "venue": "Mathematische Annalen",
+     "id": "https://doi.org/10.1007/s00208-019-01815-6"
+    },
+    {
+     "title": "Comparison of prismatic cohomology and derived de Rham cohomology",
+     "year": 2023,
+     "authors": [
+      "Shizhang Li",
+      "Tong Liu"
+     ],
+     "venue": "Journal of the European Mathematical Society",
+     "id": "https://doi.org/10.4171/jems/1377"
+    },
+    {
+     "title": "Crystalline representations and Wach modules in the relative case",
+     "year": 2024,
+     "authors": [
+      "Abhinandan Abhinandan"
+     ],
+     "venue": "Annales de l’institut Fourier",
+     "id": "https://doi.org/10.5802/aif.3670"
+    },
+    {
+     "title": "The spectral $p$-adic Jacquet-Langlands correspondence and a question of Serre",
+     "year": 2018,
+     "authors": [
+      "Sean Howe"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1806.06807"
+    },
+    {
+     "title": "The spectral p -adic Jacquet–Langlands correspondence and a question of Serre",
+     "year": 2022,
+     "authors": [
+      "Sean Howe"
+     ],
+     "venue": "Compositio Mathematica",
+     "id": "https://doi.org/10.1112/s0010437x22007308"
+    },
+    {
+     "title": "",
+     "year": 2025,
+     "authors": [],
+     "venue": "Algebra & Number Theory",
+     "id": "https://doi.org/10.2140/ant.2025.19-9"
+    },
+    {
+     "title": "A local Langlands parameterization for generic supercuspidal representations of $p$-adic $G_2$",
+     "year": 2019,
+     "authors": [
+      "Michael Harris",
+      "Chandrashekhar Khare",
+      "Jack A. Thorne"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1909.05933"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "delta structure archimedean Hodge structure Frobenius lift",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "delta structure archimedean Hodge structure Frobenius lift",
+   "status": 200,
+   "results": [
+    {
+     "title": "Opposite filtrations, variations of Hodge structure, and Frobenius modules",
+     "year": 2004,
+     "authors": [
+      "Javier Fernandez",
+      "Gregory Pearlstein"
+     ],
+     "venue": "Aspects of Mathematics Frobenius Manifolds",
+     "id": "doi:10.1007/978-3-322-80236-1_2"
+    },
+    {
+     "title": "Analytic geometry and Hodge--Frobenius structure",
+     "year": 2025,
+     "authors": [
+      "X. Tong"
+     ],
+     "venue": "Acta Mathematica Hungarica",
+     "id": "doi:10.1007/s10474-025-01568-6"
+    },
+    {
+     "title": "Frobenius manifolds and second structure connections",
+     "year": 2002,
+     "authors": [],
+     "venue": "Frobenius Manifolds and Moduli Spaces for Singularities",
+     "id": "doi:10.1017/cbo9780511543104.010"
+    },
+    {
+     "title": "A note on the multivariate Archimedean dependence structure in small wind generation sites",
+     "year": 2013,
+     "authors": [
+      "Guzmán Díaz"
+     ],
+     "venue": "Wind Energy",
+     "id": "doi:10.1002/we.1633"
+    },
+    {
+     "title": "Algébricité modulo p et structure de Frobenius forte",
+     "year": null,
+     "authors": [
+      "Daniel Vargas Montoya"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/921713d2z7aedz4d25z9524z85b70476bf07"
+    },
+    {
+     "title": "Algebraic Cycles, Hodge Structure, and the Hodge Conjecture",
+     "year": 2025,
+     "authors": [
+      "Prabin Kumar Prabin"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.5371902"
+    },
+    {
+     "title": "Variations of Hodge Structure",
+     "year": 2002,
+     "authors": [],
+     "venue": "Hodge Theory and Complex Algebraic Geometry I",
+     "id": "doi:10.1017/cbo9780511615344.011"
+    },
+    {
+     "title": "Chapter Seven. Introduction to Variations of Hodge Structure",
+     "year": 2014,
+     "authors": [
+      "Eduardo Cattani"
+     ],
+     "venue": "Hodge Theory",
+     "id": "doi:10.1515/9781400851478.297"
+    },
+    {
+     "title": "Chapter Eight. Variations of Mixed Hodge Structure",
+     "year": 2014,
+     "authors": [
+      "Patrick Brosnan",
+      "Fouad El Zein"
+     ],
+     "venue": "Hodge Theory",
+     "id": "doi:10.1515/9781400851478.333"
+    },
+    {
+     "title": "§ 8. Frobenius and the Hodge Filtration",
+     "year": 2015,
+     "authors": [],
+     "venue": "Notes on Crystalline Cohomology. (MN-21)",
+     "id": "doi:10.1515/9781400867318-009"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "no Frobenius lift real complex conjugation prismatic analogue",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "no Frobenius lift real complex conjugation prismatic analogue",
+   "status": 200,
+   "results": [
+    {
+     "title": "Essential dimension via prismatic cohomology",
+     "year": 2024,
+     "authors": [
+      "Benson Farb",
+      "Mark Kisin",
+      "Jesse Wolfson"
+     ],
+     "venue": "Duke Mathematical Journal",
+     "id": "https://doi.org/10.1215/00127094-2023-0071"
+    },
+    {
+     "title": "Absolute calculus and prismatic crystals on cyclotomic rings",
+     "year": 2026,
+     "authors": [
+      "Michel Gros",
+      "Bernard Le Stum",
+      "Adolfo Quirós"
+     ],
+     "venue": "Algebra & Number Theory",
+     "id": "https://doi.org/10.2140/ant.2026.20.1301"
+    },
+    {
+     "title": "Deformations of Prismatic Higher $(G,μ)$-Displays over Quasi-Syntomic Rings",
+     "year": 2024,
+     "authors": [
+      "Mohammad Hadi Hedayatzadeh",
+      "Ali Partofard"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2402.12879"
+    },
+    {
+     "title": "On the arithmetic Siegel--Weil formula for orthogonal Shimura varieties over a general totally real field",
+     "year": 2026,
+     "authors": [
+      "Xuanyou Li"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.31173"
+    },
+    {
+     "title": "A refinement of the Birch and Swinnerton-Dyer conjecture in positive characteristic",
+     "year": 2026,
+     "authors": [
+      "David Burns",
+      "Mahesh Kakde",
+      "Wansu Kim"
+     ],
+     "venue": "Algebra & Number Theory",
+     "id": "https://doi.org/10.2140/ant.2026.20.629"
+    },
+    {
+     "title": "Spherochromatism in representation theory and arithmetic geometry",
+     "year": 2025,
+     "authors": [
+      "Devalapurkar, Sanath"
+     ],
+     "venue": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+     "id": "https://openalex.org/W7113005136"
+    },
+    {
+     "title": "On canonicity for integral models of Shimura varieties with hyperspecial level",
+     "year": 2026,
+     "authors": [
+      "Keerthi Madapusi Pera",
+      "Alex Youcis"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2604.06442"
+    },
+    {
+     "title": "Non-Archimedean Geometry and Applications",
+     "year": 2025,
+     "authors": [
+      "Johannes Nicaise",
+      "Peter Scholze",
+      "Michael Temkin",
+      "Annette Werner"
+     ],
+     "venue": "Oberwolfach Reports",
+     "id": "https://doi.org/10.4171/owr/2025/29"
+    },
+    {
+     "title": "On the Langlands--Kottwitz--Scholze method",
+     "year": 2026,
+     "authors": [
+      "Alex Youcis"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.30537"
+    },
+    {
+     "title": "Azumaya descent and étale-local cyclotomic comparison: a noncommutative filtration",
+     "year": 2026,
+     "authors": [
+      "Hông Vân Lê",
+      "Alexander Zuevsky"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.02870"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "no Frobenius lift real complex conjugation prismatic analogue",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "no Frobenius lift real complex conjugation prismatic analogue",
+   "status": 200,
+   "results": [
+    {
+     "title": "Frobenius Manifolds and Hypersurface Singularities",
+     "year": 2003,
+     "authors": [
+      "Glaus Hertling"
+     ],
+     "venue": "Real And Complex Singularities",
+     "id": "doi:10.1201/9780203912089.ch16"
+    },
+    {
+     "title": "Frobenius Manifolds and Hypersurface Singularities",
+     "year": 2003,
+     "authors": [
+      "Claus Hertling"
+     ],
+     "venue": "Real and Complex Singularities",
+     "id": "doi:10.1201/9780203912089-16"
+    },
+    {
+     "title": "Effect of Cross-Conjugation on Derivatives of Benzoisoindigo an Isoindigo Analogue with an Extended System",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1021/acs.jpcc.7b00742.s003"
+    },
+    {
+     "title": "Effect of Cross-Conjugation on Derivatives of Benzoisoindigo an Isoindigo Analogue with an Extended System",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1021/acs.jpcc.7b00742.s002"
+    },
+    {
+     "title": "Effect of Cross-Conjugation on Derivatives of Benzoisoindigo an Isoindigo Analogue with an Extended System",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.1021/acs.jpcc.7b00742.s001"
+    },
+    {
+     "title": "Saito structures and Frobenius structures on a complex analytic manifold",
+     "year": null,
+     "authors": [
+      "Claude Sabbah"
+     ],
+     "venue": "Universitext Isomonodromic Deformations and Frobenius Manifolds",
+     "id": "doi:10.1007/978-1-84800-054-4_8"
+    },
+    {
+     "title": "The Conjugation of Solutions for Frobenius Equations in Finite Groups",
+     "year": 2014,
+     "authors": [
+      "Shuker Mahmood"
+     ],
+     "venue": "Open Journal of Mathematical Modeling",
+     "id": "doi:10.12966/ojmmo.08.03.2014"
+    },
+    {
+     "title": "Prismatic crystals for smooth schemes in characteristic p with Frobenius lifting mod $$p^2$$",
+     "year": 2025,
+     "authors": [
+      "Yupeng Wang"
+     ],
+     "venue": "manuscripta mathematica",
+     "id": "doi:10.1007/s00229-025-01682-3"
+    },
+    {
+     "title": "A canonical lift of Frobenius in Morava $E$-theory",
+     "year": 2019,
+     "authors": [
+      "Nathaniel Stapleton"
+     ],
+     "venue": "Homology, Homotopy and Applications",
+     "id": "doi:10.4310/hha.2019.v21.n1.a16"
+    },
+    {
+     "title": "Rank and Conjugation for a Second Frobenius Representation of an Overpartition",
+     "year": 2008,
+     "authors": [
+      "Jeremy Lovejoy"
+     ],
+     "venue": "Annals of Combinatorics",
+     "id": "doi:10.1007/s00026-008-0339-0"
+    }
+   ]
+  }
+ ]
+}

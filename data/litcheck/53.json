@@ -1,0 +1,426 @@
+{
+ "problem": 53,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "categorical trace completed Riemann zeta function Gamma factor",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "categorical trace completed Riemann zeta function Gamma factor",
+   "status": 200,
+   "results": [
+    {
+     "title": "Zeta and L functions of Voevodsky motives",
+     "year": 2024,
+     "authors": [
+      "Bruno Kahn"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2412.08437"
+    },
+    {
+     "title": "Zeta-Minimizer Theorem: Variational Emergence of Primes, Zeta, and Stratified Geometries from Helical Optimization in Measure Spaces",
+     "year": 2026,
+     "authors": [
+      "Muhamad Fouad"
+     ],
+     "venue": "Preprints.org",
+     "id": "https://doi.org/10.20944/preprints202602.0006.v1"
+    },
+    {
+     "title": "Zeta-Minimizer Theorem: Variational Emergence of Primes, Zeta, and Stratified Geometries from Helical Optimization in Measure Spaces",
+     "year": 2026,
+     "authors": [
+      "Muhamad Fouad"
+     ],
+     "venue": "Preprints.org",
+     "id": "https://doi.org/10.20944/preprints202602.0006.v2"
+    },
+    {
+     "title": "The Action Potential Of Principia Mathematica & Gedanc: An Analytic–Geometric Framework Bridging Hodge Theory and the Riemann ζ-Function.",
+     "year": 2025,
+     "authors": [
+      "Hassan Rabbani"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.33774/coe-2025-nt32q"
+    },
+    {
+     "title": "The Action Potential Of Principia Mathematica & Gedanke: An Analytic–Geometric Framework Bridging Hodge Theory and the Riemann ζ-Function.",
+     "year": 2025,
+     "authors": [
+      "Hassan Rabbani"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.33774/coe-2025-nt32q-v2"
+    },
+    {
+     "title": "Spectral Approach to the Riemann Hypothesis: GLM, SUSY, and the Boundedness Argument",
+     "year": 2026,
+     "authors": [
+      "Anatolii Mukha"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.33774/coe-2026-jkcxf"
+    },
+    {
+     "title": "Primacohedron: A p-Adic String & Random-Matrix Framework for Emergent Spacetime, and a Proposal towards solving Riemann Hypothesis",
+     "year": 2025,
+     "authors": [
+      "Sandi Setiawan"
+     ],
+     "venue": "Preprints.org",
+     "id": "https://doi.org/10.20944/preprints202511.1726.v1"
+    },
+    {
+     "title": "Data Augementation with Polya Inverse Gamma",
+     "year": 2019,
+     "authors": [
+      "He, Jingyu",
+      "Nicholas G. Polson",
+      "Jianeng Xu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1905.12141"
+    },
+    {
+     "title": "Approximating the Spectral Gap of the Pólya-Gamma Gibbs Sampler",
+     "year": 2024,
+     "authors": [
+      "Bryant Davis",
+      "James P. Hobert"
+     ],
+     "venue": "Methodology And Computing In Applied Probability",
+     "id": "https://doi.org/10.1007/s11009-024-10104-y"
+    },
+    {
+     "title": "Primacohedron: A p-Adic String & Random-Matrix Framework for Emergent Spacetime, Perfectoids, p-adic geometry, and a Proposal towards solving Riemann Hypothesis and abc Conjecture",
+     "year": 2025,
+     "authors": [
+      "Sandi Setiawan"
+     ],
+     "venue": "Advances in Theoretical & Computational Physics",
+     "id": "https://doi.org/10.33140/atcp.08.04.23"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "categorical trace completed Riemann zeta function Gamma factor",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "categorical trace completed Riemann zeta function Gamma factor",
+   "status": 200,
+   "results": [
+    {
+     "title": "Multibranch Extensions of the Completed Riemann Zeta Function",
+     "year": 2025,
+     "authors": [
+      "Shane Drake"
+     ],
+     "venue": "",
+     "id": "doi:10.20944/preprints202507.2106.v1"
+    },
+    {
+     "title": "The gamma-function",
+     "year": 1988,
+     "authors": [],
+     "venue": "An Introduction to the Theory of the Riemann Zeta-Function",
+     "id": "doi:10.1017/cbo9780511623707.012"
+    },
+    {
+     "title": "A Proof of Riemann Hypothesis Based on MacLaurin Expansion of the Completed Zeta Function",
+     "year": 2021,
+     "authors": [
+      "Weicun Zhang"
+     ],
+     "venue": "",
+     "id": "doi:10.20944/preprints202108.0146.v2"
+    },
+    {
+     "title": "A Proof of Riemann Hypothesis Based on MacLaurin Expansion of the Completed Zeta Function",
+     "year": 2021,
+     "authors": [
+      "Weicun Zhang"
+     ],
+     "venue": "",
+     "id": "doi:10.20944/preprints202108.0146.v1"
+    },
+    {
+     "title": "A Proof of the Riemann Hypothesis Based on MacLaurin Expansion of the Completed Zeta Function",
+     "year": 2021,
+     "authors": [
+      "Weicun Zhang"
+     ],
+     "venue": "",
+     "id": "doi:10.20944/preprints202108.0146.v7"
+    },
+    {
+     "title": "Trace formulas",
+     "year": 1997,
+     "authors": [],
+     "venue": "Spectral Theory of the Riemann Zeta-Function",
+     "id": "doi:10.1017/cbo9780511983399.004"
+    },
+    {
+     "title": "A Proof of the Riemann Hypothesis based on MacLaurin Expansion of the Completed Zeta Function",
+     "year": 2021,
+     "authors": [
+      "Weicun Zhang"
+     ],
+     "venue": "",
+     "id": "doi:10.20944/preprints202108.0146.v3"
+    },
+    {
+     "title": "A Proof of the Riemann Hypothesis Based on MacLaurin Expansion of the Completed Zeta Function",
+     "year": 2021,
+     "authors": [
+      "Weicun Zhang"
+     ],
+     "venue": "",
+     "id": "doi:10.20944/preprints202108.0146.v5"
+    },
+    {
+     "title": "A Proof of the Riemann Hypothesis based on MacLaurin Expansion of the Completed Zeta Function",
+     "year": 2021,
+     "authors": [
+      "Weicun Zhang"
+     ],
+     "venue": "",
+     "id": "doi:10.20944/preprints202108.0146.v4"
+    },
+    {
+     "title": "A Proof of the Riemann Hypothesis Based on MacLaurin Expansion of the Completed Zeta Function",
+     "year": 2021,
+     "authors": [
+      "Weicun Zhang"
+     ],
+     "venue": "",
+     "id": "doi:10.20944/preprints202108.0146.v8"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "trace formula Picard stack completed zeta archimedean factor",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "trace formula Picard stack completed zeta archimedean factor",
+   "status": 200,
+   "results": [
+    {
+     "title": "A product formula of Mumford forms, and the rationality of Ruelle zeta values for Schottky groups",
+     "year": 2014,
+     "authors": [
+      "Takashi Ichikawa"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1409.1302"
+    },
+    {
+     "title": "The stable trace formula for Shimura varieties of abelian type",
+     "year": 2021,
+     "authors": [
+      "Mark Kisin",
+      "Sug Woo Shin",
+      "Yihang Zhu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2110.05381"
+    },
+    {
+     "title": "Fourier–Jacobi cycles and arithmetic relative trace formula (with an appendix by Chao Li and Yihang Zhu)",
+     "year": 2021,
+     "authors": [
+      "Yifeng Liu",
+      "Yihang Zhu",
+      "Chao Li"
+     ],
+     "venue": "Cambridge Journal of Mathematics",
+     "id": "https://doi.org/10.4310/cjm.2021.v9.n1.a1"
+    },
+    {
+     "title": "Level lowering for automorphic forms on Picard modular surfaces",
+     "year": 2023,
+     "authors": [
+      "Fu, Hao"
+     ],
+     "venue": "HAL",
+     "id": "https://openalex.org/W7048165399"
+    },
+    {
+     "title": "Rigid Cohomology for Algebraic Stacks",
+     "year": 2010,
+     "authors": [
+      "David Michael Brown"
+     ],
+     "venue": "eScholarship (California Digital Library)",
+     "id": "https://openalex.org/W2149673503"
+    },
+    {
+     "title": "Malle's conjecture and Brauer groups of stacks",
+     "year": 2024,
+     "authors": [
+      "Daniel Loughran",
+      "Tim Santens"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2412.04196"
+    },
+    {
+     "title": "Uniform irreducibility of Galois action on the $\\ell$-primary part of Abelian $3$-folds of Picard type",
+     "year": 2025,
+     "authors": [
+      "Mladen Dimitrov",
+      "Dinakar Ramakrishnan"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2511.04609"
+    },
+    {
+     "title": "Studies in automorphic representations and the Fargues-Fontaine curve",
+     "year": 2026,
+     "authors": [
+      "Ho Leung Fong"
+     ],
+     "venue": "White Rose eTheses Online (University of Leeds, The University of Sheffield, University of York)",
+     "id": "https://openalex.org/W7165499343"
+    },
+    {
+     "title": "$χ$-independence for K3-surfaces via $p$-adic integration",
+     "year": 2026,
+     "authors": [
+      "Michael Groechenig",
+      "Dimitri Wyss",
+      "Paul Ziegler"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.01513"
+    },
+    {
+     "title": "Strata Hasse invariants, Hecke algebras and Galois representations",
+     "year": 2019,
+     "authors": [
+      "Wushi Goldring",
+      "Jean-Stefan Koskivirta"
+     ],
+     "venue": "Inventiones mathematicae",
+     "id": "https://doi.org/10.1007/s00222-019-00882-5"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "trace formula Picard stack completed zeta archimedean factor",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "trace formula Picard stack completed zeta archimedean factor",
+   "status": 200,
+   "results": [
+    {
+     "title": "The general selberg trace formula",
+     "year": 1987,
+     "authors": [
+      "Jürgen Fischer"
+     ],
+     "venue": "Lecture Notes in Mathematics An Approach to the Selberg Trace Formula via the Selberg Zeta-Function",
+     "id": "doi:10.1007/bfb0077701"
+    },
+    {
+     "title": "ARCHIMEDEAN ZETA INTEGRALS FOR FURUSAWA'S PULLBACK FORMULA (Arithmetic aspects of automorphic forms and automorphic representations)",
+     "year": 2025,
+     "authors": [
+      "ZHENG LIU"
+     ],
+     "venue": "RIMS Kokyuroku",
+     "id": "doi:10.17983/303267"
+    },
+    {
+     "title": "Trace Formula For a Tree and Ihara's Zeta Function",
+     "year": 1999,
+     "authors": [],
+     "venue": "Fourier Analysis on Finite Groups and Applications",
+     "id": "doi:10.1017/cbo9780511626265.027"
+    },
+    {
+     "title": "Weil positivity and trace formula the archimedean place",
+     "year": 2021,
+     "authors": [
+      "Alain Connes",
+      "Caterina Consani"
+     ],
+     "venue": "Selecta Mathematica",
+     "id": "doi:10.1007/s00029-021-00689-4"
+    },
+    {
+     "title": "On the Archimedean local zeta integrals and L-factors",
+     "year": null,
+     "authors": [
+      "Bingchen Lin"
+     ],
+     "venue": "",
+     "id": "doi:10.14711/thesis-b1160517"
+    },
+    {
+     "title": "Trace formula in noncommutative Geometry and the zeros of the Riemann zeta function",
+     "year": 1997,
+     "authors": [
+      "Alain Connes"
+     ],
+     "venue": "Journées équations aux dérivées partielles",
+     "id": "doi:10.5802/jedp.516"
+    },
+    {
+     "title": "AST418 - A local trace formula for the Gan-Gross-Prasad conjecture for unitary groups: the archimedean case",
+     "year": 2020,
+     "authors": [
+      "Raphaël BEUZART-PLESSIS"
+     ],
+     "venue": "Astérisque",
+     "id": "doi:10.24033/ast.1120"
+    },
+    {
+     "title": "An Approach to the Selberg Trace Formula via the Selberg Zeta-Function",
+     "year": 1987,
+     "authors": [
+      "Jürgen Fischer"
+     ],
+     "venue": "Lecture Notes in Mathematics",
+     "id": "doi:10.1007/bfb0077696"
+    },
+    {
+     "title": "The trace of the iterated resolvent kernel",
+     "year": 1987,
+     "authors": [
+      "Jürgen Fischer"
+     ],
+     "venue": "Lecture Notes in Mathematics An Approach to the Selberg Trace Formula via the Selberg Zeta-Function",
+     "id": "doi:10.1007/bfb0077699"
+    },
+    {
+     "title": "The entire function Ξ associated with the selberg zeta-function",
+     "year": 1987,
+     "authors": [
+      "Jürgen Fischer"
+     ],
+     "venue": "Lecture Notes in Mathematics An Approach to the Selberg Trace Formula via the Selberg Zeta-Function",
+     "id": "doi:10.1007/bfb0077700"
+    }
+   ]
+  }
+ ]
+}

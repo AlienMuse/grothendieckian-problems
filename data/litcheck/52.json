@@ -1,0 +1,440 @@
+{
+ "problem": 52,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "analytic stack gluing finite places and archimedean place Spec Z",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "analytic stack gluing finite places and archimedean place Spec Z",
+   "status": 200,
+   "results": [
+    {
+     "title": "The Archimedean place is a blurred interval at infinity",
+     "year": 2026,
+     "authors": [
+      "Ming Ng"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.09117"
+    },
+    {
+     "title": "Non-Archimedean Geometry and Applications",
+     "year": 2025,
+     "authors": [
+      "Johannes Nicaise",
+      "Peter Scholze",
+      "Michael Temkin",
+      "Annette Werner"
+     ],
+     "venue": "Oberwolfach Reports",
+     "id": "https://doi.org/10.4171/owr/2025/29"
+    },
+    {
+     "title": "A non-Archimedean analogue of Teichmüller space and its tropicalization",
+     "year": 2021,
+     "authors": [
+      "Martin Ulirsch"
+     ],
+     "venue": "Selecta Mathematica",
+     "id": "https://doi.org/10.1007/s00029-021-00651-4"
+    },
+    {
+     "title": "Local Heights of Toric Varieties over Non-archimedean Fields",
+     "year": 2017,
+     "authors": [
+      "Walter Gubler",
+      "Julius Hertel"
+     ],
+     "venue": "Publications mathématiques de Besançon",
+     "id": "https://doi.org/10.5802/pmb.15"
+    },
+    {
+     "title": "Convergence of Measures on Non-Archimedean Hybrid Spaces",
+     "year": 2023,
+     "authors": [
+      "Sanal Shivaprasad"
+     ],
+     "venue": "Deep Blue (University of Michigan)",
+     "id": "https://doi.org/10.7302/8595"
+    },
+    {
+     "title": "Co-rank 1 arithmetic Siegel–Weil I: local non-Archimedean",
+     "year": 2026,
+     "authors": [
+      "Ryan C. Chen"
+     ],
+     "venue": "Inventiones mathematicae",
+     "id": "https://doi.org/10.1007/s00222-026-01444-2"
+    },
+    {
+     "title": "An Archimedean Realization of Enhanced Hodge Atoms via Integral Stokes Structures",
+     "year": 2025,
+     "authors": [
+      "Platek, Nir"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.5281/zenodo.17926264"
+    },
+    {
+     "title": "Non-archimedean Green currents for the zero-locus of a regular section",
+     "year": 2026,
+     "authors": [
+      "Léo Dubocs"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.19160"
+    },
+    {
+     "title": "Clutching and gluing in tropical and logarithmic geometry",
+     "year": 2018,
+     "authors": [
+      "Alana Huszar",
+      "Steffen Marcus",
+      "Martin Ulirsch"
+     ],
+     "venue": "Journal of Pure and Applied Algebra",
+     "id": "https://doi.org/10.1016/j.jpaa.2018.08.014"
+    },
+    {
+     "title": "Analytification of mapping stacks",
+     "year": 2024,
+     "authors": [
+      "Julian Holstein",
+      "Mauro Porta"
+     ],
+     "venue": "Algebraic geometry",
+     "id": "https://doi.org/10.14231/ag-2025-002"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "analytic stack gluing finite places and archimedean place Spec Z",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "analytic stack gluing finite places and archimedean place Spec Z",
+   "status": 200,
+   "results": [
+    {
+     "title": "Tropicalization is a non-Archimedean analytic stack quotient",
+     "year": 2017,
+     "authors": [
+      "Martin Ulirsch"
+     ],
+     "venue": "Mathematical Research Letters",
+     "id": "doi:10.4310/mrl.2017.v24.n4.a12"
+    },
+    {
+     "title": "Logarithms, constructible functions and integration on non-archimedean models of the theory of the real field with restricted analytic functions with value group of finite archimedean rank",
+     "year": 2022,
+     "authors": [
+      "Tobias Kaiser"
+     ],
+     "venue": "Fundamenta Mathematicae",
+     "id": "doi:10.4064/fm70-5-2021"
+    },
+    {
+     "title": "Non-archimedean analytic stacks and their applications",
+     "year": null,
+     "authors": [
+      "Qixiang Wang"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/8b13982cz60c7z47b0za832z2b425489217e"
+    },
+    {
+     "title": "Quantum Systems and Finite Approximations",
+     "year": 2015,
+     "authors": [
+      "Trond Digernes",
+      "Erik Makino Bakken"
+     ],
+     "venue": "",
+     "id": "doi:10.1142/9740"
+    },
+    {
+     "title": "Some operators on finite-dimensional non-Archimedean normed spaces",
+     "year": 2025,
+     "authors": [
+      "M Babahmed"
+     ],
+     "venue": "Extracta Mathematicae",
+     "id": "doi:10.17398/2605-5686.39.2.255"
+    },
+    {
+     "title": "3. Finite, totally finite and selfmajorizing elements in Archimedean vector lattices",
+     "year": 2014,
+     "authors": [],
+     "venue": "Finite Elements in Vector Lattices",
+     "id": "doi:10.1515/9783110350784.18"
+    },
+    {
+     "title": "Places and Non-Places",
+     "year": 2018,
+     "authors": [
+      "Hannah Pollin-Galay"
+     ],
+     "venue": "Ecologies of Witnessing",
+     "id": "doi:10.12987/yale/9780300226041.003.0006"
+    },
+    {
+     "title": "Non-archimedean analytic continuation of unobstructedness",
+     "year": 2025,
+     "authors": [
+      "Hang Yuan"
+     ],
+     "venue": "Quantum Topology",
+     "id": "doi:10.4171/qt/237"
+    },
+    {
+     "title": "David Lewis’s Place in Analytic Philosophy",
+     "year": 2014,
+     "authors": [
+      "Scott Soames"
+     ],
+     "venue": "Analytic Philosophy in America",
+     "id": "doi:10.23943/princeton/9780691160726.003.0006"
+    },
+    {
+     "title": "Folded in Place",
+     "year": 2011,
+     "authors": [
+      "John Mann"
+     ],
+     "venue": "Places Journal",
+     "id": "doi:10.22269/110317"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "global analytic stack all places of Q",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "global analytic stack all places of Q",
+   "status": 200,
+   "results": [
+    {
+     "title": "Injectivity theorems and cubical descent for schemes, stacks, and analytic spaces",
+     "year": 2024,
+     "authors": [
+      "Takumi Murayama"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2406.10800"
+    },
+    {
+     "title": "Global Mirrors and Discrepant Transformations for Toric Deligne-Mumford Stacks",
+     "year": 2020,
+     "authors": [
+      "Hiroshi Iritani"
+     ],
+     "venue": "Symmetry Integrability and Geometry Methods and Applications",
+     "id": "https://doi.org/10.3842/sigma.2020.032"
+    },
+    {
+     "title": "Is Stack Overflow Obsolete? An Empirical Study of the Characteristics of ChatGPT Answers to Stack Overflow Questions",
+     "year": 2024,
+     "authors": [
+      "Samia Kabir",
+      "David N. Udo-Imeh",
+      "Bonan Kou",
+      "Tianyi Zhang"
+     ],
+     "venue": "CHI Conference on Human Factors in Computing Systems",
+     "id": "https://doi.org/10.1145/3613904.3642596"
+    },
+    {
+     "title": "Overconvergent global analytic geometry",
+     "year": 2014,
+     "authors": [
+      "Frédéric Paugam"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1410.7971"
+    },
+    {
+     "title": "Optimizing Analytics Workloads on an Enterprise Datalake via Full Stack Monitoring",
+     "year": 2021,
+     "authors": [
+      "Svilen Krassenov Stefanov"
+     ],
+     "venue": "Repository for Publications and Research Data (ETH Zurich)",
+     "id": "https://doi.org/10.3929/ethz-b-000483969"
+    },
+    {
+     "title": "Stacked deep analytic model for human activity recognition on a UCI HAR database",
+     "year": 2021,
+     "authors": [
+      "Ying Han Pang",
+      "Liew Yee Ping",
+      "Goh Fan Ling",
+      "Ooi Shih Yin",
+      "Khoh Wee How"
+     ],
+     "venue": "F1000Research",
+     "id": "https://doi.org/10.12688/f1000research.73174.1"
+    },
+    {
+     "title": "Stacked deep analytic model for human activity recognition on a UCI HAR database",
+     "year": 2022,
+     "authors": [
+      "Ying Han Pang",
+      "Liew Yee Ping",
+      "Goh Fan Ling",
+      "Ooi Shih Yin",
+      "Khoh Wee How"
+     ],
+     "venue": "F1000Research",
+     "id": "https://doi.org/10.12688/f1000research.73174.2"
+    },
+    {
+     "title": "Online rules for container stacking",
+     "year": 2010,
+     "authors": [
+      "Bram Borgman",
+      "Eelco van Asperen",
+      "Rommert Dekker"
+     ],
+     "venue": "OR Spectrum",
+     "id": "https://doi.org/10.1007/s00291-010-0205-4"
+    },
+    {
+     "title": "Global Optimization and Inital Models In Seismic Pre-Stack Inversion",
+     "year": 2012,
+     "authors": [
+      "Øyvind Aunan Øvstegård"
+     ],
+     "venue": "BIBSYS Brage (BIBSYS (Norway))",
+     "id": "https://openalex.org/W62529016"
+    },
+    {
+     "title": "Stacked deep analytic model for human activity recognition on a UCI HAR database",
+     "year": 2022,
+     "authors": [
+      "Ying Han Pang",
+      "Liew Yee Ping",
+      "Goh Fan Ling",
+      "Ooi Shih Yin",
+      "Khoh Wee How"
+     ],
+     "venue": "F1000Research",
+     "id": "https://doi.org/10.12688/f1000research.73174.3"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "global analytic stack all places of Q",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "global analytic stack all places of Q",
+   "status": 200,
+   "results": [
+    {
+     "title": "Looking for Rights in All the Wrong Places",
+     "year": 2013,
+     "authors": [
+      "Emily Zackin"
+     ],
+     "venue": "Looking for Rights in All the Wrong Places",
+     "id": "doi:10.23943/princeton/9780691155777.003.0001"
+    },
+    {
+     "title": "Things to Do Look at All the Places We Can Go!",
+     "year": 2014,
+     "authors": [],
+     "venue": "The Global Education Toolkit for Elementary Learners",
+     "id": "doi:10.4135/9781483394633.n2"
+    },
+    {
+     "title": "Technical Note: Estimation of global loss of freshwater based on sea level changes over geological time",
+     "year": 2020,
+     "authors": [
+      "Gaspar Banfalvi"
+     ],
+     "venue": "",
+     "id": "doi:10.5194/os-2020-42"
+    },
+    {
+     "title": "We Are All Alone",
+     "year": 2010,
+     "authors": [
+      "Kim Høltermand"
+     ],
+     "venue": "Places Journal",
+     "id": "doi:10.22269/100619"
+    },
+    {
+     "title": "Luxury for All",
+     "year": 2022,
+     "authors": [
+      "Gideon Fink Shapiro"
+     ],
+     "venue": "Places Journal",
+     "id": "doi:10.22269/220119"
+    },
+    {
+     "title": "Niagara: It Has It All",
+     "year": 2009,
+     "authors": [
+      "Barbara Penner"
+     ],
+     "venue": "Places Journal",
+     "id": "doi:10.22269/090924"
+    },
+    {
+     "title": "All Eyes on the Border",
+     "year": 2018,
+     "authors": [
+      "Shannon Mattern"
+     ],
+     "venue": "Places Journal",
+     "id": "doi:10.22269/180925"
+    },
+    {
+     "title": "The City Was All I Had",
+     "year": 2025,
+     "authors": [
+      "Tope Folarin"
+     ],
+     "venue": "Places Journal",
+     "id": "doi:10.22269/250114"
+    },
+    {
+     "title": "Stack: the data structure of all programmers",
+     "year": 2001,
+     "authors": [
+      "C. B. NDEEKOR"
+     ],
+     "venue": "Global Journal of Pure and Applied Sciences",
+     "id": "doi:10.4314/gjpas.v7i4.16318"
+    },
+    {
+     "title": "All Those Numbers: Logistics, Territory and Walmart",
+     "year": 2010,
+     "authors": [
+      "Jesse LeCavalier"
+     ],
+     "venue": "Places Journal",
+     "id": "doi:10.22269/100524"
+    }
+   ]
+  }
+ ]
+}

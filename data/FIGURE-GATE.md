@@ -1,0 +1,57 @@
+# Figure gate: 13 figures, ALL PASS
+
+Phrases checked against their sources: 142; not found: 0.
+
+- programme: light layer 3145 × 3145 px = 605 ppi, 6.3 MiB
+- programme: HUD 54 lines, 0 links, smallest type 6.50 pt, 0 colliding lines
+- method: light layer 3145 × 3290 px = 605 ppi, 6.2 MiB
+- method: HUD 62 lines, 0 links, smallest type 6.50 pt, 0 colliding lines
+- series: light layer 3145 × 2956 px = 605 ppi, 5.7 MiB
+- series: HUD 88 lines, 0 links, smallest type 6.50 pt, 0 colliding lines
+- works: light layer 3145 × 3145 px = 605 ppi, 6.3 MiB
+- works: HUD 54 lines, 0 links, smallest type 6.50 pt, 0 colliding lines
+- theses: light layer 3145 × 3573 px = 605 ppi, 7.1 MiB
+- theses: HUD 60 lines, 12 links, smallest type 6.50 pt, 0 colliding lines
+- theses: print incomplete at a budget of 20000 ms; printed again
+- chain: light layer 3145 × 3617 px = 605 ppi, 6.5 MiB
+- chain: HUD 63 lines, 0 links, smallest type 6.50 pt, 0 colliding lines
+- relations: light layer 3145 × 3718 px = 605 ppi, 6.7 MiB
+- relations: HUD 57 lines, 12 links, smallest type 6.50 pt, 0 colliding lines
+- triangle: light layer 3145 × 2716 px = 605 ppi, 5.3 MiB
+- triangle: HUD 57 lines, 5 links, smallest type 6.50 pt, 0 colliding lines
+- rose: light layer 3145 × 3813 px = 605 ppi, 7.2 MiB
+- rose: HUD 107 lines, 57 links, smallest type 6.50 pt, 0 colliding lines
+- selection: light layer 3145 × 2527 px = 605 ppi, 4.7 MiB
+- selection: HUD 44 lines, 0 links, smallest type 6.50 pt, 0 colliding lines
+- card: light layer 3145 × 3428 px = 605 ppi, 6.3 MiB
+- card: HUD 55 lines, 1 links, smallest type 6.50 pt, 0 colliding lines
+- credit: light layer 3145 × 2099 px = 605 ppi, 4.0 MiB
+- credit: HUD 39 lines, 0 links, smallest type 6.50 pt, 0 colliding lines
+- matrix: light layer 3145 × 3573 px = 605 ppi, 6.5 MiB
+- matrix: HUD 126 lines, 57 links, smallest type 6.50 pt, 0 colliding lines
+- programme: light layer 3145 × 3145 px, 605 ppi, /FlateDecode
+- programme: 132.0 × 132.0 mm, 6.6 MiB, faces ['SegoeUI', 'SegoeUI-Bold', 'SegoeUI-Semibold', 'TGPPagella-Italic', 'TGPPagellaMath-Regular', 'TGPSymbolMath-Regular']; 54 lines searchable; categories []: least ΔE*ab under simulated colour-vision deficiency nan; second mark: none: the series number is printed in each cell
+- method: light layer 3145 × 3290 px, 605 ppi, /FlateDecode
+- method: 132.0 × 138.1 mm, 6.7 MiB, faces ['SegoeUI', 'SegoeUI-Bold', 'SegoeUI-Semibold', 'TGPPagella-Italic']; 62 lines searchable; categories ['cyan', 'gold']: least ΔE*ab under simulated colour-vision deficiency 44; second mark: headings
+- series: light layer 3145 × 2956 px, 605 ppi, /FlateDecode
+- series: 132.0 × 124.1 mm, 7.3 MiB, faces ['SegoeUI', 'SegoeUI-Bold', 'SegoeUI-Semibold', 'TGPPagella-Italic']; 88 lines searchable; categories []: least ΔE*ab under simulated colour-vision deficiency nan; second mark: none: the series number is printed in each row
+- works: light layer 3145 × 3145 px, 605 ppi, /FlateDecode
+- works: 132.0 × 132.0 mm, 6.6 MiB, faces ['SegoeUI', 'SegoeUI-Bold', 'SegoeUI-Semibold', 'TGPPagella-Italic', 'TGPPagellaMath-Regular', 'TGPSymbolMath-Regular']; 54 lines searchable; categories []: least ΔE*ab under simulated colour-vision deficiency nan; second mark: none: the series number is printed in each cell
+- theses: light layer 3145 × 3573 px, 605 ppi, /FlateDecode
+- theses: 132.0 × 150.0 mm, 7.9 MiB, faces ['SegoeUI', 'SegoeUI-Bold', 'SegoeUI-Semibold']; 60 lines searchable; categories ['cyan', 'blue', 'gold']: least ΔE*ab under simulated colour-vision deficiency 25; second mark: group heading over each band
+- chain: light layer 3145 × 3617 px, 605 ppi, /FlateDecode
+- chain: 132.0 × 151.9 mm, 6.8 MiB, faces ['SegoeUI', 'SegoeUI-Bold', 'SegoeUI-Semibold', 'TGPPagella-Italic', 'TGPPagellaMath-Regular']; 63 lines searchable; categories ['cyan', 'gold']: least ΔE*ab under simulated colour-vision deficiency 44; second mark: headings THESIS 6 and THESIS 7
+- relations: light layer 3145 × 3718 px, 605 ppi, /FlateDecode
+- relations: 132.0 × 156.1 mm, 6.7 MiB, faces ['SegoeUI', 'SegoeUI-Bold', 'SegoeUI-Semibold', 'TGPPagella-Italic']; 57 lines searchable; categories ['cyan', 'blue', 'gold']: least ΔE*ab under simulated colour-vision deficiency 25; second mark: thesis number in each node
+- triangle: light layer 3145 × 2716 px, 605 ppi, /FlateDecode
+- triangle: 132.0 × 114.0 mm, 6.4 MiB, faces ['SegoeUI', 'SegoeUI-Bold', 'SegoeUI-Semibold', 'TGPPagella-Italic', 'TGPPagellaMath-Regular']; 57 lines searchable; categories ['cyan', 'gold']: least ΔE*ab under simulated colour-vision deficiency 44; second mark: labels in each panel
+- rose: light layer 3145 × 3813 px, 605 ppi, /FlateDecode
+- rose: 132.0 × 160.1 mm, 7.3 MiB, faces ['SegoeUI', 'SegoeUI-Bold', 'SegoeUI-Semibold', 'TGPPagella-Italic']; 107 lines searchable; categories ['blue', 'cyan', 'gold']: least ΔE*ab under simulated colour-vision deficiency 25; second mark: kinds grouped in order within each cell; level by 1–3 dots
+- selection: light layer 3145 × 2527 px, 605 ppi, /FlateDecode
+- selection: 132.0 × 106.1 mm, 5.4 MiB, faces ['SegoeUI', 'SegoeUI-Bold', 'SegoeUI-Semibold']; 44 lines searchable; categories ['cyan', 'gold']: least ΔE*ab under simulated colour-vision deficiency 44; second mark: headings
+- card: light layer 3145 × 3428 px, 605 ppi, /FlateDecode
+- card: 132.0 × 143.9 mm, 6.7 MiB, faces ['SegoeUI', 'SegoeUI-Bold', 'SegoeUI-Semibold', 'TGPPagella-Italic']; 55 lines searchable; categories ['cyan', 'gold']: least ΔE*ab under simulated colour-vision deficiency 44; second mark: headings
+- credit: light layer 3145 × 2099 px, 605 ppi, /FlateDecode
+- credit: 132.0 × 88.1 mm, 5.0 MiB, faces ['SegoeUI', 'SegoeUI-Bold', 'SegoeUI-Semibold', 'TGPPagella-Italic']; 39 lines searchable; categories ['cyan', 'gold']: least ΔE*ab under simulated colour-vision deficiency 44; second mark: headings
+- matrix: light layer 3145 × 3573 px, 605 ppi, /FlateDecode
+- matrix: 132.0 × 150.0 mm, 6.1 MiB, faces ['SegoeUI', 'SegoeUI-Bold', 'SegoeUI-Semibold']; 126 lines searchable; categories ['blue', 'cyan', 'gold']: least ΔE*ab under simulated colour-vision deficiency 25; second mark: problem number in each chip, whose card gives the kind

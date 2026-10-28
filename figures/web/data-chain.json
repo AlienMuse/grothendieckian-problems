@@ -1,0 +1,65 @@
+{
+ "id": "chain",
+ "number": 3,
+ "size_mm": [
+  132.0,
+  152.0
+ ],
+ "footer": "The Rising-Sea Theses · Vincent Liu · doi:10.5281/zenodo.23734424 · CC BY 4.0",
+ "title": "THESES 6 AND 7",
+ "right": "SERIES 01 · VOLUMES III AND V",
+ "stages": [
+  "operational completion",
+  "mathematical validity",
+  "epistemic promotion",
+  "publication"
+ ],
+ "rule": "Every implication requires a separately named input, judgment, and authority.",
+ "needs": [
+  [
+   "a check of the mathematics",
+   "a check of fidelity to the intended statement"
+  ],
+  [
+   "a decision on status"
+  ],
+  [
+   "an act of authorisation"
+  ]
+ ],
+ "fails": [
+  [
+   "a distributed computation can finish without error while producing no mathematical object",
+   "a kernel can accept a proof of a statement that is not the statement intended"
+  ],
+  [
+   "a valid result can rest on a premise whose status does not permit promotion"
+  ],
+  [
+   "a promoted result can still lack the authority to be published"
+  ]
+ ],
+ "who": [
+  "Retrieval may supply candidate evidence but cannot change truth status.",
+  "Humans authorize publication."
+ ],
+ "broken": [
+  "a worker can write directly to the status store",
+  "an evaluator shares mutable code or keys with the candidate",
+  "a signature is detached from the artifact hash",
+  "a promotion service accepts a producer's boolean assertion instead of replayable receipts"
+ ],
+ "verdict": "the proposition does not apply and the system has failed its constitution",
+ "heads": [
+  "THESIS 6 · A CHAIN OF NON-IMPLICATIONS",
+  "REQUIRES",
+  "FAILS WHEN",
+  "THESIS 7 · MACHINES PROPOSE; HUMANS AUTHORIZE",
+  "THE SEPARATION FAILS IF"
+ ],
+ "src": [
+  "S01 · VOL. III · CH. 3 · P. 8004",
+  "S01 · P. 7966",
+  "S01 · VOL. V · PROPOSITION 1.3 · PP. 11913–11914"
+ ]
+}

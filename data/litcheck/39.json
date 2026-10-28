@@ -1,0 +1,386 @@
+{
+ "problem": 39,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "Weil quadratic form negative index computation",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "Weil quadratic form negative index computation",
+   "status": 200,
+   "results": [
+    {
+     "title": "A finite Guinand-Weil dictionary and archimedean tail order for the truncated Weil quadratic form",
+     "year": 2026,
+     "authors": [
+      "Akiva Groskin"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W7167747676"
+    },
+    {
+     "title": "A finite Guinand-Weil dictionary and archimedean tail order for the truncated Weil quadratic form",
+     "year": 2026,
+     "authors": [
+      "Akiva Groskin"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.5281/zenodo.21911012"
+    },
+    {
+     "title": "The Weil Pairing, and Its Efficient Calculation",
+     "year": 2004,
+     "authors": [
+      "Victor S. Miller"
+     ],
+     "venue": "Journal of Cryptology",
+     "id": "https://doi.org/10.1007/s00145-004-0315-8"
+    },
+    {
+     "title": "Unconditional computation of the class groups of real quadratic fields",
+     "year": 2024,
+     "authors": [
+      "Ce Bian",
+      "Andrew R. Booker",
+      "Austin Docherty",
+      "Michael J. Jacobson",
+      "Andrei Seymour-Howell"
+     ],
+     "venue": "Contemporary mathematics - American Mathematical Society",
+     "id": "https://doi.org/10.1090/conm/796/15996"
+    },
+    {
+     "title": "The Number of Real Quadratic Fields Having Units of Negative Norm",
+     "year": 1993,
+     "authors": [
+      "Peter Stevenhagen"
+     ],
+     "venue": "Experimental Mathematics",
+     "id": "https://doi.org/10.1080/10586458.1993.10504272"
+    },
+    {
+     "title": "High-Precision Approximation of Riemann Zeros via the Truncated Weil Form",
+     "year": 2026,
+     "authors": [
+      "Akiva Groskin"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.19546514"
+    },
+    {
+     "title": "A truncated Siegel-Weil formula and Borcherds forms",
+     "year": 2022,
+     "authors": [
+      "Armando Gutierrez Terradillos"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2207.13961"
+    },
+    {
+     "title": "Quadratic Form Gauss Sums",
+     "year": 2016,
+     "authors": [
+      "Greg Doyle"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.22215/etd/2016-11457"
+    },
+    {
+     "title": "On some explicit formulas in the theory of Weil representation",
+     "year": 1993,
+     "authors": [
+      "R. Ranga Rao"
+     ],
+     "venue": "Pacific Journal of Mathematics",
+     "id": "https://doi.org/10.2140/pjm.1993.157.335"
+    },
+    {
+     "title": "On theta functions associated to indefinite quadratic forms",
+     "year": 1986,
+     "authors": [
+      "Solomon Friedberg"
+     ],
+     "venue": "Journal of Number Theory",
+     "id": "https://doi.org/10.1016/0022-314x(86)90095-8"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "Weil quadratic form negative index computation",
+   "status": 200,
+   "results": [
+    {
+     "title": "Three dimensional manifolds, Kleinian groups and hyperbolic geometry",
+     "year": "1982",
+     "authors": [
+      "Thurston, William P."
+     ],
+     "venue": "Bulletin of the American Mathematical Society. New Series",
+     "id": "zbMATH 0496.57005"
+    }
+   ]
+  },
+  {
+   "source": "Crossref",
+   "query": "Weil quadratic form negative index computation",
+   "status": 200,
+   "results": [
+    {
+     "title": "The Shale-Weil representation associated to a quadratic form",
+     "year": 1980,
+     "authors": [
+      "Gérard Lion",
+      "Michèle Vergne"
+     ],
+     "venue": "Progress in Mathematics The Weil representation, Maslov index and Theta series",
+     "id": "doi:10.1007/978-1-4684-9154-8_16"
+    },
+    {
+     "title": "On the Resolution of Index Form Equations in Sextic Fields with an Imaginary Quadratic Subfield",
+     "year": 1996,
+     "authors": [
+      "ISTVÁN GAÁL",
+      "MICHAEL POHST"
+     ],
+     "venue": "Journal of Symbolic Computation",
+     "id": "doi:10.1006/jsco.1996.0060"
+    },
+    {
+     "title": "Quadratic points on modular curves with infinite Mordell–Weil group",
+     "year": 2020,
+     "authors": [
+      "Josha Box"
+     ],
+     "venue": "Mathematics of Computation",
+     "id": "doi:10.1090/mcom/3547"
+    },
+    {
+     "title": "Index",
+     "year": 1980,
+     "authors": [],
+     "venue": "Mathematics in Science and Engineering Quadratic Form Theory and Differential Equations",
+     "id": "doi:10.1016/s0076-5392(09)60301-5"
+    },
+    {
+     "title": "The anisotropic part of a quadratic form over a number field",
+     "year": 2023,
+     "authors": [
+      "Przemysław Koprowski",
+      "Beata Rothkegel"
+     ],
+     "venue": "Journal of Symbolic Computation",
+     "id": "doi:10.1016/j.jsc.2022.07.003"
+    },
+    {
+     "title": "Gaussian approximation to a bivariate quadratic form distribution",
+     "year": 1979,
+     "authors": [
+      "Yogendra P Chaubey"
+     ],
+     "venue": "Journal of Statistical Computation and Simulation",
+     "id": "doi:10.1080/00949657908810329"
+    },
+    {
+     "title": "Weil Representations of Finite Quadratic Modules",
+     "year": 2014,
+     "authors": [
+      "Hatice Boylan"
+     ],
+     "venue": "Lecture Notes in Mathematics Jacobi Forms, Finite Quadratic Modules and Weil Representations over Number Fields",
+     "id": "doi:10.1007/978-3-319-12916-7_2"
+    },
+    {
+     "title": "Quadratic Form Innovation to Blind Source Separation",
+     "year": 2009,
+     "authors": [
+      "Zhenwei Shi",
+      "Zhanxing Zhu",
+      "Xueyan Tan",
+      "Zhiguo Jiang"
+     ],
+     "venue": "2009 Fifth International Conference on Natural Computation",
+     "id": "doi:10.1109/icnc.2009.328"
+    },
+    {
+     "title": "A probabilistic factorization algorithm with quadratic forms of negative discriminant",
+     "year": 1987,
+     "authors": [
+      "Martin Seysen"
+     ],
+     "venue": "Mathematics of Computation",
+     "id": "doi:10.1090/s0025-5718-1987-0878705-x"
+    },
+    {
+     "title": "A reduced form for linear differential systems and its application to integrability of Hamiltonian systems",
+     "year": 2012,
+     "authors": [
+      "Ainhoa Aparicio-Monforte",
+      "Jacques-Arthur Weil"
+     ],
+     "venue": "Journal of Symbolic Computation",
+     "id": "doi:10.1016/j.jsc.2011.09.011"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "Guinand Weil explicit formula Gram matrix eigenvalues interval arithmetic",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "Guinand Weil explicit formula Gram matrix eigenvalues interval arithmetic",
+   "status": 200,
+   "results": [
+    {
+     "title": "A finite Guinand-Weil dictionary and archimedean tail order for the truncated Weil quadratic form",
+     "year": 2026,
+     "authors": [
+      "Akiva Groskin"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://openalex.org/W7167747676"
+    },
+    {
+     "title": "The Riemann Hypothesis with MCH: Research Audit of the \"Three Gates\" Operator Route to Weil Positivity (Adversarial Reconstruction, Independent Computation, and a Minimal Candidate Proof Spine)",
+     "year": 2026,
+     "authors": [
+      "Marco Desogus"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.5281/zenodo.22779410"
+    },
+    {
+     "title": "On the Distribution of Spacings Between Zeros of the Zeta Function",
+     "year": 1987,
+     "authors": [
+      "Andrew M. Odlyzko"
+     ],
+     "venue": "Mathematics of Computation",
+     "id": "https://doi.org/10.1090/s0025-5718-1987-0866115-0"
+    },
+    {
+     "title": "Triangular n Postmaster Research Volume I v0.6: RH-Open Proof Spine and Branch Atlas Prime and polar entry equations, exact 7/8 lemma, Lighthouse gates, uniformity contract, rejected-hypothesis register, and RH firewall",
+     "year": 2026,
+     "authors": [
+      "Jeffery Huckstead"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.21968915"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "Guinand Weil explicit formula Gram matrix eigenvalues interval arithmetic",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "Guinand Weil explicit formula Gram matrix eigenvalues interval arithmetic",
+   "status": 200,
+   "results": [
+    {
+     "title": "The Guinand-Weil Explicit Formula and Riemann's Incomplete Gamma Continuation of Ξ",
+     "year": 2026,
+     "authors": [
+      "Nicholas G. Polson"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.7265318"
+    },
+    {
+     "title": "&lt;p&gt;&lt;span&gt;Prime-Shift Operators on Björner's Complex of Squarefree Integers: Spectral Obstruction, Graded Kernel Structure, And A Toeplitz-Hankel Pipeline for the Guinand-Weil Explicit Formula&lt;/span&gt;&lt;/p&gt;",
+     "year": 2026,
+     "authors": [
+      "Luca Eliseo Pavesi"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.7477781"
+    },
+    {
+     "title": "Pricing the Arithmetic Asian Options: An Explicit, Simple Formula",
+     "year": 2023,
+     "authors": [
+      "Moawia Alghalith"
+     ],
+     "venue": "",
+     "id": "doi:10.32388/l1cc6h"
+    },
+    {
+     "title": "Arithmetic Siegel–Weil formula on X0(N)",
+     "year": 2019,
+     "authors": [
+      "Tuoping Du",
+      "Tonghai Yang"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "doi:10.1016/j.aim.2019.01.015"
+    },
+    {
+     "title": "Endomotives, thermodynamics, and the Weil explicit formula",
+     "year": 2007,
+     "authors": [],
+     "venue": "Colloquium Publications Noncommutative Geometry, Quantum Fields and Motives",
+     "id": "doi:10.1090/coll/055/04"
+    },
+    {
+     "title": "Arithmetic Siegel–Weil formula on\n𝒳0(N)",
+     "year": 2025,
+     "authors": [
+      "Baiqing Zhu"
+     ],
+     "venue": "Algebra &amp; Number Theory",
+     "id": "doi:10.2140/ant.2025.19.1771"
+    },
+    {
+     "title": "An Explicit Formula for the Splitting of Multiple Eigenvalues for Nonlinear Eigenvalue Problems and Connections with the Linearization for the Delay Eigenvalue Problem",
+     "year": 2017,
+     "authors": [
+      "Wim Michiels",
+      "Islam Boussaada",
+      "Silviu-Iulian Niculescu"
+     ],
+     "venue": "SIAM Journal on Matrix Analysis and Applications",
+     "id": "doi:10.1137/16m107774x"
+    },
+    {
+     "title": "Green forms and the arithmetic Siegel–Weil formula",
+     "year": 2018,
+     "authors": [
+      "Luis E. Garcia",
+      "Siddarth Sankaran"
+     ],
+     "venue": "Inventiones mathematicae",
+     "id": "doi:10.1007/s00222-018-0839-4"
+    },
+    {
+     "title": "Precise Matrix Eigenvalues Using Range Arithmetic",
+     "year": 1993,
+     "authors": [
+      "Oliver Aberth",
+      "Mark J. Schaefer"
+     ],
+     "venue": "SIAM Journal on Matrix Analysis and Applications",
+     "id": "doi:10.1137/0614018"
+    },
+    {
+     "title": "WITHDRAWN: Interval type-2 fuzzy moving average control charts considering explicit formula of average run length and their application",
+     "year": 2023,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.21203/rs.3.rs-1267050/v2"
+    }
+   ]
+  }
+ ]
+}

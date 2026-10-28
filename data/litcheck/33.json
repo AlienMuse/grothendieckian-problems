@@ -1,0 +1,502 @@
+{
+ "problem": 33,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "formalization circuit complexity Lean",
+   "status": 200,
+   "results": [
+    {
+     "title": "Formalizing PARITY Circuit Lower Bounds in Lean",
+     "year": "2026",
+     "authors": [
+      "Saint Wesonga"
+     ],
+     "id": "arXiv:2609.24188v1"
+    },
+    {
+     "title": "Unrestricted Boolean Multiplicative Complexity of Four-Term Binary Polynomial Multiplication: Rational Places, Hasse Jets, and the Failure of Nonlinear Feedback",
+     "year": "2026",
+     "authors": [
+      "Gregory Morse"
+     ],
+     "id": "arXiv:2608.30238v1"
+    },
+    {
+     "title": "CircuitProver: Agentic Lean 4 Theorem Proving with Reusable Circuit Proof Library for Hardware Verification",
+     "year": "2026",
+     "authors": [
+      "Ziyi Yang",
+      "Wenji Fang",
+      "Chen Chen",
+      "Zhiyao Xie",
+      "Hongce Zhang"
+     ],
+     "id": "arXiv:2607.27259v1"
+    },
+    {
+     "title": "What the Machine Invented: Mining New Mathematical Instruments from OpenAI's October 2026 Release of AI-Generated Mathematics",
+     "year": "2026",
+     "authors": [
+      "Ying Xie"
+     ],
+     "id": "arXiv:2610.17090v1"
+    },
+    {
+     "title": "Bipartite Exact Matching in P",
+     "year": "2026",
+     "authors": [
+      "Yuefeng Du"
+     ],
+     "id": "arXiv:2604.01571v3"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "formalization circuit complexity Lean",
+   "status": 200,
+   "results": [
+    {
+     "title": "Formalizing PARITY Circuit Lower Bounds in Lean",
+     "year": 2026,
+     "authors": [
+      "Saint Wesonga"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.24188"
+    },
+    {
+     "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
+     "year": 2026,
+     "authors": [
+      "Vasily Ilin"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.25199"
+    },
+    {
+     "title": "provenance-lean: Database Provenance in Lean 4",
+     "year": 2026,
+     "authors": [
+      "Pierre P. Senellart"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.21809151"
+    },
+    {
+     "title": "Descriptive Complexity in Lean: Completeness by First-Order Reductions",
+     "year": 2026,
+     "authors": [
+      "Pierre P. Senellart",
+      "Антон Гнатенко"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.18261"
+    },
+    {
+     "title": "Starflower X: Formalizing the Starflower Package as a Machine-Checkable Logic Kernel",
+     "year": 2026,
+     "authors": [
+      "Richard Brazil"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.19345800"
+    },
+    {
+     "title": "From Dag-Like Proofs to Boolean Circuits in Lean",
+     "year": 2026,
+     "authors": [
+      "Lorenzo Saraiva",
+      "Edward Hermann Hæusler"
+     ],
+     "venue": "Electronic Proceedings in Theoretical Computer Science",
+     "id": "https://doi.org/10.4204/eptcs.449.13"
+    },
+    {
+     "title": "Lean-Quantum: Toward AI-Assisted Formalization of Quantum Information",
+     "year": 2026,
+     "authors": [
+      "Kazumi Kasaura",
+      "Kei Tsukamoto",
+      "Kento Mori",
+      "Risa Mizuno",
+      "Takahiro Namatame",
+      "Yuta Oriike"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.05492"
+    },
+    {
+     "title": "Exact rational certificates and a Lean formalization of the eleven-variable Vasc inequality",
+     "year": 2026,
+     "authors": [
+      "Dakai Guo",
+      "Ruichen Qiu",
+      "Yichuan Cao",
+      "Ruyong Feng",
+      "Xiao-Shan Gao"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.13463"
+    },
+    {
+     "title": "Ripple: An Open, AI-Formalized Lean 4 Framework for Computing with CRNs",
+     "year": 2026,
+     "authors": [
+      "Ho-Lin Chen",
+      "XJ Huang"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.13531"
+    },
+    {
+     "title": "rvente/formal-complexity-theory: v0.1.0 — initial public snapshot",
+     "year": 2026,
+     "authors": [
+      "Blake Vente"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.21857988"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "formalization circuit complexity Lean",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "formalization circuit complexity Lean",
+   "status": 200,
+   "results": [
+    {
+     "title": "",
+     "year": 2026,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.3030/101224275"
+    },
+    {
+     "title": "Formalization of derived categories in Lean/mathlib",
+     "year": 2025,
+     "authors": [
+      "Joël Riou"
+     ],
+     "venue": "Annals of Formalized Mathematics",
+     "id": "doi:10.46298/afm.13609"
+    },
+    {
+     "title": "A formalization of Borel determinacy in Lean",
+     "year": 2026,
+     "authors": [
+      "Sven Manthe"
+     ],
+     "venue": "Annals of Formalized Mathematics",
+     "id": "doi:10.46298/afm.15202"
+    },
+    {
+     "title": "Communication Complexity and Circuit Depth",
+     "year": 1989,
+     "authors": [],
+     "venue": "Communication Complexity",
+     "id": "doi:10.7551/mitpress/1948.003.0006"
+    },
+    {
+     "title": "Lean Innovation",
+     "year": 2017,
+     "authors": [],
+     "venue": "Simple",
+     "id": "doi:10.1201/b22133-6"
+    },
+    {
+     "title": "Circuit Complexity",
+     "year": 1994,
+     "authors": [
+      "Howard Straubing"
+     ],
+     "venue": "Finite Automata, Formal Logic, and Circuit Complexity",
+     "id": "doi:10.1007/978-1-4612-0289-9_8"
+    },
+    {
+     "title": "Formalization of QFT II: The Osterwalder-Schrader Reconstruction Theorem, Free Fermions, and P (ϕ) 2 in Lean 4&amp;nbsp;\n&lt;div&gt;\n A formalization blueprint and prospectus\n&lt;/div&gt;",
+     "year": 2026,
+     "authors": [
+      "Miquel Noguer I Alonso"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6439344"
+    },
+    {
+     "title": "Personal Lean",
+     "year": 2017,
+     "authors": [],
+     "venue": "Simple",
+     "id": "doi:10.1201/9781315198750-13"
+    },
+    {
+     "title": "Managing complexity with lean: lean principles and provider well-being in complex\n               adaptive healthcare systems",
+     "year": null,
+     "authors": [
+      "Pavel Vaisberg"
+     ],
+     "venue": "",
+     "id": "doi:10.17760/d20817849"
+    },
+    {
+     "title": "LEAN FORMALIZATION OF INSERTION SORT STABILITY AND CORRECTNESS",
+     "year": 2018,
+     "authors": [
+      "",
+      "František SILVÁŠI",
+      "Martin TOMÁŠEK"
+     ],
+     "venue": "Acta Electrotechnica et Informatica",
+     "id": "doi:10.15546/aeei-2018-0015"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "Barrington theorem formalized proof assistant",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "Barrington theorem formalized proof assistant",
+   "status": 200,
+   "results": [
+    {
+     "title": "Budget-Constrained Embodied Perception: Four Resource Walls and a Pre-Registered Evaluation of Access-Structured Perception on Open Models at less than 31B",
+     "year": 2026,
+     "authors": [
+      "Defu Lin",
+      "Wenhui Chen",
+      "Ziyao Lin",
+      "Jianlin Chen",
+      "Peiji Long",
+      "Chi‐Man Vong"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.22975"
+    },
+    {
+     "title": "Circuit Complexity Bounds for RoPE-based Transformer Architecture",
+     "year": 2025,
+     "authors": [
+      "Bo Chen",
+      "Xiaoyu Li",
+      "Yingyu Liang",
+      "Jiangxuan Long",
+      "Zhenmei Shi",
+      "Zhao Song"
+     ],
+     "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+     "id": "https://doi.org/10.18653/v1/2025.emnlp-main.561"
+    },
+    {
+     "title": "Quantum homomorphic encryption for polynomial-sized circuits",
+     "year": 2018,
+     "authors": [
+      "Yfke Dulek",
+      "Christian Schaffner",
+      "Florian Speelman"
+     ],
+     "venue": "Theory of Computing",
+     "id": "https://doi.org/10.4086/toc.2018.v014a007"
+    },
+    {
+     "title": "Outcome-Based RL Provably Leads Transformers to Reason, but Only With the Right Data",
+     "year": 2026,
+     "authors": [
+      "Yuval Ran-Milo",
+      "Yotam Alexander",
+      "Shahar Mendel",
+      "Nadav Cohen"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2601.15158"
+    },
+    {
+     "title": "Rethinking Addressing in Language Models via Contexualized Equivariant Positional Encoding",
+     "year": 2025,
+     "authors": [
+      "Zhu, Jiajun",
+      "Peihao Wang",
+      "Ruisi Cai",
+      "Jason D. Lee",
+      "Li, Pan",
+      "Zhangyang Wang"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2501.00712"
+    },
+    {
+     "title": "Dagstuhl News January - December 2010",
+     "year": 2012,
+     "authors": [
+      "Fritz Müller",
+      "Reinhard Wilhelm"
+     ],
+     "venue": "DROPS (Schloss Dagstuhl – Leibniz Center for Informatics)",
+     "id": "https://doi.org/10.4230/dagnews.2010"
+    },
+    {
+     "title": "Uniting Against Autocrats: Opposition Coordination, Turnovers and Democratization by Elections",
+     "year": 2012,
+     "authors": [
+      "Michael Wahman"
+     ],
+     "venue": "Lund University Publications (Lund University)",
+     "id": "https://openalex.org/W1791329182"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "Barrington theorem formalized proof assistant",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "Barrington theorem formalized proof assistant",
+   "status": 200,
+   "results": [
+    {
+     "title": "Polyhedra genus theorem and Euler formula: A hypermap-formalized intuitionistic proof",
+     "year": 2008,
+     "authors": [
+      "Jean-François Dufourd"
+     ],
+     "venue": "Theoretical Computer Science",
+     "id": "doi:10.1016/j.tcs.2008.02.012"
+    },
+    {
+     "title": "Applications of Formalized Information Theory",
+     "year": null,
+     "authors": [],
+     "venue": "Formalized Probability Theory and Applications Using Theorem Proving",
+     "id": "doi:10.4018/978-1-4666-8315-0.ch011"
+    },
+    {
+     "title": "A New and Formalized Proof of Abstract Completion",
+     "year": 2014,
+     "authors": [
+      "Nao Hirokawa",
+      "Aart Middeldorp",
+      "Christian Sternagel"
+     ],
+     "venue": "Lecture Notes in Computer Science Interactive Theorem Proving",
+     "id": "doi:10.1007/978-3-319-08970-6_19"
+    },
+    {
+     "title": "Probabilistic Analysis Using Theorem Proving",
+     "year": null,
+     "authors": [],
+     "venue": "Formalized Probability Theory and Applications Using Theorem Proving",
+     "id": "doi:10.4018/978-1-4666-8315-0.ch003"
+    },
+    {
+     "title": "The Perfect Number Theorem and Wilson's Theorem",
+     "year": 2009,
+     "authors": [
+      "Marco Riccardi"
+     ],
+     "venue": "Formalized Mathematics",
+     "id": "doi:10.2478/v10037-009-0013-y"
+    },
+    {
+     "title": "Who Can Understand the Proof? A Window on Formalized Mathematics",
+     "year": 2025,
+     "authors": [
+      "Stephen Wolfram"
+     ],
+     "venue": "",
+     "id": "doi:10.31855/12ec6261-2c0"
+    },
+    {
+     "title": "Ramsey's Theorem",
+     "year": 2008,
+     "authors": [
+      "Marco Riccardi"
+     ],
+     "venue": "Formalized Mathematics",
+     "id": "doi:10.2478/v10037-008-0026-y"
+    },
+    {
+     "title": "The Twelf Proof Assistant",
+     "year": 2009,
+     "authors": [
+      "Carsten Schürmann"
+     ],
+     "venue": "Lecture Notes in Computer Science Theorem Proving in Higher Order Logics",
+     "id": "doi:10.1007/978-3-642-03359-9_7"
+    },
+    {
+     "title": "An Intuitionistic Proof of a Discrete Form of the Jordan Curve Theorem Formalized in Coq with Combinatorial Hypermaps",
+     "year": 2009,
+     "authors": [
+      "Jean-François Dufourd"
+     ],
+     "venue": "Journal of Automated Reasoning",
+     "id": "doi:10.1007/s10817-009-9117-x"
+    },
+    {
+     "title": "Cayley's Theorem",
+     "year": 2011,
+     "authors": [
+      "Artur Korniłowicz"
+     ],
+     "venue": "Formalized Mathematics",
+     "id": "doi:10.2478/v10037-011-0030-5"
+    }
+   ]
+  },
+  {
+   "source": "GitHub code search leanprover-community/mathlib4",
+   "query": "Barrington",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "GitHub code search leanprover-community/mathlib4",
+   "query": "TC0",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "GitHub code search leanprover-community/mathlib4",
+   "query": "NC1",
+   "status": 200,
+   "results": [
+    {
+     "path": "Mathlib/MeasureTheory/Integral/CurveIntegral/Poincare.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/MeasureTheory/Integral/CurveIntegral/Poincare.lean"
+    }
+   ]
+  },
+  {
+   "source": "GitHub code search google-deepmind/formal-conjectures",
+   "query": "Barrington",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "GitHub code search google-deepmind/formal-conjectures",
+   "query": "TC0",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "GitHub code search google-deepmind/formal-conjectures",
+   "query": "NC1",
+   "status": 200,
+   "results": []
+  }
+ ]
+}

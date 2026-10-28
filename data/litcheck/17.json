@@ -1,0 +1,444 @@
+{
+ "problem": 17,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "obstruction record versus boolean success false no solution classification",
+   "status": 200,
+   "results": [],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "OpenAlex",
+   "query": "obstruction record versus boolean success false no solution classification",
+   "status": 200,
+   "results": [
+    {
+     "title": "PEER-TO-PEER PERSONAL HEALTH RECORD",
+     "year": 2019,
+     "authors": [
+      "Horne, William C"
+     ],
+     "venue": "Figshare",
+     "id": "https://doi.org/10.25394/pgs.8977421.v1"
+    },
+    {
+     "title": "Reasoning Shortcuts and Value Symmetries: What Symmetry Permits, Architecture Realizes, and Optimization Selects",
+     "year": 2026,
+     "authors": [
+      "Xin Xu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.10420"
+    },
+    {
+     "title": "Dental sealant versus fluoride varnish: which is the more effective method to prevent occlusal caries?",
+     "year": 2019,
+     "authors": [
+      "A. Bellina",
+      "Caroline Dini",
+      "Mauri",
+      "Giovanni Battista Grossi",
+      "Maria Grazia Cagetti"
+     ],
+     "venue": "Archivio Istituzionale della Ricerca (Universita Degli Studi Di Milano)",
+     "id": "https://openalex.org/W2966309256"
+    },
+    {
+     "title": "Obstructions in Security-Aware Business Processes",
+     "year": 2022,
+     "authors": [
+      "Julius Holderer"
+     ],
+     "venue": "Springer eBooks",
+     "id": "https://doi.org/10.1007/978-3-658-38154-7"
+    },
+    {
+     "title": "Artificial neural networks for diagnosis and survival prediction in colon cancer",
+     "year": 2005,
+     "authors": [
+      "Farid Ahmed"
+     ],
+     "venue": "Molecular Cancer",
+     "id": "https://doi.org/10.1186/1476-4598-4-29"
+    },
+    {
+     "title": "Algebraic paradoxes in adaptive quantum computation",
+     "year": 2026,
+     "authors": [
+      "Samson Abramsky",
+      "Rui Soares Barbosa",
+      "Carmen Constantin",
+      "Martti Karvonen"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.26157"
+    },
+    {
+     "title": "The Verification Boundary: Exact Limits of Verification by Bounded Systems: Identification, Generation, Computation, Implementation, Correspondence — and the Forced Routing at Each Limit",
+     "year": 2026,
+     "authors": [
+      "Devin Bostick"
+     ],
+     "venue": "PhilPapers (PhilPapers Foundation)",
+     "id": "https://doi.org/10.5281/zenodo.22730035"
+    },
+    {
+     "title": "A STUDY ON GENERAL ASSEMBLY LINE BALANCING MODELING METHODS AND TECHNIQUES",
+     "year": 2015,
+     "authors": [
+      "Bryan Pearce"
+     ],
+     "venue": "TigerPrints (Clemson University)",
+     "id": "https://openalex.org/W2224359430"
+    },
+    {
+     "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+     "year": 2026,
+     "authors": [
+      "Chien-Ping Lu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.10611"
+    },
+    {
+     "title": "Performance Evaluation of an IoT-Enabled Mobile Robotic System for Smart Homes",
+     "year": 2026,
+     "authors": [
+      "Nafiz Ahmed Chisty",
+      "Mohammad Alif Arman",
+      "SM Walid",
+      "Mohammad Shorif Uddin"
+     ],
+     "venue": "AIUB Journal of Science and Engineering (AJSE)",
+     "id": "https://doi.org/10.53799/stn2d409"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "obstruction record versus boolean success false no solution classification",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "obstruction record versus boolean success false no solution classification",
+   "status": 200,
+   "results": [
+    {
+     "title": "MRI and navicular disease – on the brink of success or another false dawn?",
+     "year": 2013,
+     "authors": [
+      "Bruce Bladon"
+     ],
+     "venue": "Veterinary Record",
+     "id": "doi:10.1136/vr.f4659"
+    },
+    {
+     "title": "Solution of Boolean Equations",
+     "year": 1990,
+     "authors": [
+      "Frank Markham Brown"
+     ],
+     "venue": "Boolean Reasoning",
+     "id": "doi:10.1007/978-1-4757-2078-5_6"
+    },
+    {
+     "title": "Optimization in Boolean Classification Problems",
+     "year": null,
+     "authors": [],
+     "venue": "SpringerReference",
+     "id": "doi:10.1007/springerreference_72557"
+    },
+    {
+     "title": "Efficiency versus Success",
+     "year": 2014,
+     "authors": [],
+     "venue": "Best Practices and Advances in Program Management Series Project Planning and Project Success",
+     "id": "doi:10.1201/b17681-6"
+    },
+    {
+     "title": "Single-Record versus Separate-Record Approaches for Cataloging E-Serials in the OCLC WorldCat Local Environment",
+     "year": 2009,
+     "authors": [
+      "Lihong Zhu"
+     ],
+     "venue": "Cataloging &amp; Classification Quarterly",
+     "id": "doi:10.1080/01639370802575583"
+    },
+    {
+     "title": "Multiband Versus Multispectral Supervised Classification of Architectural Images",
+     "year": 2001,
+     "authors": [
+      "José L. Lerma"
+     ],
+     "venue": "The Photogrammetric Record",
+     "id": "doi:10.1111/0031-868x.00169"
+    },
+    {
+     "title": "Dilatory Motions and the Success of Obstruction",
+     "year": null,
+     "authors": [],
+     "venue": "Filibuster",
+     "id": "doi:10.2307/j.ctt5hhnn7.10"
+    },
+    {
+     "title": "Alternative set theory; Boolean and fuzzy relations; Checklist paradigm semantics for fuzzy logics; Inference of monotone Boolean functions; Optimization in Boolean classification problems; Optimization in classifying text documentsAlternative set theory; Boolean and fuzzy relations; Checklist paradigm semantics for fuzzy logics; Inference of monotone Boolean functions; Optimization in Boolean classification problems; Optimization in classifying text documentsFINITE COMPLETE SYSTEMS OF MANY-VALUED LOGIC ALGEBRAS",
+     "year": 2001,
+     "authors": [
+      "Ladislav J. Kohout"
+     ],
+     "venue": "Encyclopedia of Optimization",
+     "id": "doi:10.1007/0-306-48332-7_140"
+    },
+    {
+     "title": "Boolean Algebras Versus Rings",
+     "year": 2009,
+     "authors": [
+      "Steven Givant"
+     ],
+     "venue": "Undergraduate Texts in Mathematics Introduction to Boolean Algebras",
+     "id": "doi:10.1007/978-0-387-68436-9_3"
+    },
+    {
+     "title": "Invasively Estimated International Continence Society Obstruction Classification Versus Noninvasively Assessed Bladder Outlet Obstruction Probability in Treatment Recommendation for LUTS Suggestive of BPH",
+     "year": 2007,
+     "authors": [
+      "Joost L. Boormans",
+      "Ger E.P.M. van Venrooij",
+      "Tom A. Boon"
+     ],
+     "venue": "Urology",
+     "id": "doi:10.1016/j.urology.2006.10.039"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "structured failure reports lifting problems benchmark false negatives",
+   "status": 200,
+   "results": [],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "OpenAlex",
+   "query": "structured failure reports lifting problems benchmark false negatives",
+   "status": 200,
+   "results": [
+    {
+     "title": "MOTChallenge: A Benchmark for Single-Camera Multiple Target Tracking",
+     "year": 2020,
+     "authors": [
+      "Patrick Dendorfer",
+      "Aljoša Ošep",
+      "Anton Milan",
+      "Konrad Schindler",
+      "Daniel Cremers",
+      "Ian D. Reid"
+     ],
+     "venue": "International Journal of Computer Vision",
+     "id": "https://doi.org/10.1007/s11263-020-01393-0"
+    },
+    {
+     "title": "The Imperfective Paradox Is Not Necessarily in Large Language Models: A Benchmark Failure Before a Model Failure",
+     "year": 2026,
+     "authors": [
+      "Kaiqiao Han",
+      "Yizhou Sun"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.25005"
+    },
+    {
+     "title": "Evaluating a holistic energy benchmarking parameter of lift systems by using computer simulation",
+     "year": 2016,
+     "authors": [
+      "Ricky Chan",
+      "Albert T. P. So",
+      "Stefan Kaczmarczyk"
+     ],
+     "venue": "NECTAR - Northampton Electronic Collection of Thesis and Research (University of Northampton)",
+     "id": "https://openalex.org/W2592323954"
+    },
+    {
+     "title": "OptionWorld: A Benchmark for Diagnosing Failures of LLMs as Long-Term Personal Assistants",
+     "year": 2026,
+     "authors": [
+      "Ruoyu Zhang",
+      "Zhaocen Liu",
+      "Weiyi Tian",
+      "Melissa Feng",
+      "Shilong Liu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.28491"
+    },
+    {
+     "title": "Scalable validation of binary lifters",
+     "year": 2020,
+     "authors": [
+      "Sandeep Dasgupta",
+      "Sushant Dinesh",
+      "Deepan Venkatesh",
+      "Vikram Adve",
+      "Christopher W. Fletcher"
+     ],
+     "venue": "ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)",
+     "id": "https://doi.org/10.1145/3385412.3385964"
+    },
+    {
+     "title": "PREFAIL: Identifying Precursors to Failures in Robotic Lift-and-Place Tasks to Improve Task Execution Performance",
+     "year": 2026,
+     "authors": [
+      "Zeyu Shangguan",
+      "Rajas Chitale",
+      "Rohit Patel",
+      "Satyandra K. Gupta",
+      "Daniel Seita"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.16921"
+    },
+    {
+     "title": "Network Neutrality between False Positives and False Negatives: Introducing a European Approach to American Broadband Markets",
+     "year": 2009,
+     "authors": [
+      "Jasper P. Sluijs"
+     ],
+     "venue": "Indiana Magazine of History (Indiana University)",
+     "id": "https://openalex.org/W1563446477"
+    },
+    {
+     "title": "TaxPraBen: A Scalable Benchmark for Structured Evaluation of LLMs in Chinese Real-World Tax Practice",
+     "year": 2026,
+     "authors": [
+      "Gang Hu",
+      "Yating Chen",
+      "Haiyan Ding",
+      "Wang Gao",
+      "Jiajia Huang",
+      "Min Peng"
+     ],
+     "venue": "Annual Meeting of the Association for Computational Linguistics (ACL)",
+     "id": "https://doi.org/10.18653/v1/2026.acl-long.1765"
+    },
+    {
+     "title": "The Gordian Knot for VLMs: Diagrammatic Knot Reasoning as a Hard Benchmark",
+     "year": 2026,
+     "authors": [
+      "Hao Liu",
+      "Jicheng Liu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.09900"
+    },
+    {
+     "title": "Lifted discriminative learning of probabilistic logic programs",
+     "year": 2018,
+     "authors": [
+      "Arnaud Nguembang Fadja",
+      "Fabrizio Riguzzi"
+     ],
+     "venue": "Machine Learning",
+     "id": "https://doi.org/10.1007/s10994-018-5750-0"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "structured failure reports lifting problems benchmark false negatives",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "structured failure reports lifting problems benchmark false negatives",
+   "status": 200,
+   "results": [
+    {
+     "title": "False Positives/False Negatives",
+     "year": null,
+     "authors": [],
+     "venue": "SpringerReference",
+     "id": "doi:10.1007/springerreference_35140"
+    },
+    {
+     "title": "Figure 4: Confusion matrix showing true positives, false positives, false negatives, and true negatives for binary classification.",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7717/peerjcs.2592/fig-4"
+    },
+    {
+     "title": "Table 3: 2 × 2 table depicting true positives, false negatives, true negatives, and false positive for perioperative risk factors.",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7717/peerj-cs.2822/table-3"
+    },
+    {
+     "title": "Evaluating AI Text Detection Accuracy: A Structured Review of False Positives, False Negatives, and Implications for Academic Integrity Policy in Gulf Region Universities",
+     "year": 2026,
+     "authors": [
+      "Husain Ali Merza Shamlooh"
+     ],
+     "venue": "",
+     "id": "doi:10.21203/rs.3.rs-9581862/v2"
+    },
+    {
+     "title": "True Positives, True Negatives, False Positives, False Negatives",
+     "year": 2014,
+     "authors": [
+      "Carsten Schwenke",
+      "AG Schering"
+     ],
+     "venue": "Wiley StatsRef: Statistics Reference Online",
+     "id": "doi:10.1002/9781118445112.stat06783"
+    },
+    {
+     "title": "True Positives, True Negatives, False Positives, False Negatives",
+     "year": 2007,
+     "authors": [
+      "Carsten Schwenke",
+      "AG Schering"
+     ],
+     "venue": "Wiley Encyclopedia of Clinical Trials",
+     "id": "doi:10.1002/9780471462422.eoct021"
+    },
+    {
+     "title": "Figure 8: Error distribution (false positives &amp; false negatives).",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7717/peerj-cs.3796/fig-8"
+    },
+    {
+     "title": "Table 4: 2 × 2 table depicting true positives, false negatives, true negatives, and false positive for preoperative risk factors.",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7717/peerj-cs.2822/table-4"
+    },
+    {
+     "title": "MAC Andrew Alcoholism Scale and Repression: Detection of False Negatives, a Failure to Replicate",
+     "year": 1987,
+     "authors": [
+      "Bruce P. Kennedy",
+      "John D. McPeake"
+     ],
+     "venue": "Psychological Reports",
+     "id": "doi:10.2466/pr0.1987.60.3.839"
+    },
+    {
+     "title": "Figure 11: False negatives in detection.",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7717/peerjcs.1747/fig-11"
+    }
+   ]
+  }
+ ]
+}

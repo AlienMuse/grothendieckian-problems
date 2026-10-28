@@ -1,0 +1,473 @@
+{
+ "problem": 28,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "stability bound sheaf diffusion change of base",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "stability bound sheaf diffusion change of base",
+   "status": 200,
+   "results": [
+    {
+     "title": "Deep Neural Sheaf Diffusion",
+     "year": 2026,
+     "authors": [
+      "Rémi Bourgerie",
+      "Šarūnas Girdzijauskas",
+      "Viktória Fodor"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.19021"
+    },
+    {
+     "title": "Oversmoothing as Representation Degeneracy in Neural Sheaf Diffusion",
+     "year": 2026,
+     "authors": [
+      "Arif Dönmez",
+      "Axel Mosig A",
+      "Ellen Fritsche",
+      "Katharina Koch"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.11178"
+    },
+    {
+     "title": "A Bochner Weitzenböck Decomposition for Cellular Sheaf Laplacians, Curvature and Neural Sheaf Diffusion",
+     "year": 2026,
+     "authors": [
+      "Francesco Maria Guadagnuolo",
+      "Alessio Borgi",
+      "Dorina Thanou",
+      "Pietro Liò"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.28455"
+    },
+    {
+     "title": "Nonlinear Sheaf Diffusion in Graph Neural Networks",
+     "year": 2024,
+     "authors": [
+      "Olga Zaghen"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2403.00337"
+    },
+    {
+     "title": "DeepSN: A Sheaf Neural Framework for Influence Maximization",
+     "year": 2025,
+     "authors": [
+      "Asela Hevapathige",
+      "Qing Wang",
+      "Ahad N. Zehmakan"
+     ],
+     "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+     "id": "https://doi.org/10.1609/aaai.v39i16.33888"
+    },
+    {
+     "title": "Sheaf4Rec: Sheaf Neural Networks for Graph-based Recommender Systems",
+     "year": 2025,
+     "authors": [
+      "Antonio Purificato",
+      "Giulia Cassarà",
+      "Federico Siciliano",
+      "Píetro Lió",
+      "Fabrizio Silvestri"
+     ],
+     "venue": "ACM Transactions on Recommender Systems",
+     "id": "https://doi.org/10.1145/3742898"
+    },
+    {
+     "title": "Stable Unsupervised Continual Chunking with Sheaf SyncMap",
+     "year": 2026,
+     "authors": [
+      "Xueyuan Li",
+      "Danilo Vasconcellos Vargas"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.25143"
+    },
+    {
+     "title": "Temporal Sheaf Neural Networks with Dynamic Orthogonal Transport",
+     "year": 2026,
+     "authors": [
+      "Md Sadek Hossain Asif",
+      "Tanzila Khan",
+      "Md. Mosaddek Khan"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.10071"
+    },
+    {
+     "title": "Incremental Sheaf Cohomology on Cellular Complexes: O(1)-in-n Lazy Edit Processing under Bounded Local Geometry",
+     "year": 2026,
+     "authors": [
+      "Jason Volk"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.04227"
+    },
+    {
+     "title": "Demystifying Oversmoothing in Sheaf Neural Networks: An Index-Theoretic Criterion",
+     "year": 2026,
+     "authors": [
+      "Junwen Dong",
+      "Yuhan Peng",
+      "Hao Li",
+      "Huitao Feng",
+      "Kelin Xia"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.16180"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "stability bound sheaf diffusion change of base",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "stability bound sheaf diffusion change of base",
+   "status": 200,
+   "results": [
+    {
+     "title": "Base change behavior of the relative canonical sheaf related to higher dimensional moduli",
+     "year": 2013,
+     "authors": [
+      "Zsolt Patakfalvi"
+     ],
+     "venue": "Algebra &amp; Number Theory",
+     "id": "doi:10.2140/ant.2013.7.353"
+    },
+    {
+     "title": "A Reaction-Diffusion-Sheaf Framework for Policy Adoption and RCT External Validity Towards a Cementation Model",
+     "year": 2025,
+     "authors": [
+      "Daipayan Majumder"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.5467846"
+    },
+    {
+     "title": "Structural stability for double-diffusion Brinkman fluid with Soret effect",
+     "year": 2024,
+     "authors": [
+      "Yuanfei Li"
+     ],
+     "venue": "Boundary Value Problems",
+     "id": "doi:10.1186/s13661-024-01946-z"
+    },
+    {
+     "title": "Adaptive Temporal Neural Sheaf Diffusion With Cohomological Polarisation Certificates for Heterophilic Sentiment Propagation in Social Media",
+     "year": 2026,
+     "authors": [
+      "Avi Verma"
+     ],
+     "venue": "",
+     "id": "doi:10.21203/rs.3.rs-9581155/v1"
+    },
+    {
+     "title": "Stability of the parabolic Picard sheaf",
+     "year": 2024,
+     "authors": [
+      "C Arusha",
+      "Indranil Biswas"
+     ],
+     "venue": "Proceedings - Mathematical Sciences",
+     "id": "doi:10.1007/s12044-024-00805-2"
+    },
+    {
+     "title": "Sheaves and sheaf spaces",
+     "year": 1975,
+     "authors": [],
+     "venue": "Sheaf Theory",
+     "id": "doi:10.1017/cbo9780511661761.004"
+    },
+    {
+     "title": "Reincarnation Culture-Bound Syndrome in Nigeria",
+     "year": 2023,
+     "authors": [
+      "Abel Ebiega Enokela"
+     ],
+     "venue": "The Palgrave Handbook of Global Social Change",
+     "id": "doi:10.1007/978-3-030-87624-1_418-1"
+    },
+    {
+     "title": "Technology diffusion and global welfare effects: Imitative R&amp;D vs. South-bound FDI",
+     "year": 2010,
+     "authors": [
+      "Hwan C. Lin"
+     ],
+     "venue": "Structural Change and Economic Dynamics",
+     "id": "doi:10.1016/j.strueco.2010.08.001"
+    },
+    {
+     "title": "A uniqueness and stability principle for surface diffusion",
+     "year": 2026,
+     "authors": [
+      "Milan Kroemer",
+      "Tim Laux"
+     ],
+     "venue": "Interfaces and Free Boundaries, Mathematical Analysis, Computation and Applications",
+     "id": "doi:10.4171/ifb/575"
+    },
+    {
+     "title": "Spatial decay bound and structural stability for the double-diffusion perturbation equations",
+     "year": 2022,
+     "authors": [
+      "Yuanfei Li",
+      "Xuejiao Chen"
+     ],
+     "venue": "Mathematical Biosciences and Engineering",
+     "id": "doi:10.3934/mbe.2023142"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "sheaf Laplacian solve perturbation bound",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "sheaf Laplacian solve perturbation bound",
+   "status": 200,
+   "results": [
+    {
+     "title": "Deep Neural Sheaf Diffusion",
+     "year": 2026,
+     "authors": [
+      "Rémi Bourgerie",
+      "Šarūnas Girdzijauskas",
+      "Viktória Fodor"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.19021"
+    },
+    {
+     "title": "Incremental Sheaf Cohomology on Cellular Complexes: O(1)-in-n Lazy Edit Processing under Bounded Local Geometry",
+     "year": 2026,
+     "authors": [
+      "Jason Volk"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.04227"
+    },
+    {
+     "title": "Demystifying Oversmoothing in Sheaf Neural Networks: An Index-Theoretic Criterion",
+     "year": 2026,
+     "authors": [
+      "Junwen Dong",
+      "Yuhan Peng",
+      "Hao Li",
+      "Huitao Feng",
+      "Kelin Xia"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.16180"
+    },
+    {
+     "title": "Sheaf4Rec: Sheaf Neural Networks for Graph-based Recommender Systems",
+     "year": 2025,
+     "authors": [
+      "Antonio Purificato",
+      "Giulia Cassarà",
+      "Federico Siciliano",
+      "Píetro Lió",
+      "Fabrizio Silvestri"
+     ],
+     "venue": "ACM Transactions on Recommender Systems",
+     "id": "https://doi.org/10.1145/3742898"
+    },
+    {
+     "title": "Cohomological Obstructions to Global Counterfactuals: A Sheaf-Theoretic Foundation for Generative Causal Models",
+     "year": 2026,
+     "authors": [
+      "Rui Wu",
+      "Hong Xie",
+      "Yongjun Li"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2603.17384"
+    },
+    {
+     "title": "Spectral Sheaf Heuristics for Consistency Detection in Multi-Agent Systems",
+     "year": 2026,
+     "authors": [
+      "Sepehr Bayat"
+     ],
+     "venue": "Research Square",
+     "id": "https://doi.org/10.21203/rs.3.rs-8830176/v1"
+    },
+    {
+     "title": "Sheaf Graph Neural Networks via PAC-Bayes Spectral Optimization",
+     "year": 2025,
+     "authors": [
+      "Yoon-Hyuk Choi",
+      "Jiho Choi",
+      "Chong-kwon Kim"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2508.00357"
+    },
+    {
+     "title": "The Möbius homology Laplacian for persistence",
+     "year": 2026,
+     "authors": [
+      "Tatum Rask",
+      "Patel, Amit",
+      "Christopher Peterson",
+      "Clayton Shonkwiler",
+      "Dustin Tucker"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.25675/3.027276"
+    },
+    {
+     "title": "Persistent Topological Laplacian Analysis of SARS-CoV-2 Variants",
+     "year": 2023,
+     "authors": [
+      "Xiaoqi Wei",
+      "Jiahui Chen",
+      "Guo‐Wei Wei"
+     ],
+     "venue": "Journal of Computational Biophysics and Chemistry",
+     "id": "https://doi.org/10.1142/s2737416523500278"
+    },
+    {
+     "title": "Resurgent Analysis of the Witten Laplacian in One Dimension",
+     "year": 2011,
+     "authors": [
+      "Alexander Getmanenko"
+     ],
+     "venue": "Funkcialaj Ekvacioj",
+     "id": "https://doi.org/10.1619/fesi.54.383"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "sheaf Laplacian solve perturbation bound",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "sheaf Laplacian solve perturbation bound",
+   "status": 200,
+   "results": [
+    {
+     "title": "PSLL: Persistent Sheaf Laplacian Learning for Protein-Ligand Binding Affinity Prediction",
+     "year": 2026,
+     "authors": [
+      "mushal zia",
+      "Benjamin Jones"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.7404448"
+    },
+    {
+     "title": "Sheaf Laplacian Sparsification on Graphs",
+     "year": 2026,
+     "authors": [
+      "Minghua Wang",
+      "Elisha Brooks",
+      "Vasileios Maroulas"
+     ],
+     "venue": "2026 29th International Conference on Information Fusion (FUSION)",
+     "id": "doi:10.23919/fusion67272.2026.11726641"
+    },
+    {
+     "title": "Boundedness of solutions to a second-order periodic system with p-Laplacian and unbounded perturbation terms",
+     "year": 2024,
+     "authors": [
+      "Xiumei Xing",
+      "Haiyan Wang",
+      "Shaoyong Lai"
+     ],
+     "venue": "Boundary Value Problems",
+     "id": "doi:10.1186/s13661-024-01911-w"
+    },
+    {
+     "title": "Leveraging spectrum of graph sheaf Laplacian as a genome-architecture-aware measure of microbiome diversity",
+     "year": 2026,
+     "authors": [
+      "Nicolae Sapoval",
+      "Todd J. Treangen",
+      "Luay Nakhleh"
+     ],
+     "venue": "",
+     "id": "doi:10.64898/2026.03.10.710879"
+    },
+    {
+     "title": "Learning Sheaf Laplacian Optimizing Restriction Maps",
+     "year": 2024,
+     "authors": [
+      "Leonardo Di Nino",
+      "Sergio Barbarossa",
+      "Paolo Di Lorenzo"
+     ],
+     "venue": "2024 58th Asilomar Conference on Signals, Systems, and Computers",
+     "id": "doi:10.1109/ieeeconf60004.2024.10942997"
+    },
+    {
+     "title": "Sheaf Laplacian Localization for Subgraph Signal Diffusion",
+     "year": 2026,
+     "authors": [
+      "Purui Zhang",
+      "Wee Peng Tay",
+      "Bihan Wen"
+     ],
+     "venue": "ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+     "id": "doi:10.1109/icassp55912.2026.11460969"
+    },
+    {
+     "title": "A Ghost Perturbation Scheme to Solve Ordinary Differential Equations",
+     "year": 2022,
+     "authors": [
+      "P.L. Garrido"
+     ],
+     "venue": "",
+     "id": "doi:10.21203/rs.3.rs-1740884/v1"
+    },
+    {
+     "title": "Numerically Modeling Solve by Homotopy Perturbation Method",
+     "year": 2019,
+     "authors": [],
+     "venue": "Mathematical Theory and Modeling",
+     "id": "doi:10.7176/mtm/9-4-03"
+    },
+    {
+     "title": "Finding Healthcare Provider Experts via Sheaf Laplacian",
+     "year": 2025,
+     "authors": [
+      "Mehmet Emin Aktas",
+      "Iraj Moradi",
+      "Esra Akbas",
+      "Mehmet Boyno"
+     ],
+     "venue": "2025 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB)",
+     "id": "doi:10.1109/cibcb66090.2025.11177091"
+    },
+    {
+     "title": "Graph-Theoretic Detection of Anomalies in Supply Chains: A PoR-Based Approach Using Laplacian Flow and Sheaf Theory",
+     "year": 2025,
+     "authors": [
+      "Hsiao-Chun Han",
+      "Der-Chen Huang"
+     ],
+     "venue": "Mathematics",
+     "id": "doi:10.3390/math13111795"
+    }
+   ]
+  }
+ ]
+}

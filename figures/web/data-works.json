@@ -1,0 +1,104 @@
+{
+ "id": "works",
+ "number": 1,
+ "size_mm": [
+  132.0,
+  132.0
+ ],
+ "footer": "The Rising-Sea Theses · Vincent Liu · doi:10.5281/zenodo.23734424 · CC BY 4.0",
+ "title": "THE SEVEN WORKS",
+ "right": "7 WORKS · 34 VOLUMES · 26,021 PAGES",
+ "cells": [
+  {
+   "series": "01",
+   "position": "centre",
+   "colour": "cyan",
+   "name": [
+    "The Grothendieckian",
+    "Machine"
+   ],
+   "role": "the core",
+   "formula": "Desc(Φ₁,…,Φ₆)",
+   "size": "6 volumes · 14,905 pages"
+  },
+  {
+   "series": "02",
+   "position": "top",
+   "colour": "cyan",
+   "name": [
+    "Topos-Native",
+    "Intelligence"
+   ],
+   "role": "the meta-reasoning kernel",
+   "formula": "Sub(X) ≅ Hom(X, Ω)",
+   "size": "5 volumes · 4,020 pages"
+  },
+  {
+   "series": "03",
+   "position": "upper-right",
+   "colour": "blue",
+   "name": [
+    "Arithmetic Spectral",
+    "Descent"
+   ],
+   "role": "Riemann Hypothesis · GRH",
+   "formula": "#{Re λ > ½} ≤ min(n₊, n₋)",
+   "size": "4 volumes · 1,549 pages"
+  },
+  {
+   "series": "04",
+   "position": "lower-right",
+   "colour": "violet",
+   "name": [
+    "Fractured Adelic",
+    "Geometry"
+   ],
+   "role": "Birch–Swinnerton-Dyer",
+   "formula": "Δ(X_{E})",
+   "size": "4 volumes · 571 pages"
+  },
+  {
+   "series": "05",
+   "position": "bottom",
+   "colour": "blue",
+   "name": [
+    "The Archimedean",
+    "Prism"
+   ],
+   "role": "Hodge conjecture",
+   "formula": "Δ(X)",
+   "size": "5 volumes · 1,309 pages"
+  },
+  {
+   "series": "06",
+   "position": "lower-left",
+   "colour": "violet",
+   "name": [
+    "Strained Prismatic",
+    "Geometry"
+   ],
+   "role": "abc conjecture",
+   "formula": "Spec ℤ → 𝔖",
+   "size": "5 volumes · 1,666 pages"
+  },
+  {
+   "series": "07",
+   "position": "upper-left",
+   "colour": "blue",
+   "name": [
+    "The Arithmetic",
+    "Topos"
+   ],
+   "role": "Langlands programme",
+   "formula": "𝔛_{𝐙}",
+   "size": "5 volumes · 2,001 pages"
+  }
+ ],
+ "shared_edge": "META-REASONING OVER THE CORE",
+ "legend": [
+  "worlds and transport",
+  "descent reasoning and verification",
+  "obstructions · new structures · new conjectures",
+  "port: an interface, not a proof"
+ ]
+}

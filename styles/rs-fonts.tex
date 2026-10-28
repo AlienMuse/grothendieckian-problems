@@ -1,0 +1,14 @@
+% Text faces: the series TeX Gyre Pagella family (Series 00–07) with the Series 00 fallback chain for glyphs Pagella
+% lacks; the mathematics face is set in rs-template.tex. English only: no CJK face (Q5: no Chinese edition this round).
+\directlua{
+  luaotfload.add_fallback("rsfallback", {
+    "TeX Gyre Pagella Math:mode=harf;",
+    "Cambria Math:mode=harf;",
+    "Segoe UI Symbol:mode=harf;",
+    "DejaVu Sans:mode=harf;",
+  })
+}
+\setmainfont{TeX Gyre Pagella}[Ligatures=TeX, RawFeature={fallback=rsfallback}]
+\setsansfont{TeX Gyre Heros}[Ligatures=TeX, Scale=MatchLowercase, RawFeature={fallback=rsfallback}]
+\setmonofont{TeX Gyre Cursor}[RawFeature={fallback=rsfallback}]
+\endinput

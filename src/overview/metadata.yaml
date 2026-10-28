@@ -1,0 +1,26 @@
+title: "The Grothendieckian Programme: An Overview"
+subtitle: "Seven Open Works on Mathematics and Machine Reasoning"
+shorttitle: "The Grothendieckian Programme: An Overview"
+pdftitle: "The Grothendieckian Programme: An Overview — Seven Open Works on Mathematics and Machine Reasoning"
+author: "Vincent Liu"
+affiliation: "WiseMotif.ai"
+affiliationurl: "https://wisemotif.ai"
+email: "vincent.liu@wisemotif.ai"
+orcid: "https://orcid.org/0009-0000-8718-222X"
+version: "Preprint · Version 1.0"
+date: "28 October 2026"
+licence: "CC BY 4.0"
+doi: "10.5281/zenodo.23734422"             # reserved on Zenodo (draft 23734422), S4
+msc: "Primary 00-02; Secondary 68T01, 68V15, 18F10, 14A15"
+keywords: "Grothendieckian Programme, machine reasoning, mathematical worlds, descent, recursive mathematical discovery, open science"
+pdfsubject: "An overview of the seven works of the Grothendieckian Programme, their method and their open process"
+abstract: |
+  The Grothendieckian Programme is a series of seven works on machine reasoning about mathematics (34 volumes, 26,021
+  pages), released openly on Zenodo in October 2026 with an overview volume. Two of the works specify a reasoning
+  architecture — a core that holds mathematical worlds as typed, versioned and verifiable objects, and a kernel that
+  reasons inside such worlds by sites, sheaves and descent. Five apply one method, recursive mathematical discovery,
+  to the Riemann Hypothesis, the conjecture of Birch and Swinnerton-Dyer, the Hodge conjecture, the abc conjecture
+  and the Langlands programme, and record what it proves, what it reduces to stated hypotheses and what it leaves
+  open. This paper describes the architecture, the five research subjects, the method, the published corpus and the
+  open process by which the works are to be reviewed and continued. None of the works claims a proof of any of these
+  conjectures; they are first drafts and have not been peer-reviewed.

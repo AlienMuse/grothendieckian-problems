@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Figure 4 — How The Theses Fit Together</title>
+<!-- written by tools/figures.py; the figure is fig-relations.js, the design lib.js (Series 00) -->
+<link rel="stylesheet" href="style.css">
+<style>@page { size: 132.0mm 156.0mm; margin: 0; }
+#figure, #gl, #glimg, #hud { width: 132.0mm; height: 156.0mm; }</style>
+<script type="importmap">
+{ "imports": { "three": "./vendor/three/build/three.module.js" } }
+</script>
+</head>
+<body>
+<main id="figure">
+  <canvas id="gl"></canvas>
+  <img id="glimg" alt="" src="gl-relations.png" decoding="sync">
+  <svg id="hud" xmlns="http://www.w3.org/2000/svg" aria-label="Figure 4: How The Theses Fit Together"></svg>
+</main>
+<script type="module">
+import { run } from './lib.js';
+import * as F from './fig-relations.js';
+await run(F, 'data-relations.json');
+</script>
+</body>
+</html>

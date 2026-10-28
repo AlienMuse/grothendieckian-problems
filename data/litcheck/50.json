@@ -1,0 +1,466 @@
+{
+ "problem": 50,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "algorithm computing prismatic cohomology",
+   "status": 200,
+   "results": [
+    {
+     "title": "On the $K$-theory of $\\mathbf{Z}/p^n$",
+     "year": "2024",
+     "authors": [
+      "Benjamin Antieau",
+      "Achim Krause",
+      "Thomas Nikolaus"
+     ],
+     "id": "arXiv:2405.04329v1"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "algorithm computing prismatic cohomology",
+   "status": 200,
+   "results": [
+    {
+     "title": "A note on prismatic sites for p-quasisyntomic rings",
+     "year": 2026,
+     "authors": [
+      "Jingbang Guo"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.04931"
+    },
+    {
+     "title": "Crystallinity for syntomic cohomology, étale cohomology, and algebraic $K$-theory",
+     "year": 2024,
+     "authors": [
+      "Jeremy Hahn",
+      "Ishan Levy",
+      "Andrew Senger"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2409.20543"
+    },
+    {
+     "title": "Explicit classes in Habiro cohomology",
+     "year": 2025,
+     "authors": [
+      "Stavros Garoufalidis",
+      "Campbell Wheeler"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2505.19885"
+    },
+    {
+     "title": "Syntomic cohomology and real topological cyclic homology",
+     "year": 2026,
+     "authors": [
+      "Doosung Park"
+     ],
+     "venue": "Proceedings of the London Mathematical Society",
+     "id": "https://doi.org/10.1112/plms.70192"
+    },
+    {
+     "title": "On the $K$-theory of $\\mathbf{Z}/p^n$",
+     "year": 2024,
+     "authors": [
+      "Benjamin Antieau",
+      "Achim Krause",
+      "Thomas Nikolaus"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2405.04329"
+    },
+    {
+     "title": "Cohomology of Finite Groups: Interactions and Applications",
+     "year": 2026,
+     "authors": [
+      "David J. Benson",
+      "Natàlia Castellana",
+      "Jesper Grodal"
+     ],
+     "venue": "Oberwolfach Reports",
+     "id": "https://doi.org/10.4171/owr/2026/9"
+    },
+    {
+     "title": "Cohomology of Finite Groups: Interactions and Applications",
+     "year": 2026,
+     "authors": [
+      "Mathematisches Forschungsinstitut Oberwolfach"
+     ],
+     "venue": "Mathematisches Forschungsinstitut Oberwolfach",
+     "id": "https://doi.org/10.14760/owr-2026-9"
+    },
+    {
+     "title": "Higher dimensional dominoes in de Rham-Witt cohomology",
+     "year": 2026,
+     "authors": [
+      "Zhang, Yuanning"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.26323"
+    },
+    {
+     "title": "The crystalline cohomology of covers with a cyclic $p$-Sylow subgroup",
+     "year": 2026,
+     "authors": [
+      "Jędrzej Garnek"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.10181"
+    },
+    {
+     "title": "On the K-theory of $\\mathbb{Z}/p^n$ -- announcement",
+     "year": 2022,
+     "authors": [
+      "Benjamin Antieau",
+      "Achim Krause",
+      "Thomas Nikolaus"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2204.03420"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "algorithm computing prismatic cohomology",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "algorithm computing prismatic cohomology",
+   "status": 200,
+   "results": [
+    {
+     "title": "Comparison of prismatic cohomology and derived de Rham cohomology",
+     "year": 2023,
+     "authors": [
+      "Shizhang Li",
+      "Tong Liu"
+     ],
+     "venue": "Journal of the European Mathematical Society",
+     "id": "doi:10.4171/jems/1377"
+    },
+    {
+     "title": "Logarithmic prismatic cohomology II",
+     "year": 2025,
+     "authors": [
+      "Teruhisa Koshikawa",
+      "Zijian Yao"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "doi:10.1016/j.aim.2025.110446"
+    },
+    {
+     "title": "Cartier smoothness in prismatic cohomology",
+     "year": 2023,
+     "authors": [
+      "Tess Vincent Bouis"
+     ],
+     "venue": "Journal für die reine und angewandte Mathematik (Crelles Journal)",
+     "id": "doi:10.1515/crelle-2023-0074"
+    },
+    {
+     "title": "Prismatic cohomology and de Rham-Witt forms",
+     "year": 2025,
+     "authors": [
+      "Semen Vyacheslavovich Molokov"
+     ],
+     "venue": "Sbornik: Mathematics",
+     "id": "doi:10.4213/sm10214e"
+    },
+    {
+     "title": "Prisms and prismatic cohomology",
+     "year": 2022,
+     "authors": [
+      "Bhargav Bhatt",
+      "Peter Scholze"
+     ],
+     "venue": "Annals of Mathematics",
+     "id": "doi:10.4007/annals.2022.196.3.5"
+    },
+    {
+     "title": "Essential dimension via prismatic cohomology",
+     "year": 2024,
+     "authors": [
+      "Benson Farb",
+      "Mark Kisin",
+      "Jesse Wolfson"
+     ],
+     "venue": "Duke Mathematical Journal",
+     "id": "doi:10.1215/00127094-2023-0071"
+    },
+    {
+     "title": "Finiteness and duality for the cohomology of prismatic crystals",
+     "year": 2023,
+     "authors": [
+      "Yichao Tian"
+     ],
+     "venue": "Journal für die reine und angewandte Mathematik (Crelles Journal)",
+     "id": "doi:10.1515/crelle-2023-0032"
+    },
+    {
+     "title": "Logarithmic Prismatic Cohomology via Logarithmic THH",
+     "year": 2023,
+     "authors": [
+      "Federico Binda",
+      "Tommy Lundemo",
+      "Doosung Park",
+      "Paul Arne Østvær"
+     ],
+     "venue": "International Mathematics Research Notices",
+     "id": "doi:10.1093/imrn/rnad224"
+    },
+    {
+     "title": "Prismatic cohomology and p-adic homotopy theory",
+     "year": 2023,
+     "authors": [
+      "Tobias Shin"
+     ],
+     "venue": "Journal of Homotopy and Related Structures",
+     "id": "doi:10.1007/s40062-023-00335-0"
+    },
+    {
+     "title": "An Algorithm for Computing the Truncated Annihilating Ideals for an Algebraic Local Cohomology Class",
+     "year": 2014,
+     "authors": [
+      "Takafumi Shibuta",
+      "Shinichi Tajima"
+     ],
+     "venue": "Lecture Notes in Computer Science Computer Algebra in Scientific Computing",
+     "id": "doi:10.1007/978-3-319-10515-4_32"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "explicit computation absolute prismatic cohomology",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "explicit computation absolute prismatic cohomology",
+   "status": 200,
+   "results": [
+    {
+     "title": "Prisms and prismatic cohomology",
+     "year": 2022,
+     "authors": [
+      "Bhargav Bhatt",
+      "Peter Scholze"
+     ],
+     "venue": "Annals of Mathematics",
+     "id": "https://doi.org/10.4007/annals.2022.196.3.5"
+    },
+    {
+     "title": "Comparison of prismatic cohomology and derived de Rham cohomology",
+     "year": 2023,
+     "authors": [
+      "Shizhang Li",
+      "Tong Liu"
+     ],
+     "venue": "Journal of the European Mathematical Society",
+     "id": "https://doi.org/10.4171/jems/1377"
+    },
+    {
+     "title": "On the u ∞ -torsion submodule of prismatic cohomology",
+     "year": 2023,
+     "authors": [
+      "Shizhang Li",
+      "Tong Liu"
+     ],
+     "venue": "Compositio Mathematica",
+     "id": "https://doi.org/10.1112/s0010437x23007261"
+    },
+    {
+     "title": "Logarithmic Prismatic Cohomology I",
+     "year": 2020,
+     "authors": [
+      "Teruhisa Koshikawa"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2007.14037"
+    },
+    {
+     "title": "Prismatic cohomology and de Rham-Witt forms",
+     "year": 2025,
+     "authors": [
+      "Semen Vyacheslavovich Molokov"
+     ],
+     "venue": "Sbornik Mathematics",
+     "id": "https://doi.org/10.4213/sm10214e"
+    },
+    {
+     "title": "Logarithmic Prismatic Cohomology via Logarithmic THH",
+     "year": 2023,
+     "authors": [
+      "Federico Binda",
+      "Tommy Lundemo",
+      "Doosung Park",
+      "Paul Arne Østvær"
+     ],
+     "venue": "International Mathematics Research Notices",
+     "id": "https://doi.org/10.1093/imrn/rnad224"
+    },
+    {
+     "title": "On the u^{\\infty}-torsion submodule of prismatic cohomology",
+     "year": 2022,
+     "authors": [
+      "Shizhang Li",
+      "Tong Liu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2204.03411"
+    },
+    {
+     "title": "Logarithmic prismatic cohomology, motivic sheaves, and comparison theorems",
+     "year": 2026,
+     "authors": [
+      "Federico Binda",
+      "Tommy Lundemo",
+      "Alberto Merici",
+      "Doosung Park"
+     ],
+     "venue": "Journal für die reine und angewandte Mathematik (Crelles Journal)",
+     "id": "https://doi.org/10.1515/crelle-2026-0048"
+    },
+    {
+     "title": "Prismatic Dieudonné Theory",
+     "year": 2023,
+     "authors": [
+      "Johannes Anschütz",
+      "Arthur-César Le Bras"
+     ],
+     "venue": "Forum of Mathematics Pi",
+     "id": "https://doi.org/10.1017/fmp.2022.22"
+    },
+    {
+     "title": "Cartier transform and prismatic crystals",
+     "year": 2023,
+     "authors": [
+      "Michel Gros",
+      "Bernard Le Stum",
+      "Adolfo Quirós"
+     ],
+     "venue": "Tunisian Journal of Mathematics",
+     "id": "https://doi.org/10.2140/tunis.2023.5.405"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "explicit computation absolute prismatic cohomology",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "explicit computation absolute prismatic cohomology",
+   "status": 200,
+   "results": [
+    {
+     "title": "",
+     "year": 2024,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.3030/101169527"
+    },
+    {
+     "title": "Comparison of prismatic cohomology and derived de Rham cohomology",
+     "year": 2023,
+     "authors": [
+      "Shizhang Li",
+      "Tong Liu"
+     ],
+     "venue": "Journal of the European Mathematical Society",
+     "id": "doi:10.4171/jems/1377"
+    },
+    {
+     "title": "Logarithmic prismatic cohomology II",
+     "year": 2025,
+     "authors": [
+      "Teruhisa Koshikawa",
+      "Zijian Yao"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "doi:10.1016/j.aim.2025.110446"
+    },
+    {
+     "title": "Explicit resolutions",
+     "year": 1991,
+     "authors": [
+      "Leonard Evens"
+     ],
+     "venue": "The Cohomology of Groups",
+     "id": "doi:10.1093/oso/9780198535805.003.0002"
+    },
+    {
+     "title": "Syntomic cohomology as a p -adic absolute Hodge cohomology",
+     "year": 2002,
+     "authors": [
+      "Kenichi Bannai"
+     ],
+     "venue": "Mathematische Zeitschrift",
+     "id": "doi:10.1007/s002090100351"
+    },
+    {
+     "title": "Cartier smoothness in prismatic cohomology",
+     "year": 2023,
+     "authors": [
+      "Tess Vincent Bouis"
+     ],
+     "venue": "Journal für die reine und angewandte Mathematik (Crelles Journal)",
+     "id": "doi:10.1515/crelle-2023-0074"
+    },
+    {
+     "title": "Prismatic cohomology and de Rham-Witt forms",
+     "year": 2025,
+     "authors": [
+      "Semen Vyacheslavovich Molokov"
+     ],
+     "venue": "Sbornik: Mathematics",
+     "id": "doi:10.4213/sm10214e"
+    },
+    {
+     "title": "Prisms and prismatic cohomology",
+     "year": 2022,
+     "authors": [
+      "Bhargav Bhatt",
+      "Peter Scholze"
+     ],
+     "venue": "Annals of Mathematics",
+     "id": "doi:10.4007/annals.2022.196.3.5"
+    },
+    {
+     "title": "Essential dimension via prismatic cohomology",
+     "year": 2024,
+     "authors": [
+      "Benson Farb",
+      "Mark Kisin",
+      "Jesse Wolfson"
+     ],
+     "venue": "Duke Mathematical Journal",
+     "id": "doi:10.1215/00127094-2023-0071"
+    },
+    {
+     "title": "Cohomology on Toric Varieties and Local Cohomology with Monomial Supports",
+     "year": 2000,
+     "authors": [
+      "David Eisenbud",
+      "Mircea Mustaţa",
+      "Mike Stillman"
+     ],
+     "venue": "Journal of Symbolic Computation",
+     "id": "doi:10.1006/jsco.1999.0326"
+    }
+   ]
+  }
+ ]
+}

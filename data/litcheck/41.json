@@ -1,0 +1,435 @@
+{
+ "problem": 41,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "Deninger dynamical system foliated space flow closed orbits primes",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "Deninger dynamical system foliated space flow closed orbits primes",
+   "status": 200,
+   "results": [
+    {
+     "title": "A trace formula for foliated flows",
+     "year": 2024,
+     "authors": [
+      "Jesús A. Álvarez López",
+      "Yuri Arkadevich Kordyukov",
+      "Éric Leichtnam"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2402.06671"
+    },
+    {
+     "title": "Leafwise cohomological expression of dynamical zeta functions on foliated dynamical systems",
+     "year": 2019,
+     "authors": [
+      "Kim, Junhyeong"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.1912.02159"
+    },
+    {
+     "title": "Primes, knots and periodic orbits",
+     "year": 2023,
+     "authors": [
+      "Christopher Deninger"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2301.11643"
+    },
+    {
+     "title": "Regularized determinant formulas for the zeta functions of 3-dimensional Riemannian foliated dynamical systems",
+     "year": 2024,
+     "authors": [
+      "Jesús A. Álvarez López",
+      "Kim Junhyeong",
+      "Masanori Morishita"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2410.20758"
+    },
+    {
+     "title": "A Trace Formula for Foliated Flows",
+     "year": 2025,
+     "authors": [
+      "Alvarez Lopez, Jesús A.",
+      "Kordyukov, Yuri, A",
+      "Éric Leichtnam"
+     ],
+     "venue": "HAL",
+     "id": "https://openalex.org/W7106478677"
+    },
+    {
+     "title": "Sur l'analogie entre le système dynamique de Deninger et le topos Weil-étale",
+     "year": 2011,
+     "authors": [
+      "Baptiste Morin"
+     ],
+     "venue": "Tohoku Mathematical Journal",
+     "id": "https://doi.org/10.2748/tmj/1318338946"
+    },
+    {
+     "title": "On local symbols and the reciprocity law for foliated dynamical systems on 3-manifolds: research announcement (Algebraic Number Theory and Related Topics 2017)",
+     "year": 2020,
+     "authors": [
+      "Masanori Morishita"
+     ],
+     "venue": "Institutional Repositories DataBase (IRDB)",
+     "id": "https://openalex.org/W3153218786"
+    },
+    {
+     "title": "Scaling group flow and Lefschetz trace formula for laminated spaces with p-adic transversal",
+     "year": 2006,
+     "authors": [
+      "Éric Leichtnam"
+     ],
+     "venue": "Bulletin des Sciences Mathématiques",
+     "id": "https://doi.org/10.1016/j.bulsci.2006.11.001"
+    },
+    {
+     "title": "A note on arithmetic topology and dynamical systems",
+     "year": 2002,
+     "authors": [
+      "Christopher Deninger"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.math/0204274"
+    },
+    {
+     "title": "A dynamical systems analogue of Lichtenbaum's conjectures on special values of Hasse-Weil zeta functions(Analytic Number Theory)",
+     "year": 2006,
+     "authors": [
+      "Christopher Deninger"
+     ],
+     "venue": "Institutional Repositories DataBase (IRDB)",
+     "id": "https://openalex.org/W1845806987"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "Deninger dynamical system foliated space flow closed orbits primes",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "Deninger dynamical system foliated space flow closed orbits primes",
+   "status": 200,
+   "results": [
+    {
+     "title": "Some analogies between number theory and dynamical systems on foliated spaces",
+     "year": 1998,
+     "authors": [
+      "Christopher Deninger"
+     ],
+     "venue": "Proceedings of the International Congress of Mathematicians 1998 Plenary Lectures and Ceremonies",
+     "id": "doi:10.4171/dms/1-1/2"
+    },
+    {
+     "title": "Analysis on foliated spaces and arithmetic geometry",
+     "year": 2008,
+     "authors": [
+      "Christopher Deninger"
+     ],
+     "venue": "Groups and Analysis",
+     "id": "doi:10.1017/cbo9780511721410.010"
+    },
+    {
+     "title": "Dynamical evolution of space debris on super-geostationary orbits",
+     "year": 2017,
+     "authors": [
+      "Eduard Kuznetsov"
+     ],
+     "venue": "",
+     "id": "doi:10.26226/morressier.59c106e8d462b80292389c32"
+    },
+    {
+     "title": "GLOBAL REDUCTION OF A DYNAMICAL SYSTEM ON A FOLIATED MANIFOLD AND “CONTROLLED PROJECTABILITY”",
+     "year": 1984,
+     "authors": [
+      "Ida Cattaneo Gasparini"
+     ],
+     "venue": "Dynamical Systems and Microphysics",
+     "id": "doi:10.1016/b978-0-12-104365-0.50011-1"
+    },
+    {
+     "title": "A note on uniform distribution for primes and closed orbits",
+     "year": 1986,
+     "authors": [
+      "Mark Pollicott"
+     ],
+     "venue": "Israel Journal of Mathematics",
+     "id": "doi:10.1007/bf02801995"
+    },
+    {
+     "title": "Metrics on space of closed orbits for near-Earth objects identification",
+     "year": 2023,
+     "authors": [
+      "A. Vananti",
+      "Moritz Meyer zu Westram",
+      "T. Schildknecht"
+     ],
+     "venue": "Celestial Mechanics and Dynamical Astronomy",
+     "id": "doi:10.1007/s10569-023-10165-0"
+    },
+    {
+     "title": "Geometry of the Space of Gauge Orbits and the Yang-Mills Dynamical System",
+     "year": 1980,
+     "authors": [
+      "P. K. Mitter"
+     ],
+     "venue": "Recent Developments in Gauge Theories",
+     "id": "doi:10.1007/978-1-4684-7571-5_15"
+    },
+    {
+     "title": "Closed-Form Orbits for a Six-Parameter 3D Dynamical System Using the Multistage Optimal Homotopy Perturbation Method",
+     "year": 2026,
+     "authors": [
+      "Remus-Daniel Ene",
+      "Romeo Negrea",
+      "Rodica Badarau",
+      "Nicolina Pop"
+     ],
+     "venue": "Axioms",
+     "id": "doi:10.3390/axioms15080579"
+    },
+    {
+     "title": "Closed-Form Heteroclinic Orbits for a Three-Parameter Dynamical System Using a Modified Optimal Parametric Iteration Method",
+     "year": 2026,
+     "authors": [
+      "Remus-Daniel Ene",
+      "Romeo Negrea",
+      "Rodica Badarau",
+      "Nicolina Pop"
+     ],
+     "venue": "Mathematics",
+     "id": "doi:10.3390/math14071126"
+    },
+    {
+     "title": "Dynamical Zeta Functions and Closed Orbits for Geodesic and Hyperbolic Flows",
+     "year": null,
+     "authors": [
+      "Mark Pollicott"
+     ],
+     "venue": "Frontiers in Number Theory, Physics, and Geometry I",
+     "id": "doi:10.1007/3-540-31347-8_11"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "construction arithmetic flow closed orbits length log p",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "construction arithmetic flow closed orbits length log p",
+   "status": 200,
+   "results": [
+    {
+     "title": "Asymptotic formulae for closed orbits of hyperbolic flows",
+     "year": 1990,
+     "authors": [
+      "Richard Sharp"
+     ],
+     "venue": "Warwick Research Archive Portal (University of Warwick)",
+     "id": "https://openalex.org/W2891365656"
+    },
+    {
+     "title": "Closed orbits in quotient systems",
+     "year": 2016,
+     "authors": [
+      "Stefanie Zegowitz"
+     ],
+     "venue": "Ergodic Theory and Dynamical Systems",
+     "id": "https://doi.org/10.1017/etds.2016.3"
+    },
+    {
+     "title": "Flows on $S$-arithmetic homogeneous spaces and applications to metric Diophantine approximation",
+     "year": 2007,
+     "authors": [
+      "Dmitry Kleinbock",
+      "George Tomanov"
+     ],
+     "venue": "Commentarii Mathematici Helvetici",
+     "id": "https://doi.org/10.4171/cmh/102"
+    },
+    {
+     "title": "The quantitative behaviour of polynomial orbits on nilmanifolds",
+     "year": 2012,
+     "authors": [
+      "Ben Green",
+      "Terence Tao"
+     ],
+     "venue": "Annals of Mathematics",
+     "id": "https://doi.org/10.4007/annals.2012.175.2.2"
+    },
+    {
+     "title": "Dynamics and 'arithmetics' of higher genus surface flows",
+     "year": 2022,
+     "authors": [
+      "Corinna Ulcigrai"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2207.06404"
+    },
+    {
+     "title": "On Multiplicities in Length Spectra of Semi-Arithmetic Hyperbolic Surfaces",
+     "year": 2026,
+     "authors": [
+      "Mikhail Belolipetsky",
+      "Gregory Cosac",
+      "Cayo Dória",
+      "Gisele Teixeira Paula"
+     ],
+     "venue": "Communications in Mathematical Physics",
+     "id": "https://doi.org/10.1007/s00220-026-05581-w"
+    },
+    {
+     "title": "Primes, knots and periodic orbits",
+     "year": 2023,
+     "authors": [
+      "Christopher Deninger"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2301.11643"
+    },
+    {
+     "title": "Automorphisms with exotic orbit growth",
+     "year": 2013,
+     "authors": [
+      "Stephan Baier",
+      "Sawian Jaidee",
+      "Shaun Stevens",
+      "Thomas Ward"
+     ],
+     "venue": "Acta Arithmetica",
+     "id": "https://doi.org/10.4064/aa158-2-5"
+    },
+    {
+     "title": "Merits and demerits of the orbit method",
+     "year": 1999,
+     "authors": [
+      "A. Kirillov"
+     ],
+     "venue": "Bulletin of the American Mathematical Society",
+     "id": "https://doi.org/10.1090/s0273-0979-99-00849-6"
+    },
+    {
+     "title": "Mixing of the Mineyev flow, orbital counting and Poincaré series for strongly hyperbolic metrics",
+     "year": 2025,
+     "authors": [
+      "Stephen Cantrell"
+     ],
+     "venue": "Mathematische Annalen",
+     "id": "https://doi.org/10.1007/s00208-025-03127-4"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "construction arithmetic flow closed orbits length log p",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "construction arithmetic flow closed orbits length log p",
+   "status": 200,
+   "results": [
+    {
+     "title": "CHAPTER 13. Counting closed orbits of the gradient\n      flow",
+     "year": 2006,
+     "authors": [],
+     "venue": "Circle-valued Morse Theory",
+     "id": "doi:10.1515/9783110197976.4.383"
+    },
+    {
+     "title": "Models of arithmetic and closed ideals",
+     "year": 1982,
+     "authors": [
+      "Julia Knight",
+      "Mark Nadel"
+     ],
+     "venue": "Journal of Symbolic Logic",
+     "id": "doi:10.2307/2273102"
+    },
+    {
+     "title": "Closed-loop flow test Miravalles Geothermal Field well log results",
+     "year": 1992,
+     "authors": [
+      "B. Dennis",
+      "G. Eden",
+      "R. Lawton"
+     ],
+     "venue": "",
+     "id": "doi:10.2172/7058783"
+    },
+    {
+     "title": "Measurement of conductive liquid flow in closed conduits. Flanged electromagnetic flowmeters. Overall length",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.3403/01319500"
+    },
+    {
+     "title": "Measurement of conductive liquid flow in closed conduits. Flanged electromagnetic flowmeters. Overall length",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.3403/01319500u"
+    },
+    {
+     "title": "Structures elementarily closed relative to a model for arithmetic",
+     "year": 1968,
+     "authors": [
+      "Eugene W. Madison"
+     ],
+     "venue": "Journal of Symbolic Logic",
+     "id": "doi:10.2307/2270057"
+    },
+    {
+     "title": "Figure 3: Relationship between log pedipalp tibia length and log carapace length.",
+     "year": null,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.7717/peerj.5751/fig-3"
+    },
+    {
+     "title": "Studies of closed/open mirror symmetry for quintic threefolds through log mixed Hodge theory",
+     "year": 2016,
+     "authors": [
+      "Sampei Usui"
+     ],
+     "venue": "Recent Advances in Hodge Theory",
+     "id": "doi:10.1017/cbo9781316387887.007"
+    },
+    {
+     "title": "Construction of invariant tori around closed orbits",
+     "year": 1995,
+     "authors": [
+      "Mikko Kaasalainen"
+     ],
+     "venue": "Monthly Notices of the Royal Astronomical Society",
+     "id": "doi:10.1093/mnras/275.1.162"
+    },
+    {
+     "title": "The Distribution of the Average of Log-Normal Variables and Exact Pricing of the Arithmetic Asian Options: A Simple, Closed-Form Formula",
+     "year": 2019,
+     "authors": [
+      "Moawia Alghalith"
+     ],
+     "venue": "SSRN Electronic Journal",
+     "id": "doi:10.2139/ssrn.3454650"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1023 @@
+# The Grothendieckian Programme (Series 00) — the single source of data (runbook §1 rule 13).
+# The book's numbers and front pages, Figure 1, the covers, the repository README, programme.json, the website and
+# the profile README are generated from this file or checked against it.
+# Hand-written: programme, cells, core. Machine-written (between markers): facts (master/tools/facts_extract.py,
+# from the seven sealed releases) and stats (master/tools/corpus_stats.py). Decisions: RUNBOOK-v1.0.0.md §3.2.
+
+programme:
+  name: "The Grothendieckian Programme"
+  name_zh: "格罗滕迪克纲领"
+  subtitle: "Recursive Mathematical Discovery in the Age of Machine Reasoning"          # D0
+  overview_line: "An overview of Series 01–07"                                          # D0
+  series: "00"
+  role: "the Programme's overview"                                                      # not one of the seven works
+  series_line: "WiseMotif Monograph of Mathematical Intelligence, Series 00 · Mathematics and Artificial Intelligence"   # D11
+  edition: "Research Architecture Edition 1"
+  version: "1.0.0"
+  language: "en"
+  author:
+    name: "Vincent Liu"
+    orcid: "0009-0000-8718-222X"
+    affiliation: "WiseMotif.ai"
+  github:
+    owner: "AlienMuse"
+    repo: "grothendieckian-programme"                                                   # D14
+    pages: "https://alienmuse.github.io"                                                # D15
+  licence: "CC-BY-NC-ND-4.0"                                                            # §1 rule 8: no companion code
+  msc:                                                                                  # D12; the seven works' primary
+    primary: "00A35"                                                                    # classes follow from facts
+    secondary: ["68T01", "68V15", "18F10", "14A15"]
+  keywords:                                                                             # draft until gate B
+    - "Grothendieckian Programme"
+    - "recursive mathematical discovery"
+    - "machine reasoning"
+    - "mathematical worlds"
+    - "verification-first architecture"
+    - "topos theory"
+    - "descent"
+    - "Riemann Hypothesis"
+    - "Birch and Swinnerton-Dyer conjecture"
+    - "Hodge conjecture"
+    - "abc conjecture"
+    - "Langlands programme"
+  # Publication and Edition Record (D11; §1 rules 3 and 6). Draft until gate B; final wording at gate C.
+  claim_boundary: >
+    This book is an overview of seven works and adds no mathematical result to them. None of the seven works
+    claims a proof of the Riemann Hypothesis, the Generalized Riemann Hypothesis, the Birch and Swinnerton-Dyer
+    conjecture, the Hodge conjecture, the abc conjecture or the Langlands correspondence. Each work states what it
+    establishes, what it reduces to stated hypotheses and what it leaves open; this overview reports those
+    statements with the status each work gives them, and Chapter 10 quotes the claim boundary of each work in its
+    own words.
+  name_statement: >
+    The adjective Grothendieckian names a mathematical method used in the seven works. It carries no attribution
+    of design or endorsement to Alexander Grothendieck or to any other mathematician whose work the seven works
+    cite; the dedication expresses respect only.
+
+# Figure 1, the covers, the banners and the site's honeycomb (D4, D5, D7; runbook §4.4). Flat-top hexagons;
+# position clockwise from the top. Colours: the series cover palette (cyan = the core pair; blue / violet alternate
+# on the periphery). The centre text of each cell is the cover centre of that work (facts.works[].cover_centre).
+# Short names and lines: draft until gate B. Cover cells (D5: the simplest form — number, short name, formula):
+# cover_role names the cell by its role or problem (cover option A, C), cover_title by the work (option B).
+cells:
+  - {series: "01", position: centre,      colour: cyan,   short: "THE GROTHENDIECKIAN MACHINE",  line: "the core: mathematical worlds as typed, verifiable objects", cover_role: "GAI-MUA",        cover_title: "THE MACHINE"}
+  - {series: "02", position: top,         colour: cyan,   short: "TOPOS-NATIVE INTELLIGENCE",    line: "the meta-reasoning kernel",                                  cover_role: "TOPOS-NATIVE",   cover_title: "TOPOS-NATIVE"}
+  - {series: "03", position: upper-right, colour: blue,   short: "ARITHMETIC SPECTRAL DESCENT",  line: "the Riemann Hypothesis and GRH",                             cover_role: "RIEMANN · GRH",  cover_title: "SPECTRAL DESCENT"}
+  - {series: "04", position: lower-right, colour: violet, short: "FRACTURED ADELIC GEOMETRY",    line: "the Birch and Swinnerton-Dyer conjecture",                   cover_role: "BSD",            cover_title: "ADELIC GEOMETRY"}
+  - {series: "05", position: bottom,      colour: blue,   short: "THE ARCHIMEDEAN PRISM",        line: "the Hodge conjecture",                                       cover_role: "HODGE",          cover_title: "ARCHIMEDEAN PRISM"}
+  - {series: "06", position: lower-left,  colour: violet, short: "STRAINED PRISMATIC GEOMETRY",  line: "the abc conjecture",                                         cover_role: "abc",            cover_title: "STRAINED PRISMS"}
+  - {series: "07", position: upper-left,  colour: blue,   short: "THE ARITHMETIC TOPOS",         line: "the Langlands programme",                                    cover_role: "LANGLANDS",      cover_title: "ARITHMETIC TOPOS"}
+shared_edge: {between: ["01", "02"], label: "meta-reasoning over the core"}            # D4
+# Figure 1 (TikZ): each cell's name in two lines, its role in one line, and its cover formula in TeX — the same
+# formula as facts.works[].cover_centre (checked by master/tools/design_consistency.py)
+figure_cells:
+  "01": {name: ["The Grothendieckian", "Machine"], role: "the core",                 tex: '\mathrm{Desc}(\Phi_1,\dots,\Phi_6)'}
+  "02": {name: ["Topos-Native", "Intelligence"],  role: "the meta-reasoning kernel", tex: '\mathrm{Sub}(X)\cong\mathrm{Hom}(X,\Omega)'}
+  "03": {name: ["Arithmetic Spectral", "Descent"], role: "Riemann Hypothesis · GRH",  tex: '\#\{\mathrm{Re}\,\lambda>\tfrac12\}\le\min(n_+,n_-)'}
+  "04": {name: ["Fractured Adelic", "Geometry"],   role: "Birch–Swinnerton-Dyer",     tex: '\Delta(X_E)'}
+  "05": {name: ["The Archimedean", "Prism"],       role: "Hodge conjecture",          tex: '\Delta(X)'}
+  "06": {name: ["Strained Prismatic", "Geometry"], role: "abc conjecture",            tex: '\mathrm{Spec}\,\mathbb{Z}\to\mathfrak{S}'}
+  "07": {name: ["The Arithmetic", "Topos"],        role: "Langlands programme",       tex: '\mathfrak{X}_{\mathbf{Z}}'}
+palette:
+  paper: "#071017"
+  ink: "#f4f1e9"
+  muted: ["#d7dce0", "#9eabb6"]
+  cyan: "#58ded4"
+  blue: "#82a4ff"
+  violet: "#cf8df6"
+  gold: "#dfc174"
+# Figures set on a dark ground by design (D6 as revised by the author: HTML + CSS + Three.js, 2026-10-25; every
+# figure of the book in that design, 2026-10-26). The black-figure gate does not pass them on darkness; it requires
+# the printed figure to match its source PDF and the source to carry structure (master/tools/series_gates/
+# black_gate.py). The numbers follow the book's order and are written by master/tools/figures_web.py.
+dark_plates: master/figures/PLATES.json
+
+# The figures of the book other than Figure 1 (author, 2026-10-26: "more figures, in the same design"). Every phrase
+# is one the chapter that shows the figure already states, with its source; the numbers of Figure "numbers" come from
+# facts and stats below. master/tools/figures_web.py writes each figure's data from here.
+figures:
+  numbers:
+    title: "THE SEVEN WORKS IN NUMBERS"
+    right: "TWO INDEPENDENT COUNTS · SEALED EDITIONS"
+    panels:
+      - {key: pages, label: "PAGES"}
+      - {key: formulas, label: "FORMULAS"}
+      - {key: statements, label: "STATEMENTS"}
+    totals:
+      - {key: volumes, label: ["VOLUMES"]}
+      - {key: pages, label: ["PAGES"]}
+      - {key: chapters, label: ["CHAPTERS"]}
+      - {key: formulas, label: ["FORMULAS"]}
+      - {key: statements, label: ["NUMBERED", "STATEMENTS"]}
+      - {key: algorithms, label: ["ALGORITHMS"]}
+      - {key: figures_and_plates, label: ["FIGURES", "AND PLATES"]}
+    notes:
+      - "+ a lower bound: where the two counts differ, the smaller is given."
+      - "Statements: numbered theorems, propositions, lemmas, corollaries, definitions and conjectures."
+  cycle:
+    title: "RECURSIVE MATHEMATICAL DISCOVERY"
+    right: "ONE RECURSION, RECORDED IN FULL"
+    source: "SERIES 03–07 · SERIES NOTE"                       # S07, Series Note (Chapter 3, §3.1)
+    steps:
+      - {code: "PROPOSE", lines: ["a structure, raised", "around the problem"]}
+      - {code: "TEST", lines: ["against the cases in", "which the answer", "is already known"]}
+      - {code: "ABSTRACT", lines: ["what survives,", "into a new setting"]}
+      - {code: "ASK AGAIN", lines: ["the question,", "at the new level"]}
+    tests:
+      title: "TESTED AGAINST WHAT IS KNOWN"
+      groups:
+        - {head: "LANGLANDS · SERIES 07", items: ["the function-field case", "the de Rham limit", "the local fields", "the abelian case", "the curve of conductor eleven"]}   # S07, Preface
+        - {head: "HODGE · SERIES 05", items: ["divisors", "dimension at most three", "cubic fourfolds", "abelian surfaces"]}   # S05, Series Note
+        - {head: "RIEMANN · SERIES 03", text: "every proposed mechanism is run on four published counter-models before it is admitted, each chosen to expose one source of overreach"}   # S03, Preface
+    ledger:
+      title: "WHAT DOES NOT SURVIVE IS KEPT"
+      items: ["a proof obligation", "an obstruction", "a conjecture", "a gap", "a falsification test"]   # S06, Preface; S07, Preface
+      rule: "each with a statement, a status and an owner, carried forward as part of the result"        # S06, Preface
+      example: "Series 03: the refutation of one polarisation identified the index-one formulation"     # S03, Preface
+    outputs:
+      title: "THREE OUTPUTS A READER CAN CHECK · SERIES 04"     # S04, Preface
+      items:
+        - ["constructions specified", "exactly enough to be attempted"]
+        - ["conditional theorems", "proved in full"]
+        - ["obstructions stated precisely enough", "to be attacked, priced or refuted"]
+  authority:
+    title: "AUTHORITY IN THE CORE"
+    right: "SERIES 01 · VOLUME III"
+    status:                                                   # S01, Vol. III, Preface (Chapter 5, §5.3)
+      title: "STATUS IS PART OF THE TYPE"
+      note: "a tagged type, not a confidence ladder"
+      codes:
+        - ["E", "established"]
+        - ["S", "source-grounded synthesis"]
+        - ["D", "project-native definition"]
+        - ["R", "falsifiable research construction"]
+        - ["C", "conjecture"]
+        - ["O", "obligation"]
+        - ["Q", "disputed"]
+    chain:                                                    # S01, Vol. III, Ch. 3
+      title: "A CHAIN OF NON-IMPLICATIONS · CH. 3"
+      items: [["operational", "completion"], ["mathematical", "validity"], ["epistemic", "promotion"], ["publication"]]
+      note: "each implication needs its own input, judgment and authority"
+    ranking:                                                  # S01, Vol. III, Preface
+      left: "MAY RANK CANDIDATES OR ALLOCATE REVIEW"
+      signals: ["citation frequency", "vector similarity", "model confidence", "consensus", "novelty", "benchmark performance", "elegance", "reward"]
+      right: "SEMANTIC AUTHORITY"
+      sources: ["exact evidence", "a named decision"]
+      note: "arises only from"
+    labour:                                                   # S01, Vol. III, Architectural Prospectus
+      title: "THE DIVISION OF LABOUR"
+      items:
+        - {code: "RETRIEVAL", text: "may supply candidate evidence but cannot change truth status"}
+        - {code: "FORMAL KERNEL", text: "a named, pinned formal kernel may check a proof term against a formal target, while the fidelity of that target and the authority to publish remain separate obligations"}
+        - {code: "COMPUTATION", text: "computational systems may supply scoped evidence when their inputs, bounds, environments and replay conditions are recorded"}
+        - {code: "HUMANS", text: "humans authorise publication"}
+  kernel:
+    title: "THE KERNEL IN SEVEN OPERATIONS"
+    right: "SERIES 02 · TOPOS-NATIVE INTELLIGENCE"
+    premise: ["A CONTEXT IS A SITE", "WHAT IT SUPPORTS IS A SHEAF", "A CONCLUSION IS A GLOBAL SECTION"]   # S02, Series Note; Preface
+    ops:                                                      # S02, Preface (Chapter 6, §6.3)
+      - {code: "COVER", lines: ["constructs a site from", "a pool of evidence; its", "covers say when pieces", "are enough"]}
+      - {code: "ASSIGN", lines: ["a sheaf over the site;", "stalks may differ", "in dimension"]}
+      - {code: "TRANSPORT", lines: ["attention rebuilt as", "descent: values carried", "along restriction maps", "into an overlap"]}
+      - {code: "GLUE", lines: ["a named solver; it", "reports the residual", "where gluing is", "impossible"]}
+      - {code: "OBSTRUCT", lines: ["measures what fails", "to glue and returns it;", "without independent", "overlap data, abstains"]}
+      - {code: "DECIDE", lines: ["Kripke–Joyal forcing:", "each verdict with the", "part of the site on", "which it is forced"]}
+      - {code: "CHANGE BASE", lines: ["transfer as a morphism", "of sites: what it", "preserves, what it", "forgets"]}
+    outputs:                                                  # S02, Preface (Chapter 6, §6.2)
+      - {code: "GLOBAL SECTION", lines: ["where the local", "information glues"], at: "GLUE"}
+      - {code: "COHOMOLOGY CLASS", lines: ["an obstruction with a", "location and a size"], at: "OBSTRUCT"}
+    note: "nine layers over a single base · in Topos-MoE each expert is an open sub-topos, and routing constructs a sufficient cover"   # S02, Abstract
+
+# The decomposition panel of the core — Figure 1 (detailed version) only, D5. Names and chapters as printed in
+# Series 01, Volume III; pages are added in step 2 (master/SOURCES.md).
+core:
+  gmus:
+    name: "GMUS"
+    expansion: "Grothendieck Mathematical Universe System"
+    parts:
+      # MUE = the Motivic Unification Engine, the GMUS component (S01 Vol. III Ch. 15, pp. 8239, 8248; Vol. V Ch. 37,
+      # p. 12340: "the lower structured substrate of the GMUS engine family"). Distinct from "Mathematical Universe
+      # Engines", the concept named in the subtitle of Volume III (pp. xix, 7945, 7947) — the author, 2026-10-25
+      # (AUTHOR-QUESTIONS Q6). The Volume III preface sentences that write "the Mathematical Universe Engine" for the
+      # GMUS component (pp. 7955, 7960) are not quoted in Series 00.
+      - {name: "MUE", full: "Motivic Unification Engine", note: "a structured, non-vectorial latent space", chapters: "15–21", fig: "a structured, non-vectorial latent space"}
+      - {name: "GCL", full: "Geometric and Cohomological Layer", note: "the semantic floor below MUE (S01, pp. 8219, 12340)", chapters: "15", fig: "the semantic floor below MUE"}
+      - {name: "MUF-H", full: "", note: "Motivic Universal Factorization Algorithm—Hybrid: a bounded research backend for MUE (S01, pp. 8290, 12362)", chapters: "18", fig: "Motivic Universal Factorization Algorithm—Hybrid"}
+      - {name: "TRE", full: "Topos Reasoning Engine", note: "TNCA (creation, Ch. 24–27) + TNRA (reasoning, Ch. 28–32)", chapters: "22–23", fig: "twin engines: TNCA creates, TNRA reasons"}
+      - {name: "GRA", full: "Grothendieckian Research Architecture", note: "a source-audited parallel research lane", chapters: "34–40", fig: "a source-audited research lane"}
+  gmls:
+    name: "GMLS"
+    expansion: "Grothendieckian Mathematical Language System"
+    parts:
+      - {name: "Language forge", note: "Collect → Mine → Name → Notate → Ground → Reconstruct → Axiomatize → Grow → Re-encode → Validate", chapters: "41–48", fig: "Collect, Mine, Name, Notate … Re-encode, Validate"}
+      - {name: "GCA", full: "Grothendieckian Cognitive Architecture", note: "contexts, covers and obstructions", chapters: "49–55", fig: "contexts, covers, overlap obstructions"}
+      - {name: "GDRA / DDA", note: "Grothendieckian Descent Reasoning Architecture / Diagrammatic Descent Agent", chapters: "56–63", fig: "the local-to-global descent workflow"}
+      - {name: "AURORA", note: "the experimental boundary of Volume III (not the wave image of the covers)", chapters: "64–70", fig: "the experimental boundary"}
+  coupling: {name: "The Coupled Rising-Sea Cycle", chapters: "71–78", cycle_chapter: "75"}
+  planes:
+    chapter: "3"
+    names: ["mathematical meaning", "proposal and discovery", "certified computation", "evidence and governance", "operations"]
+    rule: "operational completion ⇏ mathematical validity ⇏ epistemic promotion ⇏ publication"
+
+# References beyond the seven works (D9 = A): one "Other source", printed under its own heading. verified: false
+# until the date, title and figures are re-checked against the original page in step 4 (master/SOURCES.md);
+# tools/bib_gate.py fails on any unverified entry.
+other_sources:
+  # Verified 2026-10-25 against the repository itself (GitHub API): initial commit adc7f1241b of 2026-10-06 —
+  # README "The current catalogue contains 722 manuscripts organized into 372 families", "produced by an internal
+  # OpenAI model", "an unreleased internal OpenAI model"; history.md, "October 7, 2026": three manuscripts withdrawn
+  # ("a sign error invalidates a stabilization-trace cancellation argument"), 14 revised; then 719 manuscripts,
+  # 300/719 top-line results formalized. The blog title could not be retrieved (openai.com 403) and is not cited.
+  - key: "OpenAI2026"
+    label: "OpenAI 2026"
+    author: "OpenAI"
+    year: 2026
+    date: "2026-10-06"
+    title: "openai/math: mathematical manuscripts and supporting proof artifacts produced by an internal OpenAI model"
+    medium: "GitHub repository, first released 6 October 2026; consulted 25 October 2026"
+    locator: "https://github.com/openai/math"
+    facts: {manuscripts_first_release: 722, families: 372, withdrawn_2026_10_07: 3, manuscripts_now: 719}
+    verified: true
+
+# >>> facts: written by master/tools/facts_extract.py — do not edit by hand >>>
+facts:
+  totals:
+    works: 7
+    volumes: 34
+    pages: 26021
+  works:
+  - series: '01'
+    label: S01
+    folder: 01 Grothendieckian Machine
+    title: 'GAI-MUA: The Grothendieckian Machine'
+    short_title: GAI-MUA
+    subtitle: A Mathematical Universe Architecture for Verifiable and Self-Evolving Artificial Intelligence
+    series_line: WiseMotif Monograph of Mathematical Intelligence, Series 01 · Mathematics and Artificial Intelligence
+    edition: Research Architecture Edition 1
+    version: 1.0.0
+    volumes: 6
+    pages: 14905
+    outline:
+      Part: 0
+      Chapter: 603
+      Appendix: 0
+      Volume: 0
+    msc2020:
+    - 14-XX
+    - 18-XX
+    - 03B35
+    - 68T01
+    - 68V15
+    msc_primary: 14-XX
+    msc_source: release.yaml only (not printed in the work)
+    keywords:
+    - Grothendieck
+    - algebraic geometry
+    - schemes
+    - topos theory
+    - descent
+    - motives
+    - higher category theory
+    - derived geometry
+    - perfectoid spaces
+    - condensed mathematics
+    - anabelian geometry
+    - AI for mathematics
+    - mathematical artificial intelligence
+    - formal verification
+    - automated reasoning
+    - theorem proving
+    - categorical computation
+    - mathematical discovery
+    - system architecture
+    - provenance
+    - self-evolving systems
+    - reinforcement learning
+    - AI safety
+    concept_doi: 10.5281/zenodo.23480696
+    version_doi: 10.5281/zenodo.23480697
+    publication_date: '2026-10-20'
+    repository: AlienMuse/grothendieckian-machine
+    pdf: GAI-MUA-v1.0.0-Complete.pdf
+    honeycomb_title: D₆ GROTHENDIECKIAN HONEYCOMB · SIX WORLDS, ONE COHERENCE
+    cover_centre:
+      eyebrow: GAI-MUA
+      name: COHERENCE
+      formula_text: Desc(Φ₁,…,Φ₆)
+      formula: Desc(Φ₁,…,Φ₆)
+      source: sealed PDF, page 1
+    claim_boundary_candidates:
+    - 9 What remains open, partial, or formulation-dependent .
+    - A failed lift, nonzero cohomology class, incompatible overlap, missing inverse, nonconservative realization,
+      target mismatch, or countermodel identifies why an attempted construction remains open.
+    - A generated formal artifact is not a proof if the target has changed, assumptions have silently strengthened,
+      or the trusted kernel has not replayed the proof.
+    - It does not claim that the repository already implements that archi- tecture.
+    - The letter supplies neither a Faltings theorem nor a proof of the section conjecture.
+  - series: '02'
+    label: S02
+    folder: 02 Topos Native Intelligence
+    title: 'GM-Omega-Infinity: Topos-Native Intelligence'
+    short_title: GM-Omega-Infinity
+    subtitle: A Sheaf-Theoretic Architecture for Verifiable Machine Intelligence
+    series_line: WiseMotif Monograph of Mathematical Intelligence, Series 02 · Mathematics and Artificial Intelligence
+    edition: Research Architecture Edition 1
+    version: 1.0.0
+    volumes: 5
+    pages: 4020
+    outline:
+      Part: 14
+      Chapter: 102
+      Appendix: 17
+      Volume: 0
+    msc2020:
+    - 18F10
+    - 18F20
+    - 55N30
+    - 68T01
+    - 68T05
+    msc_primary: 18F10
+    msc_source: release.yaml only (not printed in the work)
+    keywords:
+    - topos theory
+    - sheaf theory
+    - Grothendieck topology
+    - cohomology
+    - descent
+    - higher topos theory
+    - machine intelligence
+    - AI for mathematics
+    - mixture of experts
+    - formal verification
+    - Grothendieckian Programme
+    - meta-reasoning
+    - sheaf neural networks
+    - reinforcement learning
+    - inter-universal Teichmüller theory
+    - almost mathematics
+    - motives
+    concept_doi: 10.5281/zenodo.23538544
+    version_doi: 10.5281/zenodo.23538545
+    publication_date: '2026-10-22'
+    repository: AlienMuse/topos-native-intelligence
+    pdf: GM-Omega-Infinity-v1.0.0-Complete.pdf
+    honeycomb_title: D₆ TOPOS HONEYCOMB · FIVE VOLUMES, ONE CLASSIFIER
+    cover_centre:
+      eyebrow: GM-Ω∞
+      name: CLASSIFIER
+      formula_text: Sub(X) ≅ Hom(X, Ω)
+      formula: Sub(X) ≅ Hom(X, Ω)
+      source: sealed PDF, page 1
+    claim_boundary_candidates:
+    - 3, which shows for every module which contracts are discharged and which remain open.
+    - 9; complete totals and ratios remain open, and no comparison of quality exists.
+    - A measurable quantity comes with its definition and an algorithm that computes it, even where its interpretation
+      remains open.
+    - A principal-claim ledger in Part X lists, with each claim, what the work explicitly does not claim.
+    - Binding them as a terminal volume would suggest that they close the argument, when their function is to remain
+      open to the whole of it.
+    - Complete totals, ratios, atomisation and publication-level regenerated-view verification remain OPEN; no signed
+      publication guarantee is asserted.
+    - Part X then gathers the principal claims into one ledger and states, beside each, what the book does not claim.
+    - 'The book does not claim to replace the Transformer: several local specialisations are proved, their hypotheses
+      differ from one another, and no theorem here composes them into a single forward map; the replacement assessment
+      says exactly this and no more.'
+  - series: '03'
+    label: S03
+    folder: 03 Arithmetic Spectral Descent
+    title: Arithmetic Spectral Descent
+    short_title: Arithmetic Spectral Descent
+    subtitle: Obstruction Theory, Hodge–Krein Realization, and a Falsifiable Architecture for the Riemann Hypothesis
+    series_line: WiseMotif Monograph of Mathematical Intelligence, Series 03 · Mathematics and Artificial Intelligence
+    edition: Research Architecture Edition 1
+    version: 1.0.0
+    volumes: 4
+    pages: 1549
+    outline:
+      Part: 10
+      Chapter: 60
+      Appendix: 10
+      Volume: 4
+    msc2020:
+    - 11M26
+    - 11M06
+    - 11M41
+    - 14G10
+    - 19D55
+    - 46C20
+    - 05B35
+    msc_primary: 11M26
+    msc_source: printed in the work = release.yaml
+    keywords:
+    - Riemann Hypothesis
+    - Riemann zeta function
+    - generalized Riemann hypothesis
+    - explicit formula
+    - Weil positivity
+    - spectral realization of zeros
+    - Hilbert–Pólya programme
+    - Krein spaces
+    - indefinite inner product
+    - Hodge–Krein realization
+    - no-go theorems
+    - function-field Riemann hypothesis
+    - Weil conjectures
+    - topological Hochschild homology
+    - topological cyclic homology
+    - prismatic cohomology
+    - absolute arithmetic geometry
+    - de Bruijn–Newman constant
+    - certified computation
+    - Grothendieckian Programme
+    - recursive mathematical discovery
+    - AI for mathematics
+    concept_doi: 10.5281/zenodo.23564898
+    version_doi: 10.5281/zenodo.23564899
+    publication_date: '2026-10-22'
+    repository: AlienMuse/arithmetic-spectral-descent
+    pdf: Arithmetic-Spectral-Descent-v1.0.0-Complete.pdf
+    honeycomb_title: D₆ SPECTRAL HONEYCOMB · FOUR VOLUMES, ONE INDEX BOUND
+    cover_centre:
+      eyebrow: THEOREM D
+      name: KREIN INDEX
+      formula_text: '#{Re λ > ½} ≤ min(n₊, n₋)'
+      formula: '#{Re λ > ½} ≤ min(n₊, n₋)'
+      source: sealed PDF, page 1 = master/covers/make_cover.py CENTRES
+    claim_boundary_candidates:
+    - A certified inertia computa- tion proves the inertia of the displayed matrix; it does not prove that an unspecified
+      limiting form has that inertia.
+    - Abstract [K] The Riemann Hypothesis and the generalized Riemann hypotheses remain open.
+    - An openproblem box isolates a construction or estimate that is not proved.
+    - Each Part opens with a ledger of status, construction and logical strength, and each chapter closes with a
+      section entitled “What this chapter does not establish”.
+    - Every chapter closes with “What this chapter does not establish.
+    - Every chapter ends with “What this chapter does not establish.
+    - Integral periodicity and a global complex-linear generator do not follow formally (Conditional Obstruction
+      P, Chapter 21), and neither a finite-place Frobenius nor a Sen weight operator supplies the missing archimedean
+      dynamics.
+    - It does not transfer to the premise or to the conclusion while the premise remains open.
+    - It is neither finite evidence nor an object under construction.
+    - It supplies neither a compatible operator nor the centered adjoint identity required by the conditional theorem.
+    - No literature search proves that nothing has been written, so the book does not claim that no predecessor
+      exists; it says that it is not aware of a prior statement in the given form, where the search supports only
+      that.
+    - Nothing in the procedure makes an argument correct; a review procedure is not a proof.
+    - Preface The question and its boundary [K] The Riemann Hypothesis remains open.
+    - Proved here, unconditionally, with no arithmetic input.
+    - TERMINAL BOUNDARY · TWO NAMED OBLIGATIONS, NOT A CLAIMED THEOREM AHK realization ∥ A2* independent constraint
+      ⟶ RH / GRH remain open The architecture is complete exactly up to this dashed boundary.
+    - The Riemann Hypothesis and the generalized Riemann hypotheses remain open.
+    - The Riemann Hypothesis remains open.
+    - The Weil conjectures were not proved by attacking the zeta function of a variety directly.
+    - The later chapters then ask, object by object, which ingredients have an available analogue over the absolute
+      base and which remain open.
+    - 'Their dashed boundaries are load-bearing: a construction displayed as open in a plate remains open in the
+      text.'
+    - They meet in the demand for a rigidity statement that is neither an absolute majorant nor a finite numerical
+      pattern.
+    - This book does not claim that such a sea has been raised around the Riemann Hypothesis.
+    - This book does not prove it, and it does not prove the generalized Riemann hypotheses.
+    - This finite evidence supplies neither a zeta-spectral operator nor the centered adjoint identity and cannot
+      be inserted into the conditional theorem.
+    - This monograph does not claim a proof of either.
+    - This monograph does not claim an unconditional proof of RH, GRH, or any equivalent formu- lation.
+    - This publication does not claim an unconditional proof of either.
+    - This work does not claim a proof of it, of the generalized Riemann hypotheses, or of any equivalent statement.
+    - Until one of the open premises is proved in a form that survives these tests, RH and GRH remain open.
+    - WHAT AMPLIFICATION DOES BUY — UNCONDITIONALLY Any admissible amplifier improves constants, sharpens densities,
+      and enlarges the family over which a bound is uniform.
+    - '[O] The open obligations are AHK-1 through AHK-6 and Problem A2⋆: prove category rigidity or the mean-purity
+      estimate ∑ 0<𝛾≤𝑇 (𝛽−1 2)+ = 𝑜(𝑇), Until then, RH and GRH remain open.'
+    - ai iv CLAIM BOUNDARY Scientific notice The Riemann Hypothesis remains open.
+  - series: '04'
+    label: S04
+    folder: 04 Fractured Adelic Geometry
+    title: Fractured Adelic Geometry
+    short_title: Fractured Adelic Geometry
+    subtitle: A Foundational Framework for the Birch and Swinnerton-Dyer Conjecture
+    series_line: WiseMotif Monograph of Mathematical Intelligence, Series 04 · Mathematics and Artificial Intelligence
+    edition: Research Architecture Edition 1
+    version: 1.0.0
+    volumes: 4
+    pages: 571
+    outline:
+      Part: 10
+      Chapter: 56
+      Appendix: 8
+      Volume: 0
+    msc2020:
+    - 11G40
+    - 11G05
+    - 11G07
+    - 11G18
+    - 11F67
+    - 11R23
+    - 11R34
+    - 11S25
+    - 14F30
+    - 14F42
+    - 14G10
+    - 14G35
+    - 14K15
+    - 18N60
+    - 18F10
+    - 19F27
+    - 68V15
+    - 68V20
+    msc_primary: 11G40
+    msc_source: printed in the work = release.yaml
+    keywords:
+    - Birch and Swinnerton-Dyer conjecture
+    - elliptic curves
+    - L-functions
+    - Selmer groups
+    - Tate–Shafarevich group
+    - prismatic cohomology
+    - condensed mathematics
+    - F-gauges
+    - Weil-étale cohomology
+    - determinant of cohomology
+    - Euler systems
+    - Iwasawa theory
+    - shtukas
+    - arithmetic theta series
+    - regularised determinants
+    - equivariant Tamagawa number conjecture
+    - certified computation
+    - formal verification
+    - Grothendieckian Programme
+    - recursive mathematical discovery
+    - AI for mathematics
+    concept_doi: 10.5281/zenodo.23585887
+    version_doi: 10.5281/zenodo.23585888
+    publication_date: '2026-10-23'
+    repository: AlienMuse/fractured-adelic-geometry
+    pdf: Fractured-Adelic-Geometry-v1.0.0-Complete.pdf
+    honeycomb_title: D₆ ADELIC HONEYCOMB · FOUR VOLUMES, ONE DETERMINANT LINE
+    cover_centre:
+      eyebrow: ONE OBJECT
+      name: FUNDAMENTAL LINE
+      formula_text: Δ(XE)
+      formula: Δ(X_{E})
+      source: sealed PDF, page 1 = master/covers/make_cover.py CENTRES
+    claim_boundary_candidates:
+    - 6 Why (CTF) is not a proof of anything .
+    - Neither the first nor the second implies the other.
+    - The Birch and Swinnerton-Dyer conjecture remains open.
+    - 'The four tags are: [ KNOWN ] The assertion is a theorem of the existing literature, proved unconditionally
+      under the hypotheses explicitly stated.'
+    - This book does not prove it, and no statement in it should be read as claiming otherwise.
+    - This book does not prove it, proves no case of it that was not already known, and proves the finiteness of
+      X for no curve.
+    - This book does not prove it.
+    - This book does not prove the finiteness of the Tate–Shafarevich group.
+    - This book does not prove the rank part of the conjecture in any case not already known.
+    - This monograph does not prove it, proves no case of it that was not already known, and proves the finiteness
+      of X for no curve.
+    - This work does not prove it, proves no case of it that was not already known, and proves the finiteness of
+      X for no curve.
+    - This work does not prove it, proves no case of it that was not already known, and proves the finiteness of
+      the Tate–Shafarevich group for no curve.
+  - series: '05'
+    label: S05
+    folder: 05 The Archimedean Prism
+    title: The Archimedean Prism
+    short_title: The Archimedean Prism
+    subtitle: Tame Period Geometry and the Hodge Conjecture
+    series_line: WiseMotif Monograph of Mathematical Intelligence, Series 05 · Mathematics and Artificial Intelligence
+    edition: Research Architecture Edition 1
+    version: 1.0.0
+    volumes: 5
+    pages: 1309
+    outline:
+      Part: 12
+      Chapter: 72
+      Appendix: 12
+      Volume: 0
+    msc2020:
+    - 14C30
+    - 14C25
+    - 14D07
+    - 14C15
+    - 32J25
+    - 03C64
+    - 11G35
+    - 14F20
+    - 68V20
+    msc_primary: 14C30
+    msc_source: printed in the work = release.yaml
+    keywords:
+    - Hodge conjecture
+    - algebraic cycles
+    - period map
+    - o-minimality
+    - definable Chow
+    - Mumford–Tate group
+    - motives
+    - standard conjectures
+    - categorical trace
+    - non-abelian Hodge theory
+    - formal verification
+    - certified computation
+    - Grothendieckian Programme
+    - recursive mathematical discovery
+    - AI for mathematics
+    concept_doi: 10.5281/zenodo.23597954
+    version_doi: 10.5281/zenodo.23597955
+    publication_date: '2026-10-23'
+    repository: AlienMuse/the-archimedean-prism
+    pdf: The-Archimedean-Prism-v1.0.0-Complete.pdf
+    honeycomb_title: D₆ HONEYCOMB · FIVE VOLUMES, ONE DESCENT DATUM
+    cover_centre:
+      eyebrow: ONE OBJECT
+      name: ARCHIMEDEAN PRISM
+      formula_text: Δ(X)
+      formula: Δ(X)
+      source: sealed PDF, page 1 = master/covers/make_cover.py CENTRES
+    claim_boundary_candidates:
+    - 'And the twelve prism axioms AP1–AP12 of Chapter 46 isolate exactly the properties a descent formalism must
+      have for the argument to run: ten of them hold unconditionally for Δ(𝑋), and the remaining two are equivalent
+      to the open input of the theory.'
+    - Chapter 48 is the obstruction ledger, of whose nine entries only two remain open; Chapter 51 states the surviving
+      gap; Chapters 30, 56 and 64 are the three mandatory honest verdicts — that the trace reformulation produces
+      no cycles, that no integer-relation algorithm can certify a period relation, and that the Hodge Conjecture
+      cannot presently even be stated in Lean 4 with mathlib — and Chapters 69 and 70 are the eleven falsifiers
+      and the seven criteria fixed in advance.
+    - 'For this work it reads: the Hodge conjecture remains open; this book does not prove it, and proves no case
+      of it that was not already known.'
+    - It constructs a framework, isolates the obstructions to a proof, proves what can be proved unconditionally,
+      states precisely what is conjectural, and specifies what would have to be established to close the remaining
+      gap.
+    - It does not prove the Hodge Conjecture, in any case not already in the literature.
+    - It is not proved here or anywhere, it is marked with its ledger number wherever it is used, and no argument
+      in the book is permitted to forget that it is open.
+    - It is not proved here.
+    - 'Route I — The full accounting For the reader who wants neither the construction nor the computations but
+      only the ledger of what is and is not achieved: Chapters 48, 51, 30, 56, 64, 67, 69, 70.'
+    - The Hodge conjecture remains open.
+    - The verdict of Chapter 56, that neither pslq nor lll can certify a period relation, belongs to this part.
+    - This book does not claim a proof of it.
+    - This book does not prove it, and proves no case of it that was not already known.
+    - This book does not prove it.
+    - This monograph does not prove it, and proves no case of it that was not already known.
+    - This work does not prove it, and proves no case of it that was not already known.
+    - What is not proved here (i) The Hodge Conjecture, in any nontrivial case not already in the literature.
+    - What this book is not It is not a proof of the Hodge Conjecture.
+    - '[ OPEN ] Not proved — here or anywhere.'
+    - xviii What the Programme takes from this work What the Programme takes from this work For the Programme, the
+      result of this recursion is not a proof and was not expected to be one.
+    - xxiii Epistemic Status The ledger, and what remains open in it Chapter 48 enumerates the obstructions to the
+      programme as O1 through O9 and proves, relative to the axioms AP1–AP12, that no others arise.
+  - series: '06'
+    label: S06
+    folder: 06 Strained Prismatic Geometry
+    title: Strained Prismatic Geometry
+    short_title: Strained Prismatic Geometry
+    subtitle: Deformation over the Absolute Base and the abc Conjecture
+    series_line: WiseMotif Monograph of Mathematical Intelligence, Series 06 · Mathematics and Artificial Intelligence
+    edition: Research Architecture Edition 1
+    version: 1.0.0
+    volumes: 5
+    pages: 1666
+    outline:
+      Part: 10
+      Chapter: 62
+      Appendix: 10
+      Volume: 0
+    msc2020:
+    - 11J97
+    - 11G05
+    - 11G07
+    - 11G50
+    - 11J25
+    - 11R32
+    - 11S31
+    - 12H10
+    - 13F35
+    - 14A30
+    - 14F30
+    - 14F42
+    - 14G40
+    - 14H52
+    - 18N60
+    - 18M05
+    - 19D55
+    - 68V15
+    - 68V20
+    msc_primary: 11J97
+    msc_source: printed in the work = release.yaml
+    keywords:
+    - abc conjecture
+    - Szpiro conjecture
+    - prismatic cohomology
+    - delta-rings
+    - q-de Rham cohomology
+    - Habiro ring
+    - condensed mathematics
+    - analytic stacks
+    - six-functor formalism
+    - categorical trace
+    - Arakelov theory
+    - adelic curves
+    - inter-universal Teichmüller theory
+    - formal verification
+    - Grothendieckian Programme
+    - recursive mathematical discovery
+    - AI for mathematics
+    concept_doi: 10.5281/zenodo.23610034
+    version_doi: 10.5281/zenodo.23610035
+    publication_date: '2026-10-24'
+    repository: AlienMuse/strained-prismatic-geometry
+    pdf: Strained-Prismatic-Geometry-v1.0.0-Complete.pdf
+    honeycomb_title: D₆ HONEYCOMB · FIVE VOLUMES, ONE ABSOLUTE BASE
+    cover_centre:
+      eyebrow: ONE BASE
+      name: GLOBAL SUBSTRATE
+      formula_text: Spec ℤ → 𝔖
+      formula: Spec ℤ → 𝔖
+      source: sealed PDF, page 1 = master/covers/make_cover.py CENTRES
+    claim_boundary_candidates:
+    - 'For this work it reads: the 𝑎𝑏𝑐conjecture remains open; this book does not prove it; and it neither verifies
+      nor refutes inter-universal Teichmüller theory.'
+    - Mechanical auditing does not establish the truth of a statement tagged as proved.
+    - The abc conjecture is an open problem, and this book does not prove it.
+    - The abc conjecture remains open.
+    - The 𝑎𝑏𝑐conjecture remains open.
+    - Theorem C, proved unconditionally, shows that the categorical trace of an endomorphism equivariant for a connected
+      infinity-groupoid of gluing choices is independent of every choice; it is the book's structural answer to
+      the indeterminacy of identifications.
+    - This monograph does not prove it.
+    - This work does not prove it.
+    - '[ CONDITIONAL ] Theorem B over ℚ, 𝑎𝑏𝑐over number fields, and the classical consequences — asymptotic Fermat,
+      Fermat–Catalan, Roth, Erdős–Woods — are each labelled by the form of 𝑎𝑏𝑐they need, and none of them is available
+      unconditionally.'
+    - '[ NEW ] marks a result first proved in this volume, unconditionally.'
+    - '[ OPEN ] denotes a statement not proved in this volume.'
+    - '[ OPEN ] marks a statement that is not proved here at all.'
+    - ai 2026 xiv Epistemic Status of This Book Read this before Chapter 1 The abc conjecture is an open problem,
+      and this book does not prove it.
+    - tag count meaning [ KNOWN ] 223 established elsewhere, cited [ REPROVED ] 322 known, reproved here [ NEW ]
+      646 first proved here, unconditionally [ CONDITIONAL ] 177 proved from named obligations [ OPEN ] 48 not proved
+      here [ DISPUTED ] 4 disagreement recorded, not adjudicated 1,420 Of the 62 chapters, 19 contain no conditional
+      and no open statement whatsoever; they are listed in the Leitfaden.
+    - vii Abstract The 𝑎𝑏𝑐conjecture remains open.
+    - viii Preface This book does not prove the 𝑎𝑏𝑐conjecture.
+    - • [ NEW ] The statement is proved here for the first time, and unconditionally.
+    - • [ OPEN ] The statement is not proved here at all.
+  - series: '07'
+    label: S07
+    folder: 07 The Arithmetic Topos
+    title: The Arithmetic Topos
+    short_title: The Arithmetic Topos
+    subtitle: Foundations of a Trace-Theoretic Approach to the Langlands Programme
+    series_line: WiseMotif Monograph of Mathematical Intelligence, Series 07 · Mathematics and Artificial Intelligence
+    edition: Research Architecture Edition 1
+    version: 1.0.0
+    volumes: 5
+    pages: 2001
+    outline:
+      Part: 7
+      Chapter: 40
+      Appendix: 7
+      Volume: 0
+    msc2020:
+    - 11F70
+    - 11F80
+    - 11R39
+    - 11S37
+    - 14D24
+    - 14F20
+    - 14F30
+    - 14F42
+    - 18N60
+    - 18N70
+    - 22E50
+    - 22E55
+    - 20G25
+    - 14G45
+    - 03B38
+    - 68V15
+    - 68T05
+    msc_primary: 11F70
+    msc_source: printed in the work = release.yaml
+    keywords:
+    - Langlands programme
+    - automorphic representations
+    - Galois representations
+    - six-functor formalism
+    - categorical trace
+    - Fargues–Fontaine curve
+    - condensed mathematics
+    - prismatic cohomology
+    - shifted symplectic geometry
+    - formal verification
+    - Grothendieckian Programme
+    - recursive mathematical discovery
+    - AI for mathematics
+    concept_doi: 10.5281/zenodo.23629681
+    version_doi: 10.5281/zenodo.23629682
+    publication_date: '2026-10-25'
+    repository: AlienMuse/the-arithmetic-topos
+    pdf: The-Arithmetic-Topos-v1.0.0-Complete.pdf
+    honeycomb_title: D₆ HONEYCOMB · FIVE VOLUMES, ONE ARITHMETIC CURVE
+    cover_centre:
+      eyebrow: ONE BASE
+      name: ARITHMETIC CURVE
+      formula_text: 𝔛𝐙
+      formula: 𝔛_{𝐙}
+      source: sealed PDF, page 1 = master/covers/make_cover.py CENTRES
+    claim_boundary_candidates:
+    - 16What the structural claim does and does not prove .
+    - It is not a proof of the Langlands correspondence.
+    - Not proved, here or elsewhere.
+    - Precisely stated; not proved here or elsewhere.
+    - The Langlands programme remains open over number fields beyond the cases that the literature has proved.
+    - The apex claim of the book — the Main Conjecture of Chapter 19 — is marked [C], and no case of it is proved
+      unconditionally anywhere in these pages.
+    - The book does not prove the Langlands correspondence, and no case of its Main Conjecture is established unconditionally
+      in it.
+    - The problem is the Langlands programme, and the question is why the Langlands correspondence can be proved
+      over function fields — where it is a theorem for GL(n), and in the automorphic-to-Galois direction for every
+      reductive group, by taking traces of Frobenius over a curve — and remains open over number fields in general;
+      and what object would let those proofs be imitated over the integers.
+    - They have not proved it in general.
+    - This work does not prove the Langlands correspondence, and no case of its Main Conjecture is established unconditionally
+      in it (Proposition 40.
+    - This work does not prove the Langlands correspondence, and no case of its Main Conjecture is established unconditionally
+      in it.
+    - What this book is not It is not a proof of the Langlands correspondence.
+    - ai vi Abstract This monograph asks why the Langlands correspondence can be proved over function fields — where
+      it is a theorem for GL𝑛, and in the automorphic-to-Galois direction for every reductive group — and remains
+      open over number fields in general; and what object would let the function-field proofs, which take traces
+      of Frobenius over a curve, be imitated over Z.
+# <<< facts <<<
+
+# >>> stats: written by master/tools/corpus_stats.py — do not edit by hand >>>
+stats:
+  generated_by: master/tools/corpus_stats.py
+  totals:
+    formulas: 349,000+
+    display_formulas: 39,000+
+    statements: 10,500+
+    algorithms: '714'
+    figures_and_plates: 1,434
+    chapters: '995'
+    volumes: 34
+    pages: 26,021
+  works:
+    S01:
+      display_formulas: 20531
+      inline_formulas: 87,900+
+      formulas: 110,000+
+      statements: 2,580+
+      algorithms: 126
+      figures_and_plates: 830
+      numbered_tables: 0
+      references: null
+    S02:
+      display_formulas: 4935
+      inline_formulas: 57,100+
+      formulas: 62,000+
+      statements: 3,360+
+      algorithms: 380
+      figures_and_plates: 124
+      numbered_tables: 550
+      references: null
+    S03:
+      display_formulas: 2612
+      inline_formulas: 38767
+      formulas: 41379
+      statements: 1129
+      algorithms: 60
+      figures_and_plates: 102
+      numbered_tables: 17
+      references: 340
+    S04:
+      display_formulas: 922+
+      inline_formulas: 14,400+
+      formulas: 15,300+
+      statements: 458+
+      algorithms: 12
+      figures_and_plates: 30
+      numbered_tables: 39
+      references: 364
+    S05:
+      display_formulas: 1948
+      inline_formulas: 31,400+
+      formulas: 33,400+
+      statements: 912
+      algorithms: 53
+      figures_and_plates: 36
+      numbered_tables: 39
+      references: 206
+    S06:
+      display_formulas: 3,060+
+      inline_formulas: 32,200+
+      formulas: 35,300+
+      statements: 1178
+      algorithms: 35
+      figures_and_plates: 192
+      numbered_tables: 107
+      references: 242
+    S07:
+      display_formulas: 5048
+      inline_formulas: 46,800+
+      formulas: 51,800+
+      statements: 964
+      algorithms: 48
+      figures_and_plates: 120
+      numbered_tables: 0
+      references: 280
+  footnotes:
+    S01:
+    - 'Algorithms: its algorithm contracts ALG-001 … ALG-126 (Volume IV), as its README counts them; one further
+      algorithm carries a printed head (Algorithm 19.15.2).'
+    - 'Formulas: Markdown sources 110,790, native equations of its Word edition 110,220 (its own count, out/FORMULA-COUNT.json);
+      published as 110,000+.'
+    - No unified bibliography; no captioned tables.
+    S02:
+    - References are listed per chapter; no unified bibliography.
+    S06:
+    - 'Figures and plates: 186 plates (its README) and 6 figures.'
+    S07:
+    - 'Tables: its 181 tables carry no caption (its README counts them as tables), so none is numbered.'
+# <<< stats <<<
+
+# Search keywords (runbook step 13; author 2026-10-27: SEO and keywords of every site and on Google, last of all).
+# The single source of the keywords of the site, the repositories' topics and the Search Console target queries.
+# Every English keyword is a keyword a work publishes (programme.keywords, facts.works[].keywords = the keywords of the
+# eight Zenodo records) or the name of the series, a work or the author; every Chinese keyword appears in the series'
+# Chinese texts (the repositories' README.zh-CN.md and TERMINOLOGY-zh.md, site/content/zh.yaml) or is programme.name_zh.
+# site/check.py checks both. Order: the most important first. zh_topic: the work's subject in the Chinese page titles.
+# Round 2 (author, 2026-10-27): every work's list carries "Grothendieckian Programme" and "Grothendieck" (格罗滕迪克纲领,
+# Grothendieck); "Grothendieckian Machine" where the work's record names it (00, 01, 02), as on Zenodo (seo_apply.py).
+seo:
+  site:
+    en: ["Grothendieckian Programme", "Grothendieck", "Vincent Liu", "Grothendieckian Machine", "GAI-MUA",
+         "Topos-Native Intelligence", "recursive mathematical discovery", "machine reasoning", "AI for mathematics",
+         "mathematical artificial intelligence", "formal verification", "topos theory", "descent", "Riemann Hypothesis",
+         "Birch and Swinnerton-Dyer conjecture", "Hodge conjecture", "abc conjecture", "Langlands programme",
+         "WiseMotif Monograph of Mathematical Intelligence"]
+    zh: ["格罗滕迪克纲领", "Grothendieck", "递归式数学发现", "机器推理", "元推理内核", "黎曼猜想", "BSD 猜想", "Hodge 猜想",
+         "abc 猜想", "Langlands 纲领", "拓扑斯", "层", "下降", "上同调", "六函子", "可验证"]
+  works:
+    "00":
+      en: ["Grothendieckian Programme", "Grothendieck", "Grothendieckian Machine", "recursive mathematical discovery",
+           "machine reasoning", "mathematical worlds", "verification-first architecture", "topos theory", "descent",
+           "Riemann Hypothesis", "Birch and Swinnerton-Dyer conjecture", "Hodge conjecture", "abc conjecture",
+           "Langlands programme"]
+      zh: ["格罗滕迪克纲领", "Grothendieck", "递归式数学发现", "机器推理", "元推理内核", "研究课题", "黎曼猜想",
+           "BSD 猜想", "Hodge 猜想", "abc 猜想", "Langlands 纲领"]
+      zh_topic: "总纲"
+    "01":
+      en: ["GAI-MUA", "Grothendieckian Machine", "Grothendieck", "Grothendieckian Programme", "algebraic geometry",
+           "schemes", "topos theory", "descent", "motives", "AI for mathematics",
+           "mathematical artificial intelligence", "formal verification", "automated reasoning", "theorem proving"]
+      zh: ["GAI-MUA", "Grothendieck", "格罗滕迪克纲领", "面向数学的人工智能", "拓扑斯", "下降", "上同调", "motive",
+           "代数几何", "算术几何", "形式化验证", "证明助手"]
+      zh_topic: "核心"
+    "02":
+      en: ["Topos-Native Intelligence", "GM-Omega-Infinity", "Grothendieckian Programme", "Grothendieck",
+           "Grothendieckian Machine", "topos theory", "sheaf theory", "Grothendieck topology", "descent", "cohomology",
+           "meta-reasoning", "mixture of experts", "machine intelligence", "AI for mathematics"]
+      zh: ["Topos-Native Intelligence", "格罗滕迪克纲领", "Grothendieck", "拓扑斯", "层", "下降", "上同调",
+           "元推理内核", "混合专家", "形式化验证"]
+      zh_topic: "元推理内核"
+    "03":
+      en: ["Arithmetic Spectral Descent", "Grothendieckian Programme", "Grothendieck", "Riemann Hypothesis",
+           "generalized Riemann hypothesis", "Riemann zeta function", "explicit formula", "Weil positivity",
+           "Krein spaces", "Hilbert–Pólya programme", "no-go theorems", "Weil conjectures", "prismatic cohomology"]
+      zh: ["黎曼猜想", "格罗滕迪克纲领", "Grothendieck", "广义黎曼猜想", "黎曼 zeta 函数", "Krein", "Weil 猜想", "证伪"]
+      zh_topic: "黎曼猜想"
+    "04":
+      en: ["Fractured Adelic Geometry", "Grothendieckian Programme", "Grothendieck",
+           "Birch and Swinnerton-Dyer conjecture", "elliptic curves", "L-functions", "Selmer groups",
+           "Tate–Shafarevich group", "prismatic cohomology", "condensed mathematics", "Euler systems", "Iwasawa theory",
+           "equivariant Tamagawa number conjecture"]
+      zh: ["BSD 猜想", "格罗滕迪克纲领", "Grothendieck", "Birch–Swinnerton-Dyer 猜想", "椭圆曲线", "Selmer 群",
+           "Tate–Shafarevich 群", "棱柱上同调", "凝聚数学"]
+      zh_topic: "BSD 猜想"
+    "05":
+      en: ["The Archimedean Prism", "Grothendieckian Programme", "Grothendieck", "Hodge conjecture", "algebraic cycles",
+           "period map", "o-minimality", "definable Chow", "Mumford–Tate group", "motives", "standard conjectures",
+           "non-abelian Hodge theory"]
+      zh: ["Hodge 猜想", "格罗滕迪克纲领", "Grothendieck", "代数闭链", "周期映射", "o-极小", "motive", "证伪"]
+      zh_topic: "Hodge 猜想"
+    "06":
+      en: ["Strained Prismatic Geometry", "Grothendieckian Programme", "Grothendieck", "abc conjecture",
+           "Szpiro conjecture", "prismatic cohomology", "Habiro ring", "condensed mathematics", "six-functor formalism",
+           "categorical trace", "Arakelov theory", "inter-universal Teichmüller theory"]
+      zh: ["abc 猜想", "格罗滕迪克纲领", "Grothendieck", "Szpiro 猜想", "整体基底", "六函子", "范畴迹", "台账"]
+      zh_topic: "abc 猜想"
+    "07":
+      en: ["The Arithmetic Topos", "Grothendieckian Programme", "Grothendieck", "Langlands programme",
+           "automorphic representations", "Galois representations", "six-functor formalism", "categorical trace",
+           "Fargues–Fontaine curve", "condensed mathematics", "prismatic cohomology", "shifted symplectic geometry"]
+      zh: ["Langlands 纲领", "格罗滕迪克纲领", "Grothendieck", "Langlands 对应", "自守表示", "Galois 表示",
+           "整体算术曲线", "六函子", "范畴迹"]
+      zh_topic: "Langlands 纲领"
+  # search engines' site-ownership tokens, given by the author from each console (null until then); the home page
+  # carries each as its <meta> tag
+  verification:
+    google: "_Rn1yn_oQXPIYmIe_WUJRYyJONDvs6-M3Jia8EEqO3g"     # Search Console, URL prefix https://alienmuse.github.io/ (2026-10-27)
+    bing: ~
+    baidu: ~

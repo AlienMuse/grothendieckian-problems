@@ -1,0 +1,508 @@
+{
+ "problem": 23,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "globally consistent false answer verification language model",
+   "status": 200,
+   "results": [
+    {
+     "title": "Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval",
+     "year": "2026",
+     "authors": [
+      "Md. Asraful Haque",
+      "Aasar Mehdi",
+      "Maaz Mahboob",
+      "Tamkeen Fatima"
+     ],
+     "id": "arXiv:2603.17872v2"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "globally consistent false answer verification language model",
+   "status": 200,
+   "results": [
+    {
+     "title": "Teaching language models to support answers with verified quotes",
+     "year": 2022,
+     "authors": [
+      "Jacob Menick",
+      "Maja Trębacz",
+      "Vladimir Mikulik",
+      "John Aslanides",
+      "Francis Song",
+      "Martin J. Chadwick"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2203.11147"
+    },
+    {
+     "title": "Large Language Models are Better Reasoners with Self-Verification",
+     "year": 2023,
+     "authors": [
+      "Yixuan Weng",
+      "Minjun Zhu",
+      "Fei Xia",
+      "Bin Li",
+      "Shizhu He",
+      "Shengping Liu"
+     ],
+     "venue": "Findings of the Association for Computational Linguistics: EMNLP (Findings of EMNLP)",
+     "id": "https://doi.org/10.18653/v1/2023.findings-emnlp.167"
+    },
+    {
+     "title": "Art or Artifice? Large Language Models and the False Promise of Creativity",
+     "year": 2024,
+     "authors": [
+      "Tuhin Chakrabarty",
+      "Philippe Laban",
+      "D. Agarwal",
+      "Smaranda Muresan",
+      "Chien-Sheng Wu"
+     ],
+     "venue": "CHI Conference on Human Factors in Computing Systems",
+     "id": "https://doi.org/10.1145/3613904.3642731"
+    },
+    {
+     "title": "Unsupervised Contrast-Consistent Ranking with Language Models",
+     "year": 2024,
+     "authors": [
+      "Niklas Stoehr",
+      "Pengxiang Cheng",
+      "Jing Wang",
+      "Daniel Preoţiuc-Pietro",
+      "Rajarshi Bhowmik"
+     ],
+     "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+     "id": "https://doi.org/10.18653/v1/2024.eacl-long.54"
+    },
+    {
+     "title": "A survey of safety and trustworthiness of large language models through the lens of verification and validation",
+     "year": 2024,
+     "authors": [
+      "Xiaowei Huang",
+      "Wenjie Ruan",
+      "Wei Huang",
+      "Gaojie Jin",
+      "Yi Dong",
+      "Changshun Wu"
+     ],
+     "venue": "Artificial Intelligence Review",
+     "id": "https://doi.org/10.1007/s10462-024-10824-0"
+    },
+    {
+     "title": "Can Language Models Solve Graph Problems in Natural Language?",
+     "year": 2023,
+     "authors": [
+      "Heng Wang",
+      "Shangbin Feng",
+      "Tianxing He",
+      "Zhaoxuan Tan",
+      "Xiaochuang Han",
+      "Yulia Tsvetkov"
+     ],
+     "venue": "neural information processing systems",
+     "id": "https://doi.org/10.52202/075280-1345"
+    },
+    {
+     "title": "Deterministic by Default: Design Principles for Language Models inside Verification Harnesses",
+     "year": 2026,
+     "authors": [
+      "Mike Helwig"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.5281/zenodo.21892963"
+    },
+    {
+     "title": "Artificial intelligence language models and the false fantasy of participatory language policies",
+     "year": 2021,
+     "authors": [
+      "Mandy Lau"
+     ],
+     "venue": "Working papers in Applied Linguistics and Linguistics at York",
+     "id": "https://doi.org/10.25071/2564-2855.5"
+    },
+    {
+     "title": "Variation in Verification: Understanding Verification Dynamics in Large Language Models",
+     "year": 2025,
+     "authors": [
+      "Zhou, Yefan",
+      "Austin Xu",
+      "Yilun Zhou",
+      "Singh, Janvijay",
+      "Jiang Gui",
+      "Shafiq Joty"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2509.17995"
+    },
+    {
+     "title": "Dissociating language and thought in large language models",
+     "year": 2024,
+     "authors": [
+      "Kyle Mahowald",
+      "Anna Aleksandrovna Ivanova",
+      "Idan Blank",
+      "Nancy Kanwisher",
+      "Joshua B. Tenenbaum",
+      "Evelina G. Fedorenko"
+     ],
+     "venue": "Trends in Cognitive Sciences",
+     "id": "https://doi.org/10.1016/j.tics.2024.01.011"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "globally consistent false answer verification language model",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "globally consistent false answer verification language model",
+   "status": 200,
+   "results": [
+    {
+     "title": "Model-Based Globally-Consistent Risk Assessment1",
+     "year": null,
+     "authors": [
+      "Michal Andrle",
+      "Benjamin Hunt"
+     ],
+     "venue": "",
+     "id": "doi:10.5089/9781513536460.001.a001"
+    },
+    {
+     "title": "A globally consistent probabilistic wildfire risk model to assess economic damages",
+     "year": 2021,
+     "authors": [
+      "Samuel Lüthi",
+      "David Bresch"
+     ],
+     "venue": "",
+     "id": "doi:10.5194/egusphere-egu21-2241"
+    },
+    {
+     "title": "A Simple Globally Consistent Continuous Demand Model for Market Level Data",
+     "year": 2010,
+     "authors": [
+      "Peter J. Davis",
+      "Ricardo Ribeiro"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.1690163"
+    },
+    {
+     "title": "Model-Based Globally-Consistent Risk Assessment",
+     "year": 2020,
+     "authors": [
+      "Michal Andrle",
+      "Benjamin Hunt"
+     ],
+     "venue": "IMF Working Papers",
+     "id": "doi:10.5089/9781513536460.001"
+    },
+    {
+     "title": "FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint_supp1-3702542.pdf",
+     "year": null,
+     "authors": [
+      "Yiming Li"
+     ],
+     "venue": "",
+     "id": "doi:10.1109/tifs.2026.3702542/mm1"
+    },
+    {
+     "title": "Critical infrastructures in a multi-hazard environment: identifying globally consistent heuristics to model interdependencies",
+     "year": 2021,
+     "authors": [
+      "Evelyn Mühlhofer",
+      "David N. Bresch",
+      "Elco Koks"
+     ],
+     "venue": "",
+     "id": "doi:10.5194/egusphere-egu21-945"
+    },
+    {
+     "title": "Globally consistent, open-source river flood impact model using open data",
+     "year": 2023,
+     "authors": [
+      "Lukas Riedel",
+      "Thomas Röösli",
+      "Pamela Probst",
+      "Isabelle Bey",
+      "David N. Bresch"
+     ],
+     "venue": "",
+     "id": "doi:10.5194/egusphere-egu23-8017"
+    },
+    {
+     "title": "CLIMADA v1.4.1: towards a globally consistent  adaptation options appraisal tool",
+     "year": 2021,
+     "authors": [
+      "David N. Bresch",
+      "Gabriela Aznar-Siguan"
+     ],
+     "venue": "Geoscientific Model Development",
+     "id": "doi:10.5194/gmd-14-351-2021"
+    },
+    {
+     "title": "estadistica Globally Consistent Submap-Based 3D Gaussian SLAM with Gradient-Guided Tracking and Rendering-Aware Loop Verification",
+     "year": 2026,
+     "authors": [
+      "Yulong You",
+      "Lijuan Guo",
+      "Guoshan Xie",
+      "Zhongmou Huang",
+      "Le Wang"
+     ],
+     "venue": "DYNA",
+     "id": "doi:10.52152/m6482"
+    },
+    {
+     "title": "Globally Consistent Creditor Protection, Reallocation, and Productivity",
+     "year": 2020,
+     "authors": [
+      "Bo Bian"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.3720573"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "consistency checks cannot detect coherent hallucination",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "consistency checks cannot detect coherent hallucination",
+   "status": 200,
+   "results": [
+    {
+     "title": "Factual consistency in neural text generation: detecting, correcting, and understanding hallucinations",
+     "year": 2025,
+     "authors": [
+      "Cao, Meng"
+     ],
+     "venue": "eScholarship@McGill (McGill)",
+     "id": "https://doi.org/10.82308/3207"
+    },
+    {
+     "title": "LLM Hallucination: The Curse That Cannot Be Broken",
+     "year": 2025,
+     "authors": [
+      "Hussein Al-Mahmood"
+     ],
+     "venue": "Iraqi Journal for Computers and Informatics",
+     "id": "https://doi.org/10.25195/ijci.v51i2.546"
+    },
+    {
+     "title": "DECK: A Consistency x Confidence Taxonomy of LLM Hallucinations",
+     "year": 2026,
+     "authors": [
+      "Mohit Singh Chauhan"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.02289"
+    },
+    {
+     "title": "AI Hallucinations: A Misnomer Worth Clarifying",
+     "year": 2024,
+     "authors": [
+      "Negar Maleki",
+      "Balaji Padmanabhan",
+      "Kaushik Dutta"
+     ],
+     "venue": "IEEE Conference on Artificial Intelligence (CAI)",
+     "id": "https://doi.org/10.1109/cai59869.2024.00033"
+    },
+    {
+     "title": "FaithLens: Detecting and Explaining Faithfulness Hallucination",
+     "year": 2026,
+     "authors": [
+      "Shuzheng Si",
+      "Qingyi Wang",
+      "Haozhe Zhao",
+      "Yuzhuo Bai",
+      "Guanqiao Chen",
+      "Kangyang Luo"
+     ],
+     "venue": "Findings of the Association for Computational Linguistics: ACL (Findings of ACL)",
+     "id": "https://doi.org/10.18653/v1/2026.findings-acl.689"
+    },
+    {
+     "title": "Sanity Checks for Long-Form Hallucination Detection",
+     "year": 2026,
+     "authors": [
+      "Geigh Zollicoffer",
+      "Minh Vu",
+      "Hongli Zhan",
+      "Raymond Li",
+      "Manish Bhattarai"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.08346"
+    },
+    {
+     "title": "FaithLens: Detecting and Explaining Faithfulness Hallucination",
+     "year": 2025,
+     "authors": [
+      "Shuzheng Si",
+      "Qingyi Wang",
+      "Haozhe Zhao",
+      "Yuzhuo Bai",
+      "Guanqiao Chen",
+      "Kangyang Luo"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2512.20182"
+    },
+    {
+     "title": "An Information–Theoretic Model of Abduction for Detecting Hallucinations in Explanations",
+     "year": 2026,
+     "authors": [
+      "Boris A. Galitsky",
+      "Alexander Rybalov"
+     ],
+     "venue": "Entropy",
+     "id": "https://doi.org/10.3390/e28020173"
+    },
+    {
+     "title": "Who Checks the Citations? Benchmarking Legal Hallucination Detection",
+     "year": 2026,
+     "authors": [
+      "Patty Liu",
+      "Dominik Stammbach",
+      "Peter Henderson"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.21155"
+    },
+    {
+     "title": "Large language models hallucination: A comprehensive survey",
+     "year": 2026,
+     "authors": [
+      "Aisha Alansari",
+      "Hamzah Luqman"
+     ],
+     "venue": "Computer Science Review",
+     "id": "https://doi.org/10.1016/j.cosrev.2026.100970"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "consistency checks cannot detect coherent hallucination",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "consistency checks cannot detect coherent hallucination",
+   "status": 200,
+   "results": [
+    {
+     "title": "Temporal Consistency Checks to Detect LiDAR Spoofing Attacks on Autonomous Vehicle Perception",
+     "year": 2021,
+     "authors": [
+      "Chengzeng You",
+      "Zhongyuan Hau",
+      "Soteris Demetriou"
+     ],
+     "venue": "Proceedings of the 1st Workshop on Security and Privacy for Mobile AI",
+     "id": "doi:10.1145/3469261.3469406"
+    },
+    {
+     "title": "When posterior predictive checks cannot identify learning rates",
+     "year": 2026,
+     "authors": [
+      "Nam Anh Le"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6997171"
+    },
+    {
+     "title": "Testing Concolic Execution Through Consistency Checks",
+     "year": 2023,
+     "authors": [
+      "Emilio Coppa",
+      "Alessio Izzillo"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.4461952"
+    },
+    {
+     "title": "Ranking the Symptom: Why the Industry Measures Hallucination but Cannot Rank Epistemic Grounding",
+     "year": 2026,
+     "authors": [
+      "William C. Houze"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6934138"
+    },
+    {
+     "title": "Evaluation Framework for Hallucination and Factual Consistency in Arabic Voice Agents",
+     "year": 2025,
+     "authors": [
+      "Mahmoud Safia"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.5441054"
+    },
+    {
+     "title": "Consistency Checks for SCR-Style Requirements Specifications",
+     "year": 1993,
+     "authors": [
+      "Constance L. Heitmeyer",
+      "Bruce G. Labaw"
+     ],
+     "venue": "",
+     "id": "doi:10.21236/ada276077"
+    },
+    {
+     "title": "Ontological Basic Wavefield Theory (OBWT): Complete Formulation with Mathematical Consistency Checks",
+     "year": 2026,
+     "authors": [
+      "Jinlong Zhang"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.7233102"
+    },
+    {
+     "title": "Comparing blood tests to detect diabetes during NHS health checks",
+     "year": 2015,
+     "authors": [
+      ""
+     ],
+     "venue": "",
+     "id": "doi:10.3310/signal-000114"
+    },
+    {
+     "title": "Solver selection and consistency checks for closed-loop structural dynamics",
+     "year": 2026,
+     "authors": [
+      "Zhongxu Tian",
+      "Yuxi Cao"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.7531839"
+    },
+    {
+     "title": "What the IV First Stage Cannot Detect",
+     "year": 2026,
+     "authors": [
+      "Parush Arora"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.7436881"
+    }
+   ]
+  }
+ ]
+}

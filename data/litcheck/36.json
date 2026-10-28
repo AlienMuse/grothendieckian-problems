@@ -1,0 +1,515 @@
+{
+ "problem": 36,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "polarization cyclotomic spectrum real topological Hochschild homology",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "polarization cyclotomic spectrum real topological Hochschild homology",
+   "status": 200,
+   "results": [
+    {
+     "title": "The Galois action on symplectic K-theory",
+     "year": 2022,
+     "authors": [
+      "Tony Feng",
+      "S Galatius",
+      "Akshay Venkatesh"
+     ],
+     "venue": "Inventiones mathematicae",
+     "id": "https://doi.org/10.1007/s00222-022-01127-8"
+    },
+    {
+     "title": "On the generic part of the cohomology of compact unitary Shimura varieties",
+     "year": 2017,
+     "authors": [
+      "Ana Caraiani",
+      "Peter Scholze"
+     ],
+     "venue": "Annals of Mathematics",
+     "id": "https://doi.org/10.4007/annals.2017.186.3.1"
+    },
+    {
+     "title": "MFO–RIMS Tandem Workshop: Arithmetic Homotopy and Galois Theory",
+     "year": 2024,
+     "authors": [
+      "Benjamin Collas",
+      "Pierre Dèbes",
+      "Yuichiro Hoshi",
+      "Ariane Mézard"
+     ],
+     "venue": "Oberwolfach Reports",
+     "id": "https://doi.org/10.4171/owr/2023/42"
+    },
+    {
+     "title": "Modular curves and the Eisenstein ideal",
+     "year": 1977,
+     "authors": [
+      "Barry Mazur"
+     ],
+     "venue": "Publications mathématiques de l IHÉS",
+     "id": "https://doi.org/10.1007/bf02684339"
+    },
+    {
+     "title": "Arithmetic Geometry",
+     "year": 2025,
+     "authors": [
+      "Bhargav Bhatt",
+      "Ana Caraiani",
+      "Герд Фалтингс",
+      "Peter Scholze"
+     ],
+     "venue": "Oberwolfach Reports",
+     "id": "https://doi.org/10.4171/owr/2024/33"
+    },
+    {
+     "title": "Non-Archimedean Geometry and Applications",
+     "year": 2025,
+     "authors": [
+      "Johannes Nicaise",
+      "Peter Scholze",
+      "Michael Temkin",
+      "Annette Werner"
+     ],
+     "venue": "Oberwolfach Reports",
+     "id": "https://doi.org/10.4171/owr/2025/29"
+    },
+    {
+     "title": "Classicality for Hilbert modular forms",
+     "year": 2026,
+     "authors": [
+      "Yuanyang Jiang"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.18426"
+    },
+    {
+     "title": "$p$-adic Periods and Selmer Scheme Images",
+     "year": 2026,
+     "authors": [
+      "David Corwin",
+      "Ishai Dan‐Cohen"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2601.16591"
+    },
+    {
+     "title": "On the generic part of the cohomology of non-compact unitary Shimura varieties",
+     "year": 2024,
+     "authors": [
+      "Ana Caraiani",
+      "Peter Scholze"
+     ],
+     "venue": "Annals of Mathematics",
+     "id": "https://doi.org/10.4007/annals.2024.199.2.1"
+    },
+    {
+     "title": "",
+     "year": 2013,
+     "authors": [],
+     "venue": "Algebra & Number Theory",
+     "id": "https://doi.org/10.2140/ant.2013.7-10"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "polarization cyclotomic spectrum real topological Hochschild homology",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "polarization cyclotomic spectrum real topological Hochschild homology",
+   "status": 200,
+   "results": [
+    {
+     "title": "Cyclotomic structure in the topological\nHochschild homology of DX",
+     "year": 2017,
+     "authors": [
+      "Cary Malkiewich"
+     ],
+     "venue": "Algebraic &amp; Geometric Topology",
+     "id": "doi:10.2140/agt.2017.17.2307"
+    },
+    {
+     "title": "Comparing cyclotomic structures on different models for topological Hochschild homology",
+     "year": 2019,
+     "authors": [
+      "Emanuele Dotto",
+      "Cary Malkiewich",
+      "Irakli Patchkoria",
+      "Steffen Sagave",
+      "Calvin Woo"
+     ],
+     "venue": "Journal of Topology",
+     "id": "doi:10.1112/topo.12116"
+    },
+    {
+     "title": "The Hochschild homology and the Hochschild cohomology of a topological algebra",
+     "year": 1989,
+     "authors": [
+      "Reinhold Hübl"
+     ],
+     "venue": "Lecture Notes in Mathematics Traces of Differential Forms and Hochschild Homology",
+     "id": "doi:10.1007/bfb0098408"
+    },
+    {
+     "title": "Real topological Hochschild homology and the Segal conjecture",
+     "year": 2021,
+     "authors": [
+      "Jeremy Hahn",
+      "Dylan Wilson"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "doi:10.1016/j.aim.2021.107839"
+    },
+    {
+     "title": "Real topological Hochschild homology of perfectoid rings",
+     "year": 2025,
+     "authors": [
+      "Jens Hornbostel",
+      "Doosung Park"
+     ],
+     "venue": "Journal of Topology",
+     "id": "doi:10.1112/topo.70032"
+    },
+    {
+     "title": "A spectrum-level Hodge filtration on topological Hochschild homology",
+     "year": 2016,
+     "authors": [
+      "Saul Glasman"
+     ],
+     "venue": "Selecta Mathematica",
+     "id": "doi:10.1007/s00029-016-0228-z"
+    },
+    {
+     "title": "Real topological Hochschild homology via the norm and Real Witt vectors",
+     "year": 2025,
+     "authors": [
+      "Gabriel Angelini-Knoll",
+      "Teena Gerhardt",
+      "Michael A. Hill"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "doi:10.1016/j.aim.2025.110568"
+    },
+    {
+     "title": "Localization theorems in topological Hochschild homology and topological cyclic homology",
+     "year": 2012,
+     "authors": [
+      "Andrew J Blumberg",
+      "Michael A Mandell"
+     ],
+     "venue": "Geometry &amp; Topology",
+     "id": "doi:10.2140/gt.2012.16.1053"
+    },
+    {
+     "title": "Motivic real topological Hochschild spectrum",
+     "year": 2026,
+     "authors": [
+      "Doosung Park"
+     ],
+     "venue": "Algebraic &amp; Geometric Topology",
+     "id": "doi:10.2140/agt.2026.26.1867"
+    },
+    {
+     "title": "The circle action on topological Hochschild homology of complex cobordism and the Brown–Peterson spectrum",
+     "year": 2020,
+     "authors": [
+      "John Rognes"
+     ],
+     "venue": "Journal of Topology",
+     "id": "doi:10.1112/topo.12141"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "O(2) equivariant THR positivity Weil conjectures",
+   "status": 200,
+   "results": [
+    {
+     "title": "Modification of $Υ$ production in $p$O and OO collisions at LHCb",
+     "year": "2026",
+     "authors": [
+      " LHCb collaboration",
+      "R. Aaij",
+      "M. Abdelfatah",
+      "A. S. W. Abdelmotteleb",
+      "C. Abellan Beteta",
+      "F. Abudinén"
+     ],
+     "id": "arXiv:2608.00182v1"
+    },
+    {
+     "title": "Expected Performance of the ATLAS Experiment - Detector, Trigger and Physics",
+     "year": "2008",
+     "authors": [
+      " The ATLAS Collaboration",
+      "G. Aad",
+      "E. Abat",
+      "B. Abbott",
+      "J. Abdallah",
+      "A. A. Abdelalim"
+     ],
+     "id": "arXiv:0901.0512v4"
+    },
+    {
+     "title": "Impact of cross-section uncertainties on supernova neutrino spectral parameter fitting in the Deep Underground Neutrino Experiment",
+     "year": "2023",
+     "authors": [
+      " DUNE Collaboration",
+      "A. Abed Abud",
+      "B. Abi",
+      "R. Acciarri",
+      "M. A. Acero",
+      "M. R. Adames"
+     ],
+     "id": "arXiv:2303.17007v2"
+    },
+    {
+     "title": "Observation of the rare $B^0_s\\toμ^+μ^-$ decay from the combined analysis of CMS and LHCb data",
+     "year": "2014",
+     "authors": [
+      "The CMS",
+      "LHCb Collaborations",
+      " :",
+      "V. Khachatryan",
+      "A. M. Sirunyan",
+      "A. Tumasyan"
+     ],
+     "id": "arXiv:1411.4413v2"
+    },
+    {
+     "title": "Study of $B^{-}\\to DK^-π^+π^-$ and $B^-\\to Dπ^-π^+π^-$ decays and determination of the CKM angle $γ$",
+     "year": "2015",
+     "authors": [
+      " LHCb collaboration",
+      "R. Aaij",
+      "B. Adeva",
+      "M. Adinolfi",
+      "A. Affolder",
+      "Z. Ajaltouni"
+     ],
+     "id": "arXiv:1505.07044v3"
+    },
+    {
+     "title": "Observation of $B^0_{(s)} \\to J/ψp \\overline{p}$ decays and precision measurements of the $B^0_{(s)}$ masses",
+     "year": "2019",
+     "authors": [
+      " LHCb Collaboration",
+      "R. Aaij",
+      "C. Abellán Beteta",
+      "B. Adeva",
+      "M. Adinolfi",
+      "C. A. Aidala"
+     ],
+     "id": "arXiv:1902.05588v2"
+    },
+    {
+     "title": "Stringent limits on $C\\!PT$- and Lorentz-invariance violation from $B_s^0$ meson decays",
+     "year": "2026",
+     "authors": [
+      " LHCb collaboration",
+      "R. Aaij",
+      "M. Abdelfatah",
+      "A. S. W. Abdelmotteleb",
+      "C. Abellan Beteta",
+      "F. Abudinén"
+     ],
+     "id": "arXiv:2609.02475v3"
+    },
+    {
+     "title": "Search for $A'\\!\\to\\!μ^+μ^-$ decays",
+     "year": "2019",
+     "authors": [
+      " LHCb collaboration",
+      "R. Aaij",
+      "C. Abellán Beteta",
+      "T. Ackernley",
+      "B. Adeva",
+      "M. Adinolfi"
+     ],
+     "id": "arXiv:1910.06926v2"
+    },
+    {
+     "title": "Inclusive-jet photoproduction at HERA and determination of alphas",
+     "year": "2012",
+     "authors": [
+      " ZEUS Collaboration",
+      "H. Abramowicz",
+      "I. Abt",
+      "L. Adamczyk",
+      "M. Adamus",
+      "R. Aggarwal"
+     ],
+     "id": "arXiv:1205.6153v1"
+    },
+    {
+     "title": "Search for violations of Lorentz invariance and $ CPT$ symmetry in $ B^0_{(s)}$ mixing",
+     "year": "2016",
+     "authors": [
+      " LHCb collaboration",
+      "R. Aaij",
+      "C. Abellán Beteta",
+      "B. Adeva",
+      "M. Adinolfi",
+      "Z. Ajaltouni"
+     ],
+     "id": "arXiv:1603.04804v2"
+    }
+   ]
+  },
+  {
+   "source": "OpenAlex",
+   "query": "O(2) equivariant THR positivity Weil conjectures",
+   "status": 200,
+   "results": [
+    {
+     "title": "Topological ΔG-homology of rings with twisted G-action",
+     "year": 2026,
+     "authors": [
+      "Gabriel Angelini‐Knoll",
+      "Mona Merling",
+      "Maximilien Péroux"
+     ],
+     "venue": "Advances in Mathematics",
+     "id": "https://doi.org/10.1016/j.aim.2026.110907"
+    },
+    {
+     "title": "Differentiable dynamical systems",
+     "year": 1967,
+     "authors": [
+      "S. Smale"
+     ],
+     "venue": "Bulletin of the American Mathematical Society",
+     "id": "https://doi.org/10.1090/s0002-9904-1967-11798-1"
+    },
+    {
+     "title": "Homotopical Algebra and Higher Structures",
+     "year": 2025,
+     "authors": [
+      "Michael A. Batanin",
+      "Andrey Lazarev",
+      "Martin Markl",
+      "Muriel Livernet"
+     ],
+     "venue": "Oberwolfach Reports",
+     "id": "https://doi.org/10.4171/owr/2024/39"
+    },
+    {
+     "title": "SIAM conference on applications of dynamical systems. Abstracts and author index",
+     "year": 1992,
+     "authors": [
+      "Not Available"
+     ],
+     "venue": "University of North Texas Digital Library (University of North Texas)",
+     "id": "https://openalex.org/W4299699649"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "O(2) equivariant THR positivity Weil conjectures",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "O(2) equivariant THR positivity Weil conjectures",
+   "status": 200,
+   "results": [
+    {
+     "title": "The General Weil Conjectures (Deligne’s Theory of Weights)",
+     "year": 2001,
+     "authors": [
+      "Reinhardt Kiehl",
+      "Rainer Weissauer"
+     ],
+     "venue": "Weil Conjectures, Perverse Sheaves and l’adic Fourier Transform",
+     "id": "doi:10.1007/978-3-662-04576-3_2"
+    },
+    {
+     "title": "The Weil Algebra and the Weil Model",
+     "year": 2020,
+     "authors": [
+      "Loring W. Tu"
+     ],
+     "venue": "Introductory Lectures on Equivariant Cohomology",
+     "id": "doi:10.23943/princeton/9780691191751.003.0019"
+    },
+    {
+     "title": "Weil Conjectures",
+     "year": 2011,
+     "authors": [],
+     "venue": "Math Unlimited",
+     "id": "doi:10.1201/b11432-11"
+    },
+    {
+     "title": "The Weil Algebra and the Weil Model",
+     "year": 2020,
+     "authors": [],
+     "venue": "Introductory Lectures on Equivariant Cohomology",
+     "id": "doi:10.2307/j.ctvrdf1gz.25"
+    },
+    {
+     "title": "Weil Conjectures, Perverse Sheaves and l’adic Fourier Transform",
+     "year": 2001,
+     "authors": [
+      "Reinhardt Kiehl",
+      "Rainer Weissauer"
+     ],
+     "venue": "",
+     "id": "doi:10.1007/978-3-662-04576-3"
+    },
+    {
+     "title": "V.35 The Weil Conjectures",
+     "year": 2010,
+     "authors": [
+      "Brian Osserman"
+     ],
+     "venue": "The Princeton Companion to Mathematics",
+     "id": "doi:10.1515/9781400830398.729"
+    },
+    {
+     "title": "Weil Conjectures",
+     "year": 1996,
+     "authors": [],
+     "venue": "Series on University Mathematics Number Theory with Applications",
+     "id": "doi:10.1142/9789812831057_0002"
+    },
+    {
+     "title": "Weil conjectures and affine hypersurfaces",
+     "year": 2026,
+     "authors": [
+      "Dingxin Zhang"
+     ],
+     "venue": "International Mathematics Research Notices",
+     "id": "doi:10.1093/imrn/rnag156"
+    },
+    {
+     "title": "La préhistoire des conjectures de Weil",
+     "year": 1994,
+     "authors": [
+      "Christian Houzel"
+     ],
+     "venue": "Development of Mathematics 1900–1950",
+     "id": "doi:10.1007/978-3-0348-9114-1_7"
+    },
+    {
+     "title": "Characteristic p and the Weil conjectures",
+     "year": 2006,
+     "authors": [],
+     "venue": "An Introduction to Intersection Homology Theory, Second Edition",
+     "id": "doi:10.1201/b15885-11"
+    }
+   ]
+  }
+ ]
+}

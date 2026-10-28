@@ -1,0 +1,511 @@
+{
+ "problem": 49,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "delta ring p-derivation formalization Lean",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "delta ring p-derivation formalization Lean",
+   "status": 200,
+   "results": [
+    {
+     "title": "Euclean: Automated Geometry Problem Formalization with Unified Verification in Lean",
+     "year": 2026,
+     "authors": [
+      "Linbin Tang",
+      "Jingyan You",
+      "Zilin Kang",
+      "Hanzhang Liu",
+      "S. Zhang",
+      "Zenan Li"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2607.19374"
+    },
+    {
+     "title": "Every Prime is a Forbidden Harmonic: How Icosahedral Geometry Forces the Supersingular Primes — Machine-Verified Proofs in Lean 4",
+     "year": 2026,
+     "authors": [
+      "Shiva Meucci"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.18696118"
+    },
+    {
+     "title": "Formalization in intercollegiate athletics: Development of a policies and procedures manual",
+     "year": 2019,
+     "authors": [
+      "Mary Sheila Strike"
+     ],
+     "venue": "Digital Scholarship - UNLV (University of Nevada Reno)",
+     "id": "https://doi.org/10.25669/a288-i4le"
+    },
+    {
+     "title": "Evaluating the Robustness of Proof Autoformalization in Lean 4",
+     "year": 2026,
+     "authors": [
+      "Zhengtao Gui",
+      "Sheng Yang",
+      "Zhouxing Shi"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.14867"
+    },
+    {
+     "title": "LLM2Cert: LLM Synthesis of Certificates with SMT/Lean Verification",
+     "year": 2026,
+     "authors": [
+      "Zhipeng Cao",
+      "Peiyang Song",
+      "Nikolaus Vertovec",
+      "Weiru Cui",
+      "zhihao yang",
+      "Mingkang Liu"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2610.30524"
+    },
+    {
+     "title": "Formalizing Concentration Inequalities in Rocq: Infrastructure and Automation",
+     "year": 2025,
+     "authors": [
+      "Reynald Affeldt",
+      "Bruni, Alessandro",
+      "Cyril Cohen",
+      "Pierre Roux",
+      "Takafumi Saikawa"
+     ],
+     "venue": "IT University Of Copenhagen (IT University of Copenhagen)",
+     "id": "https://doi.org/10.4230/lipics.itp.2025.21"
+    },
+    {
+     "title": "A Rocq Formalization of Simplicial Lagrange Finite Elements",
+     "year": 2026,
+     "authors": [
+      "Sylvie Boldo",
+      "Clément, François",
+      "Martin, Vincent",
+      "Micaela Mayero",
+      "Houda Mouhcine"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2604.20345"
+    },
+    {
+     "title": "Sorries Are Not the Hard Part: An Expert-Review Case Study of a Semi-Autonomous Formalization",
+     "year": 2026,
+     "authors": [
+      "Vasily Ilin",
+      "Brian Nugent"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.13925"
+    },
+    {
+     "title": "Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation",
+     "year": 2026,
+     "authors": [
+      "Joshua Ong Jun Leang",
+      "Z. Zhao",
+      "Mihaela Cătălina Stoian",
+      "Qiyuan Xu",
+      "Haonan Li",
+      "Wenda Li"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2606.12594"
+    },
+    {
+     "title": "Towards a dynamic regional innovation system : investigation into the electronics industry in the Pearl River Delta, China",
+     "year": 2011,
+     "authors": [
+      "Wenying Fu"
+     ],
+     "venue": "Institutional Repository of Leibniz Universität Hannover (Leibniz Universität Hannover)",
+     "id": "https://doi.org/10.15488/7622"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "delta ring p-derivation formalization Lean",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "delta ring p-derivation formalization Lean",
+   "status": 200,
+   "results": [
+    {
+     "title": "",
+     "year": 2026,
+     "authors": [],
+     "venue": "",
+     "id": "doi:10.3030/101224275"
+    },
+    {
+     "title": "Formalization of derived categories in Lean/mathlib",
+     "year": 2025,
+     "authors": [
+      "Joël Riou"
+     ],
+     "venue": "Annals of Formalized Mathematics",
+     "id": "doi:10.46298/afm.13609"
+    },
+    {
+     "title": "A formalization of Borel determinacy in Lean",
+     "year": 2026,
+     "authors": [
+      "Sven Manthe"
+     ],
+     "venue": "Annals of Formalized Mathematics",
+     "id": "doi:10.46298/afm.15202"
+    },
+    {
+     "title": "Formalization of QFT II: The Osterwalder-Schrader Reconstruction Theorem, Free Fermions, and P (ϕ) 2 in Lean 4&amp;nbsp;\n&lt;div&gt;\n A formalization blueprint and prospectus\n&lt;/div&gt;",
+     "year": 2026,
+     "authors": [
+      "Miquel Noguer I Alonso"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6439344"
+    },
+    {
+     "title": "LEAN FORMALIZATION OF INSERTION SORT STABILITY AND CORRECTNESS",
+     "year": 2018,
+     "authors": [
+      "",
+      "František SILVÁŠI",
+      "Martin TOMÁŠEK"
+     ],
+     "venue": "Acta Electrotechnica et Informatica",
+     "id": "doi:10.15546/aeei-2018-0015"
+    },
+    {
+     "title": "From Itô to Black-scholes: A Machine-verified Derivation in Lean 4",
+     "year": 2026,
+     "authors": [
+      "Tamas Nagy"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6336503"
+    },
+    {
+     "title": "Eliding the derivation: A minimalist formalization of ellipsis",
+     "year": 2012,
+     "authors": [
+      "Gregory M. Kobele"
+     ],
+     "venue": "Proceedings of the International Conference on Head-Driven Phrase Structure Grammar",
+     "id": "doi:10.21248/hpsg.2012.23"
+    },
+    {
+     "title": "Wye-Delta and Delta-Wye Transformations: An Instructive Derivation",
+     "year": 1982,
+     "authors": [],
+     "venue": "IEEE Transactions on Education",
+     "id": "doi:10.1109/te.1982.4321575"
+    },
+    {
+     "title": "A derivation system for security protocols and its logical formalization",
+     "year": null,
+     "authors": [
+      "A. Datta",
+      "A. Derek",
+      "J.C. Mitchell",
+      "D. Pavlovic"
+     ],
+     "venue": "16th IEEE Computer Security Foundations Workshop, 2003. Proceedings.",
+     "id": "doi:10.1109/csfw.2003.1212708"
+    },
+    {
+     "title": "Natural number concepts: No derivation without formalization",
+     "year": 2008,
+     "authors": [
+      "Paul Pietroski",
+      "Jeffrey Lidz"
+     ],
+     "venue": "Behavioral and Brain Sciences",
+     "id": "doi:10.1017/s0140525x08005839"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "p-derivation Buium Joyal delta ring",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "p-derivation Buium Joyal delta ring",
+   "status": 200,
+   "results": [
+    {
+     "title": "Delta characters and crystalline cohomology of abelian schemes",
+     "year": 2026,
+     "authors": [
+      "Sudip Pandit"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.00713"
+    },
+    {
+     "title": "Delta theory of Anderson modules. I: Differential characters",
+     "year": 2025,
+     "authors": [
+      "Sudip Pandit",
+      "Arnab Saha"
+     ],
+     "venue": "Israel Journal of Mathematics",
+     "id": "https://doi.org/10.1007/s11856-025-2835-x"
+    },
+    {
+     "title": "Delta characters and crystalline cohomology",
+     "year": 2025,
+     "authors": [
+      "Sudip Pandit",
+      "Arnab Saha"
+     ],
+     "venue": "Cambridge Journal of Mathematics",
+     "id": "https://doi.org/10.4310/cjm.250325020852"
+    },
+    {
+     "title": "Delta Characters and Filtered Isocrystals",
+     "year": 2026,
+     "authors": [
+      "Lance Gurney",
+      "Sudip Pandit",
+      "Arnab Saha"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.28365"
+    },
+    {
+     "title": "Delta theory of Anderson Modules II: Hodge-Pink structure",
+     "year": 2026,
+     "authors": [
+      "Sudip Pandit",
+      "Arnab Saha"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.27375"
+    },
+    {
+     "title": "Canonical Witt formal scheme extensions and p-torsion groups",
+     "year": 2023,
+     "authors": [
+      "Alessandra Bertapelle",
+      "Nicola Mazzari",
+      "Arnab Saha"
+     ],
+     "venue": "Annali di Matematica Pura ed Applicata (1923 -)",
+     "id": "https://doi.org/10.1007/s10231-023-01321-2"
+    },
+    {
+     "title": "Arithmetic jet spaces",
+     "year": 2023,
+     "authors": [
+      "Alessandra Bertapelle",
+      "Эмма Превиато",
+      "Arnab Saha"
+     ],
+     "venue": "Journal of Algebra",
+     "id": "https://doi.org/10.1016/j.jalgebra.2023.01.026"
+    },
+    {
+     "title": "Kernels of Arithmetic Jet Spaces and Frobenius Morphism",
+     "year": 2026,
+     "authors": [
+      "Rajat Kumar Mishra",
+      "Arnab Saha"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2601.22591"
+    },
+    {
+     "title": "Approximation for Frobenius algebraic equations in Witt vectors",
+     "year": 2009,
+     "authors": [
+      "Luc Bélair"
+     ],
+     "venue": "Journal of Algebra",
+     "id": "https://doi.org/10.1016/j.jalgebra.2009.01.021"
+    }
+   ],
+   "retried": "2026-10-28"
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "p-derivation Buium Joyal delta ring",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "p-derivation Buium Joyal delta ring",
+   "status": 200,
+   "results": [
+    {
+     "title": "Delta-Invariant Theory for Hecke Correspondences",
+     "year": 2026,
+     "authors": [
+      "Alexandru Buium",
+      "Adrian Vasiu"
+     ],
+     "venue": "Lecture Notes in Mathematics",
+     "id": "doi:10.1007/978-3-032-20571-1"
+    },
+    {
+     "title": "Introduction",
+     "year": 2026,
+     "authors": [
+      "Alexandru Buium",
+      "Adrian Vasiu"
+     ],
+     "venue": "Lecture Notes in Mathematics Delta-Invariant Theory for Hecke Correspondences",
+     "id": "doi:10.1007/978-3-032-20571-1_1"
+    },
+    {
+     "title": "The ring of differential Fourier expansions",
+     "year": 2012,
+     "authors": [
+      "Alexandru Buium",
+      "Arnab Saha"
+     ],
+     "venue": "Journal of Number Theory",
+     "id": "doi:10.1016/j.jnt.2011.12.007"
+    },
+    {
+     "title": "Main Concepts and Results",
+     "year": 2026,
+     "authors": [
+      "Alexandru Buium",
+      "Adrian Vasiu"
+     ],
+     "venue": "Lecture Notes in Mathematics Delta-Invariant Theory for Hecke Correspondences",
+     "id": "doi:10.1007/978-3-032-20571-1_2"
+    },
+    {
+     "title": "Proofs of the Main Results",
+     "year": 2026,
+     "authors": [
+      "Alexandru Buium",
+      "Adrian Vasiu"
+     ],
+     "venue": "Lecture Notes in Mathematics Delta-Invariant Theory for Hecke Correspondences",
+     "id": "doi:10.1007/978-3-032-20571-1_3"
+    },
+    {
+     "title": "Background and Required Results in GIT",
+     "year": 2026,
+     "authors": [
+      "Alexandru Buium",
+      "Adrian Vasiu"
+     ],
+     "venue": "Lecture Notes in Mathematics Delta-Invariant Theory for Hecke Correspondences",
+     "id": "doi:10.1007/978-3-032-20571-1_4"
+    },
+    {
+     "title": "Mathematics",
+     "year": 2013,
+     "authors": [
+      "Alexandru Buium"
+     ],
+     "venue": "",
+     "id": "doi:10.1201/b16052"
+    },
+    {
+     "title": "Wye-Delta and Delta-Wye Transformations: An Instructive Derivation",
+     "year": 1982,
+     "authors": [],
+     "venue": "IEEE Transactions on Education",
+     "id": "doi:10.1109/te.1982.4321575"
+    },
+    {
+     "title": "Modularity and derivation in Functional Discourse Grammar",
+     "year": 2017,
+     "authors": [
+      "Daniel GARCÍA VELASCO"
+     ],
+     "venue": "DELTA: Documentação de Estudos em Lingüística Teórica e Aplicada",
+     "id": "doi:10.1590/0102-445079408678625808"
+    },
+    {
+     "title": "Midwestern climate records from tree ring [delta]Â¹Â³C and [delta]Â¹â¸O values",
+     "year": null,
+     "authors": [
+      "Scott Lepley"
+     ],
+     "venue": "",
+     "id": "doi:10.32469/10355/9677"
+    }
+   ]
+  },
+  {
+   "source": "GitHub code search leanprover-community/mathlib4",
+   "query": "DeltaRing",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "GitHub code search leanprover-community/mathlib4",
+   "query": "pDerivation",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "GitHub code search leanprover-community/mathlib4",
+   "query": "Frobenius lift",
+   "status": 200,
+   "results": [
+    {
+     "path": "Mathlib/FieldTheory/PerfectClosure.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/FieldTheory/PerfectClosure.lean"
+    },
+    {
+     "path": "Mathlib/FieldTheory/IsPerfectClosure.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/FieldTheory/IsPerfectClosure.lean"
+    },
+    {
+     "path": "Mathlib/CategoryTheory/RegularCategory/Basic.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/CategoryTheory/RegularCategory/Basic.lean"
+    },
+    {
+     "path": "Mathlib/RingTheory/Perfection.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/RingTheory/Perfection.lean"
+    },
+    {
+     "path": "scripts/nolints_prime_decls.txt",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/scripts/nolints_prime_decls.txt"
+    },
+    {
+     "path": "Mathlib/RingTheory/WittVector/Isocrystal.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/RingTheory/WittVector/Isocrystal.lean"
+    },
+    {
+     "path": "Mathlib/RingTheory/Perfectoid/FontaineTheta.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/RingTheory/Perfectoid/FontaineTheta.lean"
+    },
+    {
+     "path": "Mathlib/FieldTheory/SeparablyGenerated.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/FieldTheory/SeparablyGenerated.lean"
+    },
+    {
+     "path": "Mathlib/RingTheory/Invariant/Basic.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/RingTheory/Invariant/Basic.lean"
+    },
+    {
+     "path": "Mathlib/RingTheory/RootsOfUnity/PrimitiveRoots.lean",
+     "url": "https://github.com/leanprover-community/mathlib4/blob/ba2e6f0c70736517f719a458098b9bbcfa5c92d3/Mathlib/RingTheory/RootsOfUnity/PrimitiveRoots.lean"
+    }
+   ]
+  }
+ ]
+}

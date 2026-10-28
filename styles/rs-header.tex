@@ -1,0 +1,135 @@
+% The house layer of the two papers: leading, colours, running heads, the title block, headings, the Thesis and
+% Problem environments, the problem card, figures, the epigraph and the references list. Everything a gate reads is
+% printed as text (the figures carry their words as PDF text as well).
+\linespread{1.06}
+\setlength{\parskip}{0pt}
+\setlength{\emergencystretch}{3em}      % overfull lines are a gate failure (series PDF gates): stretch, never overrun
+\setcounter{tocdepth}{3}
+\AtBeginDocument{\urlstyle{same}}   % URLs in the text face, as in the AMS journals
+\numberwithin{equation}{section}
+
+% One accent, the darkest teal of the AURORA scale (7.0 : 1 on white); hairlines in its light tint.
+\definecolor{rsteal}{HTML}{0B5F63}
+\definecolor{rsrule}{HTML}{A7C2C5}
+\definecolor{rsgrey}{HTML}{4A575B}
+\hypersetup{colorlinks=true,linkcolor=rsteal,citecolor=rsteal,urlcolor=rsteal,filecolor=rsteal,bookmarksdepth=3}
+
+% Running heads: the author on left-hand pages, the short title on right-hand pages, the folio outside.
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead[CE]{\footnotesize\scshape\RSauthor}
+\fancyhead[CO]{\footnotesize\itshape\RSshorttitle}
+\fancyhead[LE,RO]{\footnotesize\thepage}
+\fancypagestyle{rsfirst}{\fancyhf{}\fancyfoot[C]{\footnotesize\thepage}}
+
+\makeatletter
+% ---- the title block ---------------------------------------------------------------------------------------------
+% Above: version and date on the left, DOI (once assigned) and licence on the right, a hairline beneath. Then title,
+% subtitle, author, and one line with affiliation, e-mail and ORCID iD; then the abstract, MSC and keywords at 85 %
+% of the measure.
+\newcommand{\RSmaketitle}[1]{%
+  \thispagestyle{rsfirst}%
+  \begingroup\parindent\z@
+  \vspace*{-6mm}%
+  {\footnotesize\color{rsgrey}\RSversion\enspace\textperiodcentered\enspace\RSdate\hfill
+   \ifx\RSdoi\@empty\else\href{https://doi.org/\RSdoi}{doi:\RSdoi}\enspace\textperiodcentered\enspace\fi
+   \href{https://creativecommons.org/licenses/by/4.0/}{\RSlicence}\par}%
+  \vspace{1.4mm}{\color{rsrule}\hrule height .4pt}%
+  \vspace{12mm}%
+  \begin{center}
+    {\fontsize{17.28}{21.5}\selectfont\bfseries\RStitle\par}%
+    \vspace{2.8mm}%
+    {\fontsize{12}{15.2}\selectfont\itshape\RSsubtitle\par}%
+    \vspace{6.5mm}%
+    {\normalsize\scshape\RSauthor\par}%
+    \vspace{1.4mm}%
+    {\footnotesize\href{\RSaffiliationurl}{\RSaffiliation}\enspace\textperiodcentered\enspace
+     \href{mailto:\RSemail}{\RSemail}\enspace\textperiodcentered\enspace\url{\RSorcid}\par}%
+  \end{center}
+  \vspace{5.5mm}%
+  {\leftskip .075\textwidth \rightskip .075\textwidth
+   \fontsize{9.5}{12.4}\selectfont{\scshape Abstract.}\enspace\ignorespaces #1\par
+   \vspace{2.4mm}%
+   \footnotesize\textit{2020 Mathematics Subject Classification.}\enspace\RSmsc.\par
+   \vspace{.4mm}%
+   \textit{Key words and phrases.}\enspace\RSkeywords.\par}%
+  \vspace{7mm}%
+  \endgroup}
+
+% ---- headings ------------------------------------------------------------------------------------------------------
+% Sections and subsections bold and flush left (the numbers as amsart writes them, "2.1."); the first paragraph after
+% a heading is indented, as in the AMS journals.
+\def\@secnumfont{\bfseries}
+\def\section{\@startsection{section}{1}{\z@}{1.75\linespacing\@plus.4\linespacing\@minus.2\linespacing}%
+  {.7\linespacing}{\normalfont\fontsize{12.5}{15}\selectfont\bfseries\raggedright}}
+\def\subsection{\@startsection{subsection}{2}{\z@}{1.15\linespacing\@plus.3\linespacing\@minus.1\linespacing}%
+  {.4\linespacing}{\normalfont\normalsize\bfseries\raggedright}}
+\def\subsubsection{\@startsection{subsubsection}{3}{\z@}{.8\linespacing\@plus.3\linespacing}%
+  {-.6em}{\normalfont\normalsize\itshape}}
+% A part of paper II: centred between two short hairlines, on a new page.
+\newcommand{\RSpart}[3]{% #1 label, #2 "Part I", #3 the name
+  \clearpage
+  \phantomsection\addcontentsline{toc}{section}{#2. #3}\label{#1}%
+  \vspace*{4mm}%
+  \begin{center}
+    {\color{rsrule}\rule{.28\textwidth}{.4pt}}\par\vspace{3.2mm}%
+    {\small\scshape\color{rsteal}#2}\par\vspace{1.2mm}%
+    {\fontsize{15}{18.5}\selectfont\bfseries #3\par}\vspace{3.4mm}%
+    {\color{rsrule}\rule{.28\textwidth}{.4pt}}\par
+  \end{center}
+  \vspace{3mm}\@afterindentfalse\@afterheading}
+
+% ---- theses --------------------------------------------------------------------------------------------------------
+% Numbered once through the paper (Thesis 1–12), cited as Thesis n.
+\newtheoremstyle{rsplain}{1.3\baselineskip}{.6\baselineskip}{\normalfont}{}{\bfseries}{.}{.5em}{\thmname{#1}\thmnumber{ #2}\thmnote{\ (\mdseries\itshape #3)}}
+\theoremstyle{rsplain}
+\newtheorem{thesis}{Thesis}
+% The one-sentence statement of a thesis, in italics in a hairline frame under the heading (rs.lua ends the heading's
+% line before the frame: amsthm would otherwise set the heading inside it).
+\newenvironment{RSclaimbox}
+  {\par\vspace{.2\baselineskip}\setlength{\OuterFrameSep}{3pt}%
+   \def\FrameCommand{\fboxrule=.5pt\fboxsep=6pt\fcolorbox{rsteal}{white}}%
+   \MakeFramed{\advance\hsize-\width\FrameRestore}\itshape\parindent\z@}
+  {\par\endMakeFramed}
+
+% ---- problems ------------------------------------------------------------------------------------------------------
+% A card: a hairline, the heading (number and title on the left, kind and level on the right), then the fields, each
+% a run-in small-caps label (the order is fixed by tools/render_paper2.py). The statement and the criterion carry a
+% bar in the margin of the text. The heading never ends a page.
+\newcounter{problem}
+\def\RSbmlevel{2}   % the bookmark level of a card: 2 under a part, 3 under a work of Part II (set by rs.lua)
+\newcommand{\RSproblem}[4]{% #1 label, #2 title, #3 kind and level, #4 title for the bookmark
+  \par\Needspace{10\baselineskip}\addvspace{1.1\baselineskip}%
+  {\color{rsrule}\hrule height .3pt}\nobreak\vspace{.6\baselineskip}\nobreak
+  \refstepcounter{problem}\label{#1}\pdfbookmark[\RSbmlevel]{Problem \theproblem. #4}{#1-bm}%
+  % the tags end the heading's last line flush right, or, if they do not fit there, a line of their own (The TeXbook,
+  % p. 106: the title's line then ends ragged, never overfull)
+  {\noindent{\bfseries Problem \theproblem}\enspace{\itshape #2}\unskip\nobreak\hfil\penalty50
+   \hskip1.5em\hbox{}\nobreak\hfil\mbox{\footnotesize\scshape\color{rsteal}#3}%
+   \parfillskip=0pt\finalhyphendemerits=0\par}\nobreak\vspace{.1\baselineskip}\nobreak}
+\newcommand{\RSfield}[1]{\par\smallskip\noindent{\scshape #1.}\enspace}
+\newenvironment{RSbar}
+  {\setlength{\OuterFrameSep}{1pt}\def\FrameCommand{{\color{rsteal}\vrule width 1.4pt}\hspace{6pt}}%
+   \MakeFramed{\advance\hsize-\width\FrameRestore}}
+  {\endMakeFramed}
+
+% ---- figures -------------------------------------------------------------------------------------------------------
+% Every figure is printed across the measure at its natural size (its PDF page is 132 mm wide: tools/figures.py).
+\newcommand{\figref}[1]{Figure~\ref{fig:#1}}
+\setlength{\textfloatsep}{14pt plus 4pt minus 4pt}
+\setlength{\floatsep}{12pt plus 4pt minus 2pt}
+\renewcommand{\topfraction}{.9}\renewcommand{\bottomfraction}{.6}\renewcommand{\textfraction}{.1}
+\renewcommand{\floatpagefraction}{.75}
+\makeatother
+
+\newcommand{\RSepigraph}[2]{%
+  \begin{flushright}\begin{minipage}{0.8\textwidth}\raggedleft\itshape #1\par\smallskip
+  \normalfont\small #2\end{minipage}\end{flushright}\bigskip}
+
+% References: tools/refs.py writes a fenced div {.references}; the filter sets one \item per entry.
+\newenvironment{RSreferences}
+ {\begin{list}{}{\setlength{\leftmargin}{2.2em}\setlength{\itemindent}{-2.2em}\setlength{\parsep}{0pt}%
+   \setlength{\itemsep}{.3\baselineskip}\setlength{\labelwidth}{0pt}\setlength{\labelsep}{0pt}}\raggedright\small}
+ {\end{list}}
+\endinput

@@ -1,0 +1,358 @@
+{
+ "problem": 21,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "relative cohomology obstruction hallucination detection",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "relative cohomology obstruction hallucination detection",
+   "status": 200,
+   "results": [
+    {
+     "title": "Prospects for inconsistency detection using large language models and sheaves",
+     "year": 2024,
+     "authors": [
+      "Steve Huntsman",
+      "Michael C. Robinson",
+      "Ludmilla Huntsman"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2401.16713"
+    },
+    {
+     "title": "Foundation of Anything: A Metaphysical Proof",
+     "year": null,
+     "authors": [
+      "Nikita Shchevyev"
+     ],
+     "venue": "PhilPapers (PhilPapers Foundation)",
+     "id": "https://openalex.org/W7202012800"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "relative cohomology obstruction hallucination detection",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "relative cohomology obstruction hallucination detection",
+   "status": 200,
+   "results": [
+    {
+     "title": "RELATIVE LIE ALGEBRA COHOMOLOGY",
+     "year": 2021,
+     "authors": [],
+     "venue": "Lie Groups, Lie Algebras, and Cohomology. (MN-34), Volume 34",
+     "id": "doi:10.2307/j.ctv18zhdw5.10"
+    },
+    {
+     "title": "Relative cohomology of complexes II: Vanishing of relative cohomology",
+     "year": 2021,
+     "authors": [
+      "Zhongkui Liu",
+      "Zhenxing Di",
+      "Bo Lu"
+     ],
+     "venue": "Journal of Algebra",
+     "id": "doi:10.1016/j.jalgebra.2020.08.020"
+    },
+    {
+     "title": "CHAPTER VII. RELATIVE LIE ALGEBRA COHOMOLOGY",
+     "year": 1988,
+     "authors": [],
+     "venue": "Lie Groups, Lie Algebras, and Cohomology. (MN-34), Volume 34",
+     "id": "doi:10.1515/9780691223803-008"
+    },
+    {
+     "title": "Relative Cohomology in Diffeological Spaces",
+     "year": 2024,
+     "authors": [
+      "Enrique Macías-Virgós",
+      "Reihaneh Mehrabi"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.4770276"
+    },
+    {
+     "title": "Relative Lp and Orlicz cohomology and applications to Heintze groups",
+     "year": null,
+     "authors": [
+      "Emiliano Sequeira-Manzino"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/6e6b2633z347fz437bz875bzbb8e25820bfa"
+    },
+    {
+     "title": "Detection Theorems for Cohomology and Chow Rings",
+     "year": 2014,
+     "authors": [],
+     "venue": "Group Cohomology and Algebraic Cycles",
+     "id": "doi:10.1017/cbo9781139059480.013"
+    },
+    {
+     "title": "14. RELATIVE COHOMOLOGY",
+     "year": 1983,
+     "authors": [],
+     "venue": "Etale Homotopy of Simplicial Schemes. (AM-104)",
+     "id": "doi:10.1515/9781400881499-015"
+    },
+    {
+     "title": "Relative index, cohomology and resolvent",
+     "year": 1993,
+     "authors": [],
+     "venue": "The Atiyah-Patodi-Singer Index Theorem",
+     "id": "doi:10.1201/9781439864609-20"
+    },
+    {
+     "title": "Relative Cohomology and Generalized Tate Cohomology",
+     "year": 2017,
+     "authors": [
+      "Bin Yu",
+      "Xiaosheng Zhu",
+      "Yanbo Zhou"
+     ],
+     "venue": "Algebras and Representation Theory",
+     "id": "doi:10.1007/s10468-017-9702-3"
+    },
+    {
+     "title": "OBSTRUCTION TO AND DEFORMATION OF LAGRANGIAN INTERSECTION FLOER COHOMOLOGY",
+     "year": 2001,
+     "authors": [
+      "HIROSHI OHTA"
+     ],
+     "venue": "Symplectic Geometry and Mirror Symmetry",
+     "id": "doi:10.1142/9789812799821_0009"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "sheaf cohomology hallucination large language models",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "sheaf cohomology hallucination large language models",
+   "status": 200,
+   "results": [
+    {
+     "title": "Sheaf-Theoretic Semantics and Quantum Contextuality in Large Language Models: A Unified Categorical Framework for Understanding Semantic Coherence and Hallucination Phenomena",
+     "year": 2025,
+     "authors": [
+      "Pranay M. Mahendrakar"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.18074070"
+    },
+    {
+     "title": "Toward a Mathematical Axiom System for Meaning Spaces: Information Geometry, Sheaf Theory, and the Open Truth Hypothesis",
+     "year": 2026,
+     "authors": [
+      "Franny Philos Sophia"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.18681444"
+    },
+    {
+     "title": "Prospects for inconsistency detection using large language models and sheaves",
+     "year": 2024,
+     "authors": [
+      "Steve Huntsman",
+      "Michael C. Robinson",
+      "Ludmilla Huntsman"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2401.16713"
+    },
+    {
+     "title": "500xCompressor: Generalized Prompt Compression for Large Language Models",
+     "year": 2025,
+     "authors": [
+      "Zongqian Li",
+      "Yixuan Su",
+      "Nigel Collier"
+     ],
+     "venue": "Annual Meeting of the Association for Computational Linguistics (ACL)",
+     "id": "https://doi.org/10.18653/v1/2025.acl-long.1219"
+    },
+    {
+     "title": "Recursive Identity Encoding via ϕ-Folds: A Symbolic Architecture for Self-Stabilizing Language Models with Convergence to ϕ^∞",
+     "year": 2025,
+     "authors": [
+      "Faruk Alpay"
+     ],
+     "venue": null,
+     "id": "https://doi.org/10.22541/au.175070985.53747700/v1"
+    },
+    {
+     "title": "Logit-Boundary Geometric Belief Interfaces and Sparse Sheaf-Enclave Protocols: A Self-Contained Substrate for Secure Network Electronic Health Record (EHR) Interoperability",
+     "year": 2026,
+     "authors": [
+      "Alvin J. Spivey",
+      "Thomas Huang"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2608.10300"
+    },
+    {
+     "title": "Agents That Model Agents: Five Principles Toward a Theory of Mind for 6G Networks",
+     "year": 2026,
+     "authors": [
+      "Hatim Chergui",
+      "Carolina Fernández-Martínez",
+      "Mehdi Bennis",
+      "Merouane Abdelkader Debbah"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.01779"
+    },
+    {
+     "title": "The Topology of REM Mentation (Dreams): Attractors, Affective Projections, and the Dual-Regime Architecture of Consciousness",
+     "year": 2026,
+     "authors": [
+      "Boris Kriger"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.18745697"
+    },
+    {
+     "title": "Holor Calculus IV: Non-Abelian Gauge Fields and Ramified Holarchic Flows",
+     "year": 2025,
+     "authors": [
+      "Carey Glenn Butler",
+      "Conjugate Intelligence Fellowship, Ellie",
+      "Conjugate Intelligence Fellowship, Solandra",
+      "Conjugate Intelligence Fellowship, Leo",
+      "Conjugate Intelligence Fellowship, Solum",
+      "(xAI), Grok"
+     ],
+     "venue": "PhilPapers (PhilPapers Foundation)",
+     "id": "https://doi.org/10.5281/zenodo.17712611"
+    },
+    {
+     "title": "An interpretation of the structure of the world based on Whitehead's notion of dipolarity : a new ontological and physical framework for theories of quantum gravity",
+     "year": 2014,
+     "authors": [
+      "Vasiliki Nassiopoulou"
+     ],
+     "venue": "White Rose eTheses Online (University of Leeds, The University of Sheffield, University of York)",
+     "id": "https://openalex.org/W2483128868"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "sheaf cohomology hallucination large language models",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "sheaf cohomology hallucination large language models",
+   "status": 200,
+   "results": [
+    {
+     "title": "Hallucination in Large Language Models and Two Effective Alleviation Pathways",
+     "year": 2024,
+     "authors": [
+      "Qingqin Fang"
+     ],
+     "venue": "",
+     "id": "doi:10.59350/g73v1-rq310"
+    },
+    {
+     "title": "Hallucination in Large Language Models and Two Effective Alleviation Pathways",
+     "year": 2024,
+     "authors": [
+      "Qingqin Fang"
+     ],
+     "venue": "",
+     "id": "doi:10.59350/70fya-70z65"
+    },
+    {
+     "title": "Hallucination Detection and Mitigation in Large Language Models Using Lightweight Inference-Time Models",
+     "year": 2026,
+     "authors": [
+      "Chandana S",
+      "Nayana K"
+     ],
+     "venue": "International Journal of Research Publication and Reviews",
+     "id": "doi:10.55248/gengpi.07.0426.c1028"
+    },
+    {
+     "title": "Assessing Hallucination Risks in Large Language Models Through Internal State Analysis",
+     "year": 2024,
+     "authors": [
+      "Piotr Zablocki",
+      "Zofia Gajewska"
+     ],
+     "venue": "",
+     "id": "doi:10.22541/au.172124175.55788724/v1"
+    },
+    {
+     "title": "Hallucination as an Inevitable Byproduct of Intelligence in Large Language Models",
+     "year": 2025,
+     "authors": [
+      "Myung Ho Kim"
+     ],
+     "venue": "",
+     "id": "doi:10.31234/osf.io/q2c94_v1"
+    },
+    {
+     "title": "&lt;p&gt;Benchmarking Hallucination Across Multimodal Large Language Models&lt;/p&gt;",
+     "year": 2026,
+     "authors": [
+      "Adekola Kamaldeen"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6354518"
+    },
+    {
+     "title": "The Accountability Gap in Large Language Models: Hallucination, Co-production, and Accountability Debt",
+     "year": 2026,
+     "authors": [
+      "Scott McCormick"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6590201"
+    },
+    {
+     "title": "Hallucination Detection in Arabic Scientific Content Generated by Large Language Models",
+     "year": 2026,
+     "authors": [
+      "Maya Assaf",
+      "Nada Ghneim"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.7549417"
+    },
+    {
+     "title": "Mitigating Structural Hallucination in Large Language Models with Local Diffusion",
+     "year": 2024,
+     "authors": [
+      "Kizuki Kiritani",
+      "Tsumugi Kayano"
+     ],
+     "venue": "",
+     "id": "doi:10.21203/rs.3.rs-4678127/v1"
+    },
+    {
+     "title": "Cellular Sheaf Cohomology through Examples",
+     "year": 2022,
+     "authors": [],
+     "venue": "Sheaf Theory through Examples",
+     "id": "doi:10.7551/mitpress/12581.003.0012"
+    }
+   ]
+  }
+ ]
+}

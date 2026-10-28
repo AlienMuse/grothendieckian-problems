@@ -1,0 +1,23 @@
+The Grothendieckian Programme: An Overview; The Rising-Sea Theses; The 57 Grothendieckian Problems
+Copyright (c) 2026 Vincent Liu, WiseMotif.ai
+
+Licences
+  Text, data and figures — the papers (papers/), README.md, THESES.md, problems/, problems.json, src/, data/,
+  figures/*.png and the other Markdown files — are licensed under the Creative Commons Attribution 4.0 International licence
+  (CC-BY-4.0, LICENSE).
+  Code — formal/ (the Lean files), tools/ (the scripts), styles/ and filters/ (the typesetting files) and figures/web/
+  (the source code of the figures) — is licensed under the Apache License, Version 2.0 (Apache-2.0, LICENSE-CODE;
+  formal/LICENSE). tools/pdf_cache.py and figures/web/lib.js and style.css are copied from the sources of the
+  overview (Series 00) and are licensed here under Apache-2.0 by their author.
+  Third-party files keep their own licences: the TGP faces in figures/web/fonts/ (derived from TeX Gyre Pagella and
+  STIX Two Math: GUST Font License and SIL Open Font License 1.1, texts beside them) and three.js r186 in
+  figures/web/vendor/three/ (MIT licence, vendor/three/LICENSE). The figures name Segoe UI, which is not included.
+
+Quotations from the seven works of the Grothendieckian Programme (Series 01-07) and its overview (Series 00) are
+reproduced under their licence, CC BY-NC-ND 4.0, with attribution; the works themselves are not relicensed.
+
+Name. The adjective "Grothendieckian" names a mathematical method used in the seven works. It carries no attribution
+of design or endorsement to Alexander Grothendieck or to any other mathematician whose work is cited. No problem in
+this repository was posed by Grothendieck unless its card says so.
+
+Use of AI tools: see the declarations in either paper.

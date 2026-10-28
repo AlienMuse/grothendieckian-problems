@@ -1,0 +1,86 @@
+{
+ "id": "relations",
+ "number": 4,
+ "size_mm": [
+  132.0,
+  156.0
+ ],
+ "footer": "The Rising-Sea Theses · Vincent Liu · doi:10.5281/zenodo.23734424 · CC BY 4.0",
+ "title": "HOW THE THESES FIT TOGETHER",
+ "right": "SECTION 5",
+ "nodes": [
+  {
+   "num": 1,
+   "title": "Worlds, not isolated theorems",
+   "group": "cyan"
+  },
+  {
+   "num": 2,
+   "title": "Status is part of the type",
+   "group": "cyan"
+  },
+  {
+   "num": 3,
+   "title": "A structured latent space",
+   "group": "cyan"
+  },
+  {
+   "num": 4,
+   "title": "Attention as descent",
+   "group": "blue"
+  },
+  {
+   "num": 5,
+   "title": "Report failure; abstain without evidence",
+   "group": "blue"
+  },
+  {
+   "num": 6,
+   "title": "A chain of non-implications",
+   "group": "blue"
+  },
+  {
+   "num": 7,
+   "title": "Machines propose; humans authorize",
+   "group": "blue"
+  },
+  {
+   "num": 8,
+   "title": "The rising sea",
+   "group": "gold"
+  },
+  {
+   "num": 9,
+   "title": "State what is not established",
+   "group": "gold"
+  },
+  {
+   "num": 10,
+   "title": "Discovery is recursive",
+   "group": "gold"
+  },
+  {
+   "num": 11,
+   "title": "Creating language",
+   "group": "gold"
+  },
+  {
+   "num": 12,
+   "title": "Judge a method by its open ledger",
+   "group": "gold"
+  }
+ ],
+ "edges": {
+  "artefact": "together say what an artefact is",
+  "depends": "Thesis 6 depends on both",
+  "outside": "locates the last of these passages outside the producing system",
+  "step": "the reasoning step that the others constrain",
+  "method": "the method of discovery that the architecture is meant to support",
+  "idle": "would be idle without Thesis 11",
+  "ledger": "makes the ledger of Thesis 12 checkable entry by entry",
+  "conditions": "held to the conditions"
+ },
+ "s01": "S01, Vol. III, §5.1",
+ "s01_line": "an extension which deletes the predicate expressing a contradiction",
+ "s01_end": "has not resolved the obstruction"
+}

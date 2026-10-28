@@ -1,0 +1,419 @@
+{
+ "problem": 46,
+ "date": "2026-10-28",
+ "searches": [
+  {
+   "source": "arXiv",
+   "query": "independence of axioms archimedean prism Hodge",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "independence of axioms archimedean prism Hodge",
+   "status": 200,
+   "results": [
+    {
+     "title": "v-vector bundles on $p$-adic fields and Sen theory via the Hodge-Tate stack",
+     "year": 2022,
+     "authors": [
+      "Johannes Anschütz",
+      "Ben Heuer",
+      "Arthur-César Le Bras"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2211.08470"
+    },
+    {
+     "title": "$p$-adic shtukas and the theory of global and local Shimura varieties",
+     "year": 2024,
+     "authors": [
+      "G. Pappas",
+      "Michael Rapoport"
+     ],
+     "venue": "Cambridge Journal of Mathematics",
+     "id": "https://doi.org/10.4310/cjm.2024.v12.n1.a1"
+    },
+    {
+     "title": "Arithmetic Geometry",
+     "year": 2025,
+     "authors": [
+      "Bhargav Bhatt",
+      "Ana Caraiani",
+      "Герд Фалтингс",
+      "Peter Scholze"
+     ],
+     "venue": "Oberwolfach Reports",
+     "id": "https://doi.org/10.4171/owr/2024/33"
+    },
+    {
+     "title": "Geometry around unramified CM points",
+     "year": 2026,
+     "authors": [
+      "Yuta Takaya"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2609.24667"
+    },
+    {
+     "title": "",
+     "year": 2024,
+     "authors": [],
+     "venue": "Algebra & Number Theory",
+     "id": "https://doi.org/10.2140/ant.2024.18-6"
+    },
+    {
+     "title": "PRISMATIC COHOMOLOGY OF RIGID ANALYTIC SPACES OVER DE RHAM PERIOD RING",
+     "year": 2026,
+     "authors": [
+      "Haoyang Guo"
+     ],
+     "venue": "Journal of the Institute of Mathematics of Jussieu",
+     "id": "https://doi.org/10.1017/s1474748025101497"
+    },
+    {
+     "title": "On canonicity for integral models of Shimura varieties with hyperspecial level",
+     "year": 2026,
+     "authors": [
+      "Keerthi Madapusi Pera",
+      "Alex Youcis"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2604.06442"
+    },
+    {
+     "title": "Who is to be Master: Accounting for how the Supreme Court Reads the American Constitution",
+     "year": 2018,
+     "authors": [
+      "André LeDuc"
+     ],
+     "venue": "Constitutional Commentary",
+     "id": "https://doi.org/10.24926/26390742.2423"
+    },
+    {
+     "title": "Contested inheritance : the emergence of social science research in New Zealand : a thesis presented in partial fulfilment of the requirements for the degree of Doctor of Philosophy in Social Policy at Massey University",
+     "year": 2004,
+     "authors": [
+      "Neil T. Lunt"
+     ],
+     "venue": "Massey Research Online (Massey University)",
+     "id": "https://openalex.org/W1548616932"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "independence of axioms archimedean prism Hodge",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "independence of axioms archimedean prism Hodge",
+   "status": 200,
+   "results": [
+    {
+     "title": "On Non-Archimedean Fuzzy Metric Free Topological Groups",
+     "year": 2025,
+     "authors": [
+      "Cristina Bors",
+      "Manuel Sanchis"
+     ],
+     "venue": "Axioms",
+     "id": "doi:10.3390/axioms14120878"
+    },
+    {
+     "title": "Describing Conditional Independence Statements Using Undirected Graphs",
+     "year": 2023,
+     "authors": [
+      "Dhafer Malouche"
+     ],
+     "venue": "Axioms",
+     "id": "doi:10.3390/axioms12121109"
+    },
+    {
+     "title": "Matrix Transformations and Scale Separation in Non-Archimedean λ-Almost Convergent Sequence Spaces",
+     "year": 2026,
+     "authors": [
+      "Richard F. Patterson",
+      "Ekrem Savaş",
+      "Sami M. Hamid"
+     ],
+     "venue": "Axioms",
+     "id": "doi:10.3390/axioms15100752"
+    },
+    {
+     "title": "On Algebraic Independence of Solutions of Generalized Hypergeometric Equations",
+     "year": 2021,
+     "authors": [
+      "Vasily Gorelov"
+     ],
+     "venue": "Axioms",
+     "id": "doi:10.3390/axioms10040289"
+    },
+    {
+     "title": "On Functional Independence of Beurling Zeta-Functions",
+     "year": 2026,
+     "authors": [
+      "Antanas Laurinčikas",
+      "Darius Šiaučiūnas"
+     ],
+     "venue": "Axioms",
+     "id": "doi:10.3390/axioms15050345"
+    },
+    {
+     "title": "The Independence of Axioms of B. Russell's Logical System of Axioms",
+     "year": 2006,
+     "authors": [
+      "Tomoko Ninomiya"
+     ],
+     "venue": "2006 World Automation Congress",
+     "id": "doi:10.1109/wac.2006.375937"
+    },
+    {
+     "title": "9. Prism: Redefining Independence for a Third Century",
+     "year": 2011,
+     "authors": [],
+     "venue": "Independence Hall in American Memory",
+     "id": "doi:10.9783/9780812204230-010"
+    },
+    {
+     "title": "On the Algebraic Independence of the Values of Functions Associated with Hypergeometric Functions",
+     "year": 2022,
+     "authors": [
+      "Vasily Gorelov"
+     ],
+     "venue": "Axioms",
+     "id": "doi:10.3390/axioms12010036"
+    },
+    {
+     "title": "Measurement Without Archimedean Axioms",
+     "year": 1974,
+     "authors": [
+      "Louis Narens"
+     ],
+     "venue": "Philosophy of Science",
+     "id": "doi:10.1086/288600"
+    },
+    {
+     "title": "Chapter 9 PRISM",
+     "year": 2026,
+     "authors": [],
+     "venue": "Independence Hall in American Memory",
+     "id": "doi:10.9783/9781512829228-011"
+    }
+   ]
+  },
+  {
+   "source": "arXiv",
+   "query": "prism axioms Hodge conjecture models",
+   "status": 200,
+   "results": []
+  },
+  {
+   "source": "OpenAlex",
+   "query": "prism axioms Hodge conjecture models",
+   "status": 200,
+   "results": [
+    {
+     "title": "The Archimedean Prism",
+     "year": 2026,
+     "authors": [
+      "Vincent Liu"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.23597954"
+    },
+    {
+     "title": "On a conjecture of Pappas and Rapoport",
+     "year": 2026,
+     "authors": [
+      "Patrick Daniels",
+      "Pol van Hoften",
+      "Dongryul Kim",
+      "Mingjia Zhang"
+     ],
+     "venue": "Mathematische Annalen",
+     "id": "https://doi.org/10.1007/s00208-026-03450-4"
+    },
+    {
+     "title": "Prisms and Tambara functors I: Twisted powers, transversality, and the perfect sandwich",
+     "year": 2023,
+     "authors": [
+      "Yuri J. F. Sulyma"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2309.03181"
+    },
+    {
+     "title": "Convolution monodromy groups and the Shafarevich conjecture for hypersurfaces in tori",
+     "year": 2024,
+     "authors": [
+      "Caleb Ji"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2408.08482"
+    },
+    {
+     "title": "On the $p$-adic theory of local models",
+     "year": 2022,
+     "authors": [
+      "Johannes Anschütz",
+      "Ian Gleason",
+      "Lourenço, João",
+      "Timo Richarz"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2201.01234"
+    },
+    {
+     "title": "Canonical integral models for Shimura varieties of toral type",
+     "year": 2025,
+     "authors": [
+      "Patrick Daniels"
+     ],
+     "venue": "Algebra & Number Theory",
+     "id": "https://doi.org/10.2140/ant.2025.19.247"
+    },
+    {
+     "title": "Affine models for Noetherian schemes",
+     "year": 2026,
+     "authors": [
+      "A. G. Gorinov",
+      "Egor S. Kosolapov"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2605.25249"
+    },
+    {
+     "title": "On canonicity for integral models of Shimura varieties with hyperspecial level",
+     "year": 2026,
+     "authors": [
+      "Keerthi Madapusi Pera",
+      "Alex Youcis"
+     ],
+     "venue": "arXiv (Cornell University)",
+     "id": "https://doi.org/10.48550/arxiv.2604.06442"
+    },
+    {
+     "title": "A. D. Taimanov and model theory in Kazakhstan",
+     "year": 2020,
+     "authors": [
+      "Bektur Sembiuly Baizhanov",
+      "B. Sh. Kulpeshov",
+      "T. S. Zambarnaya"
+     ],
+     "venue": "Sibirskie Elektronnye Matematicheskie Izvestiya",
+     "id": "https://doi.org/10.33048/semi.2020.17.011"
+    },
+    {
+     "title": "CONTEMPORARY DEVELOPMENTS IN ARITHMETIC GEOMETRY: PERFECTOID SPACES, MOTIVES, ARITHMETIC STATISTICS AND COMPUTATIONAL METHODS",
+     "year": 2026,
+     "authors": [
+      "Dodiya Nidhiben",
+      "Dr. Ashok Patel"
+     ],
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "id": "https://doi.org/10.5281/zenodo.22708415"
+    }
+   ]
+  },
+  {
+   "source": "zbMATH Open",
+   "query": "prism axioms Hodge conjecture models",
+   "status": 404,
+   "results": []
+  },
+  {
+   "source": "Crossref",
+   "query": "prism axioms Hodge conjecture models",
+   "status": 200,
+   "results": [
+    {
+     "title": "A Structural Model of Conscience: Axioms, Variational Dynamics, and a Conjecture for Self-Regulating Language Models",
+     "year": 2026,
+     "authors": [
+      "Miquel Noguer I Alonso"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.6423518"
+    },
+    {
+     "title": "Algebraic Cycles, Hodge Structure, and the Hodge Conjecture",
+     "year": 2025,
+     "authors": [
+      "Prabin Kumar Prabin"
+     ],
+     "venue": "",
+     "id": "doi:10.2139/ssrn.5371902"
+    },
+    {
+     "title": "Formulation of the general Hodge conjecture",
+     "year": 2016,
+     "authors": [],
+     "venue": "CRM Monograph Series A Survey of the Hodge Conjecture",
+     "id": "doi:10.1090/crmm/010/07"
+    },
+    {
+     "title": "Solution to a Conjecture on the Permanental Sum",
+     "year": 2024,
+     "authors": [
+      "Tingzeng Wu",
+      "Xueji Jiu"
+     ],
+     "venue": "Axioms",
+     "id": "doi:10.3390/axioms13030166"
+    },
+    {
+     "title": "32 Axioms in Mathematics",
+     "year": 2025,
+     "authors": [],
+     "venue": "Open Mathematical Problems",
+     "id": "doi:10.1515/9783112236185-002"
+    },
+    {
+     "title": "A survey of the Hodge conjecture for abelian varieties",
+     "year": 2016,
+     "authors": [],
+     "venue": "CRM Monograph Series A Survey of the Hodge Conjecture",
+     "id": "doi:10.1090/crmm/010/17"
+    },
+    {
+     "title": "The approach to the Hodge conjecture via normal functions",
+     "year": 2016,
+     "authors": [],
+     "venue": "CRM Monograph Series A Survey of the Hodge Conjecture",
+     "id": "doi:10.1090/crmm/010/14"
+    },
+    {
+     "title": "A real analogue of the Hodge conjecture",
+     "year": null,
+     "authors": [
+      "Samuel Lerbet"
+     ],
+     "venue": "",
+     "id": "doi:10.70675/b5eabab4zdfeaz4ccfza9bbz79a42b964ae3"
+    },
+    {
+     "title": "Inequalities for ζ(s) − ψ(1 − s) Related to a Conjecture of Henry",
+     "year": 2026,
+     "authors": [
+      "Liwen Gao"
+     ],
+     "venue": "Axioms",
+     "id": "doi:10.3390/axioms15080577"
+    },
+    {
+     "title": "New Results About Some Chain Conditions in Serre Conjecture Rings",
+     "year": 2024,
+     "authors": [
+      "Bana Al Subaiei",
+      "Noômen Jarboui"
+     ],
+     "venue": "Axioms",
+     "id": "doi:10.3390/axioms13110778"
+    }
+   ]
+  }
+ ]
+}
