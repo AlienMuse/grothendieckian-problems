@@ -22,13 +22,13 @@
   <a href="papers/The-57-Grothendieckian-Problems.pdf">The problems</a> (32.2 MB) ·
   <a href="#the-fifty-seven-problems">Problem table</a> ·
   <a href="#taking-part">Take part</a> ·
-  <a href="https://alienmuse.github.io/grothendieckian-programme/">Website</a>
+  <a href="https://grothendiecklab.com/open/">Website</a>
 </p>
 
 # The 57 Grothendieckian Problems
 
 **An overview, twelve theses and fifty-seven open problems on mathematics and machine reasoning, drawn from the seven
-works of the [Grothendieckian Programme](https://alienmuse.github.io/grothendieckian-programme/).**
+works of the [Grothendieckian Programme](https://grothendiecklab.com/programme/).**
 
 > “All right, take 57.” — as told in A. Jackson, *Notices of the AMS* 51 (2004), p. 1196. Fifty-seven is 3 × 19.
 
@@ -191,5 +191,5 @@ design or endorsement to Alexander Grothendieck; see [NOTICE](NOTICE). Author: V
   Series 05: <a href="https://github.com/AlienMuse/the-archimedean-prism"><i>The Archimedean Prism</i></a> ·
   Series 06: <a href="https://github.com/AlienMuse/strained-prismatic-geometry"><i>Strained Prismatic Geometry</i></a> ·
   Series 07: <a href="https://github.com/AlienMuse/the-arithmetic-topos"><i>The Arithmetic Topos</i></a><br>
-  © 2026 Vincent Liu · <a href="https://orcid.org/0009-0000-8718-222X">ORCID 0009-0000-8718-222X</a> · <a href="https://alienmuse.github.io">alienmuse.github.io</a>
+  © 2026 Vincent Liu · <a href="https://orcid.org/0009-0000-8718-222X">ORCID 0009-0000-8718-222X</a> · <a href="https://grothendiecklab.com">grothendiecklab.com</a>
 </sub></p>

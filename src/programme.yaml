@@ -288,6 +288,34 @@ papers:
           - "其中三十五个出自关于推理系统架构的两部著作，二十二个出自各以一个具名猜想或纲领为研究主题的五部著作；没有一个问题是这些猜想本身。"
           - "每个问题都用出处的原话陈述，标明著作、章与页，给出出处赋予它的状态，并配有判定何时算作解决的标准、关于已有工作的说明和文献核查的日期。"
 
+# Grothendieck Lab · grothendiecklab.com (author, 2026-10-29): the Programme's top-level entry, presented by the Grothendieck
+# Lab of WiseMotif.ai (lab website/RUNBOOK.md; decisions D1–D16). The site's address, its pages and the targets of every
+# link that other pages make to it (RUNBOOK §10, tools/link_sync.py) are read from here; its search keywords are seo.lab.
+# The Lab's own sentences are not here: they are in lab website/content/lab.yaml, locked by SHA-256 once approved.
+lab:
+  name: "Grothendieck Lab"
+  organisation: {name: "WiseMotif.ai", url: "https://wisemotif.ai"}
+  url: "https://grothendiecklab.com"                                                    # D3: the apex; www redirects
+  repository: "AlienMuse/grothendiecklab"                                               # D2 (created at L5)
+  contact: "vincent.liu@wisemotif.ai"
+  # D7: five navigation items; each work at works/<its repository's name>/
+  pages:
+    home: "/"
+    programme: "/programme/"
+    method: "/method/"
+    machine: "/machine/"
+    open: "/open/"
+    lab: "/lab/"
+    works: "/works/"
+  nav: [programme, method, machine, open, lab]
+  # RUNBOOK §10: what the Programme repository, the problems repository, the profile and alienmuse.github.io link to
+  links:
+    home: "https://grothendiecklab.com/"
+    programme: "https://grothendiecklab.com/programme/"
+    open: "https://grothendiecklab.com/open/"
+    lab: "https://grothendiecklab.com/lab/"
+  launched: "2026-10-29"                                                                # L5: English 15:50, Chinese (/zh/) 17:17
+
 # >>> facts: written by master/tools/facts_extract.py — do not edit by hand >>>
 facts:
   totals:
@@ -1065,6 +1093,16 @@ seo:
       zh: ["Langlands 纲领", "格罗滕迪克纲领", "Grothendieck", "Langlands 对应", "自守表示", "Galois 表示",
            "整体算术曲线", "六函子", "范畴迹"]
       zh_topic: "Langlands 纲领"
+  # grothendiecklab.com (lab website/RUNBOOK §11): the same rule — a keyword a work publishes, or a name (the Lab's,
+  # WiseMotif.ai's, a work's, the author's); checked by lab website/tools/check.py. zh: at L8, from the Chinese texts.
+  lab:
+    en: ["Grothendieck Lab", "Grothendieckian Programme", "Grothendieck", "recursive mathematical discovery",
+         "machine reasoning", "Grothendieckian Machine", "Topos-Native Intelligence", "mathematical discovery",
+         "reinforcement learning", "self-evolving systems", "AI for mathematics", "formal verification", "topos theory",
+         "descent", "WiseMotif.ai"]
+    zh: ["Grothendieck Lab", "格罗滕迪克纲领", "Grothendieck", "递归式数学发现", "机器推理", "Grothendieckian Machine",
+         "Topos-Native Intelligence", "元推理内核", "面向数学的人工智能", "形式化验证", "拓扑斯", "层", "下降", "可验证",
+         "WiseMotif.ai"]
   # search engines' site-ownership tokens, given by the author from each console (null until then); the home page
   # carries each as its <meta> tag
   verification:
