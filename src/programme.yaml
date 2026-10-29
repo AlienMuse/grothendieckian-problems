@@ -238,6 +238,56 @@ other_sources:
     facts: {manuscripts_first_release: 722, families: 372, withdrawn_2026_10_07: 3, manuscripts_now: 719}
     verified: true
 
+# The three papers on the Programme (campaign/; Zenodo, published 2026-10-28), entered on the site's Programme page
+# and in the Programme repository's README (author, 2026-10-29). Hand-written here: the order, the introduction and
+# the sentences shown — each one verbatim from the paper's abstract — with their Chinese. Title, subtitle, DOIs, date,
+# pages, licence and file come from the papers' own sources when the site and the README are built, and every field
+# is checked there (release-kit/scripts/campaign_papers.py; also a check of factcheck_readme.py).
+papers:
+  repository: "https://github.com/AlienMuse/grothendieckian-problems"
+  heading: {en: "Three papers on the Programme", zh: "关于纲领的三篇论文"}
+  note:
+    en: "The sentences under each title are from its abstract. The concept DOI resolves to the latest version of each paper."
+    zh: "每个题名下的文字译自该篇已发布的英文摘要；题名保留英文。概念 DOI 总是指向各篇的最新版本。"
+  intro:
+    en: "Three papers introduce the Programme in article form: an overview, twelve theses and fifty-seven open problems. They were published on Zenodo on 2026-10-28 under CC BY 4.0, each with its own DOI, and the theses and the problems cite the overview. Their repository holds the 57 problems as issues, with the papers' sources, data and figures."
+    zh: "三篇论文以学术论文的形式介绍本纲领：一篇概览、十二条论纲和五十七个开放问题。它们于 2026-10-28 在 Zenodo 发布，采用 CC BY 4.0 许可，各有 DOI；论纲与问题两篇都引用概览。它们的仓库把 57 个问题逐一列为 issue，并收有论文的源文件、数据和图。"
+  items:
+    - key: overview
+      folder: overview
+      label: {en: "Overview", zh: "概览"}
+      colour: gold
+      lines:
+        en:
+          - "Two of the works specify a reasoning architecture — a core that holds mathematical worlds as typed, versioned and verifiable objects, and a kernel that reasons inside such worlds by sites, sheaves and descent."
+          - "This paper describes the architecture, the five research subjects, the method, the published corpus and the open process by which the works are to be reviewed and continued."
+        zh:
+          - "这些著作中的两部给出一个推理架构：一个核心，把数学世界作为有类型、有版本、可验证的对象来保存；一个内核，用 site、层与下降在这些世界内部推理。"
+          - "本文介绍这一架构、五个研究主题、方法、已发布的文本，以及审阅与续写这些著作所遵循的开放流程。"
+    - key: theses
+      folder: paper-I
+      label: {en: "Theses", zh: "论纲"}
+      colour: cyan
+      lines:
+        en:
+          - "Each thesis is stated in one sentence, argued, tied to the passages of the seven works on which it rests, related to existing work, and paired with an observation that would refute it."
+          - "The theses concern the unit of mathematical knowledge for a reasoning system, the place of epistemic status, the latent space of mathematical reasoning, attention, failure, authority, and the method of discovery."
+        zh:
+          - "每条论纲用一句话陈述，给出论证，标明它所依据的七部著作中的段落，联系已有工作，并配有一个可以推翻它的观察。"
+          - "论纲涉及推理系统的数学知识单位、认识论状态的位置、数学推理的潜空间、注意力、失败、权威，以及发现的方法。"
+    - key: problems
+      folder: paper-II
+      label: {en: "Problems", zh: "问题"}
+      colour: blue
+      repository: true
+      lines:
+        en:
+          - "Thirty-five come from the two works on the architecture of a reasoning system and twenty-two from the five works that each take a named conjecture or programme as research subject; no problem is one of those conjectures."
+          - "Each problem is stated in the words of its source, located by work, chapter and page, given the status the source assigns it, and paired with a criterion that decides when it is solved, a note on existing work and the date of a literature check."
+        zh:
+          - "其中三十五个出自关于推理系统架构的两部著作，二十二个出自各以一个具名猜想或纲领为研究主题的五部著作；没有一个问题是这些猜想本身。"
+          - "每个问题都用出处的原话陈述，标明著作、章与页，给出出处赋予它的状态，并配有判定何时算作解决的标准、关于已有工作的说明和文献核查的日期。"
+
 # >>> facts: written by master/tools/facts_extract.py — do not edit by hand >>>
 facts:
   totals:
