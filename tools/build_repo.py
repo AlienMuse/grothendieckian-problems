@@ -27,6 +27,9 @@ GH = "https://github.com/AlienMuse/grothendieckian-problems"
 LAB = "https://grothendiecklab.com"
 # the three papers: Zenodo records reserved in S4 (zenodo-state.json, kept out of the repository)
 _ZS = json.loads((HERE / "zenodo-state.json").read_text(encoding="utf-8")) if (HERE / "zenodo-state.json").exists() else {}
+# the three papers on Hexagon (published 2026-11-10; campaign/hexagon-records.json, read back 2026-11-16)
+_HX = json.loads((HERE / "hexagon-records.json").read_text(encoding="utf-8")) if (HERE / "hexagon-records.json").exists() else {}
+hx = lambda k: (f", hexagon:[{_HX[k]['id']}]({_HX[k]['record']})" if k in _HX else "")
 PAPER_DOI = {k: _ZS[k]["concept_doi"] for k in ("overview", "theses", "problems") if k in _ZS}
 DOI = {"S00": "10.5281/zenodo.23669107", "S01": "10.5281/zenodo.23480696", "S02": "10.5281/zenodo.23538544",
        "S03": "10.5281/zenodo.23564898", "S04": "10.5281/zenodo.23585887", "S05": "10.5281/zenodo.23597954",
@@ -187,13 +190,13 @@ works of the [Grothendieckian Programme]({LAB}/programme/).**
 This repository holds three papers and their data, released together:
 
 1. **The Grothendieckian Programme: An Overview** — *Seven Open Works on Mathematics and Machine Reasoning*
-   ([PDF](papers/The-Grothendieckian-Programme-An-Overview.pdf), doi:[{PAPER_DOI.get('overview', '')}](https://doi.org/{PAPER_DOI.get('overview', '')})):
+   ([PDF](papers/The-Grothendieckian-Programme-An-Overview.pdf), doi:[{PAPER_DOI.get('overview', '')}](https://doi.org/{PAPER_DOI.get('overview', '')}){hx('overview')}):
    the architecture, the five research subjects, the method, the series and its records, and the research plan, in
    ten pages.
 2. **The Rising-Sea Theses** — *Twelve Theses on Mathematics and Machine Reasoning* ([PDF](papers/The-Rising-Sea-Theses.pdf),
-   doi:[{PAPER_DOI.get('theses', '')}](https://doi.org/{PAPER_DOI.get('theses', '')}), [text](THESES.md)).
+   doi:[{PAPER_DOI.get('theses', '')}](https://doi.org/{PAPER_DOI.get('theses', '')}){hx('theses')}, [text](THESES.md)).
 3. **The 57 Grothendieckian Problems** — *Open Problems for Mathematics and Machine Reasoning from the Grothendieckian
-   Programme* ([PDF](papers/The-57-Grothendieckian-Problems.pdf), doi:[{PAPER_DOI.get('problems', '')}](https://doi.org/{PAPER_DOI.get('problems', '')}),
+   Programme* ([PDF](papers/The-57-Grothendieckian-Problems.pdf), doi:[{PAPER_DOI.get('problems', '')}](https://doi.org/{PAPER_DOI.get('problems', '')}){hx('problems')},
    [cards](problems/), [`problems.json`](problems.json), [Lean statements](formal/)).
 
 The thirteen figures of the three papers, with their sources and data, are in [`figures/`](figures/). The PDFs are
@@ -299,6 +302,7 @@ Contributions to the text and data are licensed under CC BY 4.0, contributions t
               "| Paper | Place | Correction | Found by |",
               "|---|---|---|---|",
               "| *The 57 Grothendieckian Problems* (version 1.0) | Problem 18, literature check | The check records that \"no procedure that learns the site itself was found\". It missed Lafforgue's principle for syntactic learning (*Some sketches for a topos-theoretic AI*, 2024, slides 19–20), in which the topology on a finitely presented category of partial knowledge is derived from a quotient theory sought so that the partial-knowledge functors induce topos morphisms, and the treatment of the generation of Grothendieck topologies by Caramello and Lafforgue (arXiv:2508.21134, 2025). We have not found in them a procedure that constructs the site from a corpus with a stated sufficiency criterion, so Problem 18 stands as stated; the check is to cite both in the next version. If either work, or another, settles part of the problem, please open an issue. | author, 4 November 2026 |"]
+    errata.insert(len(errata) - (errata[-1] == ""), "| *The Rising-Sea Theses* (version 1.0) | Section 2, first paragraph, p. 3 | A broken cross-reference prints \"igref{works}\"; it should read \"Figure 1\" (the seven works as the cells of one honeycomb). Corrected in the copy deposited at Hexagon; to be corrected in the next version. | author, 10 November 2026 |")
     w(REPO / "ERRATA.md", "\n".join(errata))
     w(REPO / "NOTICE", """The Grothendieckian Programme: An Overview; The Rising-Sea Theses; The 57 Grothendieckian Problems
 Copyright (c) 2026 Vincent Liu, WiseMotif.ai

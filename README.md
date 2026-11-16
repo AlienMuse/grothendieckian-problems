@@ -35,13 +35,13 @@ works of the [Grothendieckian Programme](https://grothendiecklab.com/programme/)
 This repository holds three papers and their data, released together:
 
 1. **The Grothendieckian Programme: An Overview** — *Seven Open Works on Mathematics and Machine Reasoning*
-   ([PDF](papers/The-Grothendieckian-Programme-An-Overview.pdf), doi:[10.5281/zenodo.23734421](https://doi.org/10.5281/zenodo.23734421)):
+   ([PDF](papers/The-Grothendieckian-Programme-An-Overview.pdf), doi:[10.5281/zenodo.23734421](https://doi.org/10.5281/zenodo.23734421), hexagon:[2611.00237](https://hexagonmath.org/abs/2611.00237)):
    the architecture, the five research subjects, the method, the series and its records, and the research plan, in
    ten pages.
 2. **The Rising-Sea Theses** — *Twelve Theses on Mathematics and Machine Reasoning* ([PDF](papers/The-Rising-Sea-Theses.pdf),
-   doi:[10.5281/zenodo.23734423](https://doi.org/10.5281/zenodo.23734423), [text](THESES.md)).
+   doi:[10.5281/zenodo.23734423](https://doi.org/10.5281/zenodo.23734423), hexagon:[2611.00259](https://hexagonmath.org/abs/2611.00259), [text](THESES.md)).
 3. **The 57 Grothendieckian Problems** — *Open Problems for Mathematics and Machine Reasoning from the Grothendieckian
-   Programme* ([PDF](papers/The-57-Grothendieckian-Problems.pdf), doi:[10.5281/zenodo.23734426](https://doi.org/10.5281/zenodo.23734426),
+   Programme* ([PDF](papers/The-57-Grothendieckian-Problems.pdf), doi:[10.5281/zenodo.23734426](https://doi.org/10.5281/zenodo.23734426), hexagon:[2611.00208](https://hexagonmath.org/abs/2611.00208),
    [cards](problems/), [`problems.json`](problems.json), [Lean statements](formal/)).
 
 The thirteen figures of the three papers, with their sources and data, are in [`figures/`](figures/). The PDFs are
